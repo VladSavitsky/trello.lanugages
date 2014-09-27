@@ -9,11 +9,11 @@
   "Notifications"   : "Уведомления",
   "This board is public. It's visible to anyone with the link and will show up in search engines like Google.  Only people added to the board can edit." :
   "Эта доска общедоступна. Она видна всем, у кого есть ссылки и будет показана в результатах поиска поисковых систем типа Google. Только люди, которые были добавлены могут редактировать эту доску.",
-  "Go back to your boards page." : 
+  "Go back to your boards page." :
     "Вернуться к странице всех досок.",
-  "View list of boards" : 
+  "View list of boards" :
     "Смотреть список досок",
-  "Rename the board." : 
+  "Rename the board." :
     "Переименовать доску.",
 
 "Sidebar" : "",
@@ -22,11 +22,11 @@
   "Activity"        : "Активность",
   "Members"         : "Люди",
   "Add Members"     : "Добавить Людей",
-  "Click here to see more board options." : 
+  "Click here to see more board options." :
     "Кликните, чтобы увидеть настройки доски.",
-  "Click here to see more available languages." : 
+  "Click here to see more available languages." :
     "Кликните, чтобы увидеть доступные языки.",
-    
+
 "List actions pop-up" : "",
   "List Actions"    : "Список действий",
   "Add Card…"       : "Добавить карточку…",
@@ -36,7 +36,7 @@
 
 "Card's context menu" : "",
   "Edit Labels" : "Изменить теги",
-  
+
 "Forms" : "",
   "Add" : "Добавить"
 }
