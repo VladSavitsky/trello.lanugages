@@ -17,7 +17,7 @@ We translate values of HTML tags, tip (mostly 'title' attributes of A tags) and 
 
 # How to translate trello.com into your language.
 
-1. Download file /locale/en.json
+1. Download file `/locale/en.json`
 2. Find your language code in ISO 639-1. See http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
 3. Rename recently downloaded file using language code. For example, 'en.json' become 'ru.json'.
 4. Open this file in your favorite editor and translate it. For example,
@@ -26,8 +26,9 @@ We translate values of HTML tags, tip (mostly 'title' attributes of A tags) and 
 
 # Development
 
-1. Clone repository
-  git clone git@github.com:VladSavitsky/trello.lanugages.git
-2. Open folder cd trello.languages
+1. Clone repository:
+` git clone git@github.com:VladSavitsky/trello.lanugages.git`
+2. Open folder:
+`cd trello.languages`
 3. Happy hacking!
 
