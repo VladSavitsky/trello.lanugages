@@ -1,0 +1,28 @@
+{
+  "content_scripts": [{
+    "all_frames": true,
+    "css" : ["content.css"],
+    "js": [
+      "js/jquery-1.11.1.min.js",
+      "js/jquery.waituntilexists.min.js",
+      "js/content.js"
+    ],
+    "matches": [ "*://trello.com/*" ],
+    "run_at": "document_start"
+  }],
+  "permissions": [ "tabs", "\u003Call_urls>", "storage" ],
+  "web_accessible_resources": [ "mapping.json", "locale/*.json", "flags/*" ] ,
+  "manifest_version": 2,
+  "name": "Languages for Trello.com",
+  "short_name": "Languages for Trello.com",
+  "description": "Provide translations for Trello.com site.",
+  "update_url": "http://clients2.google.com/service/update2/crx",
+   "author": "Vlad Savitsky",
+  "version": "0.1",
+  "icons": {
+    "128": "icons/icon.png",
+    "16": "icons/icon.png",
+    "32": "icons/icon.png",
+    "48": "icons/icon.png"
+  }
+}

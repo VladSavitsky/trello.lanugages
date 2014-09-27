@@ -1,0 +1,52 @@
+{
+  "html" : {
+    "Boards" : "#header > div.header-boards-button > a > span.header-btn-text",
+    "Public" : "#permission-level > span.board-header-btn-text",
+    "Languages" : "#content .board-widgets .board-widget-language > h3",
+    "Menu" : "#content .board-widgets .board-widget-nav > h3",
+    "Add Members" : "#content .board-widget-members .board-widget-content > a",
+    "Add a list…" : "#board > div.list.add-list.idle > form > span",
+    "Members" : "#content .board-widget-members > div.board-widget-title > h3",
+    "Calendar" : "#content .board-header .board-header-btns .calendar-btn > span.board-header-btn-text",
+    "Activity" : "#content .board-widgets .board-widget-activity > div.board-widget-title > h3",
+    "Show sidebar" : "#content > div > a > span.text",
+    "Add a card…" : "#board div.list a.open-card-composer",
+    "Notifications" : "body > div.popover-notifications .header > span.header-title",
+    
+    "List Actions" : 
+      "body .pop-over .header span.header-title",
+    "Add Card…" : 
+      "body > div.pop-over > div.content > div > ul > li > a.js-add-card",
+    "Copy List…" :
+      "body > div.pop-over > div.content > div > ul > li > a.js-copy-list",
+    "Move List…" : 
+      "body > div.pop-over > div.content > div > ul > li > a.js-move-list",
+    "Subscribe" : 
+      "body > div.pop-over > div.content > div > ul > li > a.js-list-subscribe",
+      
+      
+    "Edit Labels" : 
+      "body > div.quick-card-editor > div > div.quick-card-editor-buttons > a.quick-card-editor-buttons-item.js-edit-labels > span"
+      
+  },
+  "form elements" : {      
+    "Add" :
+    "#board div.list-cards > div.card-composer > div.cc-controls > input"
+  },
+  "title" : {
+    "Click here to see more board options." : 
+      "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > h3",
+    "Click here to see more available languages." : 
+      "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget-language > h3",
+    "This board is public. It's visible to anyone with the link and will show up in search engines like Google.  Only people added to the board can edit." :
+      "#permission-level",
+      
+    "Go back to your boards page." :
+      "#header > a",
+    "View list of boards" :
+      "#header > div.header-boards-button > a",
+    "Rename the board." :
+      "#content > div > div.board-header.clearfix.js-board-header > a.board-header-btn.board-header-btn-name.js-rename-board"
+  }  
+}
+
