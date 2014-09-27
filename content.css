@@ -1,3 +1,4 @@
+/* Language Menu main styles */
 .board-widget-language {
   border-radius: 3px;
   background: #dcdcdc;
@@ -14,26 +15,57 @@
   position: relative;
   cursor: pointer;
 }
-.board-widget-language.collapsed .toggle-widget-language {color: #393939}
-.board-widget-language .toggle-widget-language:hover {background: #ccc;color: #393939}
+.board-widget-language.collapsed .toggle-widget-language {
+  color: #393939;
+}
+.board-widget-language .toggle-widget-language:hover {
+  background: #ccc;
+  color: #393939;
+}
 .board-widget-language .toggle-widget-language .toggle-menu-icon {
   position: absolute;
   top: 8px;
   right: 8px;
 }
 
-.board-widget-language.collapsed #language-list {max-height:0;opacity:0}
-.board-widget-language #language-list {display: block;opacity: 1;max-height: 400px}
+/* Language Menu visability styles */
+.board-widget-language.collapsed #language-list {
+  max-height: 0;
+  opacity: 0;
+}
+.board-widget-language #language-list {
+  display: block;
+  opacity: 1;
+  max-height: 400px;
+}
 
-.board-widget-language #language-list hr {margin: 2px 0; color: #ccc; background: #ccc}
-.board-widget-language.collapsed #language-list hr {margin:0}
+/* Language Menu divider */
+.board-widget-language #language-list hr {
+  margin: 2px 0;
+  color: #ccc;
+  background: #ccc;
+}
+.board-widget-language.collapsed #language-list hr {
+  margin: 0;
+}
 
-.board-widget-language .language-list-item:hover {background:#ccc}
-.board-widget-language .language-list-item:hover .icon-type {color:#686868}
-.board-widget-language .language-list-sub-item {font-weight:400;color:#666}
-.board-widget-language .language-list-sub-item:hover {color:#393939}
-
-.board-widget-language .language-list-item img {padding-right: 10px}
+/* Language Menu items */
+.board-widget-language .language-list-item:hover {
+  background: #ccc;
+}
+.board-widget-language .language-list-item:hover .icon-type {
+  color: #686868;
+}
+.board-widget-language .language-list-sub-item {
+  font-weight: 400;
+  color: #666;
+}
+.board-widget-language .language-list-sub-item:hover {
+  color: #393939;
+}
+.board-widget-language .language-list-item img {
+  padding-right: 10px;
+}
 .board-widget-language .language-list-item {
   display: block;
   font-weight: 700;
@@ -43,4 +75,10 @@
   position: relative;
   text-decoration: none;
 }
-.board-widget-language #language-list .icon-check {display:none; position:absolute; top:6px; right:12px}
+.board-widget-language #language-list .icon-check {
+  display: none;
+  position: absolute;
+  top: 6px;
+  right: 12px;
+}
+
