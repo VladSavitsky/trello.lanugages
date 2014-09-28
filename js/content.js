@@ -7,6 +7,46 @@
 // TODO: Fix bug with 'Subscribe' with check icon in the text.
 
 (function() {
+
+  // Replace strings at page using mapping from translation object.
+  function l10n() {
+    if (jQuery.isEmptyObject(mapping)) {
+      console.log('mapping.json file is broken.');
+    }
+    else if ($.isEmptyObject(translation)) {
+      console.log(selectedLanguage + ' translation is missing.');
+    }
+    else {
+      $.each(mapping, function(type, data) {
+        console.log(data);
+        $.each(data, function(code, cssPath) {
+          if (!translation[code]) {
+            console.log('There is no translation for "' + code + '" in ' + selectedLanguage);
+            return;
+          }
+          var $element = $(cssPath);
+          if (type == 'title') {
+            if (!$element.attr('data-language')) {
+              $element.attr(type, translation[code]).attr('data-language', selectedLanguage);
+            }
+          } else if (type == 'html') {
+            if (!$element.attr('data-language')) {
+              $element.html(translation[code]).attr('data-language', selectedLanguage);
+            }
+          } else if (type == 'form elements') {
+            if (!$element.attr('data-language')) {
+              $element.val(translation[code]).attr('data-language', selectedLanguage);
+            }
+          } else if (type == 'substrings') {
+            $element.html(function(index, html) {
+              return html.replace(' ' + code + ' ', ' ' + translation[code] + ' ');
+            });
+          }
+        });
+      });
+    }
+  };
+
   // Load mapping data.
   var mapping = getFile(chrome.extension.getURL('/mapping.json'));
   var selectedLanguage = translation = null;
@@ -25,7 +65,7 @@
        '<h3 class="dark-hover toggle-widget-language js-toggle-widget-language" title="Click here to see more available languages.">Languages' +
        '<span class="icon-sm icon-menu toggle-menu-icon"></span></h3></div>');
       $('<ul/>').attr('id', 'language-list').addClass('checkable').appendTo('.board-widget-language');
-      
+
       // Get stored language.
       renderLanguageMenu(selectedLanguage);
     }
@@ -36,8 +76,10 @@
   // List's context menu.
   $('.pop-over .js-close-list').waitUntilExists(function() {l10n()});
   // Card's quick context menu.
-  $('div.quick-card-editor a.js-archive > span').waitUntilExists(function() {l10n()});
-  
+  $('div.quick-card-editor').waitUntilExists(function() {l10n()});
+  // Activity in Sidebar.
+  $('.js-sidebar-list-actions .phenom-desc').waitUntilExists(function() {l10n()});
+
 
   function renderLanguageMenu(selectedLanguage) {
     // TODO: Dynamically build list of existing languages.
@@ -49,38 +91,43 @@
         var url = chrome.extension.getURL('/flags/' + code + '.png');
         var $img = $("<img />",{"src" : url, "alt" : name , 'height': 12, 'width': 18, 'class' : 'language-icon', 'id' : 'language-' + code});
         var $link = $('<a>').attr('href', '#').attr('class', 'language-list-item language-list-sub-item')
-          .html($img[0].outerHTML + name + checkIcon); 
+          .html($img[0].outerHTML + name + checkIcon);
         // TODO: Rewrite to avoid '[0].outerHTML'.
         var item = $('<li/>').attr('data-language-code', code).html($link[0].outerHTML);
         li += item[0].outerHTML;
       }
     });
-    
+
     // Replace tabs in the Menu.
     $('#language-list').empty().append(li);
-    
+
     // Set Check Icon for selected language.
     $('li[data-language-code="' + selectedLanguage + '"]').find('.icon-check').show();
-    
+
     // Language Menu was clicked.
     $('.js-toggle-widget-language').click(function() {
       var menu = $(this).closest(".board-widget-language");
-      menu.hasClass("collapsed") ? menu.removeClass("collapsed") : menu.addClass("collapsed");      
+      menu.hasClass("collapsed") ? menu.removeClass("collapsed") : menu.addClass("collapsed");
     });
-    
+
+    // ====================
     // Language was clicked.
     $('.language-list-item').click(function() {
       var selectedLanguage = $(this).parent().attr('data-language-code');
       // Store selected language.
       chrome.storage.sync.set({'selectedLanguage': selectedLanguage});
-      
       // Hide Icon Check for all languages.
       $('#language-list').each(function() {$(this).find('.icon-check').hide();});
-      // Set Check Icon.
+      // Set Check Icon near selected language.
       $(this).find('.icon-check').show();
-      
-      // Translate page.
+      // Get translation.
       translation = getFile(chrome.extension.getURL('/locale/' + selectedLanguage + '.json'));
+      if ($.isEmptyObject(translation)) {
+        console.log(selectedLanguage + '.json file is broken or missing.');
+      }
+      // Remove all markers about translation.
+      $('[data-language]').removeAttr('data-language');
+      // Translate page.
       l10n();
     });
   };
@@ -89,21 +136,7 @@
   // Useful functions. //
   // ================= //
 
-  // Replace strings at page using mapping from translation object.
-  function l10n() {
-    $.each(mapping, function(type, data) {
-      $.each(data, function(code, cssPath) {
-        if (type == 'title') {
-          $(cssPath).attr(type, translation[code]);
-        } else if (type == 'html') {
-          $(cssPath).html(translation[code]);
-        } else if (type == 'form elements') {
-          $(cssPath).val(translation[code]);
-        }
-      });
-    });
-  };  
-  
+
   /**
    * Synchronously load file and return it's content.
    * @var string File URL.
@@ -113,10 +146,10 @@
   function getFile(url) {
     var result = null;
     $.ajax({
-      async: false, 
-      url: url, 
-      dataType: 'json', 
-      success: function (data) {result = data}, 
+      async: false,
+      url: url,
+      dataType: 'json',
+      success: function (data) {result = data},
       error: function (request, status, error) {result = {};}
     });
     return result;

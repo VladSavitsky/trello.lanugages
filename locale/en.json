@@ -39,6 +39,18 @@
   "Edit Labels" : "Edit Labels",
 
 "Forms" : "",
-  "Add" : "Add"
+  "Add" : "Add",
 
+  "added" : "added"
+    "to" : "to",
+    "and" : "and",
+    "joined" : "joined",
+    "moved" : "moved",
+    "from" : "from",
+    "archived" : "archived",
+    "renamed" : "renamed",
+    "this board" : "this board",
+    "attached" : "attached",
+    "sent" : "sent",
+    "to the board" : "to the board"
 }
