@@ -1,7 +1,4 @@
 // TODO: Dates translation.
-// TODO: Translate HTML attributes.
-//       #board > div > div.list-cards > div.card-composer > div.cc-controls.clearfix > input value="Add"
-// TODO: Translate parts of phrases.
 // TODO: add language names http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
 // TODO: Add card creation form to wait it's appearence.
 // TODO: Fix bug with 'Subscribe' with check icon in the text.
@@ -12,39 +9,44 @@
   function l10n() {
     if (jQuery.isEmptyObject(mapping)) {
       console.log('mapping.json file is broken.');
+      return;
     }
-    else if ($.isEmptyObject(translation)) {
+    if ($.isEmptyObject(translation)) {
       console.log(selectedLanguage + ' translation is missing.');
+      return;
     }
-    else {
-      $.each(mapping, function(type, data) {
-        console.log(data);
-        $.each(data, function(code, cssPath) {
-          if (!translation[code]) {
-            console.log('There is no translation for "' + code + '" in ' + selectedLanguage);
-            return;
-          }
+    $.each(mapping, function(type, data) {
+      $.each(data, function(code, selectors) {
+        if (!translation[code]) {
+          console.log('There is no translation for "' + code + '" in ' + selectedLanguage);
+          return;
+        }
+        // Convert strings to arrays to minimize code.
+        if ($.type(selectors) === 'string') {
+          selectors = selectors.split();
+        }
+        $.each(selectors, function(index, cssPath) {
           var $element = $(cssPath);
           if (type == 'title') {
             if (!$element.attr('data-language')) {
               $element.attr(type, translation[code]).attr('data-language', selectedLanguage);
             }
           } else if (type == 'html') {
-            if (!$element.attr('data-language')) {
-              $element.html(translation[code]).attr('data-language', selectedLanguage);
-            }
+            $element.html(translation[code]).attr('data-language', selectedLanguage);
           } else if (type == 'form elements') {
             if (!$element.attr('data-language')) {
               $element.val(translation[code]).attr('data-language', selectedLanguage);
             }
           } else if (type == 'substrings') {
+            // Don't check 'data-language' attribute here because of translation could be
+            // applied several times to the same elements.
             $element.html(function(index, html) {
               return html.replace(' ' + code + ' ', ' ' + translation[code] + ' ');
             });
           }
         });
       });
-    }
+    });
   };
 
   // Load mapping data.
@@ -53,7 +55,7 @@
   // Get stored selected language and load translation. Default language is 'en'.
   chrome.storage.sync.get({'selectedLanguage': 'en'}, function (data) {
     selectedLanguage = data.selectedLanguage;
-    translation = getFile(chrome.extension.getURL('/locale/' + data.selectedLanguage + '.json'));
+    translation = getFile(chrome.extension.getURL('/locale/' + selectedLanguage + '.json'));
   });
 
   // Insert new menu item to right sidebar to allow language selection.
@@ -79,6 +81,7 @@
   $('div.quick-card-editor').waitUntilExists(function() {l10n()});
   // Activity in Sidebar.
   $('.js-sidebar-list-actions .phenom-desc').waitUntilExists(function() {l10n()});
+  $('body > div.window-overlay > div > div > div > div > a.js-more-actions').waitUntilExists(function() {l10n()});
 
 
   function renderLanguageMenu(selectedLanguage) {

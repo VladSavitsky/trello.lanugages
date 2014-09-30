@@ -1,56 +1,72 @@
 {
-"Visible interface" : "",
-  "Boards"          : "Доски",
-  "Public"          : "Общая",
-  "Add a list…"     : "Добавить список…",
-  "Calendar"        : "Календарь",
-  "Show sidebar"    : "Показать меню",
-  "Add a card…"     : "Добавить карточку…",
-  "Notifications"   : "Уведомления",
-  "This board is public. It's visible to anyone with the link and will show up in search engines like Google.  Only people added to the board can edit." :
+"Original string" : "Translation",
+
+"Visible interface" :
+"===========================================",
+"Boards"          : "Доски",
+"Public"          : "Общая",
+"Add a list…"     : "Добавить список…",
+"Calendar"        : "Календарь",
+"Show sidebar"    : "Показать меню",
+"Add a card…"     : "Добавить карточку…",
+"Notifications"   : "Уведомления",
+"This board is public. It's visible to anyone with the link and will show up in search engines like Google.  Only people added to the board can edit." :
   "Эта доска общедоступна. Она видна всем, у кого есть ссылки и будет показана в результатах поиска поисковых систем типа Google. Только люди, которые были добавлены могут редактировать эту доску.",
-  "Go back to your boards page." :
-    "Вернуться к странице всех досок.",
-  "View list of boards" :
-    "Смотреть список досок",
-  "Rename the board." :
-    "Переименовать доску.",
+"Go back to your boards page." :
+  "Вернуться к странице всех досок.",
+"View list of boards" :
+  "Смотреть список досок",
+"Rename the board." :
+  "Переименовать доску.",
 
-"Sidebar" : "",
-  "Languages"       : "Языки",
-  "Menu"            : "Меню",
-  "Activity"        : "Активность",
-  "Members"         : "Люди",
-  "Add Members"     : "Добавить Людей",
-  "Click here to see more board options." :
-    "Кликните, чтобы увидеть настройки доски.",
-  "Click here to see more available languages." :
-    "Кликните, чтобы увидеть доступные языки.",
+"Sidebar" :
+"===========================================",
+"Languages"       : "Языки",
+"Menu"            : "Меню",
+"Activity"        : "Активность",
+"Members"         : "Люди",
+"Add Members"     : "Добавить Людей",
+"Click here to see more board options." :
+  "Кликните, чтобы увидеть настройки доски.",
+"Click here to see more available languages." :
+  "Кликните, чтобы увидеть доступные языки.",
 
-"List actions pop-up" : "",
-  "List Actions"    : "Список действий",
-  "Add Card…"       : "Добавить карточку…",
-  "Copy List…"      : "Копировать список…",
-  "Move List…"      : "Перенести список…",
-  "Archive All Cards in this List?" : "Все карточки в архив?",
+"List actions pop-up" :
+"===========================================",
+"List Actions"    : "Список действий",
+"Add Card…"       : "Добавить карточку…",
+"Copy List…"      : "Копировать список…",
+"Move List…"      : "Перенести список…",
+"Subscribe"       : "Subscribe",
+"Move All Cards in This List…"    : "Перенести все карточки списка…",
+"Archive All Cards in This List…" : "Архивировать все карточки списка…",
+"Archive This List"               : "Архивировать этот список",
 
-"Card's context menu" : "",
-  "Edit Labels" : "Изменить теги",
+"Card's context menu" :
+"===========================================",
+"Edit Labels"     : "Теги",
+"Change Members"  : "Люди",
+"Move"            : "Перенести",
+"Copy"            : "Копировать",
+"Change Due Date" : "Крайний срок",
+"Archive"         : "Архивировать",
 
-"Forms" : "",
-  "Add" : "Добавить",
+"Form elements" :
+"===========================================",
+"Add"             : "Добавить",
 
-"Activity Substrings" : "",
-  "added" : "добавил(а)",
-    "to" : "к",
-    "and" : "и",
-    "joined" : "добавил(а) себя к",
-    "moved" : "переместил(а)",
-    "from" : "из",
-    "archived" : "архивировал(а)",
-    "renamed" : "переименовал(а)",
-    "this board" : "эту доску",
-    "attached" : "прикрепил(а)",
-    "sent" : "отправил(а)",
-    "to the board" : "на доску"
+"Activity Substrings" :
+"===========================================",
+"added"           : "добавил(а)",
+"to"              : "к",
+"and"             : "и",
+"joined"          : "добавил(а) себя к",
+"moved"           : "переместил(а)",
+"from"            : "из",
+"archived"        : "архивировал(а)",
+"renamed"         : "переименовал(а)",
+"this board"      : "эту доску",
+"attached"        : "прикрепил(а)",
+"sent"            : "отправил(а)",
+"to the board"    : "на доску"
 }

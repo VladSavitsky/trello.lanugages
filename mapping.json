@@ -23,10 +23,25 @@
       "body > div.pop-over > div.content > div > ul > li > a.js-move-list",
     "Subscribe" :
       "body > div.pop-over > div.content > div > ul > li > a.js-list-subscribe",
-
+    "Move All Cards in This List…" :
+      "body > div.pop-over > div.content > div > ul > li > a.js-move-cards",
+    "Archive All Cards in This List…" :
+      "body > div.pop-over > div.content > div > ul > li > a.js-archive-cards",
+    "Archive This List" :
+      "body > div.pop-over > div.content > div > ul > li > a.js-close-list",
 
     "Edit Labels" :
-      "body > div.quick-card-editor > div > div.quick-card-editor-buttons > a.quick-card-editor-buttons-item.js-edit-labels > span.quick-card-editor-buttons-item-text"
+      "body > div.quick-card-editor > div > div.quick-card-editor-buttons > a.quick-card-editor-buttons-item.js-edit-labels > span.quick-card-editor-buttons-item-text",
+    "Change Members" :
+      "body > div.quick-card-editor > div > div.quick-card-editor-buttons > a.quick-card-editor-buttons-item.js-edit-members > span.quick-card-editor-buttons-item-text",
+    "Move" :
+      "body > div.quick-card-editor > div > div.quick-card-editor-buttons > a.quick-card-editor-buttons-item.js-move-card > span.quick-card-editor-buttons-item-text",
+    "Copy" :
+      "body > div.quick-card-editor > div > div.quick-card-editor-buttons > a.quick-card-editor-buttons-item.js-copy-card > span.quick-card-editor-buttons-item-text",
+    "Change Due Date" :
+      "body > div.quick-card-editor > div > div.quick-card-editor-buttons > a.quick-card-editor-buttons-item.js-edit-due-date > span.quick-card-editor-buttons-item-text",
+    "Archive" :
+      "body > div.quick-card-editor > div > div.quick-card-editor-buttons > a.quick-card-editor-buttons-item.js-archive > span.quick-card-editor-buttons-item-text"
 
   },
   "form elements" : {
@@ -49,30 +64,54 @@
       "#content > div > div.board-header.clearfix.js-board-header > a.board-header-btn.board-header-btn-name.js-rename-board"
   },
   "substrings" : {
-    "added" :
+    "added" : [
       "div.board-actions-list div.phenom-desc",
-    "to" :
+      "div.window-overlay > div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc"
+      ],
+    "to" : [
       "div.board-actions-list div.phenom-desc",
-    "and" :
+      "div.window-overlay > div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc"
+      ],
+    "and" : [
       "div.board-actions-list div.phenom-desc",
-    "joined" :
+      "div.window-overlay > div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc"
+      ],
+    "joined" : [
       "div.board-actions-list div.phenom-desc",
-    "moved" :
+      "div.window-overlay > div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc"
+      ],
+    "moved" : [
       "div.board-actions-list div.phenom-desc",
-    "from" :
+      "div.window-overlay > div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc"
+      ],
+    "from" : [
       "div.board-actions-list div.phenom-desc",
-    "archived" :
+      "div.window-overlay > div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc"
+      ],
+    "archived" : [
       "div.board-actions-list div.phenom-desc",
-    "renamed" :
+      "div.window-overlay > div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc"
+      ],
+    "renamed" : [
       "div.board-actions-list div.phenom-desc",
-    "this board" :
+      "div.window-overlay > div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc"
+      ],
+    "this board" : [
       "div.board-actions-list div.phenom-desc",
-    "attached" :
+      "div.window-overlay > div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc"
+      ],
+    "attached" : [
       "div.board-actions-list div.phenom-desc",
-    "sent" :
+      "div.window-overlay > div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc"
+      ],
+    "sent" : [
       "div.board-actions-list div.phenom-desc",
-    "to the board" :
-      "div.board-actions-list div.phenom-desc"
+      "div.window-overlay > div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc"
+      ],
+    "to the board" : [
+      "div.board-actions-list div.phenom-desc",
+      "div.window-overlay > div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc"
+      ]
   }
 }
 

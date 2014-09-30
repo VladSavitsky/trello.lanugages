@@ -1,47 +1,70 @@
 {
-"Visible interface" : "",
-  "Boards"          : "Boards",
-  "Public"          : "Public",
-  "Add a list…"     : "Add a list…",
-  "Calendar"        : "Calendar",
-  "Show sidebar"    : "Show sidebar",
-  "Add a card…"     : "Add a card…",
-  "Notifications"   : "Notifications",
-  "This board is public. It's visible to anyone with the link and will show up in search engines like Google.  Only people added to the board can edit." :
-    "This board is public. It's visible to anyone with the link and will show up in search engines like Google.  Only people added to the board can edit.",
-  "Go back to your boards page." :
-    "Go back to your boards page.",
-  "View list of boards" :
-    "View list of boards",
-  "Rename the board." :
-    "Rename the board.",
+"Visible interface" :
+"===========================================",
+"Boards"          : "Boards",
+"Public"          : "Public",
+"Add a list…"     : "Add a list…",
+"Calendar"        : "Calendar",
+"Show sidebar"    : "Show sidebar",
+"Add a card…"     : "Add a card…",
+"Notifications"   : "Notifications",
+"This board is public. It's visible to anyone with the link and will show up in search engines like Google.  Only people added to the board can edit." :
+  "This board is public. It's visible to anyone with the link and will show up in search engines like Google.  Only people added to the board can edit.",
+"Go back to your boards page." :
+  "Go back to your boards page.",
+"View list of boards" :
+  "View list of boards",
+"Rename the board." :
+  "Rename the board.",
 
-"Sidebar" : "",
-  "Languages"       : "Languages",
-  "Menu"            : "Menu",
-  "Add Members"     : "Add Members",
-  "Members"         : "Members",
-  "Activity"        : "Activity",
-  "Click here to see more board options." :
-    "Click here to see more board options.",
-  "Click here to see more available languages." :
-    "Click here to see more available languages.",
+"Sidebar" :
+"===========================================",
+"Languages"       : "Languages",
+"Menu"            : "Menu",
+"Add Members"     : "Add Members",
+"Members"         : "Members",
+"Activity"        : "Activity",
+"Click here to see more board options." :
+  "Click here to see more board options.",
+"Click here to see more available languages." :
+  "Click here to see more available languages.",
 
-"List actions pop-up" : "",
-  "List Actions"    : "List Actions",
-  "Add Card…"       : "Add Card…",
-  "Copy List…"      : "Copy List…",
-  "Move List…"      : "Move List…",
-  "Subscribe"       : "Subscribe",
-  "Archive All Cards in this List?" : "Archive All Cards in this List?",
+"List actions pop-up" :
+"===========================================",
+"List Actions"    : "List Actions",
+"Add Card…"       : "Add Card…",
+"Copy List…"      : "Copy List…",
+"Move List…"      : "Move List…",
+"Subscribe"       : "Subscribe",
+"Move All Cards in This List…"    : "Move All Cards in This List…",
+"Archive All Cards in This List…" : "Archive All Cards in This List…",
+"Archive This List"               : "Archive This List",
 
-"Card's context menu" : "",
-  "Edit Labels" : "Edit Labels",
+"Card's context menu" :
+"===========================================",
+"Edit Labels"     : "Edit Labels",
+"Change Members"  : "Change Members",
+"Move"            : "Move",
+"Copy"            : "Copy",
+"Change Due Date" : "Change Due Date",
+"Archive"         : "Archive",
 
-"Forms" : "",
-  "Add" : "Add",
+"Form elements" :
+"===========================================",
+"Add"             : "Add",
 
 "Activity Substrings" : "",
-  "added" : "added"
-
+"===========================================",
+"added"           : "added",
+"to"              : "to",
+"and"             : "and",
+"joined"          : "joined",
+"moved"           : "moved",
+"from"            : "from",
+"archived"        : "archived",
+"renamed"         : "renamed",
+"this board"      : "this board",
+"attached"        : "attached",
+"sent"            : "sent",
+"to the board"    : "to the board"
 }
