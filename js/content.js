@@ -87,9 +87,10 @@
   // Activity in Sidebar.
   $('.js-sidebar-list-actions .phenom-desc').waitUntilExists(function() {l10n()});
   $('body > div.window-overlay > div > div > div > div > a.js-more-actions').waitUntilExists(function() {l10n()});
-  // Card edit window
+  // Card edit window.
   $('body > div.window-overlay > div > div > div > p.dropzone').waitUntilExists(function() {l10n()});
-
+  // Notification popup.
+  $('body > div.pop-over.popover-notifications > div.content > div > ul > li > a.js-change-email-frequency').waitUntilExists(function() {l10n()});
 
   function renderLanguageMenu(selectedLanguage) {
     // TODO: Dynamically build list of existing languages.

@@ -17,7 +17,15 @@
       ],
     "Show sidebar" : "#content > div > a > span.text",
     "Add a card…" : "#board div.list a.open-card-composer",
-    "Notifications" : "body > div.popover-notifications .header > span.header-title",
+
+
+    "Notifications" :
+      "body > div.popover-notifications .header > span.header-title",
+    "Change Notification Email Frequency" :
+      "body > div.pop-over.popover-notifications > div.content > div > ul > li > a.js-change-email-frequency",
+    "See All Notifications" :
+      "body > div.pop-over.popover-notifications > div.content > div > ul > li > a.js-view-all-notifications",
+
 
     "List Actions" :
       "body .pop-over .header span.header-title",
@@ -47,12 +55,21 @@
     "Change Due Date" :
       "body > div.quick-card-editor > div > div.quick-card-editor-buttons > a.quick-card-editor-buttons-item.js-edit-due-date > span.quick-card-editor-buttons-item-text",
     "Archive" :
-      "body > div.quick-card-editor > div > div.quick-card-editor-buttons > a.quick-card-editor-buttons-item.js-archive > span.quick-card-editor-buttons-item-text"
+      "body > div.quick-card-editor > div > div.quick-card-editor-buttons > a.quick-card-editor-buttons-item.js-archive > span.quick-card-editor-buttons-item-text",
+
+    "Add" :
+       "body > div.window-overlay > div > div > div > div.window-sidebar > div.window-module > h3",
+    "Actions" :
+       "body > div.window-overlay > div > div > div > div.window-sidebar > div.window-module.other-actions > h3",
+    "Notifications" :
+      ""
 
   },
   "form elements" : {
     "Add" :
-    "#board div.list-cards > div.card-composer > div.cc-controls > input"
+      "#board div.list-cards > div.card-composer > div.cc-controls > input",
+    "Save" :
+      "body > div.window-overlay > div > div > div > div.window-main-col > div.card-detail-data > div.card-detail-item.card-detail-item-block > div.card-detail-edit > div > input.js-save-edit"
   },
   "title" : {
     "Click here to see more board options." :
