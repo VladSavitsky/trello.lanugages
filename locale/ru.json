@@ -68,5 +68,11 @@
 "this board"      : "эту доску",
 "attached"        : "прикрепил(а)",
 "sent"            : "отправил(а)",
-"to the board"    : "на доску"
+"to the board"    : "на доску",
+
+"Card edit window" :
+"===========================================",
+"Edit the description…" : "Изменить описание…",
+"Write a comment…" : "Добавьте комментарий…"
+
 }

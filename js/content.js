@@ -27,7 +27,7 @@
         }
         $.each(selectors, function(index, cssPath) {
           var $element = $(cssPath);
-          if (type == 'title') {
+          if (type == 'title' || type == 'placeholder') {
             if (!$element.attr('data-language')) {
               $element.attr(type, translation[code]).attr('data-language', selectedLanguage);
             }
@@ -42,6 +42,11 @@
             // applied several times to the same elements.
             $element.html(function(index, html) {
               return html.replace(' ' + code + ' ', ' ' + translation[code] + ' ');
+            });
+          } else if (type == 'with icons') {
+            $element.html(function(index, html) {
+              // TODO: fix ability to switch languages more then once.
+              return html.replace(code, translation[code]);
             });
           }
         });
@@ -82,6 +87,8 @@
   // Activity in Sidebar.
   $('.js-sidebar-list-actions .phenom-desc').waitUntilExists(function() {l10n()});
   $('body > div.window-overlay > div > div > div > div > a.js-more-actions').waitUntilExists(function() {l10n()});
+  // Card edit window
+  $('body > div.window-overlay > div > div > div > p.dropzone').waitUntilExists(function() {l10n()});
 
 
   function renderLanguageMenu(selectedLanguage) {

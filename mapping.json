@@ -6,9 +6,15 @@
     "Menu" : "#content .board-widgets .board-widget-nav > h3",
     "Add Members" : "#content .board-widget-members .board-widget-content > a",
     "Add a list…" : "#board > div.list.add-list.idle > form > span",
-    "Members" : "#content .board-widget-members > div.board-widget-title > h3",
+    "Members" : [
+      "#content .board-widget-members > div.board-widget-title > h3",
+      "body > div.window-overlay > div > div > div > div.window-main-col > div.card-detail-data > div.card-detail-item.card-detail-item-members > h3"
+    ],
     "Calendar" : "#content .board-header .board-header-btns .calendar-btn > span.board-header-btn-text",
-    "Activity" : "#content .board-widgets .board-widget-activity > div.board-widget-title > h3",
+    "Activity" : [
+      "#content .board-widgets .board-widget-activity > div.board-widget-title > h3",
+      "body > div.window-overlay > div > div > div > div.window-main-col > div > div.window-module-title.window-module-title-no-divider > h3"
+      ],
     "Show sidebar" : "#content > div > a > span.text",
     "Add a card…" : "#board div.list a.open-card-composer",
     "Notifications" : "body > div.popover-notifications .header > span.header-title",
@@ -63,6 +69,10 @@
     "Rename the board." :
       "#content > div > div.board-header.clearfix.js-board-header > a.board-header-btn.board-header-btn-name.js-rename-board"
   },
+  "placeholder" : {
+    "Write a comment…" :
+    "body > div.window-overlay > div > div > div > div.window-main-col > div > div.new-comment.js-new-comment > textarea.js-new-comment-input"
+  },
   "substrings" : {
     "added" : [
       "div.board-actions-list div.phenom-desc",
@@ -112,6 +122,10 @@
       "div.board-actions-list div.phenom-desc",
       "div.window-overlay > div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc"
       ]
+  },
+  "with icons" : {
+    "Edit the description…" :
+      "body > div.window-overlay > div > div > div > div.window-main-col > div.card-detail-data.gutter > div.card-detail-item.card-detail-item-block > p.bottom > a.js-edit-desc"
   }
 }
 
