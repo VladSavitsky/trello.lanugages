@@ -1,148 +1,225 @@
 {
-  "html" : {
-    "Boards" : "#header > div.header-boards-button > a > span.header-btn-text",
-    "Public" : "#permission-level > span.board-header-btn-text",
-    "Languages" : "#content .board-widgets .board-widget-language > h3",
-    "Menu" : "#content .board-widgets .board-widget-nav > h3",
-    "Add Members" : "#content .board-widget-members .board-widget-content > a",
-    "Add a list…" : "#board > div.list.add-list.idle > form > span",
-    "Members" : [
-      "#content .board-widget-members > div.board-widget-title > h3",
-      "body > div.window-overlay > div > div > div > div.window-main-col > div.card-detail-data > div.card-detail-item.card-detail-item-members > h3"
+"html" : {
+  "Boards" : "#header > div.header-boards-button > a > span.header-btn-text",
+  "Public" : "#permission-level > span.board-header-btn-text",
+  "Languages" : "#content .board-widgets .board-widget-language > h3",
+  "Menu" : "#content .board-widgets .board-widget-nav > h3",
+  "Add Members" : "#content .board-widget-members .board-widget-content > a",
+  "Add a list…" : "#board > div.list.add-list.idle > form > span",
+  "Members" : [
+    "#content .board-widget-members > div.board-widget-title > h3",
+    "body > div.window-overlay > div > div > div > div.window-main-col > div.card-detail-data > div.card-detail-item.card-detail-item-members > h3",
+    "body > div.window-overlay > div > div > div > div.window-sidebar > div > div > a.js-change-card-members"
+  ],
+  "Calendar" : "#content .board-header .board-header-btns .calendar-btn > span.board-header-btn-text",
+  "Activity" : [
+    "#content .board-widgets .board-widget-activity > div.board-widget-title > h3",
+    "body > div.window-overlay > div > div > div > div.window-main-col > div > div.window-module-title.window-module-title-no-divider > h3"
     ],
-    "Calendar" : "#content .board-header .board-header-btns .calendar-btn > span.board-header-btn-text",
-    "Activity" : [
-      "#content .board-widgets .board-widget-activity > div.board-widget-title > h3",
-      "body > div.window-overlay > div > div > div > div.window-main-col > div > div.window-module-title.window-module-title-no-divider > h3"
-      ],
-    "Show sidebar" : "#content > div > a > span.text",
-    "Add a card…" : "#board div.list a.open-card-composer",
+  "Show sidebar" : "#content > div > a > span.text",
+  "Add a card…" : "#board div.list a.open-card-composer",
+
+  "Power-Ups" :
+    "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.nav-list-item.js-open-power-ups",
+  "Stickers" :
+    "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.nav-list-item.js-open-stickers",
+  "Filter Cards" :
+    "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.nav-list-item.js-open-card-filter",
+  "Archived Items" :
+    "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.nav-list-item.open-js-archive",
+  "Change Background…" :
+    "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.nav-list-item.nav-list-sub-item.board-settings-background.js-change-background",
+  "Email-to-board Settings…" :
+    "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.nav-list-item.nav-list-sub-item.js-email",
+  "Copy Board…" :
+    "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.nav-list-item.nav-list-sub-item.js-copy-board",
+  "Share, Print, and Export…" :
+    "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.nav-list-item.nav-list-sub-item.js-share",
+  "Additional Settings…" :
+    "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.nav-list-item.nav-list-sub-item.js-open-settings",
+  "Close Board…" :
+    "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.nav-list-nav.item-list-sub-item.js-close-board",
+
+  "Notifications" :
+    "body > div.popover-notifications .header > span.header-title",
+  "Change Notification Email Frequency" :
+    "body > div.pop-over.popover-notifications > div.content > div > ul > li > a.js-change-email-frequency",
+  "See All Notifications" :
+    "body > div.pop-over.popover-notifications > div.content > div > ul > li > a.js-view-all-notifications",
 
 
-    "Notifications" :
-      "body > div.popover-notifications .header > span.header-title",
-    "Change Notification Email Frequency" :
-      "body > div.pop-over.popover-notifications > div.content > div > ul > li > a.js-change-email-frequency",
-    "See All Notifications" :
-      "body > div.pop-over.popover-notifications > div.content > div > ul > li > a.js-view-all-notifications",
+  "List Actions" :
+    "body .pop-over .header span.header-title",
+  "Add Card…" :
+    "body > div.pop-over > div.content > div > ul > li > a.js-add-card",
+  "Copy List…" :
+    "body > div.pop-over > div.content > div > ul > li > a.js-copy-list",
+  "Move List…" :
+    "body > div.pop-over > div.content > div > ul > li > a.js-move-list",
+  "Subscribe" : [
+    "body > div.pop-over > div.content > div > ul > li > a.js-list-subscribe",
+    "body > div.window-overlay > div > div > div > div.window-sidebar > div.window-module.other-actions > div > div.js-subscribe-sidebar-button > a.button-link.js-subscribe",
+    "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.nav-list-item.nav-list-sub-item.js-board-subscribe"
+  ],
+  "Move All Cards in This List…" :
+    "body > div.pop-over > div.content > div > ul > li > a.js-move-cards",
+  "Archive All Cards in This List…" :
+    "body > div.pop-over > div.content > div > ul > li > a.js-archive-cards",
+  "Archive This List" :
+    "body > div.pop-over > div.content > div > ul > li > a.js-close-list",
+
+  "Edit Labels" :
+    "body > div.quick-card-editor > div > div.quick-card-editor-buttons > a.quick-card-editor-buttons-item.js-edit-labels > span.quick-card-editor-buttons-item-text",
+  "Change Members" :
+    "body > div.quick-card-editor > div > div.quick-card-editor-buttons > a.quick-card-editor-buttons-item.js-edit-members > span.quick-card-editor-buttons-item-text",
+  "Move" :
+    "body > div.quick-card-editor > div > div.quick-card-editor-buttons > a.quick-card-editor-buttons-item.js-move-card > span.quick-card-editor-buttons-item-text",
+  "Copy" :
+    "body > div.quick-card-editor > div > div.quick-card-editor-buttons > a.quick-card-editor-buttons-item.js-copy-card > span.quick-card-editor-buttons-item-text",
+  "Change Due Date" :
+    "body > div.quick-card-editor > div > div.quick-card-editor-buttons > a.quick-card-editor-buttons-item.js-edit-due-date > span.quick-card-editor-buttons-item-text",
+  "Archive" :
+    "body > div.quick-card-editor > div > div.quick-card-editor-buttons > a.quick-card-editor-buttons-item.js-archive > span.quick-card-editor-buttons-item-text",
 
 
-    "List Actions" :
-      "body .pop-over .header span.header-title",
-    "Add Card…" :
-      "body > div.pop-over > div.content > div > ul > li > a.js-add-card",
-    "Copy List…" :
-      "body > div.pop-over > div.content > div > ul > li > a.js-copy-list",
-    "Move List…" :
-      "body > div.pop-over > div.content > div > ul > li > a.js-move-list",
-    "Subscribe" :
-      "body > div.pop-over > div.content > div > ul > li > a.js-list-subscribe",
-    "Move All Cards in This List…" :
-      "body > div.pop-over > div.content > div > ul > li > a.js-move-cards",
-    "Archive All Cards in This List…" :
-      "body > div.pop-over > div.content > div > ul > li > a.js-archive-cards",
-    "Archive This List" :
-      "body > div.pop-over > div.content > div > ul > li > a.js-close-list",
+  "Add" :
+     "body > div.window-overlay > div > div > div > div.window-sidebar > div.window-module > h3",
+  "Actions" :
+     "body > div.window-overlay > div > div > div > div.window-sidebar > div.window-module.other-actions > h3",
+  "Notifications" :
+    "",
+  "Edit the description…" :
+    "body > div.window-overlay > div > div > div > div.window-main-col > div.card-detail-data > div.card-detail-item.card-detail-item-block > p.bottom > a.js-desc-edit",
+  "Labels" : [
+     "body > div.window-overlay > div > div > div > div.window-sidebar > div > div > a.js-edit-labels",
+     "body > div.window-overlay > div > div > div > div.window-main-col > div.card-detail-data > div.card-detail-item.card-detail-item-labels.js-card-detail-labels > h3"
+     ],
+   "Checklist" :
+     "body > div.window-overlay > div > div > div > div.window-sidebar > div > div > a.js-add-checklist-menu",
+   "Due date" :
+     "body > div.window-overlay > div > div > div > div.window-sidebar > div > div > a.js-add-due-date",
+   "Attachment" :
+     "body > div.window-overlay > div > div > div > div.window-sidebar > div > div > a.button-link.js-attach",
+   "Move" :
+     "body > div.window-overlay > div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-move-card",
+   "Copy" :
+     "body > div.window-overlay > div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-copy-card",
+   "Archive" :
+     "body > div.window-overlay > div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-archive-card",
+   "Delete" :
+     "body > div.window-overlay > div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-delete-card",
+   "Share and more…" :
+     "body > div.window-overlay > div > div > div > div.window-sidebar > div:nth-child(3) > p > a.quiet-button.js-more-menu",
+  "Send to board" :
+    "body > div.window-overlay > div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-unarchive-card",
+  "Drop files to upload." :
+    "body > div.window-overlay > div > div > div > p.dropzone"
 
-    "Edit Labels" :
-      "body > div.quick-card-editor > div > div.quick-card-editor-buttons > a.quick-card-editor-buttons-item.js-edit-labels > span.quick-card-editor-buttons-item-text",
-    "Change Members" :
-      "body > div.quick-card-editor > div > div.quick-card-editor-buttons > a.quick-card-editor-buttons-item.js-edit-members > span.quick-card-editor-buttons-item-text",
-    "Move" :
-      "body > div.quick-card-editor > div > div.quick-card-editor-buttons > a.quick-card-editor-buttons-item.js-move-card > span.quick-card-editor-buttons-item-text",
-    "Copy" :
-      "body > div.quick-card-editor > div > div.quick-card-editor-buttons > a.quick-card-editor-buttons-item.js-copy-card > span.quick-card-editor-buttons-item-text",
-    "Change Due Date" :
-      "body > div.quick-card-editor > div > div.quick-card-editor-buttons > a.quick-card-editor-buttons-item.js-edit-due-date > span.quick-card-editor-buttons-item-text",
-    "Archive" :
-      "body > div.quick-card-editor > div > div.quick-card-editor-buttons > a.quick-card-editor-buttons-item.js-archive > span.quick-card-editor-buttons-item-text",
+},
+"form elements" : {
+  "Add" :
+    "#board div.list-cards > div.card-composer > div.cc-controls > input",
+  "Save" :
+    "body > div.window-overlay > div > div > div > div.window-main-col > div.card-detail-data > div.card-detail-item.card-detail-item-block > div.card-detail-edit > div > input.js-save-edit"
+},
+"title" : {
+  "Click here to see more board options." :
+    "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > h3",
+  "Click here to see more available languages." :
+    "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget-language > h3",
+  "This board is public. It's visible to anyone with the link and will show up in search engines like Google.  Only people added to the board can edit." :
+    "#permission-level",
 
-    "Add" :
-       "body > div.window-overlay > div > div > div > div.window-sidebar > div.window-module > h3",
-    "Actions" :
-       "body > div.window-overlay > div > div > div > div.window-sidebar > div.window-module.other-actions > h3",
-    "Notifications" :
-      ""
+  "Go back to your boards page." :
+    "#header > a",
+  "View list of boards" :
+    "#header > div.header-boards-button > a",
+  "Rename the board." :
+    "#content > div > div.board-header.clearfix.js-board-header > a.board-header-btn.board-header-btn-name.js-rename-board",
 
-  },
-  "form elements" : {
-    "Add" :
-      "#board div.list-cards > div.card-composer > div.cc-controls > input",
-    "Save" :
-      "body > div.window-overlay > div > div > div > div.window-main-col > div.card-detail-data > div.card-detail-item.card-detail-item-block > div.card-detail-edit > div > input.js-save-edit"
-  },
-  "title" : {
-    "Click here to see more board options." :
-      "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > h3",
-    "Click here to see more available languages." :
-      "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget-language > h3",
-    "This board is public. It's visible to anyone with the link and will show up in search engines like Google.  Only people added to the board can edit." :
-      "#permission-level",
+  "Add or remove members of the board from the card." :
+    "body > div.window-overlay > div > div > div > div.window-sidebar > div:nth-child(1) > div > a.button-link.js-change-card-members",
+  "Change the labels for the card." :
+    "body > div.window-overlay > div > div > div > div.window-sidebar > div:nth-child(1) > div > a.button-link.js-edit-labels",
+  "Add a checklist and divide the card into subtasks." :
+     "body > div.window-overlay > div > div > div > div.window-sidebar > div:nth-child(1) > div > a.button-link.js-add-checklist-menu",
+  "Add a due date for the card and get notifications when it is almost due." :
+     "body > div.window-overlay > div > div > div > div.window-sidebar > div > div > a.js-add-due-date",
+  "Attach files from your computer or from Google Drive. You can also drag'n'drop files from your desktop to upload them." :
+    "body > div.window-overlay > div > div > div > div.window-sidebar > div:nth-child(1) > div > a.button-link.js-attach",
 
-    "Go back to your boards page." :
-      "#header > a",
-    "View list of boards" :
-      "#header > div.header-boards-button > a",
-    "Rename the board." :
-      "#content > div > div.board-header.clearfix.js-board-header > a.board-header-btn.board-header-btn-name.js-rename-board"
-  },
-  "placeholder" : {
-    "Write a comment…" :
-    "body > div.window-overlay > div > div > div > div.window-main-col > div > div.new-comment.js-new-comment > textarea.js-new-comment-input"
-  },
-  "substrings" : {
-    "added" : [
-      "div.board-actions-list div.phenom-desc",
-      "div.window-overlay > div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc"
-      ],
-    "to" : [
-      "div.board-actions-list div.phenom-desc",
-      "div.window-overlay > div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc"
-      ],
-    "and" : [
-      "div.board-actions-list div.phenom-desc",
-      "div.window-overlay > div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc"
-      ],
-    "joined" : [
-      "div.board-actions-list div.phenom-desc",
-      "div.window-overlay > div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc"
-      ],
-    "moved" : [
-      "div.board-actions-list div.phenom-desc",
-      "div.window-overlay > div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc"
-      ],
-    "from" : [
-      "div.board-actions-list div.phenom-desc",
-      "div.window-overlay > div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc"
-      ],
-    "archived" : [
-      "div.board-actions-list div.phenom-desc",
-      "div.window-overlay > div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc"
-      ],
-    "renamed" : [
-      "div.board-actions-list div.phenom-desc",
-      "div.window-overlay > div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc"
-      ],
-    "this board" : [
-      "div.board-actions-list div.phenom-desc",
-      "div.window-overlay > div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc"
-      ],
-    "attached" : [
-      "div.board-actions-list div.phenom-desc",
-      "div.window-overlay > div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc"
-      ],
-    "sent" : [
-      "div.board-actions-list div.phenom-desc",
-      "div.window-overlay > div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc"
-      ],
-    "to the board" : [
-      "div.board-actions-list div.phenom-desc",
-      "div.window-overlay > div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc"
-      ]
-  },
-  "with icons" : {
-    "Edit the description…" :
-      "body > div.window-overlay > div > div > div > div.window-main-col > div.card-detail-data.gutter > div.card-detail-item.card-detail-item-block > p.bottom > a.js-edit-desc"
-  }
+  "Move the card to another board, another list, or a new position in a list" :
+    "body > div.window-overlay > div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-move-card",
+  "Make a copy of this card, optionally include checklist, labels, members, attachments, etc." :
+    "body > div.window-overlay > div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-copy-card",
+  "Subscribe to the card to get notifications when something changes." :
+    "body > div.window-overlay > div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > div.js-subscribe-sidebar-button > a.button-link.js-subscribe",
+  "Remove the card from the board." :
+    "body > div.window-overlay > div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-archive-card",
+  "Send the card back to the board." :
+    "body > div.window-overlay > div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-unarchive-card",
+  "Delete the card and all history associated with it. It can’t be retrieved." :
+    "body > div.window-overlay > div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-delete-card",
+  "More options share, print, export, and delete." :
+    "body > div.window-overlay > div > div > div > div.window-sidebar > div:nth-child(3) > p > a.quiet-button.js-more-menu"
+
+
+
+
+},
+"placeholder" : {
+  "Write a comment…" :
+  "body > div.window-overlay > div > div > div > div.window-main-col > div > div.new-comment.js-new-comment > textarea.js-new-comment-input"
+},
+"substrings" : {
+  "added" : [
+    "div.board-actions-list div.phenom-desc",
+    "div.window-overlay > div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc"
+    ],
+  "to" : [
+    "div.board-actions-list div.phenom-desc",
+    "div.window-overlay > div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc"
+    ],
+  "and" : [
+    "div.board-actions-list div.phenom-desc",
+    "div.window-overlay > div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc"
+    ],
+  "joined" : [
+    "div.board-actions-list div.phenom-desc",
+    "div.window-overlay > div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc"
+    ],
+  "moved" : [
+    "div.board-actions-list div.phenom-desc",
+    "div.window-overlay > div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc"
+    ],
+  "from" : [
+    "div.board-actions-list div.phenom-desc",
+    "div.window-overlay > div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc"
+    ],
+  "archived" : [
+    "div.board-actions-list div.phenom-desc",
+    "div.window-overlay > div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc"
+    ],
+  "renamed" : [
+    "div.board-actions-list div.phenom-desc",
+    "div.window-overlay > div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc"
+    ],
+  "this board" : [
+    "div.board-actions-list div.phenom-desc",
+    "div.window-overlay > div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc"
+    ],
+  "attached" : [
+    "div.board-actions-list div.phenom-desc",
+    "div.window-overlay > div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc"
+    ],
+  "sent" : [
+    "div.board-actions-list div.phenom-desc",
+    "div.window-overlay > div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc"
+    ],
+  "to the board" : [
+    "div.board-actions-list div.phenom-desc",
+    "div.window-overlay > div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc"
+    ]
+}
 }
 

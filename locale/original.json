@@ -29,6 +29,17 @@
 "Click here to see more available languages." :
   "Click here to see more available languages.",
 
+"Power-Ups" : "Power-Ups",
+"Stickers" : "Stickers",
+"Filter Cards" : "Filter Cards",
+"Archived Items" : "Archived Items",
+"Change Background…" : "Change Background…",
+"Email-to-board Settings…" : "Email-to-board Settings…",
+"Copy Board…" : "Copy Board…",
+"Share, Print, and Export…" : "Share, Print, and Export…",
+"Additional Settings…" : "Additional Settings…",
+"Close Board…" : "Close Board…",
+
 "List actions pop-up" :
 "===========================================",
 "List Actions"    : "List Actions",
@@ -53,7 +64,7 @@
 "===========================================",
 "Add"             : "Add",
 
-"Activity Substrings" : "",
+"Activity Substrings" :
 "===========================================",
 "added"           : "added",
 "to"              : "to",
@@ -66,13 +77,51 @@
 "this board"      : "this board",
 "attached"        : "attached",
 "sent"            : "sent",
-"to the board"    : "to the board"
+"to the board"    : "to the board",
 
 "Card edit window" :
 "===========================================",
 "Edit the description…" : "Edit the description…",
 "Write a comment…" : "Write a comment…",
 "Save" : "Save",
-"Add" : "Add",
-"Actions" : "Actions"
+"Actions" : "Actions",
+"Labels": "Labels",
+"Checklist" : "Checklist",
+"Due date" : "Due date",
+"Attachment" : "Attachment",
+"Move" : "Move",
+"Copy" : "Copy",
+"Subscribe" : "Subscribe",
+"Archive" : "Archive",
+"Delete" : "Delete",
+"Share and more…" : "Share and more…",
+"Send to board" : "Send to board",
+"Drop files to upload." : "Drop files to upload.",
+
+"Add or remove members of the board from the card." :
+  "Add or remove members of the board from the card.",
+"Change the labels for the card." :
+  "Change the labels for the card.",
+"Add a checklist and divide the card into subtasks." :
+  "Add a checklist and divide the card into subtasks.",
+"Add a due date for the card and get notifications when it is almost due." :
+  "Add a due date for the card and get notifications when it is almost due.",
+"Attach files from your computer or from Google Drive. You can also drag'n'drop files from your desktop to upload them." :
+  "Attach files from your computer or from Google Drive. You can also drag'n'drop files from your desktop to upload them.",
+"Move the card to another board, another list, or a new position in a list" :
+  "Move the card to another board, another list, or a new position in a list",
+"Make a copy of this card, optionally include checklist, labels, members, attachments, etc." :
+  "Make a copy of this card, optionally include checklist, labels, members, attachments, etc.",
+"Subscribe to the card to get notifications when something changes." :
+  "Subscribe to the card to get notifications when something changes.",
+"Remove the card from the board." :
+  "Remove the card from the board.",
+"Send the card back to the board." :
+  "Send the card back to the board.",
+"Delete the card and all history associated with it. It can’t be retrieved." :
+  "Delete the card and all history associated with it. It can’t be retrieved.",
+"More options share, print, export, and delete." :
+  "More options share, print, export, and delete."
+
+
 }

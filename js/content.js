@@ -27,12 +27,15 @@
         }
         $.each(selectors, function(index, cssPath) {
           var $element = $(cssPath);
+          // TODO: Check if element has correct cssPath. Note: some elements are not exists at page all the time.
           if (type == 'title' || type == 'placeholder') {
-            if (!$element.attr('data-language')) {
-              $element.attr(type, translation[code]).attr('data-language', selectedLanguage);
-            }
+            // Do not check 'data-language' attribute because some elements should be translated
+            // several times. Eg., title and inner HTML.
+            $element.attr(type, translation[code]);
           } else if (type == 'html') {
-            $element.html(translation[code]).attr('data-language', selectedLanguage);
+            $element.html(function(index, html) {
+              return html.replace($element.text().trim(), translation[code]);
+            }).attr('data-language', selectedLanguage);
           } else if (type == 'form elements') {
             if (!$element.attr('data-language')) {
               $element.val(translation[code]).attr('data-language', selectedLanguage);
@@ -42,11 +45,6 @@
             // applied several times to the same elements.
             $element.html(function(index, html) {
               return html.replace(' ' + code + ' ', ' ' + translation[code] + ' ');
-            });
-          } else if (type == 'with icons') {
-            $element.html(function(index, html) {
-              // TODO: fix ability to switch languages more then once.
-              return html.replace(code, translation[code]);
             });
           }
         });
@@ -146,7 +144,6 @@
   // ================= //
   // Useful functions. //
   // ================= //
-
 
   /**
    * Synchronously load file and return it's content.

@@ -31,6 +31,17 @@
 "Click here to see more available languages." :
   "Кликните, чтобы увидеть доступные языки.",
 
+"Power-Ups" : "Улучшения",
+"Stickers" : "Стикеры",
+"Filter Cards" : "Поиск",
+"Archived Items" : "Архивные карточки",
+"Change Background…" : "Изменить фон…",
+"Email-to-board Settings…" : "Email-публикация…",
+"Copy Board…" : "Копировать доску…",
+"Share, Print, and Export…" : "Шарить, печать, экспорт…",
+"Additional Settings…" : "Другие настройки…",
+"Close Board…" : "Удалить доску…",
+
 "List actions pop-up" :
 "===========================================",
 "List Actions"    : "Список действий",
@@ -72,10 +83,45 @@
 
 "Card edit window" :
 "===========================================",
-"Edit the description…" : "Изменить описание…",
+"Edit the description…" : "Измените описание…",
 "Write a comment…" : "Добавьте комментарий…",
 "Save" : "Сохранить",
-"Add" : "Добавить",
-"Actions" : "Действия"
+"Actions" : "Действия",
+"Labels": "Теги",
+"Checklist" : "Чеклист",
+"Due date" : "Крайний срок",
+"Attachment" : "Вложения",
+"Move" : "Перенести",
+"Copy" : "Копировать",
+"Subscribe" : "Подписаться",
+"Archive" : "Архивировать",
+"Delete" : "Удалить",
+"Share and more…" : "Шарить и др.…",
+"Send to board" : "Вернуть на доску",
+"Drop files to upload." : "Бросьте файлы для загрузки.",
 
+"Add or remove members of the board from the card." :
+  "Добавить или удалить людей этой доски к карточке.",
+"Change the labels for the card." :
+  "Изменить теги этой карточки.",
+"Add a checklist and divide the card into subtasks." :
+  "Добавить чеклист или разделить карточку на подзадачи.",
+"Add a due date for the card and get notifications when it is almost due." :
+  "Добавить крайний срок для карточки и напоминание о приближении крайнего срока.",
+"Attach files from your computer or from Google Drive. You can also drag'n'drop files from your desktop to upload them." :
+  "Прикрепить файлы с вашего компьютера или из Google Диска. Вы также можете перетащить файлы с вашего рабочего стола, чтобы загрузить их.",
+"Move the card to another board, another list, or a new position in a list" :
+  "Переместить карточку на другую доску, список или на другое место в списке",
+"Make a copy of this card, optionally include checklist, labels, members, attachments, etc." :
+  "Скопировать эту карточку с возможностью включения чеклистов, тегов, людей, вложений и пр.",
+"Subscribe to the card to get notifications when something changes." :
+  "Подписаться на уведомления об изменениях карточки.",
+"Remove the card from the board." :
+  "Удалить карточку с доски.",
+"Send the card back to the board." :
+  "Вернуть карточку на доску.",
+"Delete the card and all history associated with it. It can’t be retrieved." :
+  "Удалить карточку и всю историю изменений. Это действие нельзя будет отменить.",
+"More options share, print, export, and delete." :
+  "Больше возможностей для печати, экспорта, удаления и расшаривания."
 }
