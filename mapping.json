@@ -20,25 +20,28 @@
   "Add a card…" : "#board div.list a.open-card-composer",
 
   "Power-Ups" :
-    "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.nav-list-item.js-open-power-ups",
+    "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.js-open-power-ups",
   "Stickers" :
-    "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.nav-list-item.js-open-stickers",
+    "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.js-open-stickers",
   "Filter Cards" :
-    "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.nav-list-item.js-open-card-filter",
+    "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.js-open-card-filter",
   "Archived Items" :
-    "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.nav-list-item.open-js-archive",
+    "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.js-open-archive",
   "Change Background…" :
-    "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.nav-list-item.nav-list-sub-item.board-settings-background.js-change-background",
+    "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.board-settings-background.js-change-background",
   "Email-to-board Settings…" :
-    "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.nav-list-item.nav-list-sub-item.js-email",
+    "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.js-email",
   "Copy Board…" :
-    "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.nav-list-item.nav-list-sub-item.js-copy-board",
+    "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.js-copy-board",
   "Share, Print, and Export…" :
-    "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.nav-list-item.nav-list-sub-item.js-share",
+    "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.js-share",
   "Additional Settings…" :
-    "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.nav-list-item.nav-list-sub-item.js-open-settings",
+    "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.js-open-settings",
   "Close Board…" :
-    "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.nav-list-nav.item-list-sub-item.js-close-board",
+    "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.js-close-board",
+  "Leave Board…" :
+    "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.js-leave-board",
+
 
   "Notifications" :
     "body > div.popover-notifications .header > span.header-title",
