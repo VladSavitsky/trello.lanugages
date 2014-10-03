@@ -32,6 +32,7 @@
             // Do not check 'data-language' attribute because some elements should be translated
             // several times. Eg., title and inner HTML.
             $element.attr(type, translation[code]);
+            // TODO: Fix strings with plurals here. See Notification icon.
           } else if (type == 'html') {
             $element.html(function(index, html) {
               return html.replace($element.text().trim(), translation[code]);
@@ -44,7 +45,7 @@
             // Don't check 'data-language' attribute here because of translation could be
             // applied several times to the same elements.
             $element.html(function(index, html) {
-              return html.replace(' ' + code + ' ', ' ' + translation[code] + ' ');
+              return html.replace(code, translation[code]);
             });
           }
         });
