@@ -4,6 +4,24 @@
 
 "Visible interface" :
 "===========================================",
+"Starred Boards" : "Starred Boards",
+"My Boards" : "My Boards",
+"Overview" : "Overview",
+"Recent Boards" : "Recent Boards",
+
+"Always keep this menu open." : "Always keep this menu open.",
+"Don’t keep this menu open." : "Don’t keep this menu open.",
+"See closed boards…" : "See closed boards…",
+"Find boards by name…" : "Find boards by name…",
+"There is new activity on this board." : "There is new activity on this board.",
+"Collapse section." : "Collapse section.",
+"Expand section." : "Expand section.",
+"Closed Boards" : "Closed Boards",
+"Re-open" : "Re-open",
+"You have to have been a board admin to re-open a closed board." : 
+  "You have to have been a board admin to re-open a closed board.",
+"No Boards Found" : "No Boards Found",
+
 "Boards"           : "Boards",
 "Public"           : "Public",
 "Add a list…"      : "Add a list…",
@@ -34,7 +52,8 @@
   "You are seeing an early, experimental version of Trello. We would love your feedback!",
 "Get access to your profile, help, and log out." : "Get access to your profile, help, and log out.",
 "This member has Trello Gold." : "This member has Trello Gold.",
-
+"Click to star this board. It will show up at top of your boards list." :
+  "Click to star this board. It will show up at top of your boards list.",
 
 "Sidebar" :
 "===========================================",

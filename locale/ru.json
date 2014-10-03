@@ -4,6 +4,23 @@
 
 "Visible interface" :
 "===========================================",
+"Starred Boards" : "Любимые доски",
+"My Boards" : "Мои доски",
+"Overview" : "Обзор",
+"Recent Boards" : "Недавние доски",
+"Always keep this menu open." : "Держать это меню открытым.",
+"Don’t keep this menu open." : "Не держать это меню открытым.",
+"See closed boards…" : "Смотреть закрытие доски…",
+"Find boards by name…" : "Найти доски по имени…",
+"There is new activity on this board." : "Есть активность на этой доске.",
+"Collapse section." : "Свернуть раздел.",
+"Expand section." : "Раскрыть раздел.",
+"Closed Boards" : "Закрытые доски",
+"Re-open" : "Переоткрыть",
+"You have to have been a board admin to re-open a closed board." : 
+  "Вы должны быть администратором, чтобы снова открывать закрытые доски.",
+"No Boards Found" : "Доски не найдены",
+
 "Boards"           : "Доски",
 "Public"           : "Общая",
 "Add a list…"      : "Добавить список…",
@@ -33,7 +50,8 @@
   "Вы выдите раннюю экспериментальную версию Trello. Нам очень нужны ваши отзывы!",
 "Get access to your profile, help, and log out." : "Доступ к профилю, помощи и выход.",
 "This member has Trello Gold." : "У этого человека Trello Gold.",
-
+"Click to star this board. It will show up at top of your boards list." :
+  "Кликните, чтобы добавить доску в любимые. Доска будет показана на самом верху списка всех досок.",
 
 "Sidebar" :
 "===========================================",

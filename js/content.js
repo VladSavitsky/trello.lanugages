@@ -6,7 +6,8 @@
 (function() {
 
   // Replace strings at page using mapping from translation object.
-  function l10n() {
+  function l10n(element) {
+    console.log(element);
     if (jQuery.isEmptyObject(mapping)) {
       console.log('mapping.json file is broken.');
       return;
@@ -31,16 +32,21 @@
           if (type == 'title' || type == 'placeholder') {
             // Do not check 'data-language' attribute because some elements should be translated
             // several times. Eg., title and inner HTML.
+            // We assume that element should be only one. It's not right.
             $element.attr(type, translation[code]);
             // TODO: Fix strings with plurals here. See Notification icon.
           } else if (type == 'html') {
-            $element.html(function(index, html) {
-              return html.replace($element.text().trim(), translation[code]);
-            }).attr('data-language', selectedLanguage);
+            $.each($element, function() {
+              $(this).html(function(index, html) {
+                return html.replace($(this).text().trim(), translation[code]);
+              });
+            });
           } else if (type == 'form elements') {
-            if (!$element.attr('data-language')) {
-              $element.val(translation[code]).attr('data-language', selectedLanguage);
-            }
+            $.each($element, function() {
+              if (!$element.attr('data-language')) {
+                $element.val(translation[code]).attr('data-language', selectedLanguage);
+              }
+            });
           } else if (type == 'substrings') {
             // Don't check 'data-language' attribute here because of translation could be
             // applied several times to the same elements.
@@ -90,6 +96,14 @@
   $('body > div.window-overlay > div > div > div > p.dropzone').waitUntilExists(function() {l10n()});
   // Notification popup.
   $('body > div.pop-over.popover-notifications > div.content > div > ul > li > a.js-change-email-frequency').waitUntilExists(function() {l10n()});
+  // Home page. List of all boards.
+  $('#content > div > div > div > a.js-view-org-profile').waitUntilExists(function() {l10n()});
+  $('#boards-drawer > div > div.board-drawer-content > div.js-boards-list-container > div.js-all-boards').waitUntilExists(function() {l10n()});
+  // Closed boards window.
+  $('body > div.window-overlay > div > div > div > div.window-sidebar > p.helper').waitUntilExists(function() {l10n()});
+//  $('body > div.window-overlay > div > div > div > div.window-main-col > div > ul > li > div > a').waitUntilExists(function() {l10n()});
+
+
 
   function renderLanguageMenu(selectedLanguage) {
     // TODO: Dynamically build list of existing languages.

@@ -1,5 +1,32 @@
 {
 "html" : {
+
+  "Starred Boards" :[
+    "#content > div > div:nth-child(2) > div > h3",
+    "#boards-drawer > div > div.board-drawer-content > div.js-boards-list-container > div.starred-sidebar-boards-list.js-starred-boards > div > p > span.sidebar-section-header-title"
+  ],
+  "My Boards" : [
+    "#content > div > div:nth-child(3) > div > h3",
+    "#boards-drawer > div > div.board-drawer-content.fancy-scrollbar > div.js-boards-list-container > div.js-all-boards > div:nth-child(1) > p > span.sidebar-section-header-title"
+  ],
+  
+  "Recent Boards" : "#boards-drawer > div > div.board-drawer-content.fancy-scrollbar > div.js-boards-list-container > div.js-recent-boards > div > p > span.sidebar-section-header-title",
+  "Always keep this menu open." : 
+    "#boards-drawer > div > div.board-drawer-content.fancy-scrollbar > div.js-boards-list-container > a.quiet-button.js-pin",
+  "Don’t keep this menu open." :
+    "#boards-drawer > div > div.board-drawer-content.fancy-scrollbar > div.js-boards-list-container > a.quiet-button.js-unpin",
+  "See closed boards…" :
+    "#boards-drawer > div > div.board-drawer-content.fancy-scrollbar > div.js-boards-list-container > a.quiet-button.js-open-closed-boards",
+  "Closed Boards" :
+    "body > div.window-overlay > div > div > div > div.window-header > h2.window-title",
+  "Re-open" :
+    "body > div.window-overlay > div > div > div > div.window-main-col > div > ul > li > div > a",
+  "You have to have been a board admin to re-open a closed board." :
+    "body > div.window-overlay > div > div > div > div.window-sidebar > p.helper",
+  "No Boards Found" :
+    "#boards-drawer > div > div.board-drawer-content > div.js-board-results-container > ul > p.empty",
+  
+  "Overview" : "#content > div > div > div > a.js-view-org-profile",
   "Boards" : "#header > div.header-boards-button > a > span.header-btn-text",
   "Public" : "#permission-level > span.board-header-btn-text",
   "Languages" : "#content .board-widgets .board-widget-language > h3",
@@ -151,9 +178,6 @@
     "#header > div.header-user > a.header-btn.header-member.js-open-header-member-menu",
   "This member has Trello Gold." :
     "#header > div.header-user > a.header-btn.header-member.js-open-header-member-menu > span.member.has-crown > span.member-gold-badge",
-    
-    
-
   "Go back to your boards page." :
     "#header > a",
   "View list of boards" :
@@ -185,15 +209,25 @@
   "Delete the card and all history associated with it. It can’t be retrieved." :
     "body > div.window-overlay > div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-delete-card",
   "More options share, print, export, and delete." :
-    "body > div.window-overlay > div > div > div > div.window-sidebar > div:nth-child(3) > p > a.quiet-button.js-more-menu"
-
-
-
-
+    "body > div.window-overlay > div > div > div > div.window-sidebar > div:nth-child(3) > p > a.quiet-button.js-more-menu",
+  "Click to star this board. It will show up at top of your boards list." : [
+    "#content > div > div > ul > li > a > span > span.icon-sm.icon-star.js-star-board",
+    "#boards-drawer > div > div.board-drawer-content.fancy-scrollbar > div.js-boards-list-container > div.js-recent-boards > div > ul > li > a > span.span > details.js-star-board"
+  ],
+  "There is new activity on this board." :
+    "#boards-drawer > div > div.board-drawer-content.fancy-scrollbar > div.js-boards-list-container > div > div > ul > li.starred.has-unread-activity > a > span.details > span.unread-indicator.js-unread.any",
+  "Click to star this board. It will show up at top of your boards list." :
+    "#boards-drawer > div > div.board-drawer-content > div.js-boards-list-container > div > div > ul > li > a > span.details > span.js-star-board",
+  "Collapse section." :
+    "#boards-drawer > div > div.board-drawer-content.fancy-scrollbar > div.js-boards-list-container > div > div > p > span.js-collapse-section",
+  "Expand section." :
+    "#boards-drawer > div > div.board-drawer-content.fancy-scrollbar > div.js-boards-list-container > div > div > p > span.js-expand-section"
 },
 "placeholder" : {
   "Write a comment…" :
-  "body > div.window-overlay > div > div > div > div.window-main-col > div > div.new-comment.js-new-comment > textarea.js-new-comment-input"
+    "body > div.window-overlay > div > div > div > div.window-main-col > div > div.new-comment.js-new-comment > textarea.js-new-comment-input",
+  "Find boards by name…" :
+  "#boards-drawer > div > div.board-drawer-content.fancy-scrollbar > input.js-search-boards"
 },
 "substrings" : {
   "added" : [
