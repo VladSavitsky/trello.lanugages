@@ -12,6 +12,8 @@
     "body > div.window-overlay > div > div > div > div.window-sidebar > div > div > a.js-change-card-members"
   ],
   "Calendar" : "#content .board-header .board-header-btns .calendar-btn > span.board-header-btn-text",
+  "Subscribed" : "#content > div > div.board-header.js-board-header > div.board-header-btns > div > span.board-header-btn-text",
+  "Filtering is on." : "#content > div > div.board-header.clearfix.js-board-header > div.board-header-btns > a.board-header-btn.board-header-btn-filter-indicator.js-filter-cards-indicator > span.board-header-btn-text",
   "Activity" : [
     "#content .board-widgets .board-widget-activity > div.board-widget-title > h3",
     "body > div.window-overlay > div > div > div > div.window-main-col > div > div.window-module-title.window-module-title-no-divider > h3"
@@ -92,7 +94,7 @@
   "Notifications" :
     "",
   "Edit the description…" :
-    "body > div.window-overlay > div > div > div > div.window-main-col > div.card-detail-data > div.card-detail-item.card-detail-item-block > p.bottom > a.js-desc-edit",
+    "body > div.window-overlay > div > div > div > div.window-main-col > div.card-detail-data > div.card-detail-item.card-detail-item-block.editable > p.bottom > a.js-hide-with-desc",
   "Labels" : [
      "body > div.window-overlay > div > div > div > div.window-sidebar > div > div > a.js-edit-labels",
      "body > div.window-overlay > div > div > div > div.window-main-col > div.card-detail-data > div.card-detail-item.card-detail-item-labels.js-card-detail-labels > h3"
@@ -132,6 +134,25 @@
     "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget-language > h3",
   "This board is public. It's visible to anyone with the link and will show up in search engines like Google.  Only people added to the board can edit." :
     "#permission-level",
+  "You are filtering cards on this board. Click here to edit filter." :
+    "#content > div > div.board-header.clearfix.js-board-header > div.board-header-btns.right > a.board-header-btn.board-header-btn-filter-indicator.js-filter-cards-indicator",
+  "You are subscribed to this board. You'll get notifications about changes." :
+    "#content > div > div.board-header.js-board-header > div.board-header-btns.right > div.board-header-btn.sub-btn.js-board-header-subscribed",
+  "Click to star or unstar this board. Starred boards show up at the top of your boards list." :
+    "#content > div > div.board-header.clearfix.js-board-header > div.board-header-btns.left > a.board-header-btn.js-star-board.board-header-btn-enabled",
+    
+  "Close the board sidebar." :
+    "#content > div > div.board-widgets > div > a.js-hide-sidebar",
+  "Add a new board or organization." :
+    "#header > div.header-user > a.header-btn.js-open-add-menu",
+  "You are seeing an early, experimental version of Trello. We would love your feedback!" :
+    "#header > div.header-user > a.header-btn.header-btn-feedback.js-open-feedback",
+  "Get access to your profile, help, and log out." :
+    "#header > div.header-user > a.header-btn.header-member.js-open-header-member-menu",
+  "This member has Trello Gold." :
+    "#header > div.header-user > a.header-btn.header-member.js-open-header-member-menu > span.member.has-crown > span.member-gold-badge",
+    
+    
 
   "Go back to your boards page." :
     "#header > a",
@@ -222,7 +243,9 @@
   "to the board" : [
     "div.board-actions-list div.phenom-desc",
     "div.window-overlay > div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc"
-    ]
+    ],
+  "in list" :
+    "body > div.window-overlay > div > div > div > div.window-header > div > div.window-header-inline-content.js-current-list > p.inline-block"
 }
 }
 

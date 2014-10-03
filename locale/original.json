@@ -1,13 +1,19 @@
 {
+"Original string" : "Translation",
+"Version" : "0.2",
+
 "Visible interface" :
 "===========================================",
-"Boards"          : "Boards",
-"Public"          : "Public",
-"Add a list…"     : "Add a list…",
-"Calendar"        : "Calendar",
-"Show sidebar"    : "Show sidebar",
-"Add a card…"     : "Add a card…",
-"Notifications"   : "Notifications",
+"Boards"           : "Boards",
+"Public"           : "Public",
+"Add a list…"      : "Add a list…",
+"Calendar"         : "Calendar",
+"Subscribed"       : "Subscribed",
+"Filtering is on." : "Filtering is on.",
+
+"Show sidebar"     : "Show sidebar",
+"Add a card…"      : "Add a card…",
+"Notifications"    : "Notifications",
 "This board is public. It's visible to anyone with the link and will show up in search engines like Google.  Only people added to the board can edit." :
   "This board is public. It's visible to anyone with the link and will show up in search engines like Google.  Only people added to the board can edit.",
 "Go back to your boards page." :
@@ -16,6 +22,19 @@
   "View list of boards",
 "Rename the board." :
   "Rename the board.",
+"You are filtering cards on this board. Click here to edit filter." :
+  "You are filtering cards on this board. Click here to edit filter.",
+"You are subscribed to this board. You'll get notifications about changes." :
+  "You are subscribed to this board. You'll get notifications about changes.",
+"Click to star or unstar this board. Starred boards show up at the top of your boards list." :
+"Click to star or unstar this board. Starred boards show up at the top of your boards list.",
+"Close the board sidebar." : "Close the board sidebar.",
+"Add a new board or organization." : "Add a new board or organization.",
+"You are seeing an early, experimental version of Trello. We would love your feedback!" : 
+  "You are seeing an early, experimental version of Trello. We would love your feedback!",
+"Get access to your profile, help, and log out." : "Get access to your profile, help, and log out.",
+"This member has Trello Gold." : "This member has Trello Gold.",
+
 
 "Sidebar" :
 "===========================================",
@@ -122,7 +141,6 @@
 "Delete the card and all history associated with it. It can’t be retrieved." :
   "Delete the card and all history associated with it. It can’t be retrieved.",
 "More options share, print, export, and delete." :
-  "More options share, print, export, and delete."
-
-
+  "More options share, print, export, and delete.",
+"in list" : "in list",
 }

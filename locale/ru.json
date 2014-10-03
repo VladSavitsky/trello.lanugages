@@ -1,15 +1,18 @@
 {
 "Original string" : "Translation",
+"Version" : "0.2",
 
 "Visible interface" :
 "===========================================",
-"Boards"          : "Доски",
-"Public"          : "Общая",
-"Add a list…"     : "Добавить список…",
-"Calendar"        : "Календарь",
-"Show sidebar"    : "Показать меню",
-"Add a card…"     : "Добавить карточку…",
-"Notifications"   : "Уведомления",
+"Boards"           : "Доски",
+"Public"           : "Общая",
+"Add a list…"      : "Добавить список…",
+"Calendar"         : "Календарь",
+"Subscribed"       : "Подписка",
+"Filtering is on." : "Фильтрация включена.",
+"Show sidebar"     : "Показать меню",
+"Add a card…"      : "Добавить карточку…",
+"Notifications"    : "Уведомления",
 "This board is public. It's visible to anyone with the link and will show up in search engines like Google.  Only people added to the board can edit." :
   "Эта доска общедоступна. Она видна всем, у кого есть ссылки и будет показана в результатах поиска поисковых систем типа Google. Только люди, которые были добавлены могут редактировать эту доску.",
 "Go back to your boards page." :
@@ -18,6 +21,19 @@
   "Смотреть список досок",
 "Rename the board." :
   "Переименовать доску.",
+"You are filtering cards on this board. Click here to edit filter." :
+  "Показаны не все карточки на этой доске. Кликните, чтобы изменить условия фильтрации.",
+"You are subscribed to this board. You'll get notifications about changes." :
+  "Вы подписаны на изменения на этой доске. Вы получите уведомления обо всех изменениях.",
+"Click to star or unstar this board. Starred boards show up at the top of your boards list." :
+  "Кликните, чтобы добавить доску в избренное или убрать. Доски, помеченные звездочкой показываются над всеми досками в списке.",
+"Close the board sidebar." : "Закрыть меню.",
+"Add a new board or organization." : "Создать новую доску или организацию.",
+"You are seeing an early, experimental version of Trello. We would love your feedback!" : 
+  "Вы выдите раннюю экспериментальную версию Trello. Нам очень нужны ваши отзывы!",
+"Get access to your profile, help, and log out." : "Доступ к профилю, помощи и выход.",
+"This member has Trello Gold." : "У этого человека Trello Gold.",
+
 
 "Sidebar" :
 "===========================================",
@@ -33,7 +49,7 @@
 
 "Power-Ups" : "Улучшения",
 "Stickers" : "Стикеры",
-"Filter Cards" : "Поиск",
+"Filter Cards" : "Фильтровать карточки",
 "Archived Items" : "Архивные карточки",
 "Change Background…" : "Изменить фон…",
 "Email-to-board Settings…" : "Email-публикация…",
@@ -124,5 +140,6 @@
 "Delete the card and all history associated with it. It can’t be retrieved." :
   "Удалить карточку и всю историю изменений. Это действие нельзя будет отменить.",
 "More options share, print, export, and delete." :
-  "Больше возможностей для печати, экспорта, удаления и расшаривания."
+  "Больше возможностей для печати, экспорта, удаления и расшаривания.",
+"in list" : "из списка"
 }
