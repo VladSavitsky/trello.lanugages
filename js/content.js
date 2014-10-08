@@ -6,22 +6,6 @@
 (function() {
   // Flag which allow to show various messages in console.
   var debug = true;
-
-  /**
-   * Check if JSON file was loaded and given object not empty.
-   * @param filename string Filename which stores JSON data.
-   * @param entity Object An Object which should be checked.
-   */
-  function isEmpty(filename, entity) {
-    console.log(filename, entity);
-    if (jQuery.isEmptyObject(entity)) {
-      console.log(entity);
-      if (debug) {console.log(filename + '.json file is missing or broken. Please check.')};
-      return true;
-    }
-    return false;
-  }
-
   // Replace strings at page using mapping from translation object.
   function l10n(element) {
     // TODO: Translate only new DOM elements.
@@ -193,5 +177,20 @@
     });
     return result;
   }
+
+  /**
+   * Check if JSON file was loaded and given object not empty.
+   * @param filename string Filename which stores JSON data.
+   * @param entity Object An Object which should be checked.
+   * @return Returns TRUE if entity is an empty object and FALSE otherwise.
+   */
+  function isEmpty(filename, entity) {
+    if (jQuery.isEmptyObject(entity)) {
+      if (debug) {console.log(filename + '.json file is missing or broken. Please check.')};
+      return true;
+    }
+    return false;
+  }
+
 
 }) ();
