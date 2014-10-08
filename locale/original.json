@@ -2,6 +2,67 @@
 "Original string" : "Translation",
 "Version" : "0.2",
 
+
+"Calendar window" :
+"=============================================",
+"Today" : "Today",
+"Week" : "Week",
+"Month" : "Month",
+"Sun" : "Sun",
+"Mon" : "Mon",
+"Tue" : "Tue",
+"Wed" : "Wed",
+"Thu" : "Thu",
+"Fri" : "Fri",
+"Sat" : "Sat",
+
+"January" : "January",
+"February" : "February",
+"March" : "March",
+"April" : "April",
+"May" : "May",
+"June" : "June",
+"July" : "July",
+"August" : "August",
+"September" : "September",
+"October" : "October",
+"November" : "November",
+"December" : "December",
+
+"Jan" : "Jan",
+"Feb" : "Feb",
+"Mar" : "Mar",
+"Apr" : "Apr",
+"May" : "May",
+"Jun" : "Jun",
+"Jul" : "Jul",
+"Aug" : "Aug",
+"Sep" : "Sep",
+"Oct" : "Oct",
+"Nov" : "Nov",
+"Dec" : "Dec",
+
+"Search window" :
+"=============================================",
+"Saved Searches" : "Saved Searches",
+"Your search produced an error." : "Your search produced an error.",
+"Searching…" : "Searching…",
+"No results." : "No results.",
+"Refine your search with operators like @member, #label, is:archived, and has:attachments." :
+  "Refine your search with operators like @member, #label, is:archived, and has:attachments.",
+"Learn more…" : "Learn more…",
+"Cards" : "Cards",
+"Loading…" : "Loading…",
+"Show more boards…" : "Show more boards…",
+"Show more members…" : "Show more members…",
+"Organizations" : "Organizations",
+"Show more organizations…" : "Show more organizations…",
+"Back to Saved Searches" : "Back to Saved Searches",
+"Save this Search" : "Save this Search",
+"Did you mean…" : "Did you mean…",
+"Only include cards that have stickers." : "Only include cards that have stickers.",
+
+
 "Visible interface" :
 "===========================================",
 "Starred Boards" : "Starred Boards",
@@ -18,7 +79,7 @@
 "Expand section." : "Expand section.",
 "Closed Boards" : "Closed Boards",
 "Re-open" : "Re-open",
-"You have to have been a board admin to re-open a closed board." : 
+"You have to have been a board admin to re-open a closed board." :
   "You have to have been a board admin to re-open a closed board.",
 "No Boards Found" : "No Boards Found",
 
@@ -48,12 +109,14 @@
 "Click to star or unstar this board. Starred boards show up at the top of your boards list.",
 "Close the board sidebar." : "Close the board sidebar.",
 "Add a new board or organization." : "Add a new board or organization.",
-"You are seeing an early, experimental version of Trello. We would love your feedback!" : 
+"You are seeing an early, experimental version of Trello. We would love your feedback!" :
   "You are seeing an early, experimental version of Trello. We would love your feedback!",
 "Get access to your profile, help, and log out." : "Get access to your profile, help, and log out.",
 "This member has Trello Gold." : "This member has Trello Gold.",
 "Click to star this board. It will show up at top of your boards list." :
   "Click to star this board. It will show up at top of your boards list.",
+"Search for boards, cards, members, and organizations." :
+  "Search for boards, cards, members, and organizations.",
 
 "Sidebar" :
 "===========================================",
@@ -136,6 +199,7 @@
 "Share and more…" : "Share and more…",
 "Send to board" : "Send to board",
 "Drop files to upload." : "Drop files to upload.",
+"Due Date" : "Due Date",
 
 "Add or remove members of the board from the card." :
   "Add or remove members of the board from the card.",

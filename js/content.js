@@ -83,6 +83,8 @@
     }
   });
 
+ // TODO: (high priority) reduce number of l10n() calls.
+
   // This element appears last at page and we use it to add the Menu to page and set status for each List.
   $('#board .list form .js-open-add-list').waitUntilExists(function() {l10n()});
   // List's context menu.
@@ -102,7 +104,10 @@
   // Closed boards window.
   $('body > div.window-overlay > div > div > div > div.window-sidebar > p.helper').waitUntilExists(function() {l10n()});
 //  $('body > div.window-overlay > div > div > div > div.window-main-col > div > ul > li > div > a').waitUntilExists(function() {l10n()});
-
+  // Search window.
+  $('body > div.pop-over.search-over > div.content.js-tab-parent > div > p.search-warning.js-err').waitUntilExists(function() {l10n()});
+  // Caledar window.
+  $('#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-content > div').waitUntilExists(function() {l10n()});
 
 
   function renderLanguageMenu(selectedLanguage) {

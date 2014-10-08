@@ -2,6 +2,66 @@
 "Original string" : "Translation",
 "Version" : "0.2",
 
+"Calendar window" :
+"=============================================",
+"Today" : "Сегодня",
+"Week" : "Неделя",
+"Month" : "Месяц",
+"Sun" : "ВС",
+"Mon" : "ПН",
+"Tue" : "ВТ",
+"Wed" : "СР",
+"Thu" : "ЧТ",
+"Fri" : "ПТ",
+"Sat" : "СБ",
+
+"January" : "Январь",
+"February" : "Февраль",
+"March" : "Март",
+"April" : "Апрель",
+"May" : "Май",
+"June" : "Июнь",
+"July" : "Июль",
+"August" : "Август",
+"September" : "Сентябрь",
+"October" : "Октябрь",
+"November" : "Ноябрь",
+"December" : "Декабрь",
+
+"Jan" : "Янв",
+"Feb" : "Фев",
+"Mar" : "Мар",
+"Apr" : "Апр",
+"May" : "Май",
+"Jun" : "Июн",
+"Jul" : "Июл",
+"Aug" : "Авг",
+"Sep" : "Сен",
+"Oct" : "Окт",
+"Nov" : "Ноя",
+"Dec" : "Дек",
+
+"Search window" :
+"=============================================",
+"Saved Searches" : "Сохранённые запросы",
+"Your search produced an error." : "Ваш поиск вызвал ошибку.",
+"Searching…" : "Ищем…",
+"No results." : "Ничего не найдено.",
+"Refine your search with operators like @member, #label, is:archived, and has:attachments." :
+  "Уточните ваш поиск с помощью операторов @человек, #тег, is:archived и has:attachments.",
+"Learn more…" : "Узнать больше…",
+"Cards" : "Карточки",
+"Loading…" : "Идёт загрузка…",
+"Show more boards…" : "Показать больше досок…",
+"Show more members…" : "Показать больше людей…",
+"Organizations" : "Организации",
+"Show more organizations…" : "Показать больше организаций…",
+"Back to Saved Searches" : "Вернуться к сохранённым запросам",
+"Save this Search" : "Сохранить этот запрос",
+"Did you mean…" : "Что-то типа…",
+"Only include cards that have stickers." : "Только карточки со стикерами.",
+
+
 "Visible interface" :
 "===========================================",
 "Starred Boards" : "Любимые доски",
@@ -17,7 +77,7 @@
 "Expand section." : "Раскрыть раздел.",
 "Closed Boards" : "Закрытые доски",
 "Re-open" : "Переоткрыть",
-"You have to have been a board admin to re-open a closed board." : 
+"You have to have been a board admin to re-open a closed board." :
   "Вы должны быть администратором, чтобы снова открывать закрытые доски.",
 "No Boards Found" : "Доски не найдены",
 
@@ -46,12 +106,14 @@
   "Кликните, чтобы добавить доску в избренное или убрать. Доски, помеченные звездочкой показываются над всеми досками в списке.",
 "Close the board sidebar." : "Закрыть меню.",
 "Add a new board or organization." : "Создать новую доску или организацию.",
-"You are seeing an early, experimental version of Trello. We would love your feedback!" : 
+"You are seeing an early, experimental version of Trello. We would love your feedback!" :
   "Вы выдите раннюю экспериментальную версию Trello. Нам очень нужны ваши отзывы!",
 "Get access to your profile, help, and log out." : "Доступ к профилю, помощи и выход.",
 "This member has Trello Gold." : "У этого человека Trello Gold.",
 "Click to star this board. It will show up at top of your boards list." :
   "Кликните, чтобы добавить доску в любимые. Доска будет показана на самом верху списка всех досок.",
+"Search for boards, cards, members, and organizations." :
+  "Поиск досок, карточек, людей и организаций.",
 
 "Sidebar" :
 "===========================================",
@@ -134,6 +196,7 @@
 "Share and more…" : "Шарить и др.…",
 "Send to board" : "Вернуть на доску",
 "Drop files to upload." : "Бросьте файлы для загрузки.",
+"Due Date" : "Конечный срок",
 
 "Add or remove members of the board from the card." :
   "Добавить или удалить людей этой доски к карточке.",
