@@ -4,22 +4,34 @@
 // TODO: Fix bug with 'Subscribe' with check icon in the text.
 
 (function() {
+  // Flag which allow to show various messages in console.
+  var debug = true;
+
+  /**
+   * Check if JSON file was loaded and given object not empty.
+   * @param filename string Filename which stores JSON data.
+   * @param entity Object An Object which should be checked.
+   */
+  function isEmpty(filename, entity) {
+    console.log(filename, entity);
+    if (jQuery.isEmptyObject(entity)) {
+      console.log(entity);
+      if (debug) {console.log(filename + '.json file is missing or broken. Please check.')};
+      return true;
+    }
+    return false;
+  }
 
   // Replace strings at page using mapping from translation object.
   function l10n(element) {
-    console.log(element);
-    if (jQuery.isEmptyObject(mapping)) {
-      console.log('mapping.json file is broken.');
-      return;
-    }
-    if ($.isEmptyObject(translation)) {
-      console.log(selectedLanguage + ' translation is missing.');
+    // TODO: Translate only new DOM elements.
+    if (isEmpty('mapping', mapping) || isEmpty('original', original) || isEmpty('translation', translation)) {
       return;
     }
     $.each(mapping, function(type, data) {
       $.each(data, function(code, selectors) {
         if (!translation[code]) {
-          console.log('There is no translation for "' + code + '" in ' + selectedLanguage);
+          if (debug) console.log('There is no translation for "' + code + '" in ' + selectedLanguage);
           return;
         }
         // Convert strings to arrays to minimize code.
@@ -61,6 +73,7 @@
 
   // Load mapping data.
   var mapping = getFile(chrome.extension.getURL('/mapping.json'));
+  var original = getFile(chrome.extension.getURL('/locale/original.json'));
   var selectedLanguage = translation = null;
   // Get stored selected language and load translation. Default language is 'en'.
   chrome.storage.sync.get({'selectedLanguage': 'en'}, function (data) {
@@ -151,9 +164,7 @@
       $(this).find('.icon-check').show();
       // Get translation.
       translation = getFile(chrome.extension.getURL('/locale/' + selectedLanguage + '.json'));
-      if ($.isEmptyObject(translation)) {
-        console.log(selectedLanguage + '.json file is broken or missing.');
-      }
+      if (debug && $.isEmptyObject(translation)) console.log(selectedLanguage + '.json file is broken or missing.');
       // Remove all markers about translation.
       $('[data-language]').removeAttr('data-language');
       // Translate page.
