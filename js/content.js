@@ -34,8 +34,6 @@
         if ($.type(selectors) === 'string') selectors = selectors.split();
         $.each(selectors, function(index, cssPath) {
           var $element = $(cssPath);
-          // Get/Store original translation.
-          $originalTag = getOriginalTag($element, code);
 
           // TODO: Check if element has correct cssPath. Note: some elements are not exists at page all the time.
           if (type == 'title' || type == 'placeholder') {
@@ -46,6 +44,8 @@
             // TODO: Fix strings with plurals here. See Notification icon.
           } else if (type == 'html') {
             $.each($element, function() {
+              // Get/Store original translation.
+              $originalTag = getOriginalTag($element, code);
               $(this).html(function(index, html) {
                 return html.replace($(this).text().trim(), translation[code]);
               });
@@ -122,7 +122,7 @@
 
   function renderLanguageMenu(selectedLanguage) {
     // TODO: Dynamically build list of existing languages.
-    var languages = {'en' : 'English', 'ru' : 'Russian', 'uk' : 'Ukrainian'};
+    var languages = {'en' : 'English', 'ru' : 'Russian', 'uk' : 'Ukrainian', 'it' : 'Italian'};
     var li = '<hr style="margin-top: 0;">';
     var checkIcon = '<span class="icon-sm icon-check"/>';
     $.each(languages, function (code, name) {
