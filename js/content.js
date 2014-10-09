@@ -6,6 +6,18 @@
 (function() {
   // Flag which allow to show various messages in console.
   var debug = true;
+
+
+
+  function getOriginalTag($element, code) {
+    var className = 'language-source-text'
+    var $tag = $element.find('.' + className + '[data-original="' + original[code] + '"]');
+    if (!$tag.length) {
+      $tag = $('<span />').addClass(className).addClass('hide').attr('data-original', original[code]);
+    }
+    return $tag;
+  }
+
   // Replace strings at page using mapping from translation object.
   function l10n(element) {
     // TODO: Translate only new DOM elements.
@@ -19,11 +31,12 @@
           return;
         }
         // Convert strings to arrays to minimize code.
-        if ($.type(selectors) === 'string') {
-          selectors = selectors.split();
-        }
+        if ($.type(selectors) === 'string') selectors = selectors.split();
         $.each(selectors, function(index, cssPath) {
           var $element = $(cssPath);
+          // Get/Store original translation.
+          $originalTag = getOriginalTag($element, code);
+
           // TODO: Check if element has correct cssPath. Note: some elements are not exists at page all the time.
           if (type == 'title' || type == 'placeholder') {
             // Do not check 'data-language' attribute because some elements should be translated
