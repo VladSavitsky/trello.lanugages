@@ -1,0 +1,61 @@
+{
+"Visible interface" : "",
+  "Boards"          : "Tavole",
+  "Public"          : "Publico",
+  "Add a list…"     : "Aggiungi una lista",
+  "Calendar"        : "Calendario",
+  "Show sidebar"    : "Mostra Barra",
+  "Add a card…"     : "Aggiungi una scheda",
+  "Notifications"   : "Notifiche",
+  "This board is public. It's visible to anyone with the link and will show up in search engines like Google.  Only people added to the board can edit." :
+    "This board is public. It's visible to anyone with the link and will show up in search engines like Google.  Only people added to the board can edit.",
+  "Go back to your boards page." :
+    "Torna indietro alle tavole.",
+  "View list of boards" :
+    "Guarda le tavole",
+  "Rename the board." :
+    "Rinomina tavola.",
+
+"Sidebar" : "",
+  "Languages"       : "Linguaggi",
+  "Menu"            : "Menu",
+  "Add Members"     : "Aggiungi Membri",
+  "Members"         : "Membri",
+  "Activity"        : "Attività",
+  "Click here to see more board options." :
+    "Clicca qui per vedere maggiori opzioni.",
+  "Click here to see more available languages." :
+    "Clicca qui per vedere in altre lingue.",
+
+"List actions pop-up" : "",
+  "List Actions"    : "Lista azioni",
+  "Add Card…"       : "Aggiungi Scheda…",
+  "Copy List…"      : "Copia Lista…",
+  "Move List…"      : "Muovi Lista…",
+  "Subscribe"       : "Iscriviti",
+  "Archive All Cards in this List?" : "Archiviare Tutte le Schede in questa Lista?",
+
+"Card's context menu" : "",
+  "Edit Labels" : "Modifica Etichette",
+
+"Forms" : "",
+  "Add" : "Aggiungi",
+
+  "added" : "aggiunto",
+    "to" : "a",
+    "and" : "e",
+    "joined" : "si è unito",
+    "moved" : "trasferito",
+    "from" : "da",
+    "archived" : "archiviato",
+    "renamed" : "rinominato",
+    "this board" : "questa tavola",
+    "attached" : "allegato",
+    "sent" : "inviato",
+    "to the board" : "alla tavola",
+
+"Card edit window" :
+"===========================================",
+"Edit the description…" : "Modifica la descrizione…"
+
+}
