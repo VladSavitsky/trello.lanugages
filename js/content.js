@@ -2,28 +2,17 @@
 // TODO: add language names http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
 // TODO: Add card creation form to wait it's appearence.
 // TODO: Fix bug with 'Subscribe' with check icon in the text.
+// TODO: store translations at server.
 
 (function() {
-  // Flag which allow to show various messages in console.
-  var debug = true;
+  // Set Development Environment Flag which allows to show various messages in console.
+  var debug = chrome.extension.getURL('/manifest.json').indexOf('alhoallabckfhacphbkkideohcgbchhl') <= 0;
 
-
-
-  function getOriginalTag($element, code) {
-    var className = 'language-source-text'
-    var $tag = $element.find('.' + className + '[data-original="' + original[code] + '"]');
-    if (!$tag.length) {
-      $tag = $('<span />').addClass(className).addClass('hide').attr('data-original', original[code]);
-    }
-    return $tag;
-  }
 
   // Replace strings at page using mapping from translation object.
   function l10n(element) {
     // TODO: Translate only new DOM elements.
-    if (isEmpty('mapping', mapping) || isEmpty('original', original) || isEmpty('translation', translation)) {
-      return;
-    }
+    if (isEmpty('mapping', mapping) || isEmpty('original', original) || isEmpty('translation', translation)) return;
     $.each(mapping, function(type, data) {
       $.each(data, function(code, selectors) {
         if (!translation[code]) {
@@ -34,8 +23,6 @@
         if ($.type(selectors) === 'string') selectors = selectors.split();
         $.each(selectors, function(index, cssPath) {
           var $element = $(cssPath);
-
-          // TODO: Check if element has correct cssPath. Note: some elements are not exists at page all the time.
           if (type == 'title' || type == 'placeholder') {
             // Do not check 'data-language' attribute because some elements should be translated
             // several times. Eg., title and inner HTML.
@@ -45,23 +32,27 @@
           } else if (type == 'html') {
             $.each($element, function() {
               // Get/Store original translation.
-              $originalTag = getOriginalTag($element, code);
               $(this).html(function(index, html) {
                 return html.replace($(this).text().trim(), translation[code]);
               });
             });
           } else if (type == 'form elements') {
             $.each($element, function() {
-              if (!$element.attr('data-language')) {
-                $element.val(translation[code]).attr('data-language', selectedLanguage);
-              }
+              $element.val(translation[code]);
             });
           } else if (type == 'substrings') {
-            // Don't check 'data-language' attribute here because of translation could be
-            // applied several times to the same elements.
-            $element.html(function(index, html) {
-              return html.replace(code, translation[code]);
-            });
+            // First we need to check if there is a span tag with original string.
+            // If tag exists we simply replace it's content with new translation.
+            var $tag = $element.children('.language-source-text[data-original="' + original[code] + '"]').html(translation[code]);
+            if (!$tag.length > 0) {
+              // There is no tag and we should wrap substring with SPAN tag to store original sring.
+              // This should be done to allow translations to another languages.
+              $tag = $('<span />').addClass('language-source-text').attr('data-original', original[code]).html(translation[code]);
+              // Replace substring with special tag.
+              $element.html(function(index, html) {
+                return html.replace(code, $tag[0].outerHTML);
+              });
+            }
           }
         });
       });
