@@ -1,8 +1,6 @@
 {
 "html" : {
 
-
-
 "Calendar" : "#content .board-header .board-header-btns .calendar-btn > span.board-header-btn-text",
 "Today" :
   "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.calendar-header-toolbar > div.calendar-header-toolbar-today > a.button-link.today-button.js-today",

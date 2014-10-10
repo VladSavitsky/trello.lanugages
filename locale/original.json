@@ -1,6 +1,6 @@
 {
 "Original string" : "Translation",
-"Version" : "0.2",
+"Version" : "0.3",
 
 
 "Calendar window" :
@@ -228,7 +228,7 @@
 "in list" : "in list",
 
 
-"version" : "0.3",
+"version" : "0.3.1",
 "Change Notification Email Frequency" : "Change Notification Email Frequency",
 "See All Notifications" : "See All Notifications"
 
