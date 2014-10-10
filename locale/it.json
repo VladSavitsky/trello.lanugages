@@ -1,61 +1,228 @@
 {
-"Visible interface" : "",
-  "Boards"          : "Tavole",
-  "Public"          : "Publico",
-  "Add a list�"     : "Aggiungi una lista",
-  "Calendar"        : "Calendario",
-  "Show sidebar"    : "Mostra Barra",
-  "Add a card�"     : "Aggiungi una scheda",
-  "Notifications"   : "Notifiche",
-  "This board is public. It's visible to anyone with the link and will show up in search engines like Google.  Only people added to the board can edit." :
-    "This board is public. It's visible to anyone with the link and will show up in search engines like Google.  Only people added to the board can edit.",
-  "Go back to your boards page." :
-    "Torna indietro alle tavole.",
-  "View list of boards" :
-    "Guarda le tavole",
-  "Rename the board." :
-    "Rinomina tavola.",
+"Original string" : "Translation",
+"Version" : "0.2",
 
-"Sidebar" : "",
-  "Languages"       : "Linguaggi",
-  "Menu"            : "Menu",
-  "Add Members"     : "Aggiungi Membri",
-  "Members"         : "Membri",
-  "Activity"        : "Attivit�",
-  "Click here to see more board options." :
-    "Clicca qui per vedere maggiori opzioni.",
-  "Click here to see more available languages." :
-    "Clicca qui per vedere in altre lingue.",
 
-"List actions pop-up" : "",
-  "List Actions"    : "Lista azioni",
-  "Add Card�"       : "Aggiungi Scheda�",
-  "Copy List�"      : "Copia Lista�",
-  "Move List�"      : "Muovi Lista�",
-  "Subscribe"       : "Iscriviti",
-  "Archive All Cards in this List?" : "Archiviare Tutte le Schede in questa Lista?",
+"Calendar window" :
+"=============================================",
+"Today" : "Oggi",
+"Week" : "Settimana",
+"Month" : "Mese",
+"Sun" : "Lun",
+"Mon" : "Mar",
+"Tue" : "Mer",
+"Wed" : "Gio",
+"Thu" : "Ven",
+"Fri" : "Sab",
+"Sat" : "Dom",
 
-"Card's context menu" : "",
-  "Edit Labels" : "Modifica Etichette",
+"January" : "Gennaio",
+"February" : "Febbraio",
+"March" : "Marzo",
+"April" : "Aprile",
+"May" : "Maggio",
+"June" : "Giugno",
+"July" : "Luglio",
+"August" : "Agosto",
+"September" : "Settembre",
+"October" : "Ottobre",
+"November" : "Novembre",
+"December" : "Dicembre",
 
-"Forms" : "",
-  "Add" : "Aggiungi",
+"Jan" : "Gen",
+"Feb" : "Feb",
+"Mar" : "Mar",
+"Apr" : "Apr",
+"May" : "Mag",
+"Jun" : "Giu",
+"Jul" : "Lug",
+"Aug" : "Ago",
+"Sep" : "Set",
+"Oct" : "Ott",
+"Nov" : "Nov",
+"Dec" : "Dic",
 
-  "added" : "aggiunto",
-    "to" : "a",
-    "and" : "e",
-    "joined" : "si � unito",
-    "moved" : "trasferito",
-    "from" : "da",
-    "archived" : "archiviato",
-    "renamed" : "rinominato",
-    "this board" : "questa tavola",
-    "attached" : "allegato",
-    "sent" : "inviato",
-    "to the board" : "alla tavola",
+"Search window" :
+"=============================================",
+"Saved Searches" : "Ricerche salvate",
+"Your search produced an error." : "La ricerca ha prodotto un errore.",
+"Searching…" : "Ricerca in corso…",
+"No results." : "Nessun risultato.",
+"Refine your search with operators like @member, #label, is:archived, and has:attachments." :
+  "Raffina la tua ricerca usando ad esempio @utente, #etichetta, is:archiviato, e has:allegato.",
+"Learn more…" : "Scopri di più…",
+"Cards" : "Schede",
+"Loading…" : "Carico…",
+"Show more boards…" : "Mostrami altre schede…",
+"Show more members…" : "Mostrami altri utenti…",
+"Organizations" : "Organizzazioni",
+"Show more organizations…" : "Mostrami altre organizzazioni…",
+"Back to Saved Searches" : "Torna alle ricerche salvate",
+"Save this Search" : "Salva questa ricerca",
+"Did you mean…" : "Forse intendevi…",
+"Only include cards that have stickers." : "Includi solo le schede che hanno adesivi.",
+
+
+"Visible interface" :
+"===========================================",
+"Starred Boards" : "Tavole Preferite",
+"My Boards" : "Mie Tavole",
+"Overview" : "Panoramica",
+"Recent Boards" : "Tavole recenti",
+
+"Always keep this menu open." : "Tieni sempre aperto questo menu'.",
+"Dont keep this menu open." : "Non tenere questo menu' aperto.",
+"See closed boards…" : "Guarda le tavole chiuse…",
+"Find boards by name…" : "Trova tavole dal nome…",
+"There is new activity on this board." : "Ci sono nuove attivita' su questa tavola.",
+"Collapse section." : "Nascondi sezione.",
+"Expand section." : "Mostra sezione.",
+"Closed Boards" : "Chiudi le Tavole",
+"Re-open" : "Ri-apri",
+"You have to have been a board admin to re-open a closed board." :
+  "Devi essere un Amministratore per ri-aprire una tavola chiusa",
+"No Boards Found" : "Nessuna Tavola trovata",
+"Boards"           : "Tavola",
+"Public"           : "Pubblico",
+"Add a list…"      : "Aggiungi a un elenco…",
+"Calendar"         : "Calendario",
+"Subscribed"       : "Iscriviti",
+"Filtering is on." : "Filtro attivato",
+
+"Show sidebar"     : "Mostra la barra laterale",
+"Add a card…"      : "Aggiungi una scheda…",
+"Notifications"    : "Notifiche",
+"This board is public. It's visible to anyone with the link and will show up in search engines like Google.  Only people added to the board can edit." :
+  "Questa tavola e' pubblica.E' visibile a tutti e puo' essere vista sui motori di ricerca come Google. Solo le persone aggiunte possono modificarla.",
+"Go back to your boards page." :
+  "Torna alla pagina delle Tavole.",
+"View list of boards" :
+  "Vedi la lista delle tavole",
+"Rename the board." :
+  "Rinomina la tavola",
+"You are filtering cards on this board. Click here to edit filter." :
+  "Stai filtrando le schede su questa tavola. Clicca qui per cambiare i filtri.",
+"You are subscribed to this board. You'll get notifications about changes." :
+  "Sei iscritto a questa tavola. Riceverai delle notifiche sui cambiamenti.",
+"Click to star or unstar this board. Starred boards show up at the top of your boards list." :
+"Clicca per aggiungere o rimuovere ai Preferiti questa tavola. Le tavole preferite saranno in cima alla lista.",
+"Close the board sidebar." : "Chiudi la barra laterale.",
+"Add a new board or organization." : "Aggiungi una nuova tavola o un'organizzazione.",
+"You are seeing an early, experimental version of Trello. We would love your feedback!" :
+  "Stai usando una prima versione, sperimentale di Trello.Noi amiamo ricevere i vostri feedback!.",
+"Get access to your profile, help, and log out." : "Accedi al tuo profilo, alla guida o esci.",
+"This member has Trello Gold." : "Questo membro ha la versione Trello Gold.",
+"Click to star this board. It will show up at top of your boards list." :
+  "Clicca per mettere la Stella a questa tavola.Sarà sempre in cima alla lista.",
+"Search for boards, cards, members, and organizations." :
+  "Cerca per tavole, schede, utenti, e organizzazioni.",
+
+"Sidebar" :
+"===========================================",
+"Languages"       : "Lingua",
+"Menu"            : "Menu",
+"Add Members"     : "Aggiungi Utenti",
+"Members"         : "Utenti",
+"Activity"        : "Attivita'",
+"Click here to see more board options." :
+  "Clicca qui per vedere maggiori opzioni sulla tavola.",
+"Click here to see more available languages." :
+  "Clicca qui per vedere altre lingue disponibili.",
+
+"Power-Ups" : "Funzioni Speciali",
+"Stickers" : "Adesivi",
+"Filter Cards" : "Filtra le schede",
+"Archived Items" : "Elementi Archiviati",
+"Change Background…" : "Cambia sfondo…",
+"Email-to-board Settings…" : "Impostazioni invia-via-Email…",
+"Copy Board…" : "Copia Tavola…",
+"Share, Print, and Export…" : "Condividi, Stampa, Esporta…",
+"Additional Settings…" : "Ulteriori Impostazioni...",
+"Close Board…" : "Chiudi Tavola…",
+"Leave Board…" : "Abbandona Tavola…",
+
+"List actions pop-up" :
+"===========================================",
+"List Actions"    : "Elenco Attivita'",
+"Add Card…"       : "Aggiungi Scheda…",
+"Copy List…"      : "Copia Elenco…",
+"Move List…"      : "Muovi Elenco…",
+"Subscribe"       : "Iscriviti",
+"Move All Cards in This List…"    : "Sposta tutte le schede in questo elenco…",
+"Archive All Cards in This List…" : "Archivia tutte le schede in questo elenco…",
+"Archive This List"               : "Archivia questo elenco",
+
+"Card's context menu" :
+"===========================================",
+"Edit Labels"     : "Modifica Etichetta",
+"Change Members"  : "Cambia Utenti",
+"Move"            : "Muovi",
+"Copy"            : "Copia",
+"Change Due Date" : "Cambia Data di Scadenza",
+"Archive"         : "Archivia",
+
+"Form elements" :
+"===========================================",
+"Add"             : "Aggiungi",
+
+"Activity Substrings" :
+"===========================================",
+"added"           : "aggiungi",
+"to"              : "a",
+"and"             : "e",
+"joined"          : "si è unito",
+"moved"           : "ha spostato",
+"from"            : "da",
+"archived"        : "archiviato",
+"renamed"         : "rinominato",
+"this board"      : "questa tavola",
+"attached"        : "allegato",
+"sent"            : "spedito",
+"to the board"    : "verso la tavola",
 
 "Card edit window" :
 "===========================================",
-"Edit the description�" : "Modifica la descrizione�"
+"Edit the description…" : "Modifica la descrizione…",
+"Write a comment…" : "Scrivi un commento…",
+"Save" : "Salva",
+"Actions" : "Azioni",
+"Labels": "Etichette",
+"Checklist" : "Check list",
+"Due date" : "Data di Scadenza",
+"Attachment" : "Allegato",
+"Move" : "Muovi",
+"Copy" : "Copia",
+"Subscribe" : "Iscriviti",
+"Archive" : "Archivia",
+"Delete" : "Elimina",
+"Share and more…" : "Condividi e altro…",
+"Send to board" : "Invia alla tavola",
+"Drop files to upload." : "Trascina i files per l'upload.",
+"Due Date" : "Data di Scadenza",
 
+"Add or remove members of the board from the card." :
+  "Aggiungi o rimuovi utenti alla tavola dalla scheda.",
+"Change the labels for the card." :
+  "Cambia l'etichetta per la scheda.",
+"Add a checklist and divide the card into subtasks." :
+  "Aggiungi la checklist e dividi la scheda in sotto-compiti.",
+"Add a due date for the card and get notifications when it is almost due." :
+  "Aggiungi una data di scadenza per la scheda e ricevi le notifiche quando si avvicina la scadenza.",
+"Attach files from your computer or from Google Drive. You can also drag'n'drop files from your desktop to upload them." :
+  "Allega file dal tuo computer o da Google Drive. Puoi anche trascinare e incollare i file direttamente dal tuo desktop per farli caricare.",
+"Move the card to another board, another list, or a new position in a list" :
+  "Sposta la scheda su un'altra Tavola, un altro elenco, o una nuova posizione sull'elenco",
+"Make a copy of this card, optionally include checklist, labels, members, attachments, etc." :
+  "Fai una copia di questa scheda, puoi includere la checklist, le etichette, gli utenti, gli allegati, ecc.",
+"Subscribe to the card to get notifications when something changes." :
+  "Iscriviti alla scheda e ricevi le notifiche quando ci sono cambiamenti.",
+"Remove the card from the board." :
+  "Rimuovi la scheda dalla tavola.",
+"Send the card back to the board." :
+  "Invia la scheda alla tavola.",
+"Delete the card and all history associated with it. It cant be retrieved." :
+  "Cancella la scheda e tutta la cronologia relativa. Puo' essere comunque recuperata.",
+"More options share, print, export, and delete." :
+  "Altre opzioni: condividi, stampa, esporta, e cancella.",
+"in list" : "in elenco"
 }
