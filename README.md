@@ -17,18 +17,33 @@ We translate values of HTML tags, tip (mostly 'title' attributes of A tags) and 
 
 # How to translate trello.com into your language.
 
-1. Download file `/locale/original.json`
-2. Find your language code in ISO 639-1. See http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
-3. Rename recently downloaded file using language code. For example, 'original.json' become 'ru.json'.
-4. Open this file in your favorite editor and translate it. For example,
-  "Boards" : "place translation here"
-5. Send translated file to vlad.savitsky@gmail.com.
+## Using Online Editor.
+
+1. Open your favorite online JSON editor or http://www.jsoneditoronline.org/.
+2. Select 'Open/Open url' in top menu.
+3. Insert URL: https://raw.githubusercontent.com/VladSavitsky/trello.lanugages/master/locale/original.json
+4. Translate strings using 'original string' : 'translation' pattern. See https://github.com/VladSavitsky/trello.lanugages/blob/master/locale/ru.json
+5. If you're happy with translation - press 'Save'. File will be downloaded to your computer.
+6. Send translated file to vlad.savitsky@gmail.com. Thanks a lot! Your translation will be published with next version of extension and updated automatically at all computers.
+
+## Using your favorite editor at local computer.
+
+1. Download file https://raw.githubusercontent.com/VladSavitsky/trello.lanugages/master/locale/original.json
+2. Open this file in your favorite editor and translate it. For example, "Boards" : "place translation here".
+3. Save your changes (Ctrl + S or File/Save)
+4. Send translated file to vlad.savitsky@gmail.com. Thanks a lot! Your translation will be published with next version of extension and updated automatically at all computers.
 
 # Development
 
-1. Clone repository:
-` git clone git@github.com:VladSavitsky/trello.lanugages.git`
-2. Open folder:
-`cd trello.languages`
+## Get code
+
+1. Clone repository: ` git clone git@github.com:VladSavitsky/trello.lanugages.git`
+2. Open folder: `cd trello.languages`
 3. Happy hacking!
+
+## Use newest version in browser.
+
+To add recently downloaded extension to chrome use this instruction: https://developer.chrome.com/extensions/getstarted#unpacked
+
+
 
