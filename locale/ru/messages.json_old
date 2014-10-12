@@ -1,0 +1,232 @@
+{
+"Original string" : "Translation",
+"Version" : "0.3",
+
+"Calendar window" :
+"=============================================",
+"Today" : "Сегодня",
+"Week" : "Неделя",
+"Month" : "Месяц",
+"Sun" : "ВС",
+"Mon" : "ПН",
+"Tue" : "ВТ",
+"Wed" : "СР",
+"Thu" : "ЧТ",
+"Fri" : "ПТ",
+"Sat" : "СБ",
+
+"January" : "Январь",
+"February" : "Февраль",
+"March" : "Март",
+"April" : "Апрель",
+"May" : "Май",
+"June" : "Июнь",
+"July" : "Июль",
+"August" : "Август",
+"September" : "Сентябрь",
+"October" : "Октябрь",
+"November" : "Ноябрь",
+"December" : "Декабрь",
+
+"Jan" : "Янв",
+"Feb" : "Фев",
+"Mar" : "Мар",
+"Apr" : "Апр",
+"May" : "Май",
+"Jun" : "Июн",
+"Jul" : "Июл",
+"Aug" : "Авг",
+"Sep" : "Сен",
+"Oct" : "Окт",
+"Nov" : "Ноя",
+"Dec" : "Дек",
+
+"Search window" :
+"=============================================",
+"Saved Searches" : "Сохранённые запросы",
+"Your search produced an error." : "Ваш поиск вызвал ошибку.",
+"Searching…" : "Ищем…",
+"No results." : "Ничего не найдено.",
+"Refine your search with operators like @member, #label, is:archived, and has:attachments." :
+  "Уточните ваш поиск с помощью операторов @человек, #тег, is:archived и has:attachments.",
+"Learn more…" : "Узнать больше…",
+"Cards" : "Карточки",
+"Loading…" : "Идёт загрузка…",
+"Show more boards…" : "Показать больше досок…",
+"Show more members…" : "Показать больше людей…",
+"Organizations" : "Организации",
+"Show more organizations…" : "Показать больше организаций…",
+"Back to Saved Searches" : "Вернуться к сохранённым запросам",
+"Save this Search" : "Сохранить этот запрос",
+"Did you mean…" : "Что-то типа…",
+"Only include cards that have stickers." : "Только карточки со стикерами.",
+
+
+"Visible interface" :
+"===========================================",
+"Starred Boards" : "Любимые доски",
+"My Boards" : "Мои доски",
+"Overview" : "Обзор",
+"Recent Boards" : "Недавние доски",
+"Always keep this menu open." : "Держать это меню открытым.",
+"Don’t keep this menu open." : "Не держать это меню открытым.",
+"See closed boards…" : "Смотреть закрытие доски…",
+"Find boards by name…" : "Найти доски по имени…",
+"There is new activity on this board." : "Есть активность на этой доске.",
+"Collapse section." : "Свернуть раздел.",
+"Expand section." : "Раскрыть раздел.",
+"Closed Boards" : "Закрытые доски",
+"Re-open" : "Переоткрыть",
+"You have to have been a board admin to re-open a closed board." :
+  "Вы должны быть администратором, чтобы снова открывать закрытые доски.",
+"No Boards Found" : "Доски не найдены",
+
+"Boards"           : "Доски",
+"Public"           : "Общая",
+"Add a list…"      : "Добавить список…",
+"Calendar"         : "Календарь",
+"Subscribed"       : "Подписка",
+"Filtering is on." : "Фильтрация включена.",
+"Show sidebar"     : "Показать меню",
+"Add a card…"      : "Добавить карточку…",
+"Notifications"    : "Уведомления",
+"This board is public. It's visible to anyone with the link and will show up in search engines like Google.  Only people added to the board can edit." :
+  "Эта доска общедоступна. Она видна всем, у кого есть ссылки и будет показана в результатах поиска поисковых систем типа Google. Только люди, которые были добавлены могут редактировать эту доску.",
+"Go back to your boards page." :
+  "Вернуться к странице всех досок.",
+"View list of boards" :
+  "Смотреть список досок",
+"Rename the board." :
+  "Переименовать доску.",
+"You are filtering cards on this board. Click here to edit filter." :
+  "Показаны не все карточки на этой доске. Кликните, чтобы изменить условия фильтрации.",
+"You are subscribed to this board. You'll get notifications about changes." :
+  "Вы подписаны на изменения на этой доске. Вы получите уведомления обо всех изменениях.",
+"Click to star or unstar this board. Starred boards show up at the top of your boards list." :
+  "Кликните, чтобы добавить доску в избренное или убрать. Доски, помеченные звездочкой показываются над всеми досками в списке.",
+"Close the board sidebar." : "Закрыть меню.",
+"Add a new board or organization." : "Создать новую доску или организацию.",
+"You are seeing an early, experimental version of Trello. We would love your feedback!" :
+  "Вы выдите раннюю экспериментальную версию Trello. Нам очень нужны ваши отзывы!",
+"Get access to your profile, help, and log out." : "Доступ к профилю, помощи и выход.",
+"This member has Trello Gold." : "У этого человека Trello Gold.",
+"Click to star this board. It will show up at top of your boards list." :
+  "Кликните, чтобы добавить доску в любимые. Доска будет показана на самом верху списка всех досок.",
+"Search for boards, cards, members, and organizations." :
+  "Поиск досок, карточек, людей и организаций.",
+
+"Sidebar" :
+"===========================================",
+"Languages"       : "Языки",
+"Menu"            : "Меню",
+"Activity"        : "Активность",
+"Members"         : "Люди",
+"Add Members"     : "Добавить Людей",
+"Click here to see more board options." :
+  "Кликните, чтобы увидеть настройки доски.",
+"Click here to see more available languages." :
+  "Кликните, чтобы увидеть доступные языки.",
+
+"Power-Ups" : "Улучшения",
+"Stickers" : "Стикеры",
+"Filter Cards" : "Фильтровать карточки",
+"Archived Items" : "Архивные карточки",
+"Change Background…" : "Изменить фон…",
+"Email-to-board Settings…" : "Email-публикация…",
+"Copy Board…" : "Копировать доску…",
+"Share, Print, and Export…" : "Шарить, печать, экспорт…",
+"Additional Settings…" : "Другие настройки…",
+"Close Board…" : "Удалить доску…",
+"Leave Board…" : "Покинуть доску…",
+
+"List actions pop-up" :
+"===========================================",
+"List Actions"    : "Список действий",
+"Add Card…"       : "Добавить карточку…",
+"Copy List…"      : "Копировать список…",
+"Move List…"      : "Перенести список…",
+"Subscribe"       : "Subscribe",
+"Move All Cards in This List…"    : "Перенести все карточки списка…",
+"Archive All Cards in This List…" : "Архивировать все карточки списка…",
+"Archive This List"               : "Архивировать этот список",
+
+"Card's context menu" :
+"===========================================",
+"Edit Labels"     : "Теги",
+"Change Members"  : "Люди",
+"Move"            : "Перенести",
+"Copy"            : "Копировать",
+"Change Due Date" : "Крайний срок",
+"Archive"         : "Архивировать",
+
+"Form elements" :
+"===========================================",
+"Add"             : "Добавить",
+
+"Activity Substrings" :
+"===========================================",
+"added"           : "добавил(а)",
+"to"              : "к",
+"and"             : "и",
+"joined"          : "добавил(а) себя к",
+"moved"           : "переместил(а)",
+"from"            : "из",
+"archived"        : "архивировал(а)",
+"renamed"         : "переименовал(а)",
+"this board"      : "эту доску",
+"attached"        : "прикрепил(а)",
+"sent"            : "отправил(а)",
+"to the board"    : "на доску",
+
+"Card edit window" :
+"===========================================",
+"Edit the description…" : "Измените описание…",
+"Write a comment…" : "Добавьте комментарий…",
+"Save" : "Сохранить",
+"Actions" : "Действия",
+"Labels": "Теги",
+"Checklist" : "Чеклист",
+"Due date" : "Крайний срок",
+"Attachment" : "Вложения",
+"Move" : "Перенести",
+"Copy" : "Копировать",
+"Subscribe" : "Подписаться",
+"Archive" : "Архивировать",
+"Delete" : "Удалить",
+"Share and more…" : "Шарить и др.…",
+"Send to board" : "Вернуть на доску",
+"Drop files to upload." : "Бросьте файлы для загрузки.",
+"Due Date" : "Конечный срок",
+
+"Add or remove members of the board from the card." :
+  "Добавить или удалить людей этой доски к карточке.",
+"Change the labels for the card." :
+  "Изменить теги этой карточки.",
+"Add a checklist and divide the card into subtasks." :
+  "Добавить чеклист или разделить карточку на подзадачи.",
+"Add a due date for the card and get notifications when it is almost due." :
+  "Добавить крайний срок для карточки и напоминание о приближении крайнего срока.",
+"Attach files from your computer or from Google Drive. You can also drag'n'drop files from your desktop to upload them." :
+  "Прикрепить файлы с вашего компьютера или из Google Диска. Вы также можете перетащить файлы с вашего рабочего стола, чтобы загрузить их.",
+"Move the card to another board, another list, or a new position in a list" :
+  "Переместить карточку на другую доску, список или на другое место в списке",
+"Make a copy of this card, optionally include checklist, labels, members, attachments, etc." :
+  "Скопировать эту карточку с возможностью включения чеклистов, тегов, людей, вложений и пр.",
+"Subscribe to the card to get notifications when something changes." :
+  "Подписаться на уведомления об изменениях карточки.",
+"Remove the card from the board." :
+  "Удалить карточку с доски.",
+"Send the card back to the board." :
+  "Вернуть карточку на доску.",
+"Delete the card and all history associated with it. It can’t be retrieved." :
+  "Удалить карточку и всю историю изменений. Это действие нельзя будет отменить.",
+"More options share, print, export, and delete." :
+  "Больше возможностей для печати, экспорта, удаления и расшаривания.",
+"in list" : "из списка",
+
+
+"version" : "0.3.1",
+"Change Notification Email Frequency" : "Изменить частоту Email-уведомлений",
+"See All Notifications" : "Смотреть все уведомления"
+
+}

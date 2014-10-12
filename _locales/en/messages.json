@@ -1,0 +1,693 @@
+{ 
+"Today"  : {
+  "message" : "Today",
+  "description" : "Calendar view"
+},
+"Week"  : {
+  "message" : "Week",
+  "description" : "Calendar view"
+},
+"Month"  : {
+  "message" : "Month",
+  "description" : "Calendar view"
+},
+"Sun"  : {
+  "message" : "Sun",
+  "description" : "Calendar view"
+},
+"Mon"  : {
+  "message" : "Mon",
+  "description" : "Calendar view"
+},
+"Tue"  : {
+  "message" : "Tue",
+  "description" : "Calendar view"
+},
+"Wed"  : {
+  "message" : "Wed",
+  "description" : "Calendar view"
+},
+"Thu"  : {
+  "message" : "Thu",
+  "description" : "Calendar view"
+},
+"Fri"  : {
+  "message" : "Fri",
+  "description" : "Calendar view"
+},
+"Sat"  : {
+  "message" : "Sat",
+  "description" : "Calendar view"
+},
+
+"January"  : {
+  "message" : "January",
+  "description" : "Calendar view"
+},
+"February"  : {
+  "message" : "February",
+  "description" : "Calendar view"
+},
+"March"  : {
+  "message" : "March",
+  "description" : "Calendar view"
+},
+"April"  : {
+  "message" : "April",
+  "description" : "Calendar view"
+},
+"May"  : {
+  "message" : "May",
+  "description" : "Calendar view"
+},
+"June"  : {
+  "message" : "June",
+  "description" : "Calendar view"
+},
+"July"  : {
+  "message" : "July",
+  "description" : "Calendar view"
+},
+"August"  : {
+  "message" : "August",
+  "description" : "Calendar view"
+},
+"September"  : {
+  "message" : "September",
+  "description" : "Calendar view"
+},
+"October"  : {
+  "message" : "October",
+  "description" : "Calendar view"
+},
+"November"  : {
+  "message" : "November",
+  "description" : "Calendar view"
+},
+"December"  : {
+  "message" : "December",
+  "description" : "Calendar view"
+},
+
+"Jan" : {
+  "message" : "Jan",
+  "description" : "Calendar view"
+},
+"Feb" : {
+  "message" : "Feb",
+  "description" : "Calendar view"
+},
+"Mar" : {
+  "message" : "Mar",
+  "description" : "Calendar view"
+},
+"Apr" : {
+  "message" : "Apr",
+  "description" : "Calendar view"
+},
+"May" : {
+  "message" : "May",
+  "description" : "Calendar view"
+},
+"Jun" : {
+  "message" : "Jun",
+  "description" : "Calendar view"
+},
+"Jul" : {
+  "message" : "Jul",
+  "description" : "Calendar view"
+},
+"Aug" : {
+  "message" : "Aug",
+  "description" : "Calendar view"
+},
+"Sep" : {
+  "message" : "Sep",
+  "description" : "Calendar view"
+},
+"Oct" : {
+  "message" : "Oct",
+  "description" : "Calendar view"
+},
+"Nov" : {
+  "message" : "Nov",
+  "description" : "Calendar view"
+},
+"Dec" : {
+  "message" : "Dec",
+  "description" : "Calendar view"
+},
+
+"Saved Searches" : {
+  "message" : "Saved Searches",
+  "description" : "Search popup window"
+},
+"Your search produced an error." : {
+  "message" : "Your search produced an error.",
+  "description" : "Search popup window"
+},
+"Searching…" : {
+  "message" : "Searching…",
+  "description" : "Search popup window"
+},
+"No results." : {
+  "message" : "No results.",
+  "description" : "Search popup window"
+},
+"Refine your search with operators like @member, #label, is:archived, and has:attachments." : {
+  "message" : "Refine your search with operators like @member, #label, is:archived, and has:attachments.",
+  "description" : "Search popup window"
+},
+"Learn more…"  : {
+  "message" : "Learn more…",
+  "description" : "Search popup window"
+},
+"Cards"  : {
+  "message" : "Cards",
+  "description" : "Search popup window"
+},
+"Loading…"  : {
+  "message" : "Loading…",
+  "description" : "Search popup window"
+},
+"Show more boards…"  : {
+  "message" : "Show more boards…",
+  "description" : "Search popup window"
+},
+"Show more members…"  : {
+  "message" : "Show more members…",
+  "description" : "Search popup window"
+},
+"Organizations"  : {
+  "message" : "Organizations",
+  "description" : "Search popup window"
+},
+"Show more organizations…"  : {
+  "message" : "Show more organizations…",
+  "description" : "Search popup window"
+},
+"Back to Saved Searches"  : {
+  "message" : "Back to Saved Searches",
+  "description" : "Search popup window"
+},
+"Save this Search"  : {
+  "message" : "Save this Search",
+  "description" : "Search popup window"
+},
+"Did you mean…"  : {
+  "message" : "Did you mean…",
+  "description" : "Search popup window"
+},
+"Only include cards that have stickers."  : {
+  "message" : "Only include cards that have stickers.",
+  "description" : "Search popup window"
+},
+
+"Starred Boards"  : {
+  "message" : "Starred Boards",
+  "description" : "Main interface"
+},
+"My Boards"  : {
+  "message" : "My Boards",
+  "description" : "Main interface"
+},
+"Overview"  : {
+  "message" : "Overview",
+  "description" : "Main interface"
+},
+"Recent Boards"  : {
+  "message" : "Recent Boards",
+  "description" : "Main interface"
+},
+
+"Always keep this menu open."  : {
+  "message" : "Always keep this menu open.",
+  "description" : "Main interface"
+},
+"Don’t keep this menu open."  : {
+  "message" : "Don’t keep this menu open.",
+  "description" : "Main interface"
+},
+"See closed boards…"  : {
+  "message" : "See closed boards…",
+  "description" : "Main interface"
+},
+"Find boards by name…"  : {
+  "message" : "Find boards by name…",
+  "description" : "Main interface"
+},
+"There is new activity on this board."  : {
+  "message" : "There is new activity on this board.",
+  "description" : "Main interface"
+},
+"Collapse section."  : {
+  "message" : "Collapse section.",
+  "description" : "Main interface"
+},
+"Expand section."  : {
+  "message" : "Expand section.",
+  "description" : "Main interface"
+},
+"Closed Boards"  : {
+  "message" : "Closed Boards",
+  "description" : "Main interface"
+},
+"Re-open"  : {
+  "message" : "Re-open",
+  "description" : "Main interface"
+},
+"You have to have been a board admin to re-open a closed board." : {
+  "message" : "You have to have been a board admin to re-open a closed board.",
+  "description" : "Main interface"
+},
+"No Boards Found"  : {
+  "message" : "No Boards Found",
+  "description" : "Main interface"
+},
+
+"Boards"            : {
+  "message" : "Boards",
+  "description" : "Main interface"
+},
+"Public"            : {
+  "message" : "Public",
+  "description" : "Main interface"
+},
+"Add a list…"       : {
+  "message" : "Add a list…",
+  "description" : "Main interface"
+},
+"Calendar"          : {
+  "message" : "Calendar",
+  "description" : "Main interface"
+},
+"Subscribed"        : {
+  "message" : "Subscribed",
+  "description" : "Main interface"
+},
+"Filtering is on."  : {
+  "message" : "Filtering is on.",
+  "description" : "Main interface"
+},
+
+"Show sidebar"      : {
+  "message" : "Show sidebar",
+  "description" : "Main interface"
+},
+"Add a card…"       : {
+  "message" : "Add a card…",
+  "description" : "Main interface"
+},
+"Notifications" : {
+  "message" : "Notifications",
+  "description" : "Main interface"
+},
+"This board is public. It's visible to anyone with the link and will show up in search engines like Google.  Only people added to the board can edit." :  {
+  "message" : "This board is public. It's visible to anyone with the link and will show up in search engines like Google.  Only people added to the board can edit.",
+  "description" : "Main interface"
+},
+"Go back to your boards page." : {
+  "message" : "Go back to your boards page.",
+  "description" : "Main interface"
+},
+"View list of boards" : {
+  "message" : "View list of boards",
+  "description" : "Main interface"
+},
+"Rename the board." : {
+  "message" : "Rename the board.",
+  "description" : "Main interface"
+},
+"You are filtering cards on this board. Click here to edit filter." : {
+  "message" : "You are filtering cards on this board. Click here to edit filter.",
+  "description" : "Main interface"
+},
+"You are subscribed to this board. You'll get notifications about changes." : {
+  "message" : "You are subscribed to this board. You'll get notifications about changes.",
+  "description" : "Main interface"
+},
+"Click to star or unstar this board. Starred boards show up at the top of your boards list." : {
+  "message" : "Click to star or unstar this board. Starred boards show up at the top of your boards list.",
+  "description" : "Main interface"
+},
+"Close the board sidebar."  : {
+  "message" : "Close the board sidebar.",
+  "description" : "Main interface"
+},
+"Add a new board or organization."  : {
+  "message" : "Add a new board or organization.",
+  "description" : "Main interface"
+},
+"You are seeing an early, experimental version of Trello. We would love your feedback!" : {
+  "message" : "You are seeing an early, experimental version of Trello. We would love your feedback!",
+  "description" : "Main interface"
+},
+"Get access to your profile, help, and log out."  : {
+  "message" : "Get access to your profile, help, and log out.",
+  "description" : "Main interface"
+},
+"This member has Trello Gold."  : {
+  "message" : "This member has Trello Gold.",
+  "description" : "Main interface"
+},
+"Click to star this board. It will show up at top of your boards list." : {
+  "message" : "Click to star this board. It will show up at top of your boards list.",
+  "description" : "Main interface"
+},
+"Search for boards, cards, members, and organizations." : {
+  "message" : "Search for boards, cards, members, and organizations.",
+  "description" : "Main interface"
+},
+
+
+"Languages" : {
+  "message" : "Languages",
+  "description" : "Sidebar"
+},
+"Menu"             : {
+  "message" : "Menu",
+  "description" : "Sidebar"
+},
+"Add Members"      : {
+  "message" : "Add Members",
+  "description" : "Sidebar"
+},
+"Members"          : {
+  "message" : "Members",
+  "description" : "Sidebar"
+},
+"Activity"         : {
+  "message" : "Activity",
+  "description" : "Sidebar"
+},
+"Click here to see more board options." : {
+  "message" : "Click here to see more board options.",
+  "description" : "Sidebar"
+},
+"Click here to see more available languages." : {
+  "message" : "Click here to see more available languages.",
+  "description" : "Sidebar"
+},
+
+"Power-Ups"  : {
+  "message" : "Power-Ups",
+  "description" : "Sidebar"
+},
+"Stickers"  : {
+  "message" : "Stickers",
+  "description" : "Sidebar"
+},
+"Filter Cards"  : {
+  "message" : "Filter Cards",
+  "description" : "Sidebar"
+},
+"Archived Items"  : {
+  "message" : "Archived Items",
+  "description" : "Sidebar"
+},
+"Change Background…"  : {
+  "message" : "Change Background…",
+  "description" : "Sidebar"
+},
+"Email-to-board Settings…"  : {
+  "message" : "Email-to-board Settings…",
+  "description" : "Sidebar"
+},
+"Copy Board…"  : {
+  "message" : "Copy Board…",
+  "description" : "Sidebar"
+},
+"Share, Print, and Export…"  : {
+  "message" : "Share, Print, and Export…",
+  "description" : "Sidebar"
+},
+"Additional Settings…"  : {
+  "message" : "Additional Settings…",
+  "description" : "Sidebar"
+},
+"Close Board…"  : {
+  "message" : "Close Board…",
+  "description" : "Sidebar"
+},
+"Leave Board…"  : {
+  "message" : "Leave Board…",
+  "description" : "Sidebar"
+},
+
+"List Actions" : {
+  "message" : "List Actions",
+  "description" : "List actions pop-up"
+},
+"Add Card…" : {
+  "message" : "Add Card…",
+  "description" : "List actions pop-up"
+},
+"Copy List…" : {
+  "message" : "Copy List…",
+  "description" : "List actions pop-up"
+},
+"Move List…" : {
+  "message" : "Move List…",
+  "description" : "List actions pop-up"
+},
+"Subscribe" : {
+  "message" : "Subscribe",
+  "description" : "List actions pop-up"
+},
+"Move All Cards in This List…" : {
+  "message" : "Move All Cards in This List…",
+  "description" : "List actions pop-up"
+},
+"Archive All Cards in This List…" : {
+  "message" : "Archive All Cards in This List…",
+  "description" : "List actions pop-up"
+},
+"Archive This List" : {
+  "message" : "Archive This List",
+  "description" : "List actions pop-up"
+},
+
+"Edit Labels"      : {
+  "message" : "Edit Labels",
+  "description" : "Card's context menu"
+},
+"Change Members"   : {
+  "message" : "Change Members",
+  "description" : "Card's context menu"
+},
+"Move"             : {
+  "message" : "Move",
+  "description" : "Card's context menu"
+},
+"Copy"             : {
+  "message" : "Copy",
+  "description" : "Card's context menu"
+},
+"Change Due Date"  : {
+  "message" : "Change Due Date",
+  "description" : "Card's context menu"
+},
+"Archive"          : {
+  "message" : "Archive",
+  "description" : "Card's context menu"
+},
+
+"Add"              : {
+  "message" : "Add",
+  "description" : "Form elements"
+},
+
+
+"Change Notification Email Frequency"  : {
+  "message" : "Change Notification Email Frequency",
+  "description" : "Activity Substrings"
+},
+"See All Notifications"  : {
+  "message" : "See All Notifications",
+  "description" : "Activity Substrings"
+},
+"added" : {
+  "message" : "added",
+  "description" : "Activity Substrings"
+},
+"to" : {
+  "message" : "to",
+  "description" : "Activity Substrings"
+},
+"and" : {
+  "message" : "and",
+  "description" : "Activity Substrings"
+},
+"joined" : {
+  "message" : "joined",
+  "description" : "Activity Substrings"
+},
+"moved" : {
+  "message" : "moved",
+  "description" : "Activity Substrings"
+},
+"from" : {
+  "message" : "from",
+  "description" : "Activity Substrings"
+},
+"archived" : {
+  "message" : "archived",
+  "description" : "Activity Substrings"
+},
+"renamed" : {
+  "message" : "renamed",
+  "description" : "Activity Substrings"
+},
+"this board" : {
+  "message" : "this board",
+  "description" : "Activity Substrings"
+},
+"attached" : {
+  "message" : "attached",
+  "description" : "Activity Substrings"
+},
+"sent" : {
+  "message" : "sent",
+  "description" : "Activity Substrings"
+},
+"to the board"     : {
+  "message" : "to the board",
+  "description" : "Activity Substrings"
+},
+
+
+"Edit the description…"  : {
+  "message" : "Edit the description…",
+  "description" : "Edit card popup"
+},
+"Write a comment…"  : {
+  "message" : "Write a comment…",
+  "description" : "Edit card popup"
+},
+"Save"  : {
+  "message" : "Save",
+  "description" : "Edit card popup"
+},
+"Actions"  : {
+  "message" : "Actions",
+  "description" : "Edit card popup"
+},
+"Labels" : {
+  "message" : "Labels",
+  "description" : "Edit card popup"
+},
+"Checklist"  : {
+  "message" : "Checklist",
+  "description" : "Edit card popup"
+},
+"Due date"  : {
+  "message" : "Due date",
+  "description" : "Edit card popup"
+},
+"Attachment" : {
+  "message" : "Attachment",
+  "description" : "Edit card popup"
+},
+"Move" : {
+  "message" : "Move",
+  "description" : "Edit card popup"
+},
+"Copy" : {
+  "message" : "Copy",
+  "description" : "Edit card popup"
+},
+"Subscribe" : {
+  "message" : "Subscribe",
+  "description" : "Edit card popup"
+},
+"Archive" : {
+  "message" : "Archive",
+  "description" : "Edit card popup"
+},
+"Delete" : {
+  "message" : "Delete",
+  "description" : "Edit card popup"
+},
+"Share and more…"  : {
+  "message" : "Share and more…",
+  "description" : "Edit card popup"
+},
+"Send to board"  : {
+  "message" : "Send to board",
+  "description" : "Edit card popup"
+},
+"Drop files to upload."  : {
+  "message" : "Drop files to upload.",
+  "description" : "Edit card popup"
+},
+"Due Date"  : {
+  "message" : "Due Date",
+  "description" : "Edit card popup"
+},
+
+"Add or remove members of the board from the card." : {
+  "message" : "Add or remove members of the board from the card.",
+  "description" : "Edit card popup"
+},
+"Change the labels for the card." : {
+  "message" : "Change the labels for the card.",
+  "description" : "Edit card popup"
+},
+"Add a checklist and divide the card into subtasks." : {
+  "message" : 
+  "Add a checklist and divide the card into subtasks.",
+  "description" : "Edit card popup"
+},
+"Add a due date for the card and get notifications when it is almost due." : {
+  "message" : 
+  "Add a due date for the card and get notifications when it is almost due.",
+  "description" : "Edit card popup"
+},
+"Attach files from your computer or from Google Drive. You can also drag'n'drop files from your desktop to upload them." : {
+  "message" : 
+  "Attach files from your computer or from Google Drive. You can also drag'n'drop files from your desktop to upload them.",
+  "description" : "Edit card popup"
+},
+"Move the card to another board, another list, or a new position in a list" : {
+  "message" : 
+  "Move the card to another board, another list, or a new position in a list",
+  "description" : "Edit card popup"
+},
+"Make a copy of this card, optionally include checklist, labels, members, attachments, etc." : {
+  "message" : 
+  "Make a copy of this card, optionally include checklist, labels, members, attachments, etc.",
+  "description" : "Edit card popup"
+},
+"Subscribe to the card to get notifications when something changes." : {
+  "message" : 
+  "Subscribe to the card to get notifications when something changes.",
+  "description" : "Edit card popup"
+},
+"Remove the card from the board." : {
+  "message" : 
+  "Remove the card from the board.",
+  "description" : "Edit card popup"
+},
+"Send the card back to the board." : {
+  "message" : 
+  "Send the card back to the board.",
+  "description" : "Edit card popup"
+},
+"Delete the card and all history associated with it. It can’t be retrieved." : {
+  "message" : 
+  "Delete the card and all history associated with it. It can’t be retrieved.",
+  "description" : "Edit card popup"
+},
+"More options share, print, export, and delete." : {
+  "message" : 
+  "More options share, print, export, and delete.",
+  "description" : "Edit card popup"
+},
+"in list"  : {
+  "message" : "in list",
+  "description" : "Edit card popup. For example, 'Use chrome.i18n API in list In Progress'"
+}
+
+
+
+}

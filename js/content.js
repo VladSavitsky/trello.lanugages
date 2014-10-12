@@ -12,13 +12,10 @@
   // Replace strings at page using mapping from translation object.
   function l10n(element) {
     // TODO: Translate only new DOM elements.
-    if (isEmpty('mapping', mapping) || isEmpty('translation', translation)) return;
+    if (isEmpty('mapping', mapping)) return;
     $.each(mapping, function(type, data) {
       $.each(data, function(code, selectors) {
-        if (!translation[code]) {
-          if (debug) console.log('There is no translation for "' + code + '" in ' + selectedLanguage);
-          return;
-        }
+        if (!chrome.i18n.getMessage(code)) return;
         // Convert strings to arrays to minimize code.
         if ($.type(selectors) === 'string') selectors = selectors.split();
         $.each(selectors, function(index, cssPath) {
@@ -28,18 +25,18 @@
             // Do not check 'data-language' attribute because some elements should be translated
             // several times. Eg., title and inner HTML.
             // We assume that element should be only one. It's not right.
-            $element.attr(type, translation[code]);
+            $element.attr(type, chrome.i18n.getMessage(code));
             // TODO: Fix strings with plurals here. See Notification icon.
           } else if (type == 'html') {
             $.each($element, function() {
               // Get/Store original translation.
               $(this).html(function(index, html) {
-                return html.replace($(this).text().trim(), translation[code]);
+                return html.replace($(this).text().trim(), chrome.i18n.getMessage(code));
               });
             });
           } else if (type == 'form elements') {
             $.each($element, function() {
-              $element.val(translation[code]);
+              $element.val(chrome.i18n.getMessage(code));
             });
           } else if (type == 'substrings') {
             // First we need to check if there is a span tag with original string.
@@ -48,13 +45,13 @@
             if ($tag.length) {
               // Tag exists. Just translate text in SPAN.
               $.each($tag, function() {
-                $(this).html(' ' + translation[code] + ' ');
+                $(this).html(' ' + chrome.i18n.getMessage(code) + ' ');
               });
             }
             else {
               // There is no tag and we should wrap substring with SPAN tag to store original sring.
               // This should be done to allow translations to another languages.
-              $tag = $('<span />').addClass('language-source-text').attr('data-original', code).html(translation[code]);
+              $tag = $('<span />').addClass('language-source-text').attr('data-original', code).html(chrome.i18n.getMessage(code));
               // Replace substring with special tag.
               $element.html(function(index, html) {
                 // We should add trailing spaces to avoid translations in card name or etc.
@@ -72,12 +69,14 @@
 
   // Load mapping data.
   var mapping = getFile(chrome.extension.getURL('/mapping.json'));
+  /*
   var selectedLanguage = translation = null;
   // Get stored selected language and load translation. Default language is 'en'.
   chrome.storage.sync.get({'selectedLanguage': 'en'}, function (data) {
     selectedLanguage = data.selectedLanguage;
     translation = getFile(chrome.extension.getURL('/locale/' + selectedLanguage + '.json'));
   });
+
 
   // Insert new menu item to right sidebar to allow language selection.
   $('#content .board-widget-nav .nav-list').waitUntilExists(function() {
@@ -93,9 +92,9 @@
       renderLanguageMenu(selectedLanguage);
     }
   });
+  */
 
- // TODO: (high priority) reduce number of l10n() calls.
-
+  // TODO: (high priority) reduce number of l10n() calls.
   // This element appears last at page and we use it to add the Menu to page and set status for each List.
   $('#board .list form .js-open-add-list').waitUntilExists(function() {l10n()});
   // List's context menu.
@@ -114,13 +113,12 @@
   $('#boards-drawer > div > div.board-drawer-content > div.js-boards-list-container > div.js-all-boards').waitUntilExists(function() {l10n()});
   // Closed boards window.
   $('body > div.window-overlay > div > div > div > div.window-sidebar > p.helper').waitUntilExists(function() {l10n()});
-//  $('body > div.window-overlay > div > div > div > div.window-main-col > div > ul > li > div > a').waitUntilExists(function() {l10n()});
   // Search window.
   $('body > div.pop-over.search-over > div.content.js-tab-parent > div > p.search-warning.js-err').waitUntilExists(function() {l10n()});
   // Caledar window.
   $('#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-content > div').waitUntilExists(function() {l10n()});
 
-
+  /*
   function renderLanguageMenu(selectedLanguage) {
     // TODO: Dynamically build list of existing languages.
     var languages = {'en' : 'English', 'ru' : 'Russian', 'uk' : 'Ukrainian', 'it' : 'Italian'};
@@ -169,6 +167,7 @@
       l10n();
     });
   };
+  */
 
   // ================= //
   // Useful functions. //
