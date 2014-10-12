@@ -1,7 +1,6 @@
 {
   "content_scripts": [{
     "all_frames": true,
-    "css" : ["content.css"],
     "js": [
       "js/jquery-1.11.1.min.js",
       "js/jquery.waituntilexists.min.js",
