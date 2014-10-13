@@ -78,30 +78,6 @@
 
   // Load mapping data.
   var mapping = getFile(chrome.extension.getURL('/mapping.json'));
-  /*
-  var selectedLanguage = translation = null;
-  // Get stored selected language and load translation. Default language is 'en'.
-  chrome.storage.sync.get({'selectedLanguage': 'en'}, function (data) {
-    selectedLanguage = data.selectedLanguage;
-    translation = getFile(chrome.extension.getURL('/locale/' + selectedLanguage + '.json'));
-  });
-
-
-  // Insert new menu item to right sidebar to allow language selection.
-  $('#content .board-widget-nav .nav-list').waitUntilExists(function() {
-    if ($('#language-list').length == 0) {
-      // Insert a placeholder to sidebar. Should run only once.
-      $(this).parent().after(
-      '<div class="board-widget-language clearfix collapsed">' +
-       '<h3 class="dark-hover toggle-widget-language js-toggle-widget-language" title="Click here to see more available languages.">Languages' +
-       '<span class="icon-sm icon-menu toggle-menu-icon"></span></h3></div>');
-      $('<ul/>').attr('id', 'language-list').addClass('checkable').appendTo('.board-widget-language');
-
-      // Get stored language.
-      renderLanguageMenu(selectedLanguage);
-    }
-  });
-  */
 
   // TODO: (high priority) reduce number of l10n() calls.
   // This element appears last at page and we use it to add the Menu to page and set status for each List.
@@ -126,57 +102,6 @@
   $('body > div.pop-over.search-over > div.content.js-tab-parent > div > p.search-warning.js-err').waitUntilExists(function() {l10n()});
   // Caledar window.
   $('#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-content > div').waitUntilExists(function() {l10n()});
-
-  /*
-  function renderLanguageMenu(selectedLanguage) {
-    // TODO: Dynamically build list of existing languages.
-    var languages = {'en' : 'English', 'ru' : 'Russian', 'uk' : 'Ukrainian', 'it' : 'Italian'};
-    var li = '<hr style="margin-top: 0;">';
-    var checkIcon = '<span class="icon-sm icon-check"/>';
-    $.each(languages, function (code, name) {
-      if (code && name) {
-        var url = chrome.extension.getURL('/flags/' + code + '.png');
-        var $img = $("<img />",{"src" : url, "alt" : name , 'height': 12, 'width': 18, 'class' : 'language-icon', 'id' : 'language-' + code});
-        var $link = $('<a>').attr('href', '#').attr('class', 'language-list-item language-list-sub-item')
-          .html($img[0].outerHTML + name + checkIcon);
-        // TODO: Rewrite to avoid '[0].outerHTML'.
-        var item = $('<li/>').attr('data-language-code', code).html($link[0].outerHTML);
-        li += item[0].outerHTML;
-      }
-    });
-
-    // Replace tabs in the Menu.
-    $('#language-list').empty().append(li);
-
-    // Set Check Icon for selected language.
-    $('li[data-language-code="' + selectedLanguage + '"]').find('.icon-check').show();
-
-    // Language Menu was clicked.
-    $('.js-toggle-widget-language').click(function() {
-      var menu = $(this).closest(".board-widget-language");
-      menu.hasClass("collapsed") ? menu.removeClass("collapsed") : menu.addClass("collapsed");
-    });
-
-    // ====================
-    // Language was clicked.
-    $('.language-list-item').click(function() {
-      var selectedLanguage = $(this).parent().attr('data-language-code');
-      // Store selected language.
-      chrome.storage.sync.set({'selectedLanguage': selectedLanguage});
-      // Hide Icon Check for all languages.
-      $('#language-list').each(function() {$(this).find('.icon-check').hide();});
-      // Set Check Icon near selected language.
-      $(this).find('.icon-check').show();
-      // Get translation.
-      translation = getFile(chrome.extension.getURL('/locale/' + selectedLanguage + '.json'));
-      if (debug && $.isEmptyObject(translation)) console.log(selectedLanguage + '.json file is broken or missing.');
-      // Remove all markers about translation.
-      $('[data-language]').removeAttr('data-language');
-      // Translate page.
-      l10n();
-    });
-  };
-  */
 
   // ================= //
   // Useful functions. //
