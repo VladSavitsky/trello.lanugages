@@ -7,9 +7,9 @@
 
 /*
  Regexp to build correct keys from real strings in the message.json files:
- :%s/^"\(.*\)[ …\.,@’:;#-'"!?]\(.*\)"\s*:\s*{/"\1_\2" : {/g
- Working solution for mapping.json:
- :%s/^\(\s*".*\)[ …\.,@’:;#-'"!?]\(.*\)"\s*:/\1_\2" :/g
+ :%s/^"\(.*\)[ …\.,@’:;#-'"!?-]\(.*\)"\s*:\s*{/"\1_\2" : {/g
+ mapping.json:
+ :%s/^\(\s*".*\)[ …\.,@’:;#-'"!?-]\(.*\)"\s*:/\1_\2" :/g
  Note: this command should be run several times.
 */
 
