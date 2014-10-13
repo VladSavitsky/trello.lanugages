@@ -4,6 +4,15 @@
 // TODO: Fix bug with 'Subscribe' with check icon in the text.
 // TODO: store translations at server.
 
+
+/*
+ Regexp to build correct keys from real strings in the message.json files:
+ :%s/^"\(.*\)[ …\.,@’:;#-'"!?]\(.*\)"\s*:\s*{/"\1_\2" : {/g
+ Working solution for mapping.json:
+ :%s/^\(\s*".*\)[ …\.,@’:;#-'"!?]\(.*\)"\s*:/\1_\2" :/g
+ Note: this command should be run several times.
+*/
+
 (function() {
   // Set Development Environment Flag which allows to show various messages in console.
   var debug = chrome.extension.getURL('/manifest.json').indexOf('alhoallabckfhacphbkkideohcgbchhl') <= 0;
