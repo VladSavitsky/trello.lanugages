@@ -1,7 +1,0 @@
-{
-  "Boards" : {
-    "message" : "Доски",
-    "description" : "Visible interface"
-  },
-  "Public": { "message" : "Общая"}
-}
