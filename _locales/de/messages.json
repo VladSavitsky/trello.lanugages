@@ -1,0 +1,540 @@
+{
+"Today"  : {
+  "message" : "Heute"
+ },
+"Week"  : {
+  "message" : "Woche"
+ },
+"Month"  : {
+  "message" : "Monat"
+ },
+"Sun"  : {
+  "message" : "So"
+ },
+"Mon"  : {
+  "message" : "Mo"
+ },
+"Tue"  : {
+  "message" : "Di"
+ },
+"Wed"  : {
+  "message" : "Mi"
+ },
+"Thu"  : {
+  "message" : "Do"
+ },
+"Fri"  : {
+  "message" : "Fr"
+ },
+"Sat"  : {
+  "message" : "Sa"
+ },
+
+"January"  : {
+  "message" : "Januar"
+ },
+"February"  : {
+  "message" : "Februar"
+ },
+"March"  : {
+  "message" : "März"
+ },
+"April"  : {
+  "message" : "April"
+ },
+"May"  : {
+  "message" : "Mai"
+ },
+"June"  : {
+  "message" : "Juni"
+ },
+"July"  : {
+  "message" : "Juli"
+ },
+"August"  : {
+  "message" : "August"
+ },
+"September"  : {
+  "message" : "September"
+ },
+"October"  : {
+  "message" : "Oktober"
+ },
+"November"  : {
+  "message" : "November"
+ },
+"December"  : {
+  "message" : "Dezember"
+ },
+
+"Jan"  : {
+  "message" : "Jan"
+ },
+"Feb"  : {
+  "message" : "Feb"
+ },
+"Mar"  : {
+  "message" : "Mär"
+ },
+"Apr"  : {
+  "message" : "Apr"
+ },
+"May"  : {
+  "message" : "Mai"
+ },
+"Jun"  : {
+  "message" : "Jun"
+ },
+"Jul"  : {
+  "message" : "Jul"
+ },
+"Aug"  : {
+  "message" : "Aug"
+ },
+"Sep"  : {
+  "message" : "Sep"
+ },
+"Oct"  : {
+  "message" : "Okt"
+ },
+"Nov"  : {
+  "message" : "Nov"
+ },
+"Dec"  : {
+  "message" : "Dez"
+ },
+
+"Saved_Searches"  : {
+  "message" : "Gespeicherte Suchen"
+ },
+"Your_search_produced_an_error_"  : {
+  "message" : "Bei Ihrer Suche trat ein Fehler auf."
+ },
+"Searching_"  : {
+  "message" : "Suche…"
+ },
+"No_results_"  : {
+  "message" : "Keine Ergebnisse."
+ },
+"Refine_your_search_with_operators_like__member___label__is_archived__and_has_attachments_"  : {
+  "message" :
+  "Ihre Suche mit Operationen, wie z.B. @member, #label, is:archived, and has:attachments verfeinern."
+ },
+"Learn_more_"  : {
+  "message" : "Mehr erfahren…"
+ },
+"Cards"  : {
+  "message" : "Karten"
+ },
+"Loading_"  : {
+  "message" : "Lade…"
+ },
+"Show_more_boards_"  : {
+  "message" : "Zeige mehr Boards…"
+ },
+"Show_more_members_"  : {
+  "message" : "Zeige mehr Mitglieder…"
+ },
+"Organizations"  : {
+  "message" : "Organisationen"
+ },
+"Show_more_organizations_"  : {
+  "message" : "Zeige mehr Organisationen…"
+ },
+"Back_to_Saved_Searches"  : {
+  "message" : "Zurück zu gespeicherten Suchen"
+ },
+"Save_this_Search"  : {
+  "message" : "Diese Suche speichern"
+ },
+"Did_you_mean_"  : {
+  "message" : "Meinten Sie…"
+ },
+"Only_include_cards_that_have_stickers_"  : {
+  "message" : "Nur Karten, die Sticker besitzen."
+ },
+
+"Starred_Boards"  : {
+  "message" : "Favorisierte Boards"
+ },
+"My_Boards"  : {
+  "message" : "Meine Boards"
+ },
+"Overview"  : {
+  "message" : "Überblick"
+ },
+"Recent_Boards"  : {
+  "message" : "Letzte Boards"
+ },
+
+"Always_keep_this_menu_open_"  : {
+  "message" : "Dieses Menü offen lassen."
+ },
+"Don_t_keep_this_menu_open_"  : {
+  "message" : "Dieses Menü schließen."
+ },
+"See_closed_boards_"  : {
+  "message" : "Geschlossene Boards ansehen…"
+ },
+"Find_boards_by_name_"  : {
+  "message" : "Finde Boards nach Name…"
+ },
+"There_is_new_activity_on_this_board_"  : {
+  "message" : "Es gibt Neuigkeiten auf diesem Board."
+ },
+"Collapse_section_"  : {
+  "message" : "verkleinern"
+ },
+"Expand_section_"  : {
+  "message" : "erweitern"
+ },
+"Closed_Boards"  : {
+  "message" : "Geschlossene Boards"
+ },
+"Re_open" : {
+  "message" : "Erneut öffnen"
+ },
+"You_have_to_have_been_a_board_admin_to_re_open_a_closed_board_" : {
+  "message" :
+  "Sie müssen Administrator sein, um ein geschlossenes Board erneut zu öffnen."
+ },
+"No_Boards_Found"  : {
+  "message" : "Es wurden keine Boards gefunden"
+ },
+
+"Boards"            : {
+  "message" : "Boards"
+ },
+"Public"            : {
+  "message" : "Öffentlich"
+ },
+"Add_a_list_"  : {
+  "message" : "Eine Liste einfügen…"
+ },
+"Calendar"          : {
+  "message" : "Kalender"
+ },
+"Subscribed"        : {
+  "message" : "Aboniert"
+ },
+"Filtering_is_on_"  : {
+  "message" : "Filterung ist an"
+ },
+
+"Show_sidebar"  : {
+  "message" : "Zeige Menüleiste"
+ },
+"Add_a_card_"  : {
+  "message" : "Karte hinzufügen…"
+ },
+"Notifications"     : {
+  "message" : "Benachrichtigungen"
+ },
+"This_board_is_public__It_s_visible_to_anyone_with_the_link_and_will_show_up_in_search_engines_like_Google___Only_people_added_to_the_board_can_edit_"  : {
+  "message" :
+  "Dieses Board ist öffentlich. Es ist für alle Personen, die den Link kennen, sichtbar und wird in Suchmaschinen wie z.B. Google angezeigt. Nur Personen, die dem Board hinzugefügt wurden, können es bearbeiten."
+ },
+"Go_back_to_your_boards_page_"  : {
+  "message" :
+  "Zurück zu Ihren Boards."
+ },
+"View_list_of_boards"  : {
+  "message" :
+  "Liste der Boards anzeigen"
+ },
+"Rename_the_board_"  : {
+  "message" :
+  "Board umbenennen."
+ },
+"You_are_filtering_cards_on_this_board__Click_here_to_edit_filter_"  : {
+  "message" :
+  "Sie filtern die Karten dieses Boards. Klicken Sie hier, um den Filter zu bearbeiten."
+ },
+"You_are_subscribed_to_this_board__You_ll_get_notifications_about_changes_"  : {
+  "message" :
+  "Sie haben dieses Board aboniert. Sie erhalten Benachrichtigungen bei Änderungen."
+ },
+"Click_to_star_or_unstar_this_board__Starred_boards_show_up_at_the_top_of_your_boards_list_"  : {
+  "message" :
+"Klicken, um dieses Board zu favorisieren/entfavorisieren. Favorisierte Boards werden oben in Ihrer Board-Liste angezeigt."
+ },
+"Close_the_board_sidebar_"  : {
+  "message" : "Board-Menü schließen."
+ },
+"Add_a_new_board_or_organization_"  : {
+  "message" : "Neues Board oder neue Organisation hinzufügen."
+ },
+"You_are_seeing_an_early__experimental_version_of_Trello__We_would_love_your_feedback_"  : {
+  "message" :
+  "Sie sehen eine frühe, experimentelle Version von Trello. Wir freuen uns auf Ihr Feedback!"
+ },
+"Get_access_to_your_profile__help__and_log_out_"  : {
+  "message" : "Ihr Profil, Hilfe und Logout."
+ },
+"This_member_has_Trello_Gold_"  : {
+  "message" : "Dieses Mitglied ist ein Trello Gold Mitglied."
+ },
+"Click_to_star_this_board__It_will_show_up_at_top_of_your_boards_list_"  : {
+  "message" :
+  "Hier klicken, um dieses Board zu favorisieren. Es wird oben in Ihrer Board-Liste angezeigt.."
+ },
+"Search_for_boards__cards__members__and_organizations_"  : {
+  "message" :
+  "Nach Boards, Karten, Mitgliedern und Organisationen suchen."
+ },
+
+"Languages"        : {
+  "message" : "Sprachen"
+ },
+"Menu"             : {
+  "message" : "Menü"
+ },
+"Add_Members"  : {
+  "message" : "Mitglieder hinzufügen"
+ },
+"Members"          : {
+  "message" : "Mitglieder"
+ },
+"Activity"         : {
+  "message" : "Aktivität"
+ },
+"Click_here_to_see_more_board_options_"  : {
+  "message" :
+  "Hier klicken, um weitere Board-Optionen zu sehen."
+ },
+"Click_here_to_see_more_available_languages_"  : {
+  "message" :
+  "Hier klicken, um weitere verfügbare Sprachen zu sehen."
+ },
+
+"Power_Ups" : {
+  "message" : "Power-Ups"
+ },
+"Stickers"  : {
+  "message" : "Sticker"
+ },
+"Filter_Cards"  : {
+  "message" : "Filtere Karten"
+ },
+"Archived_Items"  : {
+  "message" : "Archivierte Einträge"
+ },
+"Change_Background_"  : {
+  "message" : "Hintergrund ändern…"
+ },
+"Email_to_board_Settings_" : {
+  "message" : "Email-to-board Einstellungen…"
+ },
+"Copy_Board_"  : {
+  "message" : "Board kopieren…"
+ },
+"Share__Print__and_Export_"  : {
+  "message" : "Teilen, Drucken und Export…"
+ },
+"Additional_Settings_"  : {
+  "message" : "Weitere Einstellungen…"
+ },
+"Close_Board_"  : {
+  "message" : "Board schließen…"
+ },
+"Leave_Board_"  : {
+  "message" : "Board verlassen…"
+ },
+
+"List_Actions"  : {
+  "message" : "Listen Aktionen"
+ },
+"Add_Card_"  : {
+  "message" : "Karte hinzufügen…"
+ },
+"Copy_List_"  : {
+  "message" : "Liste kopieren…"
+ },
+"Move_List_"  : {
+  "message" : "Liste verschieben…"
+ },
+"Subscribe"        : {
+  "message" : "Abonieren"
+ },
+"Move_All_Cards_in_This_List_"  : {
+  "message" : "Alle Karten in diese Liste verschieben…"
+ },
+"Archive_All_Cards_in_This_List_"  : {
+  "message" : "Alle Karten dieser Liste archivieren…"
+ },
+"Archive_This_List"  : {
+  "message" : "Liste archivieren"
+ },
+
+"Edit_Labels"  : {
+  "message" : "Edit Labels"
+ },
+"Change_Members"  : {
+  "message" : "Mitglieder bearbeiten"
+ },
+"Move"             : {
+  "message" : "Verschieben"
+ },
+"Copy"             : {
+  "message" : "Kopieren"
+ },
+"Change_Due_Date"  : {
+  "message" : "Fälligkeit ändern"
+ },
+"Archive"          : {
+  "message" : "Archiv"
+ },
+
+"Add"              : {
+  "message" : "Hinzufügen"
+ },
+
+"added"            : {
+  "message" : "hinzugefügt"
+ },
+"to"               : {
+  "message" : "nach"
+ },
+"and"              : {
+  "message" : "und"
+ },
+"joined"           : {
+  "message" : "verbunden"
+ },
+"moved"            : {
+  "message" : "verschoben"
+ },
+"from"             : {
+  "message" : "von"
+ },
+"archived"         : {
+  "message" : "archiviert"
+ },
+"renamed"          : {
+  "message" : "umbenannt"
+ },
+"this_board"  : {
+  "message" : "dieses Board"
+ },
+"attached"         : {
+  "message" : "angefügt"
+ },
+"sent"             : {
+  "message" : "gesendet"
+ },
+"to_the_board"  : {
+  "message" : "zu diesem Board"
+ },
+
+"Edit_the_description_"  : {
+  "message" : "Beschreibung ändern…"
+ },
+"Write_a_comment_"  : {
+  "message" : "Kommentar schreiben…"
+ },
+"Save"  : {
+  "message" : "Speichern"
+ },
+"Actions"  : {
+  "message" : "Aktionen"
+ },
+"Labels" : {
+  "message" : "Labels"
+ },
+"Checklist"  : {
+  "message" : "Checkliste"
+ },
+"Due_date"  : {
+  "message" : "Fälligkeit"
+ },
+"Attachment"  : {
+  "message" : "Anhang"
+ },
+"Move"  : {
+  "message" : "Bewegen"
+ },
+"Copy"  : {
+  "message" : "Kopieren"
+ },
+"Subscribe"  : {
+  "message" : "Abonieren"
+ },
+"Archive"  : {
+  "message" : "Archivieren"
+ },
+"Delete"  : {
+  "message" : "Löschen"
+ },
+"Share_and_more_"  : {
+  "message" : "Teilen und mehr…"
+ },
+"Send_to_board"  : {
+  "message" : "Zum Board senden"
+ },
+"Drop_files_to_upload_"  : {
+  "message" : "Ziehen Sie Dateien hier hin, um diese hochzuladen."
+ },
+"Due_Date"  : {
+  "message" : "Fälligkeit"
+ },
+
+"Add_or_remove_members_of_the_board_from_the_card_"  : {
+  "message" :
+  "Mitglieder des Boards dieser Karte hinzufügen/entfernen."
+ },
+"Change_the_labels_for_the_card_"  : {
+  "message" :
+  "Label der Karten ändern."
+ },
+"Add_a_checklist_and_divide_the_card_into_subtasks_"  : {
+  "message" :
+  "Eine Checkliste einfügen und Karte in Unteraufgaben unterteilen."
+ },
+"Add_a_due_date_for_the_card_and_get_notifications_when_it_is_almost_due_"  : {
+  "message" :
+  "Ein Fälligkeitsdatum für diese Karte hinzufügen und Benachrichtigungen erhalten, wenn es fast fällig ist."
+ },
+"Attach_files_from_your_computer_or_from_Google_Drive__You_can_also_drag_n_drop_files_from_your_desktop_to_upload_them_"  : {
+  "message" :
+  "Dateien von Ihrem PC oder aus Google Drive anhängen. Sie können Ihre Dateien auch Drag & Drop hier ablegen, um sie hochzuladen."
+ },
+"Move_the_card_to_another_board__another_list__or_a_new_position_in_a_list"  : {
+  "message" :
+  "Diese Karte zu einem anderen Board, einer anderen Liste oder einer neuen Position dieser Liste verschieben."
+ },
+"Make_a_copy_of_this_card__optionally_include_checklist__labels__members__attachments__etc_"  : {
+  "message" :
+  "Diese Karte kopieren. Optional Checklisten, Labels, Mitglieder, Anhänge etc. kopieren."
+ },
+"Subscribe_to_the_card_to_get_notifications_when_something_changes_"  : {
+  "message" :
+  "Diese Karte abonieren, um eine Benachrichtigung bei Änderungen zu erhalten."
+ },
+"Remove_the_card_from_the_board_"  : {
+  "message" :
+  "Diese Karte vom Board entfernen."
+ },
+"Send_the_card_back_to_the_board_"  : {
+  "message" :
+  "Karte zurück ans Board senden."
+ },
+"Delete_the_card_and_all_history_associated_with_it__It_can_t_be_retrieved_"  : {
+  "message" :
+  "Diese Karte und ihre Historie löschen. Diese Aktion kann nicht rückgängig gemacht werden."
+ },
+"More_options_share__print__export__and_delete_"  : {
+  "message" :
+  "Weitere Optionen, teilen, drucken, exportieren und löschen."
+ },
+"in_list"  : {
+  "message" : "in der Liste"
+ },
+
+
+"Change_Notification_Email_Frequency"  : {
+  "message" : "Benachrichtungs-E-Mail Frequenz ändern"
+ },
+"See_All_Notifications"  : {
+  "message" : "Alle Benachrichtigungen"
+}
+}
