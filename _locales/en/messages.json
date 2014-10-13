@@ -1,4 +1,4 @@
-{ 
+{
 "Today"  : {
   "message" : "Today",
   "description" : "Calendar view"
@@ -634,53 +634,43 @@
   "description" : "Edit card popup"
 },
 "Add a checklist and divide the card into subtasks." : {
-  "message" : 
-  "Add a checklist and divide the card into subtasks.",
+  "message" : "Add a checklist and divide the card into subtasks.",
   "description" : "Edit card popup"
 },
 "Add a due date for the card and get notifications when it is almost due." : {
-  "message" : 
-  "Add a due date for the card and get notifications when it is almost due.",
+  "message" : "Add a due date for the card and get notifications when it is almost due.",
   "description" : "Edit card popup"
 },
 "Attach files from your computer or from Google Drive. You can also drag'n'drop files from your desktop to upload them." : {
-  "message" : 
-  "Attach files from your computer or from Google Drive. You can also drag'n'drop files from your desktop to upload them.",
+  "message" : "Attach files from your computer or from Google Drive. You can also drag'n'drop files from your desktop to upload them.",
   "description" : "Edit card popup"
 },
 "Move the card to another board, another list, or a new position in a list" : {
-  "message" : 
-  "Move the card to another board, another list, or a new position in a list",
+  "message" : "Move the card to another board, another list, or a new position in a list",
   "description" : "Edit card popup"
 },
 "Make a copy of this card, optionally include checklist, labels, members, attachments, etc." : {
-  "message" : 
-  "Make a copy of this card, optionally include checklist, labels, members, attachments, etc.",
+  "message" : "Make a copy of this card, optionally include checklist, labels, members, attachments, etc.",
   "description" : "Edit card popup"
 },
 "Subscribe to the card to get notifications when something changes." : {
-  "message" : 
-  "Subscribe to the card to get notifications when something changes.",
+  "message" : "Subscribe to the card to get notifications when something changes.",
   "description" : "Edit card popup"
 },
 "Remove the card from the board." : {
-  "message" : 
-  "Remove the card from the board.",
+  "message" : "Remove the card from the board.",
   "description" : "Edit card popup"
 },
 "Send the card back to the board." : {
-  "message" : 
-  "Send the card back to the board.",
+  "message" : "Send the card back to the board.",
   "description" : "Edit card popup"
 },
 "Delete the card and all history associated with it. It can’t be retrieved." : {
-  "message" : 
-  "Delete the card and all history associated with it. It can’t be retrieved.",
+  "message" : "Delete the card and all history associated with it. It can’t be retrieved.",
   "description" : "Edit card popup"
 },
 "More options share, print, export, and delete." : {
-  "message" : 
-  "More options share, print, export, and delete.",
+  "message" : "More options share, print, export, and delete.",
   "description" : "Edit card popup"
 },
 "in list"  : {
