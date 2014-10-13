@@ -283,9 +283,6 @@
   "Cerca per tavole, schede, utenti, e organizzazioni."
  },
 
-"Languages"        : {
-  "message" : "Lingua"
- },
 "Menu"             : {
   "message" : "Menu"
  },
@@ -301,10 +298,6 @@
 "Click_here_to_see_more_board_options_"  : {
   "message" :
   "Clicca qui per vedere maggiori opzioni sulla tavola."
- },
-"Click_here_to_see_more_available_languages_"  : {
-  "message" :
-  "Clicca qui per vedere altre lingue disponibili."
  },
 
 "Power_Ups" : {

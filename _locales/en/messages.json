@@ -359,11 +359,6 @@
   "description" : "Main interface"
 },
 
-
-"Languages" : {
-  "message" : "Languages",
-  "description" : "Sidebar"
-},
 "Menu"             : {
   "message" : "Menu",
   "description" : "Sidebar"
@@ -382,10 +377,6 @@
 },
 "Click_here_to_see_more_board_options_" : {
   "message" : "Click here to see more board options.",
-  "description" : "Sidebar"
-},
-"Click_here_to_see_more_available_languages_" : {
-  "message" : "Click here to see more available languages.",
   "description" : "Sidebar"
 },
 

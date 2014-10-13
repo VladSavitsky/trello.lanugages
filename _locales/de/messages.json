@@ -283,9 +283,6 @@
   "Nach Boards, Karten, Mitgliedern und Organisationen suchen."
  },
 
-"Languages"        : {
-  "message" : "Sprachen"
- },
 "Menu"             : {
   "message" : "Menü"
  },
@@ -301,10 +298,6 @@
 "Click_here_to_see_more_board_options_"  : {
   "message" :
   "Hier klicken, um weitere Board-Optionen zu sehen."
- },
-"Click_here_to_see_more_available_languages_"  : {
-  "message" :
-  "Hier klicken, um weitere verfügbare Sprachen zu sehen."
  },
 
 "Power_Ups" : {

@@ -281,9 +281,6 @@
   "Поиск досок, карточек, людей и организаций."
   },
 
-"Languages"        : {
-  "message" : "Языки"
-  },
 "Menu"             : {
   "message" : "Меню"
   },
@@ -297,12 +294,7 @@
   "message" : "Добавить Людей"
   },
 "Click_here_to_see_more_board_options_"  : {
-  "message" :
-  "Кликните, чтобы увидеть настройки доски."
-  },
-"Click_here_to_see_more_available_languages_"  : {
-  "message" :
-  "Кликните, чтобы увидеть доступные языки."
+  "message" : "Кликните, чтобы увидеть настройки доски."
   },
 
 "Power_Ups" : {
