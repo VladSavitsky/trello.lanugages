@@ -127,9 +127,9 @@
     "#boards-drawer > div > div.board-drawer-content.fancy-scrollbar > div.js-boards-list-container > a.quiet-button.js-open-closed-boards",
   "Closed_Boards" :
     "body > div.window-overlay > div > div > div > div.window-header > h2.window-title",
-  "Re-open" :
+  "Re_open" :
     "body > div.window-overlay > div > div > div > div.window-main-col > div > ul > li > div > a",
-  "You_have_to_have_been_a_board_admin_to_re-open_a_closed_board_" :
+  "You_have_to_have_been_a_board_admin_to_re_open_a_closed_board_" :
     "body > div.window-overlay > div > div > div > div.window-sidebar > p.helper",
   "No_Boards_Found" :
     "#boards-drawer > div > div.board-drawer-content > div.js-board-results-container > ul > p.empty",
@@ -171,7 +171,7 @@
     "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-content > div > div > div > div > div > a.open-card-composer.js-open-card-composer"
   ],
 
-  "Power-Ups" :
+  "Power_Ups" :
     "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.js-open-power-ups",
   "Stickers" :
     "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.js-open-stickers",
@@ -181,7 +181,7 @@
     "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.js-open-archive",
   "Change_Background_" :
     "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.board-settings-background.js-change-background",
-  "Email-to-board_Settings_" :
+  "Email_to_board_Settings_" :
     "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.js-email",
   "Copy_Board_" :
     "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.js-copy-board",
