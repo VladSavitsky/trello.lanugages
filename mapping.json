@@ -1,76 +1,94 @@
 {
 "html" : {
 
-"Calendar" : "#content .board-header .board-header-btns .calendar-btn > span.board-header-btn-text",
-"Today" :
-  "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.calendar-header-toolbar > div.calendar-header-toolbar-today > a.button-link.today-button.js-today",
-"Week" :
-  "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.calendar-header-toolbar > div.calendar-header-toolbar-type > a.button-link.js-week-view.week-button",
-"Month" :
-  "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.calendar-header-toolbar > div.calendar-header-toolbar-type > a.button-link.js-month-view.month-button",
-"Sun" :
-  "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.days-of-week > div:nth-child(1)",
-"Mon" :
-  "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.days-of-week > div:nth-child(2)",
-"Tue" :
-  "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.days-of-week > div:nth-child(3)",
-"Wed" :
-  "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.days-of-week > div:nth-child(4)",
-"Thu" :
-  "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.days-of-week > div:nth-child(5)",
-"Fri" :
-  "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.days-of-week > div:nth-child(6)",
-"Sat" :
-  "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.days-of-week > div:nth-child(7)",
 
-"January" : [
-  "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.calendar-header-toolbar > h2.calendar-header-toolbar-title.js-calendar-header",
-  "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-full-month-header"
-],
-"February" : [
-  "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.calendar-header-toolbar > h2.calendar-header-toolbar-title.js-calendar-header",
-  "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-full-month-header"
-],
-"March" : [
-  "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.calendar-header-toolbar > h2.calendar-header-toolbar-title.js-calendar-header",
-  "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-full-month-header"
-],
-"April" : [
-  "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.calendar-header-toolbar > h2.calendar-header-toolbar-title.js-calendar-header",
-  "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-full-month-header"
-],
-"May" : [
-  "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.calendar-header-toolbar > h2.calendar-header-toolbar-title.js-calendar-header",
-  "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-full-month-header"
-],
-"June" : [
-  "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.calendar-header-toolbar > h2.calendar-header-toolbar-title.js-calendar-header",
-  "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-full-month-header"
-],
-"July" : [
-  "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.calendar-header-toolbar > h2.calendar-header-toolbar-title.js-calendar-header",
-  "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-full-month-header"
-],
-"August" : [
-  "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.calendar-header-toolbar > h2.calendar-header-toolbar-title.js-calendar-header",
-  "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-full-month-header"
-],
-"September" : [
-  "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.calendar-header-toolbar > h2.calendar-header-toolbar-title.js-calendar-header",
-  "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-full-month-header"
-],
-"October" : [
-  "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.calendar-header-toolbar > h2.calendar-header-toolbar-title.js-calendar-header",
-  "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-full-month-header"
-],
-"November" : [
-  "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.calendar-header-toolbar > h2.calendar-header-toolbar-title.js-calendar-header",
-  "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-full-month-header"
-],
-"December" : [
-  "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.calendar-header-toolbar > h2.calendar-header-toolbar-title.js-calendar-header",
-  "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-full-month-header"
-],
+  "This_board_is_private___Only_people_added_to_the_board_can_view_and_edit_it_" :
+    "body > div.pop-over.clearfix > div.content.clearfix.fancy-scrollbar.js-tab-parent > div > form > ul > li > a[name='private'] > span.sub-name",
+  "This_board_is_public__It_s_visible_to_anyone_with_the_link_and_will_show_up_in_search_engines_like_Google___Only_people_added_to_the_board_can_edit_" :
+    "body > div.pop-over.clearfix > div.content.clearfix.fancy-scrollbar.js-tab-parent > div > form > ul > li > a[name='public'] > span.sub-name",
+  "The_board_must_be_added_to_an_org_to_enable_this_" :
+    "body > div.pop-over.clearfix > div.content.clearfix.fancy-scrollbar.js-tab-parent > div > form > ul > li > a[name='org'] > span.sub-name span.error",
+  "Create_new_board_" :
+    "#boards-drawer > div > div.board-drawer-content.fancy-scrollbar > div.js-boards-list-container > a.quiet-button.js-add-board",
+  "Create_Board":
+    "body > div.pop-over > div.header > span.header-title",
+  "Title" :
+    "body > div.pop-over > div.content.js-tab-parent > div > form > label",
+  "Organization" :
+    "body > div.pop-over > div.content.js-tab-parent > div > form > div > div > label",
+  "Change_" :
+    "body > div.pop-over > div.content.js-tab-parent > div > form > p.quiet.js-vis-display > a.js-change-vis",
+
+  "Calendar" :
+    "#content .board-header .board-header-btns .calendar-btn > span.board-header-btn-text",
+  "Today" :
+    "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.calendar-header-toolbar > div.calendar-header-toolbar-today > a.button-link.today-button.js-today",
+  "Week" :
+    "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.calendar-header-toolbar > div.calendar-header-toolbar-type > a.button-link.js-week-view.week-button",
+  "Month" :
+    "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.calendar-header-toolbar > div.calendar-header-toolbar-type > a.button-link.js-month-view.month-button",
+  "Sun" :
+    "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.days-of-week > div:nth-child(1)",
+  "Mon" :
+    "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.days-of-week > div:nth-child(2)",
+  "Tue" :
+    "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.days-of-week > div:nth-child(3)",
+  "Wed" :
+    "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.days-of-week > div:nth-child(4)",
+  "Thu" :
+    "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.days-of-week > div:nth-child(5)",
+  "Fri" :
+    "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.days-of-week > div:nth-child(6)",
+  "Sat" :
+    "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.days-of-week > div:nth-child(7)",
+  "January" : [
+    "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.calendar-header-toolbar > h2.calendar-header-toolbar-title.js-calendar-header",
+    "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-full-month-header"
+  ],
+  "February" : [
+    "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.calendar-header-toolbar > h2.calendar-header-toolbar-title.js-calendar-header",
+    "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-full-month-header"
+  ],
+  "March" : [
+    "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.calendar-header-toolbar > h2.calendar-header-toolbar-title.js-calendar-header",
+    "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-full-month-header"
+  ],
+  "April" : [
+    "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.calendar-header-toolbar > h2.calendar-header-toolbar-title.js-calendar-header",
+    "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-full-month-header"
+  ],
+  "May" : [
+    "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.calendar-header-toolbar > h2.calendar-header-toolbar-title.js-calendar-header",
+    "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-full-month-header"
+  ],
+  "June" : [
+    "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.calendar-header-toolbar > h2.calendar-header-toolbar-title.js-calendar-header",
+    "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-full-month-header"
+  ],
+  "July" : [
+    "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.calendar-header-toolbar > h2.calendar-header-toolbar-title.js-calendar-header",
+    "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-full-month-header"
+  ],
+  "August" : [
+    "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.calendar-header-toolbar > h2.calendar-header-toolbar-title.js-calendar-header",
+    "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-full-month-header"
+  ],
+  "September" : [
+    "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.calendar-header-toolbar > h2.calendar-header-toolbar-title.js-calendar-header",
+    "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-full-month-header"
+  ],
+  "October" : [
+    "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.calendar-header-toolbar > h2.calendar-header-toolbar-title.js-calendar-header",
+    "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-full-month-header"
+  ],
+  "November" : [
+    "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.calendar-header-toolbar > h2.calendar-header-toolbar-title.js-calendar-header",
+    "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-full-month-header"
+  ],
+  "December" : [
+    "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.calendar-header-toolbar > h2.calendar-header-toolbar-title.js-calendar-header",
+    "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-full-month-header"
+  ],
 
 
 
@@ -227,14 +245,21 @@
     "body > div.quick-card-editor > div > div.quick-card-editor-buttons > a.quick-card-editor-buttons-item.js-edit-labels > span.quick-card-editor-buttons-item-text",
   "Change_Members" :
     "body > div.quick-card-editor > div > div.quick-card-editor-buttons > a.quick-card-editor-buttons-item.js-edit-members > span.quick-card-editor-buttons-item-text",
-  "Move" :
+
+  "Move" : [
     "body > div.quick-card-editor > div > div.quick-card-editor-buttons > a.quick-card-editor-buttons-item.js-move-card > span.quick-card-editor-buttons-item-text",
-  "Copy" :
+    "body > div.window-overlay > div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-move-card"
+  ],
+  "Copy" : [
     "body > div.quick-card-editor > div > div.quick-card-editor-buttons > a.quick-card-editor-buttons-item.js-copy-card > span.quick-card-editor-buttons-item-text",
+    "body > div.window-overlay > div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-copy-card"
+  ],
   "Change_Due_Date" :
     "body > div.quick-card-editor > div > div.quick-card-editor-buttons > a.quick-card-editor-buttons-item.js-edit-due-date > span.quick-card-editor-buttons-item-text",
-  "Archive" :
+  "Archive" : [
     "body > div.quick-card-editor > div > div.quick-card-editor-buttons > a.quick-card-editor-buttons-item.js-archive > span.quick-card-editor-buttons-item-text",
+    "body > div.window-overlay > div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-archive-card"
+  ],
   "Due_Date" :
     "body > div.window-overlay > div > div > div > div.window-main-col > div.card-detail-data > div.card-detail-item.card-detail-item-due-date.js-card-detail-due-date > h3.card-detail-item-header",
 
@@ -257,12 +282,6 @@
     "body > div.window-overlay > div > div > div > div.window-sidebar > div > div > a.js-add-due-date",
   "Attachment" :
     "body > div.window-overlay > div > div > div > div.window-sidebar > div > div > a.button-link.js-attach",
-  "Move" :
-    "body > div.window-overlay > div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-move-card",
-  "Copy" :
-    "body > div.window-overlay > div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-copy-card",
-  "Archive" :
-    "body > div.window-overlay > div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-archive-card",
   "Delete" :
     "body > div.window-overlay > div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-delete-card",
   "Share_and_more_" :
@@ -273,12 +292,16 @@
     "body > div.window-overlay > div > div > div > p.dropzone"
 
 },
+
 "form_elements" : {
+  "Create" :
+    "body > div.pop-over > div.content.js-tab-parent > div > form > input.primary.wide.js-submit",
   "Add" :
     "#board div.list-cards > div.card-composer > div.cc-controls > input",
   "Save" :
     "body > div.window-overlay > div > div > div > div.window-main-col > div.card-detail-data > div.card-detail-item.card-detail-item-block > div.card-detail-edit > div > input.js-save-edit"
 },
+
 "title" : {
   "Click_here_to_see_more_board_options_" :
     "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > h3",
@@ -351,12 +374,28 @@
     "#header > div > a.header-btn.open-search-btn.js-open-search-page"
 },
 "placeholder" : {
+  "Like__Bucket_List__for_example_" :
+    "#boardNewTitle",
   "Write_a_comment_" :
     "body > div.window-overlay > div > div > div > div.window-main-col > div > div.new-comment.js-new-comment > textarea.js-new-comment-input",
   "Find_boards_by_name_" :
     "#boards-drawer > div > div.board-drawer-content.fancy-scrollbar > input.js-search-boards"
 },
 "substrings" : {
+  "This_board_will_be" :
+    "body > div.pop-over > div.content.js-tab-parent > div > form > p.quiet.js-vis-display > strong",
+  "private" :
+    "body > div.pop-over > div.content.js-tab-parent > div > form > p.quiet.js-vis-display > strong",
+  "Private" :
+    "body > div.pop-over > div.content.js-tab-parent > div > form > ul > li > a.js-select[name='private']",
+  "Organization" :
+    "body > div.pop-over > div.content.js-tab-parent > div > form > ul > li > a.js-select[name='org']",
+  "Public" :
+    "body > div.pop-over > div.content.js-tab-parent > div > form > ul > li > a.js-select[name='public']",
+  "This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_" :
+    "body > div.pop-over.clearfix > div.content.clearfix.fancy-scrollbar.js-tab-parent > div > form > ul > li > a[name='org'] > span.sub-name",
+
+
   "added" : [
     "div.board-actions-list div.phenom-desc",
     "div.window-overlay > div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc"

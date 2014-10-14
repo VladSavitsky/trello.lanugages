@@ -1,4 +1,75 @@
 {
+"Create_new_board_" : {
+  "message" : "Create new board…",
+  "description" : "Boards List"
+},
+"Create_Board": {
+  "message" : "Create Board",
+  "description" : "Board creation popup"
+},
+"Create_Board" : {
+  "message" : "Create Board",
+  "description" : "Board creation popup"
+},
+"Title" :
+  "message" : "Title",
+  "description" : "Board creation popup"
+},
+"Organization" :
+  "message" : "Organization",
+  "description" : "Board creation popup"
+},
+"Create" : {
+  "message" : "Create",
+  "description" : "Board creation popup"
+},
+"Like__Bucket_List__for_example_" : {
+  "message" : 'Like “Bucket List” for example…',
+  "description" : "Board creation popup"
+},
+"This_board_will_be" : {
+  "message" : "This board will be",
+  "description" : "Board creation popup"
+},
+"private" : {
+  "message" : "private",
+  "description" : "Board creation popup"
+},
+"Change_" : {
+  "message" : "Change.",
+  "description" : "Board creation popup"
+},
+"Private" : {
+  "message" : "Private",
+  "description" : "Board creation popup"
+},
+"Organization" : {
+  "message" : "Organization",
+  "description" : "Board creation popup"
+},
+"Public" : {
+  "message" : "Public",
+  "description" : "Board creation popup"
+},
+"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_" : {
+  "message" : "This board is visible to members of the organization.  Only people added to the board can edit.",
+  "description" : "Board creation popup"
+},
+"This_board_is_private___Only_people_added_to_the_board_can_view_and_edit_it_" : {
+  "message" : "This board is private.  Only people added to the board can view and edit it.",
+  "description" : "Board creation popup"
+},
+"This_board_is_public__It_s_visible_to_anyone_with_the_link_and_will_show_up_in_search_engines_like_Google___Only_people_added_to_the_board_can_edit_" : {
+  "message" : "This board is public. It's visible to anyone with the link and will show up in search engines like Google.  Only people added to the board can edit.",
+  "description" : "Board creation popup"
+},
+"The_board_must_be_added_to_an_org_to_enable_this_" : {
+  "message" : "The board must be added to an org to enable this.",
+  "description" : "Board creation popup"
+},
+
+
+
 "Today"  : {
   "message" : "Today",
   "description" : "Calendar view"

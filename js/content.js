@@ -102,6 +102,8 @@
   $('body > div.pop-over.search-over > div.content.js-tab-parent > div > p.search-warning.js-err').waitUntilExists(function() {l10n()});
   // Caledar window.
   $('#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-content > div').waitUntilExists(function() {l10n()});
+  // Board creation popup.
+  $('body > div.pop-over > div.content.js-tab-parent > div > form > input.primary.wide.js-submit').waitUntilExists(function() {l10n()});
 
   // ================= //
   // Useful functions. //
