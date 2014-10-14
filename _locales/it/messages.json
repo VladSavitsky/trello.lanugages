@@ -1,513 +1,458 @@
 {
-"Today"  : {
-  "message" : "Oggi"
- },
-"Week"  : {
-  "message" : "Settimana"
- },
-"Month"  : {
-  "message" : "Mese"
- },
-"Sun"  : {
-  "message" : "Lun"
- },
-"Mon"  : {
-  "message" : "Mar"
- },
-"Tue"  : {
-  "message" : "Mer"
- },
-"Wed"  : {
-  "message" : "Gio"
- },
-"Thu"  : {
-  "message" : "Ven"
- },
-"Fri"  : {
-  "message" : "Sab"
- },
-"Sat"  : {
-  "message" : "Dom"
- },
-
-"January"  : {
-  "message" : "Gennaio"
- },
-"February"  : {
-  "message" : "Febbraio"
- },
-"March"  : {
-  "message" : "Marzo"
- },
-"April"  : {
-  "message" : "Aprile"
- },
-"May"  : {
-  "message" : "Maggio"
- },
-"June"  : {
-  "message" : "Giugno"
- },
-"July"  : {
-  "message" : "Luglio"
- },
-"August"  : {
-  "message" : "Agosto"
- },
-"September"  : {
-  "message" : "Settembre"
- },
-"October"  : {
-  "message" : "Ottobre"
- },
-"November"  : {
-  "message" : "Novembre"
- },
-"December"  : {
-  "message" : "Dicembre"
- },
-
-"Jan"  : {
-  "message" : "Gen"
- },
-"Feb"  : {
-  "message" : "Feb"
- },
-"Mar"  : {
-  "message" : "Mar"
- },
-"Apr"  : {
-  "message" : "Apr"
- },
-"May"  : {
-  "message" : "Mag"
- },
-"Jun"  : {
-  "message" : "Giu"
- },
-"Jul"  : {
-  "message" : "Lug"
- },
-"Aug"  : {
-  "message" : "Ago"
- },
-"Sep"  : {
-  "message" : "Set"
- },
-"Oct"  : {
-  "message" : "Ott"
- },
-"Nov"  : {
-  "message" : "Nov"
- },
-"Dec"  : {
-  "message" : "Dic"
- },
-
-"Saved_Searches"  : {
-  "message" : "Ricerche salvate"
- },
-"Your_search_produced_an_error_"  : {
-  "message" : "La ricerca ha prodotto un errore."
- },
-"Searching_"  : {
-  "message" : "Ricerca in corso…"
- },
-"No_results_"  : {
-  "message" : "Nessun risultato."
- },
-"Refine_your_search_with_operators_like__member___label__is_archived__and_has_attachments_"  : {
-  "message" :
-  "Raffina la tua ricerca usando ad esempio @utente, #etichetta, is:archiviato, e has:allegato."
- },
-"Learn_more_"  : {
-  "message" : "Scopri di più…"
- },
-"Cards"  : {
-  "message" : "Schede"
- },
-"Loading_"  : {
-  "message" : "Carico…"
- },
-"Show_more_boards_"  : {
-  "message" : "Mostrami altre schede…"
- },
-"Show_more_members_"  : {
-  "message" : "Mostrami altri utenti…"
- },
-"Organizations"  : {
-  "message" : "Organizzazioni"
- },
-"Show_more_organizations_"  : {
-  "message" : "Mostrami altre organizzazioni…"
- },
-"Back_to_Saved_Searches"  : {
-  "message" : "Torna alle ricerche salvate"
- },
-"Save_this_Search"  : {
-  "message" : "Salva questa ricerca"
- },
-"Did_you_mean_"  : {
-  "message" : "Forse intendevi…"
- },
-"Only_include_cards_that_have_stickers_"  : {
-  "message" : "Includi solo le schede che hanno adesivi."
- },
-
-
-"Starred_Boards"  : {
-  "message" : "Tavole Preferite"
- },
-"My_Boards"  : {
-  "message" : "Mie Tavole"
- },
-"Overview"  : {
-  "message" : "Panoramica"
- },
-"Recent_Boards"  : {
-  "message" : "Tavole recenti"
- },
-
-"Always_keep_this_menu_open_"  : {
-  "message" : "Tieni sempre aperto questo menu'."
- },
-"Don_t_keep_this_menu_open_"  : {
-  "message" : "Non tenere questo menu' aperto."
- },
-"See_closed_boards_"  : {
-  "message" : "Guarda le tavole chiuse…"
- },
-"Find_boards_by_name_"  : {
-  "message" : "Trova tavole dal nome…"
- },
-"There_is_new_activity_on_this_board_"  : {
-  "message" : "Ci sono nuove attivita' su questa tavola."
- },
-"Collapse_section_"  : {
-  "message" : "Nascondi sezione."
- },
-"Expand_section_"  : {
-  "message" : "Mostra sezione."
- },
-"Closed_Boards"  : {
-  "message" : "Chiudi le Tavole"
- },
-"Re_open" : {
-  "message" : "Ri-apri"
- },
-"You_have_to_have_been_a_board_admin_to_re_open_a_closed_board_" : {
-  "message" :
-  "Devi essere un Amministratore per ri-aprire una tavola chiusa"
- },
-"No_Boards_Found"  : {
-  "message" : "Nessuna Tavola trovata"
- },
-"Boards"            : {
-  "message" : "Tavola"
- },
-"Public"            : {
-  "message" : "Pubblico"
- },
-"Add_a_list_"  : {
-  "message" : "Aggiungi a un elenco…"
- },
-"Calendar"          : {
-  "message" : "Calendario"
- },
-"Subscribed"        : {
-  "message" : "Iscriviti"
- },
-"Filtering_is_on_"  : {
-  "message" : "Filtro attivato"
- },
-
-"Show_sidebar"  : {
-  "message" : "Mostra la barra laterale"
- },
-"Add_a_card_"  : {
-  "message" : "Aggiungi una scheda…"
- },
-"Notifications"     : {
-  "message" : "Notifiche"
- },
-"This_board_is_public__It_s_visible_to_anyone_with_the_link_and_will_show_up_in_search_engines_like_Google___Only_people_added_to_the_board_can_edit_"  : {
-  "message" :
-  "Questa tavola e' pubblica.E' visibile a tutti e puo' essere vista sui motori di ricerca come Google. Solo le persone aggiunte possono modificarla."
- },
-"Go_back_to_your_boards_page_"  : {
-  "message" :
-  "Torna alla pagina delle Tavole."
- },
-"View_list_of_boards"  : {
-  "message" :
-  "Vedi la lista delle tavole"
- },
-"Rename_the_board_"  : {
-  "message" :
-  "Rinomina la tavola"
- },
-"You_are_filtering_cards_on_this_board__Click_here_to_edit_filter_"  : {
-  "message" :
-  "Stai filtrando le schede su questa tavola. Clicca qui per cambiare i filtri."
- },
-"You_are_subscribed_to_this_board__You_ll_get_notifications_about_changes_"  : {
-  "message" :
-  "Sei iscritto a questa tavola. Riceverai delle notifiche sui cambiamenti."
- },
-"Click_to_star_or_unstar_this_board__Starred_boards_show_up_at_the_top_of_your_boards_list_"  : {
-  "message" :
-"Clicca per aggiungere o rimuovere ai Preferiti questa tavola. Le tavole preferite saranno in cima alla lista."
- },
-"Close_the_board_sidebar_"  : {
-  "message" : "Chiudi la barra laterale."
- },
-"Add_a_new_board_or_organization_"  : {
-  "message" : "Aggiungi una nuova tavola o un'organizzazione."
- },
-"You_are_seeing_an_early__experimental_version_of_Trello__We_would_love_your_feedback_"  : {
-  "message" :
-  "Stai usando una prima versione, sperimentale di Trello.Noi amiamo ricevere i vostri feedback!."
- },
-"Get_access_to_your_profile__help__and_log_out_"  : {
-  "message" : "Accedi al tuo profilo, alla guida o esci."
- },
-"This_member_has_Trello_Gold_"  : {
-  "message" : "Questo membro ha la versione Trello Gold."
- },
-"Click_to_star_this_board__It_will_show_up_at_top_of_your_boards_list_"  : {
-  "message" :
-  "Clicca per mettere la Stella a questa tavola.Sarà sempre in cima alla lista."
- },
-"Search_for_boards__cards__members__and_organizations_"  : {
-  "message" :
-  "Cerca per tavole, schede, utenti, e organizzazioni."
- },
-
-"Menu"             : {
-  "message" : "Menu"
- },
-"Add_Members"  : {
-  "message" : "Aggiungi Utenti"
- },
-"Members"          : {
-  "message" : "Utenti"
- },
-"Activity"         : {
-  "message" : "Attivita'"
- },
-"Click_here_to_see_more_board_options_"  : {
-  "message" :
-  "Clicca qui per vedere maggiori opzioni sulla tavola."
- },
-
-"Power_Ups" : {
-  "message" : "Funzioni Speciali"
- },
-"Stickers"  : {
-  "message" : "Adesivi"
- },
-"Filter_Cards"  : {
-  "message" : "Filtra le schede"
- },
-"Archived_Items"  : {
-  "message" : "Elementi Archiviati"
- },
-"Change_Background_"  : {
-  "message" : "Cambia sfondo…"
- },
-"Email_to_board_Settings_" : {
-  "message" : "Impostazioni invia-via-Email…"
- },
-"Copy_Board_"  : {
-  "message" : "Copia Tavola…"
- },
-"Share__Print__and_Export_"  : {
-  "message" : "Condividi, Stampa, Esporta…"
- },
-"Additional_Settings_"  : {
-  "message" : "Ulteriori Impostazioni..."
- },
-"Close_Board_"  : {
-  "message" : "Chiudi Tavola…"
- },
-"Leave_Board_"  : {
-  "message" : "Abbandona Tavola…"
- },
-
-"List_Actions"  : {
-  "message" : "Elenco Attivita'"
- },
-"Add_Card_"  : {
-  "message" : "Aggiungi Scheda…"
- },
-"Copy_List_"  : {
-  "message" : "Copia Elenco…"
- },
-"Move_List_"  : {
-  "message" : "Muovi Elenco…"
- },
-"Subscribe"        : {
-  "message" : "Iscriviti"
- },
-"Move_All_Cards_in_This_List_"  : {
-  "message" : "Sposta tutte le schede in questo elenco…"
- },
-"Archive_All_Cards_in_This_List_"  : {
-  "message" : "Archivia tutte le schede in questo elenco…"
- },
-"Archive_This_List"  : {
-  "message" : "Archivia questo elenco"
- },
-
-"Edit_Labels"  : {
-  "message" : "Modifica Etichetta"
- },
-"Change_Members"  : {
-  "message" : "Cambia Utenti"
- },
-"Move"             : {
-  "message" : "Muovi"
- },
-"Copy"             : {
-  "message" : "Copia"
- },
-"Change_Due_Date"  : {
-  "message" : "Cambia Data di Scadenza"
- },
-"Archive"          : {
-  "message" : "Archivia"
- },
-
-"Add"              : {
-  "message" : "Aggiungi"
- },
-
-"added"            : {
-  "message" : "aggiungi"
- },
-"to"               : {
-  "message" : "a"
- },
-"and"              : {
-  "message" : "e"
- },
-"joined"           : {
-  "message" : "si è unito"
- },
-"moved"            : {
-  "message" : "ha spostato"
- },
-"from"             : {
-  "message" : "da"
- },
-"archived"         : {
-  "message" : "archiviato"
- },
-"renamed"          : {
-  "message" : "rinominato"
- },
-"this_board"  : {
-  "message" : "questa tavola"
- },
-"attached"         : {
-  "message" : "allegato"
- },
-"sent"             : {
-  "message" : "spedito"
- },
-"to_the_board"  : {
-  "message" : "verso la tavola"
- },
-
-"Edit_the_description_"  : {
-  "message" : "Modifica la descrizione…"
- },
-"Write_a_comment_"  : {
-  "message" : "Scrivi un commento…"
- },
-"Save"  : {
-  "message" : "Salva"
- },
-"Actions"  : {
-  "message" : "Azioni"
- },
-"Labels" : {
-  "message" : "Etichette"
- },
-"Checklist"  : {
-  "message" : "Check list"
- },
-"Due_date"  : {
-  "message" : "Data di Scadenza"
- },
-"Attachment"  : {
-  "message" : "Allegato"
- },
-"Move"  : {
-  "message" : "Muovi"
- },
-"Copy"  : {
-  "message" : "Copia"
- },
-"Subscribe"  : {
-  "message" : "Iscriviti"
- },
-"Archive"  : {
-  "message" : "Archivia"
- },
-"Delete"  : {
-  "message" : "Elimina"
- },
-"Share_and_more_"  : {
-  "message" : "Condividi e altro…"
- },
-"Send_to_board"  : {
-  "message" : "Invia alla tavola"
- },
-"Drop_files_to_upload_"  : {
-  "message" : "Trascina i files per l'upload."
- },
-"Due_Date"  : {
-  "message" : "Data di Scadenza"
- },
-
-"Add_or_remove_members_of_the_board_from_the_card_"  : {
-  "message" : "Aggiungi o rimuovi utenti alla tavola dalla scheda."
- },
-"Change_the_labels_for_the_card_"  : {
-  "message" : "Cambia l'etichetta per la scheda."
- },
-"Add_a_checklist_and_divide_the_card_into_subtasks_"  : {
-  "message" : "Aggiungi la checklist e dividi la scheda in sotto-compiti."
- },
-"Add_a_due_date_for_the_card_and_get_notifications_when_it_is_almost_due_"  : {
-  "message" : "Aggiungi una data di scadenza per la scheda e ricevi le notifiche quando si avvicina la scadenza."
- },
-"Attach_files_from_your_computer_or_from_Google_Drive__You_can_also_drag_n_drop_files_from_your_desktop_to_upload_them_"  : {
-  "message" : "Allega file dal tuo computer o da Google Drive. Puoi anche trascinare e incollare i file direttamente dal tuo desktop per farli caricare."
- },
-"Move_the_card_to_another_board__another_list__or_a_new_position_in_a_list"  : {
-  "message" : "Sposta la scheda su un'altra Tavola, un altro elenco, o una nuova posizione sull'elenco"
- },
-"Make_a_copy_of_this_card__optionally_include_checklist__labels__members__attachments__etc_"  : {
-  "message" : "Fai una copia di questa scheda, puoi includere la checklist, le etichette, gli utenti, gli allegati, ecc."
- },
-"Subscribe_to_the_card_to_get_notifications_when_something_changes_"  : {
-  "message" : "Iscriviti alla scheda e ricevi le notifiche quando ci sono cambiamenti."
- },
-"Remove_the_card_from_the_board_"  : {
-  "message" : "Rimuovi la scheda dalla tavola."
- },
-"Send_the_card_back_to_the_board_"  : {
-  "message" : "Invia la scheda alla tavola."
- },
-"Delete_the_card_and_all_history_associated_with_it__It_can_t_be_retrieved_"  : {
-  "message" : "Cancella la scheda e tutta la cronologia relativa. Puo' essere comunque recuperata."
- },
-"More_options_share__print__export__and_delete_"  : {
-  "message" : "Altre opzioni: condividi, stampa, esporta, e cancella."
- },
-"in_list"  : {
-  "message" : "in elenco"
-}
+	"Today": {
+		"message": "Oggi"
+	},
+	"Week": {
+		"message": "Settimana"
+	},
+	"Month": {
+		"message": "Mese"
+	},
+	"Sun": {
+		"message": "Lun"
+	},
+	"Mon": {
+		"message": "Mar"
+	},
+	"Tue": {
+		"message": "Mer"
+	},
+	"Wed": {
+		"message": "Gio"
+	},
+	"Thu": {
+		"message": "Ven"
+	},
+	"Fri": {
+		"message": "Sab"
+	},
+	"Sat": {
+		"message": "Dom"
+	},
+	"January": {
+		"message": "Gennaio"
+	},
+	"February": {
+		"message": "Febbraio"
+	},
+	"March": {
+		"message": "Marzo"
+	},
+	"April": {
+		"message": "Aprile"
+	},
+	"May": {
+		"message": "Mag"
+	},
+	"June": {
+		"message": "Giugno"
+	},
+	"July": {
+		"message": "Luglio"
+	},
+	"August": {
+		"message": "Agosto"
+	},
+	"September": {
+		"message": "Settembre"
+	},
+	"October": {
+		"message": "Ottobre"
+	},
+	"November": {
+		"message": "Novembre"
+	},
+	"December": {
+		"message": "Dicembre"
+	},
+	"Jan": {
+		"message": "Gen"
+	},
+	"Feb": {
+		"message": "Feb"
+	},
+	"Mar": {
+		"message": "Mar"
+	},
+	"Apr": {
+		"message": "Apr"
+	},
+	"Jun": {
+		"message": "Giu"
+	},
+	"Jul": {
+		"message": "Lug"
+	},
+	"Aug": {
+		"message": "Ago"
+	},
+	"Sep": {
+		"message": "Set"
+	},
+	"Oct": {
+		"message": "Ott"
+	},
+	"Nov": {
+		"message": "Nov"
+	},
+	"Dec": {
+		"message": "Dic"
+	},
+	"Saved_Searches": {
+		"message": "Ricerche salvate"
+	},
+	"Your_search_produced_an_error_": {
+		"message": "La ricerca ha prodotto un errore."
+	},
+	"Searching_": {
+		"message": "Ricerca in corso…"
+	},
+	"No_results_": {
+		"message": "Nessun risultato."
+	},
+	"Refine_your_search_with_operators_like__member___label__is_archived__and_has_attachments_": {
+		"message": "Raffina la tua ricerca usando ad esempio @utente, #etichetta, is:archiviato, e has:allegato."
+	},
+	"Learn_more_": {
+		"message": "Scopri di più…"
+	},
+	"Cards": {
+		"message": "Schede"
+	},
+	"Loading_": {
+		"message": "Carico…"
+	},
+	"Show_more_boards_": {
+		"message": "Mostrami altre schede…"
+	},
+	"Show_more_members_": {
+		"message": "Mostrami altri utenti…"
+	},
+	"Organizations": {
+		"message": "Organizzazioni"
+	},
+	"Show_more_organizations_": {
+		"message": "Mostrami altre organizzazioni…"
+	},
+	"Back_to_Saved_Searches": {
+		"message": "Torna alle ricerche salvate"
+	},
+	"Save_this_Search": {
+		"message": "Salva questa ricerca"
+	},
+	"Did_you_mean_": {
+		"message": "Forse intendevi…"
+	},
+	"Only_include_cards_that_have_stickers_": {
+		"message": "Includi solo le schede che hanno adesivi."
+	},
+	"Starred_Boards": {
+		"message": "Tavole Preferite"
+	},
+	"My_Boards": {
+		"message": "Mie Tavole"
+	},
+	"Overview": {
+		"message": "Panoramica"
+	},
+	"Recent_Boards": {
+		"message": "Tavole recenti"
+	},
+	"Always_keep_this_menu_open_": {
+		"message": "Tieni sempre aperto questo menu'."
+	},
+	"Don_t_keep_this_menu_open_": {
+		"message": "Non tenere questo menu' aperto."
+	},
+	"See_closed_boards_": {
+		"message": "Guarda le tavole chiuse…"
+	},
+	"Find_boards_by_name_": {
+		"message": "Trova tavole dal nome…"
+	},
+	"There_is_new_activity_on_this_board_": {
+		"message": "Ci sono nuove attivita' su questa tavola."
+	},
+	"Collapse_section_": {
+		"message": "Nascondi sezione."
+	},
+	"Expand_section_": {
+		"message": "Mostra sezione."
+	},
+	"Closed_Boards": {
+		"message": "Chiudi le Tavole"
+	},
+	"Re_open": {
+		"message": "Ri-apri"
+	},
+	"You_have_to_have_been_a_board_admin_to_re_open_a_closed_board_": {
+		"message": "Devi essere un Amministratore per ri-aprire una tavola chiusa"
+	},
+	"No_Boards_Found": {
+		"message": "Nessuna Tavola trovata"
+	},
+	"Boards": {
+		"message": "Tavola"
+	},
+	"Public": {
+		"message": "Pubblico"
+	},
+	"Add_a_list_": {
+		"message": "Aggiungi a un elenco…"
+	},
+	"Calendar": {
+		"message": "Calendario"
+	},
+	"Subscribed": {
+		"message": "Iscriviti"
+	},
+	"Filtering_is_on_": {
+		"message": "Filtro attivato"
+	},
+	"Show_sidebar": {
+		"message": "Mostra la barra laterale"
+	},
+	"Add_a_card_": {
+		"message": "Aggiungi una scheda…"
+	},
+	"Notifications": {
+		"message": "Notifiche"
+	},
+	"Go_back_to_your_boards_page_": {
+		"message": "Torna alla pagina delle Tavole."
+	},
+	"View_list_of_boards": {
+		"message": "Vedi la lista delle tavole"
+	},
+	"Rename_the_board_": {
+		"message": "Rinomina la tavola"
+	},
+	"You_are_filtering_cards_on_this_board__Click_here_to_edit_filter_": {
+		"message": "Stai filtrando le schede su questa tavola. Clicca qui per cambiare i filtri."
+	},
+	"You_are_subscribed_to_this_board__You_ll_get_notifications_about_changes_": {
+		"message": "Sei iscritto a questa tavola. Riceverai delle notifiche sui cambiamenti."
+	},
+	"Click_to_star_or_unstar_this_board__Starred_boards_show_up_at_the_top_of_your_boards_list_": {
+		"message": "Clicca per aggiungere o rimuovere ai Preferiti questa tavola. Le tavole preferite saranno in cima alla lista."
+	},
+	"Close_the_board_sidebar_": {
+		"message": "Chiudi la barra laterale."
+	},
+	"Add_a_new_board_or_organization_": {
+		"message": "Aggiungi una nuova tavola o un'organizzazione."
+	},
+	"You_are_seeing_an_early__experimental_version_of_Trello__We_would_love_your_feedback_": {
+		"message": "Stai usando una prima versione, sperimentale di Trello.Noi amiamo ricevere i vostri feedback!."
+	},
+	"Get_access_to_your_profile__help__and_log_out_": {
+		"message": "Accedi al tuo profilo, alla guida o esci."
+	},
+	"This_member_has_Trello_Gold_": {
+		"message": "Questo membro ha la versione Trello Gold."
+	},
+	"Click_to_star_this_board__It_will_show_up_at_top_of_your_boards_list_": {
+		"message": "Clicca per mettere la Stella a questa tavola.Sarà sempre in cima alla lista."
+	},
+	"Search_for_boards__cards__members__and_organizations_": {
+		"message": "Cerca per tavole, schede, utenti, e organizzazioni."
+	},
+	"Menu": {
+		"message": "Menu"
+	},
+	"Add_Members": {
+		"message": "Aggiungi Utenti"
+	},
+	"Members": {
+		"message": "Utenti"
+	},
+	"Activity": {
+		"message": "Attivita'"
+	},
+	"Click_here_to_see_more_board_options_": {
+		"message": "Clicca qui per vedere maggiori opzioni sulla tavola."
+	},
+	"Power_Ups": {
+		"message": "Funzioni Speciali"
+	},
+	"Stickers": {
+		"message": "Adesivi"
+	},
+	"Filter_Cards": {
+		"message": "Filtra le schede"
+	},
+	"Archived_Items": {
+		"message": "Elementi Archiviati"
+	},
+	"Change_Background_": {
+		"message": "Cambia sfondo…"
+	},
+	"Email_to_board_Settings_": {
+		"message": "Impostazioni invia-via-Email…"
+	},
+	"Copy_Board_": {
+		"message": "Copia Tavola…"
+	},
+	"Share__Print__and_Export_": {
+		"message": "Condividi, Stampa, Esporta…"
+	},
+	"Additional_Settings_": {
+		"message": "Ulteriori Impostazioni..."
+	},
+	"Close_Board_": {
+		"message": "Chiudi Tavola…"
+	},
+	"Leave_Board_": {
+		"message": "Abbandona Tavola…"
+	},
+	"List_Actions": {
+		"message": "Elenco Attivita'"
+	},
+	"Add_Card_": {
+		"message": "Aggiungi Scheda…"
+	},
+	"Copy_List_": {
+		"message": "Copia Elenco…"
+	},
+	"Move_List_": {
+		"message": "Muovi Elenco…"
+	},
+	"Subscribe": {
+		"message": "Iscriviti"
+	},
+	"Move_All_Cards_in_This_List_": {
+		"message": "Sposta tutte le schede in questo elenco…"
+	},
+	"Archive_All_Cards_in_This_List_": {
+		"message": "Archivia tutte le schede in questo elenco…"
+	},
+	"Archive_This_List": {
+		"message": "Archivia questo elenco"
+	},
+	"Edit_Labels": {
+		"message": "Modifica Etichetta"
+	},
+	"Change_Members": {
+		"message": "Cambia Utenti"
+	},
+	"Move": {
+		"message": "Muovi"
+	},
+	"Copy": {
+		"message": "Copia"
+	},
+	"Change_Due_Date": {
+		"message": "Cambia Data di Scadenza"
+	},
+	"Archive": {
+		"message": "Archivia"
+	},
+	"Add": {
+		"message": "Aggiungi"
+	},
+	"added": {
+		"message": "aggiungi"
+	},
+	"to": {
+		"message": "a"
+	},
+	"and": {
+		"message": "e"
+	},
+	"joined": {
+		"message": "si è unito"
+	},
+	"moved": {
+		"message": "ha spostato"
+	},
+	"from": {
+		"message": "da"
+	},
+	"archived": {
+		"message": "archiviato"
+	},
+	"renamed": {
+		"message": "rinominato"
+	},
+	"this_board": {
+		"message": "questa tavola"
+	},
+	"attached": {
+		"message": "allegato"
+	},
+	"sent": {
+		"message": "spedito"
+	},
+	"to_the_board": {
+		"message": "verso la tavola"
+	},
+	"Edit_the_description_": {
+		"message": "Modifica la descrizione…"
+	},
+	"Write_a_comment_": {
+		"message": "Scrivi un commento…"
+	},
+	"Save": {
+		"message": "Salva"
+	},
+	"Actions": {
+		"message": "Azioni"
+	},
+	"Labels": {
+		"message": "Etichette"
+	},
+	"Checklist": {
+		"message": "Check list"
+	},
+	"Attachment": {
+		"message": "Allegato"
+	},
+	"Delete": {
+		"message": "Elimina"
+	},
+	"Share_and_more_": {
+		"message": "Condividi e altro…"
+	},
+	"Send_to_board": {
+		"message": "Invia alla tavola"
+	},
+	"Drop_files_to_upload_": {
+		"message": "Trascina i files per l'upload."
+	},
+	"Add_or_remove_members_of_the_board_from_the_card_": {
+		"message": "Aggiungi o rimuovi utenti alla tavola dalla scheda."
+	},
+	"Change_the_labels_for_the_card_": {
+		"message": "Cambia l'etichetta per la scheda."
+	},
+	"Add_a_checklist_and_divide_the_card_into_subtasks_": {
+		"message": "Aggiungi la checklist e dividi la scheda in sotto-compiti."
+	},
+	"Add_a_due_date_for_the_card_and_get_notifications_when_it_is_almost_due_": {
+		"message": "Aggiungi una data di scadenza per la scheda e ricevi le notifiche quando si avvicina la scadenza."
+	},
+	"Move_the_card_to_another_board__another_list__or_a_new_position_in_a_list": {
+		"message": "Sposta la scheda su un'altra Tavola, un altro elenco, o una nuova posizione sull'elenco"
+	},
+	"Make_a_copy_of_this_card__optionally_include_checklist__labels__members__attachments__etc_": {
+		"message": "Fai una copia di questa scheda, puoi includere la checklist, le etichette, gli utenti, gli allegati, ecc."
+	},
+	"Subscribe_to_the_card_to_get_notifications_when_something_changes_": {
+		"message": "Iscriviti alla scheda e ricevi le notifiche quando ci sono cambiamenti."
+	},
+	"Remove_the_card_from_the_board_": {
+		"message": "Rimuovi la scheda dalla tavola."
+	},
+	"Send_the_card_back_to_the_board_": {
+		"message": "Invia la scheda alla tavola."
+	},
+	"Delete_the_card_and_all_history_associated_with_it__It_can_t_be_retrieved_": {
+		"message": "Cancella la scheda e tutta la cronologia relativa. Puo' essere comunque recuperata."
+	},
+	"More_options_share__print__export__and_delete_": {
+		"message": "Altre opzioni: condividi, stampa, esporta, e cancella."
+	},
+	"in_list": {
+		"message": "in elenco"
+	}
 }

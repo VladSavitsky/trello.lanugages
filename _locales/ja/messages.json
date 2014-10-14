@@ -1,0 +1,164 @@
+{
+	"Today": {
+		"message": "今日"
+	},
+	"Week": {
+		"message": "週"
+	},
+	"Month": {
+		"message": "月"
+	},
+	"Sun": {
+		"message": "日"
+	},
+	"Mon": {
+		"message": "月"
+	},
+	"Tue": {
+		"message": "火"
+	},
+	"Wed": {
+		"message": "水"
+	},
+	"Thu": {
+		"message": "木"
+	},
+	"Fri": {
+		"message": "金"
+	},
+	"Sat": {
+		"message": "土"
+	},
+	"January": {
+		"message": "1月"
+	},
+	"February": {
+		"message": "2月"
+	},
+	"March": {
+		"message": "3月"
+	},
+	"April": {
+		"message": "4月"
+	},
+	"May": {
+		"message": "5月"
+	},
+	"June": {
+		"message": "6月"
+	},
+	"July": {
+		"message": "7月"
+	},
+	"August": {
+		"message": "8月"
+	},
+	"September": {
+		"message": "9月"
+	},
+	"October": {
+		"message": "10月"
+	},
+	"November": {
+		"message": "11月"
+	},
+	"December": {
+		"message": "12月"
+	},
+	"Jan": {
+		"message": "1月"
+	},
+	"Feb": {
+		"message": "2月"
+	},
+	"Mar": {
+		"message": "3月"
+	},
+	"Apr": {
+		"message": "4月"
+	},
+	"Jun": {
+		"message": "5月"
+	},
+	"Jul": {
+		"message": "6月"
+	},
+	"Aug": {
+		"message": "7月"
+	},
+	"Sep": {
+		"message": "8月"
+	},
+	"Oct": {
+		"message": "9月"
+	},
+	"Nov": {
+		"message": "10月"
+	},
+	"Dec": {
+		"message": "11月"
+	},
+	"Saved_Searches": {
+		"message": "保存した検索"
+	},
+	"Your_search_produced_an_error_": {
+		"message": "検索でエラーが発生しました。"
+	},
+	"Searching_": {
+		"message": "検索中..."
+	},
+	"No_results_": {
+		"message": "一致しません。"
+	},
+	"Refine_your_search_with_operators_like__member___label__is_archived__and_has_attachments_": {
+		"message": "@member、#label、is:archived、has:attachmentsのような演算子で検索を絞り込んでください。"
+	},
+	"Learn_more_": {
+		"message": "さらに詳しく..."
+	},
+	"Cards": {
+		"message": "カード"
+	},
+	"Loading_": {
+		"message": "読み込み中..."
+	},
+	"Show_more_boards_": {
+		"message": "さらにボードを表示..."
+	},
+	"Show_more_members_": {
+		"message": "さらにメンバーを表示..."
+	},
+	"Organizations": {
+		"message": "組織"
+	},
+	"Show_more_organizations_": {
+		"message": "さらに組織を表示..."
+	},
+	"Back_to_Saved_Searches": {
+		"message": "保存した検索に戻る"
+	},
+	"Save_this_Search": {
+		"message": "この検索を保存"
+	},
+	"Only_include_cards_that_have_stickers_": {
+		"message": "ステッカーのあるカードだけを含めます。"
+	},
+	"Starred_Boards": {
+		"message": "星印を付けたボード"
+	},
+	"My_Boards": {
+		"message": "私のボード"
+	},
+	"Overview": {
+		"message": "概観"
+	},
+	"Recent_Boards": {
+		"message": "最近のボード"
+	},
+	"Always_keep_this_menu_open_": {
+		"message": "常にメニューを表示します。"
+	},
+	"Don_t_keep_this_menu_open_": {
+		"message": "メニューを表示続けません。"
+	}
+}

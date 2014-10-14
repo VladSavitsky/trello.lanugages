@@ -1,529 +1,467 @@
 {
-"Today"  : {
-  "message" : "Сегодня"
-  },
-"Week"  : {
-  "message" : "Неделя"
-  },
-"Month"  : {
-  "message" : "Месяц"
-  },
-"Sun"  : {
-  "message" : "ВС"
-  },
-"Mon"  : {
-  "message" : "ПН"
-  },
-"Tue"  : {
-  "message" : "ВТ"
-  },
-"Wed"  : {
-  "message" : "СР"
-  },
-"Thu"  : {
-  "message" : "ЧТ"
-  },
-"Fri"  : {
-  "message" : "ПТ"
-  },
-"Sat"  : {
-  "message" : "СБ"
-  },
-
-"January"  : {
-  "message" : "Январь"
-  },
-"February"  : {
-  "message" : "Февраль"
-  },
-"March"  : {
-  "message" : "Март"
-  },
-"April"  : {
-  "message" : "Апрель"
-  },
-"May"  : {
-  "message" : "Май"
-  },
-"June"  : {
-  "message" : "Июнь"
-  },
-"July"  : {
-  "message" : "Июль"
-  },
-"August"  : {
-  "message" : "Август"
-  },
-"September"  : {
-  "message" : "Сентябрь"
-  },
-"October"  : {
-  "message" : "Октябрь"
-  },
-"November"  : {
-  "message" : "Ноябрь"
-  },
-"December"  : {
-  "message" : "Декабрь"
-  },
-
-"Jan"  : {
-  "message" : "Янв"
-  },
-"Feb"  : {
-  "message" : "Фев"
-  },
-"Mar"  : {
-  "message" : "Мар"
-  },
-"Apr"  : {
-  "message" : "Апр"
-  },
-"May"  : {
-  "message" : "Май"
-  },
-"Jun"  : {
-  "message" : "Июн"
-  },
-"Jul"  : {
-  "message" : "Июл"
-  },
-"Aug"  : {
-  "message" : "Авг"
-  },
-"Sep"  : {
-  "message" : "Сен"
-  },
-"Oct"  : {
-  "message" : "Окт"
-  },
-"Nov"  : {
-  "message" : "Ноя"
-  },
-"Dec"  : {
-  "message" : "Дек"
-  },
-
-"Saved_Searches"  : {
-  "message" : "Сохранённые запросы"
-  },
-"Your_search_produced_an_error_"  : {
-  "message" : "Ваш поиск вызвал ошибку."
-  },
-"Searching_"  : {
-  "message" : "Ищем…"
-  },
-"No_results_"  : {
-  "message" : "Ничего не найдено."
-  },
-"Refine_your_search_with_operators_like__member___label__is_archived__and_has_attachments_"  : {
-  "message" :
-  "Уточните ваш поиск с помощью операторов @человек, #тег, is:archived и has:attachments."
-  },
-"Learn_more_"  : {
-  "message" : "Узнать больше…"
-  },
-"Cards"  : {
-  "message" : "Карточки"
-  },
-"Loading_"  : {
-  "message" : "Идёт загрузка…"
-  },
-"Show_more_boards_"  : {
-  "message" : "Показать больше досок…"
-  },
-"Show_more_members_"  : {
-  "message" : "Показать больше людей…"
-  },
-"Organizations"  : {
-  "message" : "Организации"
-  },
-"Show_more_organizations_"  : {
-  "message" : "Показать больше организаций…"
-  },
-"Back_to_Saved_Searches"  : {
-  "message" : "Вернуться к сохранённым запросам"
-  },
-"Save_this_Search"  : {
-  "message" : "Сохранить этот запрос"
-  },
-"Did_you_mean_"  : {
-  "message" : "Что-то типа…"
-  },
-"Only_include_cards_that_have_stickers_"  : {
-  "message" : "Только карточки со стикерами."
-  },
-
-"Starred_Boards"  : {
-  "message" : "Любимые доски"
-  },
-"My_Boards"  : {
-  "message" : "Мои доски"
-  },
-"Overview"  : {
-  "message" : "Обзор"
-  },
-"Recent_Boards"  : {
-  "message" : "Недавние доски"
-  },
-"Always_keep_this_menu_open_"  : {
-  "message" : "Держать это меню открытым."
-  },
-"Don_t_keep_this_menu_open_"  : {
-  "message" : "Не держать это меню открытым."
-  },
-"See_closed_boards_"  : {
-  "message" : "Смотреть закрытие доски…"
-  },
-"Find_boards_by_name_"  : {
-  "message" : "Найти доски по имени…"
-  },
-"There_is_new_activity_on_this_board_"  : {
-  "message" : "Есть активность на этой доске."
-  },
-"Collapse_section_"  : {
-  "message" : "Свернуть раздел."
-  },
-"Expand_section_"  : {
-  "message" : "Раскрыть раздел."
-  },
-"Closed_Boards"  : {
-  "message" : "Закрытые доски"
-  },
-"Re_open" : {
-  "message" : "Переоткрыть"
-  },
-"You_have_to_have_been_a_board_admin_to_re_open_a_closed_board_" : {
-  "message" :
-  "Вы должны быть администратором, чтобы снова открывать закрытые доски."
-  },
-"No_Boards_Found"  : {
-  "message" : "Доски не найдены"
-  },
-
-"Boards"            : {
-  "message" : "Доски"
-  },
-"Public"            : {
-  "message" : "Общая"
-  },
-"Add_a_list_"  : {
-  "message" : "Добавить список…"
-  },
-"Calendar"          : {
-  "message" : "Календарь"
-  },
-"Subscribed"        : {
-  "message" : "Подписка"
-  },
-"Filtering_is_on_"  : {
-  "message" : "Фильтрация включена."
-  },
-"Show_sidebar"  : {
-  "message" : "Показать меню"
-  },
-"Add_a_card_"  : {
-  "message" : "Добавить карточку…"
-  },
-"Notifications"     : {
-  "message" : "Уведомления"
-  },
-"This_board_is_public__It_s_visible_to_anyone_with_the_link_and_will_show_up_in_search_engines_like_Google___Only_people_added_to_the_board_can_edit_"  : {
-  "message" :
-  "Эта доска общедоступна. Она видна всем, у кого есть ссылки и будет показана в результатах поиска поисковых систем типа Google. Только люди, которые были добавлены могут редактировать эту доску."
-  },
-"Go_back_to_your_boards_page_"  : {
-  "message" :
-  "Вернуться к странице всех досок."
-  },
-"View_list_of_boards"  : {
-  "message" :
-  "Смотреть список досок"
-  },
-"Rename_the_board_"  : {
-  "message" :
-  "Переименовать доску."
-  },
-"You_are_filtering_cards_on_this_board__Click_here_to_edit_filter_"  : {
-  "message" :
-  "Показаны не все карточки на этой доске. Кликните, чтобы изменить условия фильтрации."
-  },
-"You_are_subscribed_to_this_board__You_ll_get_notifications_about_changes_"  : {
-  "message" :
-  "Вы подписаны на изменения на этой доске. Вы получите уведомления обо всех изменениях."
-  },
-"Click_to_star_or_unstar_this_board__Starred_boards_show_up_at_the_top_of_your_boards_list_"  : {
-  "message" :
-  "Кликните, чтобы добавить доску в избренное или убрать. Доски, помеченные звездочкой показываются над всеми досками в списке."
-  },
-"Close_the_board_sidebar_"  : {
-  "message" : "Закрыть меню."
-  },
-"Add_a_new_board_or_organization_"  : {
-  "message" : "Создать новую доску или организацию."
-  },
-"You_are_seeing_an_early__experimental_version_of_Trello__We_would_love_your_feedback_"  : {
-  "message" :
-  "Вы выдите раннюю экспериментальную версию Trello. Нам очень нужны ваши отзывы!"
-  },
-"Get_access_to_your_profile__help__and_log_out_"  : {
-  "message" : "Доступ к профилю, помощи и выход."
-  },
-"This_member_has_Trello_Gold_"  : {
-  "message" : "У этого человека Trello Gold."
-  },
-"Click_to_star_this_board__It_will_show_up_at_top_of_your_boards_list_"  : {
-  "message" :
-  "Кликните, чтобы добавить доску в любимые. Доска будет показана на самом верху списка всех досок."
-  },
-"Search_for_boards__cards__members__and_organizations_"  : {
-  "message" :
-  "Поиск досок, карточек, людей и организаций."
-  },
-
-"Menu"             : {
-  "message" : "Меню"
-  },
-"Activity"         : {
-  "message" : "Активность"
-  },
-"Members"          : {
-  "message" : "Люди"
-  },
-"Add_Members"  : {
-  "message" : "Добавить Людей"
-  },
-"Click_here_to_see_more_board_options_"  : {
-  "message" : "Кликните, чтобы увидеть настройки доски."
-  },
-
-"Power_Ups" : {
-  "message" : "Улучшения"
-  },
-"Stickers"  : {
-  "message" : "Стикеры"
-  },
-"Filter_Cards"  : {
-  "message" : "Фильтровать карточки"
-  },
-"Archived_Items"  : {
-  "message" : "Архивные карточки"
-  },
-"Change_Background_"  : {
-  "message" : "Изменить фон…"
-  },
-"Email_to_board_Settings_" : {
-  "message" : "Email-публикация…"
-  },
-"Copy_Board_"  : {
-  "message" : "Копировать доску…"
-  },
-"Share__Print__and_Export_"  : {
-  "message" : "Шарить, печать, экспорт…"
-  },
-"Additional_Settings_"  : {
-  "message" : "Другие настройки…"
-  },
-"Close_Board_"  : {
-  "message" : "Удалить доску…"
-  },
-"Leave_Board_"  : {
-  "message" : "Покинуть доску…"
-  },
-
-"List_Actions"  : {
-  "message" : "Список действий"
-  },
-"Add_Card_"  : {
-  "message" : "Добавить карточку…"
-  },
-"Copy_List_"  : {
-  "message" : "Копировать список…"
-  },
-"Move_List_"  : {
-  "message" : "Перенести список…"
-  },
-"Subscribe"        : {
-  "message" : "Subscribe"
-  },
-"Move_All_Cards_in_This_List_"  : {
-  "message" : "Перенести все карточки списка…"
-  },
-"Archive_All_Cards_in_This_List_"  : {
-  "message" : "Архивировать все карточки списка…"
-  },
-"Archive_This_List"  : {
-  "message" : "Архивировать этот список"
-  },
-
-"Edit_Labels"  : {
-  "message" : "Теги"
-  },
-"Change_Members"  : {
-  "message" : "Люди"
-  },
-"Move"             : {
-  "message" : "Перенести"
-  },
-"Copy"             : {
-  "message" : "Копировать"
-  },
-"Change_Due_Date"  : {
-  "message" : "Крайний срок"
-  },
-"Archive"          : {
-  "message" : "Архивировать"
-  },
-
-"Add"              : {
-  "message" : "Добавить"
-  },
-
-"added"            : {
-  "message" : "добавил(а)"
-  },
-"to"               : {
-  "message" : "к"
-  },
-"and"              : {
-  "message" : "и"
-  },
-"joined"           : {
-  "message" : "добавил(а) себя к"
-  },
-"moved"            : {
-  "message" : "переместил(а)"
-  },
-"from"             : {
-  "message" : "из"
-  },
-"archived"         : {
-  "message" : "архивировал(а)"
-  },
-"renamed"          : {
-  "message" : "переименовал(а)"
-  },
-"this_board"  : {
-  "message" : "эту доску"
-  },
-"attached"         : {
-  "message" : "прикрепил(а)"
-  },
-"sent"             : {
-  "message" : "отправил(а)"
-  },
-"to_the_board"  : {
-  "message" : "на доску"
-  },
-
-"Edit_the_description_"  : {
-  "message" : "Измените описание…"
-  },
-"Write_a_comment_"  : {
-  "message" : "Добавьте комментарий…"
-  },
-"Save" : {
-  "message" : "Сохранить"
-  },
-"Actions" : {
-  "message" : "Действия"
-  },
-"Labels" : {
-  "message" : "Теги"
-  },
-"Checklist"  : {
-  "message" : "Чеклист"
-  },
-"Due_date"  : {
-  "message" : "Крайний срок"
-  },
-"Attachment"  : {
-  "message" : "Вложения"
-  },
-"Move"  : {
-  "message" : "Перенести"
-  },
-"Copy"  : {
-  "message" : "Копировать"
-  },
-"Subscribe"  : {
-  "message" : "Подписаться"
-  },
-"Archive"  : {
-  "message" : "Архивировать"
-  },
-"Delete"  : {
-  "message" : "Удалить"
-  },
-"Share_and_more_"  : {
-  "message" : "Шарить и др.…"
-  },
-"Send_to_board"  : {
-  "message" : "Вернуть на доску"
-  },
-"Drop_files_to_upload_"  : {
-  "message" : "Бросьте файлы для загрузки."
-  },
-"Due_Date"  : {
-  "message" : "Конечный срок"
-  },
-
-"Add_or_remove_members_of_the_board_from_the_card_"  : {
-  "message" :
-  "Добавить или удалить людей этой доски к карточке."
-  },
-"Change_the_labels_for_the_card_"  : {
-  "message" :
-  "Изменить теги этой карточки."
-  },
-"Add_a_checklist_and_divide_the_card_into_subtasks_"  : {
-  "message" :
-  "Добавить чеклист или разделить карточку на подзадачи."
-  },
-"Add_a_due_date_for_the_card_and_get_notifications_when_it_is_almost_due_"  : {
-  "message" :
-  "Добавить крайний срок для карточки и напоминание о приближении крайнего срока."
-  },
-"Attach_files_from_your_computer_or_from_Google_Drive__You_can_also_drag_n_drop_files_from_your_desktop_to_upload_them_"  : {
-  "message" :
-  "Прикрепить файлы с вашего компьютера или из Google Диска. Вы также можете перетащить файлы с вашего рабочего стола, чтобы загрузить их."
-  },
-"Move_the_card_to_another_board__another_list__or_a_new_position_in_a_list"  : {
-  "message" :
-  "Переместить карточку на другую доску, список или на другое место в списке"
-  },
-"Make_a_copy_of_this_card__optionally_include_checklist__labels__members__attachments__etc_"  : {
-  "message" :
-  "Скопировать эту карточку с возможностью включения чеклистов, тегов, людей, вложений и пр."
-  },
-"Subscribe_to_the_card_to_get_notifications_when_something_changes_"  : {
-  "message" :
-  "Подписаться на уведомления об изменениях карточки."
-  },
-"Remove_the_card_from_the_board_"  : {
-  "message" :
-  "Удалить карточку с доски."
-  },
-"Send_the_card_back_to_the_board_"  : {
-  "message" :
-  "Вернуть карточку на доску."
-  },
-"Delete_the_card_and_all_history_associated_with_it__It_can_t_be_retrieved_"  : {
-  "message" :
-  "Удалить карточку и всю историю изменений. Это действие нельзя будет отменить."
-  },
-"More_options_share__print__export__and_delete_"  : {
-  "message" :
-  "Больше возможностей для печати, экспорта, удаления и расшаривания."
-  },
-"in_list"  : {
-  "message" : "из списка"
-  },
-
-"Change_Notification_Email_Frequency"  : {
-  "message" : "Изменить частоту Email-уведомлений"
-  },
-"See_All_Notifications"  : {
-  "message" : "Смотреть все уведомления"
-}
+	"Today": {
+		"message": "Сегодня"
+	},
+	"Week": {
+		"message": "Неделя"
+	},
+	"Month": {
+		"message": "Месяц"
+	},
+	"Sun": {
+		"message": "ВС"
+	},
+	"Mon": {
+		"message": "ПН"
+	},
+	"Tue": {
+		"message": "ВТ"
+	},
+	"Wed": {
+		"message": "СР"
+	},
+	"Thu": {
+		"message": "ЧТ"
+	},
+	"Fri": {
+		"message": "ПТ"
+	},
+	"Sat": {
+		"message": "СБ"
+	},
+	"January": {
+		"message": "Январь"
+	},
+	"February": {
+		"message": "Февраль"
+	},
+	"March": {
+		"message": "Март"
+	},
+	"April": {
+		"message": "Апрель"
+	},
+	"May": {
+		"message": "Май"
+	},
+	"June": {
+		"message": "Июнь"
+	},
+	"July": {
+		"message": "Июль"
+	},
+	"August": {
+		"message": "Август"
+	},
+	"September": {
+		"message": "Сентябрь"
+	},
+	"October": {
+		"message": "Октябрь"
+	},
+	"November": {
+		"message": "Ноябрь"
+	},
+	"December": {
+		"message": "Декабрь"
+	},
+	"Jan": {
+		"message": "Янв"
+	},
+	"Feb": {
+		"message": "Фев"
+	},
+	"Mar": {
+		"message": "Мар"
+	},
+	"Apr": {
+		"message": "Апр"
+	},
+	"Jun": {
+		"message": "Июн"
+	},
+	"Jul": {
+		"message": "Июл"
+	},
+	"Aug": {
+		"message": "Авг"
+	},
+	"Sep": {
+		"message": "Сен"
+	},
+	"Oct": {
+		"message": "Окт"
+	},
+	"Nov": {
+		"message": "Ноя"
+	},
+	"Dec": {
+		"message": "Дек"
+	},
+	"Saved_Searches": {
+		"message": "Сохранённые запросы"
+	},
+	"Your_search_produced_an_error_": {
+		"message": "Ваш поиск вызвал ошибку."
+	},
+	"Searching_": {
+		"message": "Ищем…"
+	},
+	"No_results_": {
+		"message": "Ничего не найдено."
+	},
+	"Refine_your_search_with_operators_like__member___label__is_archived__and_has_attachments_": {
+		"message": "Уточните ваш поиск с помощью операторов @человек, #тег, is:archived и has:attachments."
+	},
+	"Learn_more_": {
+		"message": "Узнать больше…"
+	},
+	"Cards": {
+		"message": "Карточки"
+	},
+	"Loading_": {
+		"message": "Идёт загрузка…"
+	},
+	"Show_more_boards_": {
+		"message": "Показать больше досок…"
+	},
+	"Show_more_members_": {
+		"message": "Показать больше людей…"
+	},
+	"Organizations": {
+		"message": "Организации"
+	},
+	"Show_more_organizations_": {
+		"message": "Показать больше организаций…"
+	},
+	"Back_to_Saved_Searches": {
+		"message": "Вернуться к сохранённым запросам"
+	},
+	"Save_this_Search": {
+		"message": "Сохранить этот запрос"
+	},
+	"Did_you_mean_": {
+		"message": "Что-то типа…"
+	},
+	"Only_include_cards_that_have_stickers_": {
+		"message": "Только карточки со стикерами."
+	},
+	"Starred_Boards": {
+		"message": "Любимые доски"
+	},
+	"My_Boards": {
+		"message": "Мои доски"
+	},
+	"Overview": {
+		"message": "Обзор"
+	},
+	"Recent_Boards": {
+		"message": "Недавние доски"
+	},
+	"Always_keep_this_menu_open_": {
+		"message": "Держать это меню открытым."
+	},
+	"Don_t_keep_this_menu_open_": {
+		"message": "Не держать это меню открытым."
+	},
+	"See_closed_boards_": {
+		"message": "Смотреть закрытие доски…"
+	},
+	"Find_boards_by_name_": {
+		"message": "Найти доски по имени…"
+	},
+	"There_is_new_activity_on_this_board_": {
+		"message": "Есть активность на этой доске."
+	},
+	"Collapse_section_": {
+		"message": "Свернуть раздел."
+	},
+	"Expand_section_": {
+		"message": "Раскрыть раздел."
+	},
+	"Closed_Boards": {
+		"message": "Закрытые доски"
+	},
+	"Re_open": {
+		"message": "Переоткрыть"
+	},
+	"You_have_to_have_been_a_board_admin_to_re_open_a_closed_board_": {
+		"message": "Вы должны быть администратором, чтобы снова открывать закрытые доски."
+	},
+	"No_Boards_Found": {
+		"message": "Доски не найдены"
+	},
+	"Boards": {
+		"message": "Доски"
+	},
+	"Public": {
+		"message": "Общая"
+	},
+	"Add_a_list_": {
+		"message": "Добавить список…"
+	},
+	"Calendar": {
+		"message": "Календарь"
+	},
+	"Subscribed": {
+		"message": "Подписка"
+	},
+	"Filtering_is_on_": {
+		"message": "Фильтрация включена."
+	},
+	"Show_sidebar": {
+		"message": "Показать меню"
+	},
+	"Add_a_card_": {
+		"message": "Добавить карточку…"
+	},
+	"Notifications": {
+		"message": "Уведомления"
+	},
+	"Go_back_to_your_boards_page_": {
+		"message": "Вернуться к странице всех досок."
+	},
+	"View_list_of_boards": {
+		"message": "Смотреть список досок"
+	},
+	"Rename_the_board_": {
+		"message": "Переименовать доску."
+	},
+	"You_are_filtering_cards_on_this_board__Click_here_to_edit_filter_": {
+		"message": "Показаны не все карточки на этой доске. Кликните, чтобы изменить условия фильтрации."
+	},
+	"You_are_subscribed_to_this_board__You_ll_get_notifications_about_changes_": {
+		"message": "Вы подписаны на изменения на этой доске. Вы получите уведомления обо всех изменениях."
+	},
+	"Click_to_star_or_unstar_this_board__Starred_boards_show_up_at_the_top_of_your_boards_list_": {
+		"message": "Кликните, чтобы добавить доску в избренное или убрать. Доски, помеченные звездочкой показываются над всеми досками в списке."
+	},
+	"Close_the_board_sidebar_": {
+		"message": "Закрыть меню."
+	},
+	"Add_a_new_board_or_organization_": {
+		"message": "Создать новую доску или организацию."
+	},
+	"You_are_seeing_an_early__experimental_version_of_Trello__We_would_love_your_feedback_": {
+		"message": "Вы выдите раннюю экспериментальную версию Trello. Нам очень нужны ваши отзывы!"
+	},
+	"Get_access_to_your_profile__help__and_log_out_": {
+		"message": "Доступ к профилю, помощи и выход."
+	},
+	"This_member_has_Trello_Gold_": {
+		"message": "У этого человека Trello Gold."
+	},
+	"Click_to_star_this_board__It_will_show_up_at_top_of_your_boards_list_": {
+		"message": "Кликните, чтобы добавить доску в любимые. Доска будет показана на самом верху списка всех досок."
+	},
+	"Search_for_boards__cards__members__and_organizations_": {
+		"message": "Поиск досок, карточек, людей и организаций."
+	},
+	"Menu": {
+		"message": "Меню"
+	},
+	"Add_Members": {
+		"message": "Добавить Людей"
+	},
+	"Members": {
+		"message": "Люди"
+	},
+	"Activity": {
+		"message": "Активность"
+	},
+	"Click_here_to_see_more_board_options_": {
+		"message": "Кликните, чтобы увидеть настройки доски."
+	},
+	"Power_Ups": {
+		"message": "Улучшения"
+	},
+	"Stickers": {
+		"message": "Стикеры"
+	},
+	"Filter_Cards": {
+		"message": "Фильтровать карточки"
+	},
+	"Archived_Items": {
+		"message": "Архивные карточки"
+	},
+	"Change_Background_": {
+		"message": "Изменить фон…"
+	},
+	"Email_to_board_Settings_": {
+		"message": "Email-публикация…"
+	},
+	"Copy_Board_": {
+		"message": "Копировать доску…"
+	},
+	"Share__Print__and_Export_": {
+		"message": "Шарить, печать, экспорт…"
+	},
+	"Additional_Settings_": {
+		"message": "Другие настройки…"
+	},
+	"Close_Board_": {
+		"message": "Удалить доску…"
+	},
+	"Leave_Board_": {
+		"message": "Покинуть доску…"
+	},
+	"List_Actions": {
+		"message": "Список действий"
+	},
+	"Add_Card_": {
+		"message": "Добавить карточку…"
+	},
+	"Copy_List_": {
+		"message": "Копировать список…"
+	},
+	"Move_List_": {
+		"message": "Перенести список…"
+	},
+	"Subscribe": {
+		"message": "Подписаться"
+	},
+	"Move_All_Cards_in_This_List_": {
+		"message": "Перенести все карточки списка…"
+	},
+	"Archive_All_Cards_in_This_List_": {
+		"message": "Архивировать все карточки списка…"
+	},
+	"Archive_This_List": {
+		"message": "Архивировать этот список"
+	},
+	"Edit_Labels": {
+		"message": "Теги"
+	},
+	"Change_Members": {
+		"message": "Люди"
+	},
+	"Move": {
+		"message": "Перенести"
+	},
+	"Copy": {
+		"message": "Копировать"
+	},
+	"Change_Due_Date": {
+		"message": "Крайний срок"
+	},
+	"Archive": {
+		"message": "Архивировать"
+	},
+	"Add": {
+		"message": "Добавить"
+	},
+	"Change_Notification_Email_Frequency": {
+		"message": "Изменить частоту Email-уведомлений"
+	},
+	"See_All_Notifications": {
+		"message": "Смотреть все уведомления"
+	},
+	"added": {
+		"message": "добавил(а)"
+	},
+	"to": {
+		"message": "к"
+	},
+	"and": {
+		"message": "и"
+	},
+	"joined": {
+		"message": "добавил(а) себя к"
+	},
+	"moved": {
+		"message": "переместил(а)"
+	},
+	"from": {
+		"message": "из"
+	},
+	"archived": {
+		"message": "архивировал(а)"
+	},
+	"renamed": {
+		"message": "переименовал(а)"
+	},
+	"this_board": {
+		"message": "эту доску"
+	},
+	"attached": {
+		"message": "прикрепил(а)"
+	},
+	"sent": {
+		"message": "отправил(а)"
+	},
+	"to_the_board": {
+		"message": "на доску"
+	},
+	"Edit_the_description_": {
+		"message": "Измените описание…"
+	},
+	"Write_a_comment_": {
+		"message": "Добавьте комментарий…"
+	},
+	"Save": {
+		"message": "Сохранить"
+	},
+	"Actions": {
+		"message": "Действия"
+	},
+	"Labels": {
+		"message": "Теги"
+	},
+	"Checklist": {
+		"message": "Чеклист"
+	},
+	"Attachment": {
+		"message": "Вложения"
+	},
+	"Delete": {
+		"message": "Удалить"
+	},
+	"Share_and_more_": {
+		"message": "Шарить и др.…"
+	},
+	"Send_to_board": {
+		"message": "Вернуть на доску"
+	},
+	"Drop_files_to_upload_": {
+		"message": "Бросьте файлы для загрузки."
+	},
+	"Due_date": {
+		"message": "Крайний срок"
+	},
+	"Add_or_remove_members_of_the_board_from_the_card_": {
+		"message": "Добавить или удалить людей этой доски к карточке."
+	},
+	"Change_the_labels_for_the_card_": {
+		"message": "Изменить теги этой карточки."
+	},
+	"Add_a_checklist_and_divide_the_card_into_subtasks_": {
+		"message": "Добавить чеклист или разделить карточку на подзадачи."
+	},
+	"Add_a_due_date_for_the_card_and_get_notifications_when_it_is_almost_due_": {
+		"message": "Добавить крайний срок для карточки и напоминание о приближении крайнего срока."
+	},
+	"Move_the_card_to_another_board__another_list__or_a_new_position_in_a_list": {
+		"message": "Переместить карточку на другую доску, список или на другое место в списке"
+	},
+	"Make_a_copy_of_this_card__optionally_include_checklist__labels__members__attachments__etc_": {
+		"message": "Скопировать эту карточку с возможностью включения чеклистов, тегов, людей, вложений и пр."
+	},
+	"Subscribe_to_the_card_to_get_notifications_when_something_changes_": {
+		"message": "Подписаться на уведомления об изменениях карточки."
+	},
+	"Remove_the_card_from_the_board_": {
+		"message": "Удалить карточку с доски."
+	},
+	"Send_the_card_back_to_the_board_": {
+		"message": "Вернуть карточку на доску."
+	},
+	"Delete_the_card_and_all_history_associated_with_it__It_can_t_be_retrieved_": {
+		"message": "Удалить карточку и всю историю изменений. Это действие нельзя будет отменить."
+	},
+	"More_options_share__print__export__and_delete_": {
+		"message": "Больше возможностей для печати, экспорта, удаления и расшаривания."
+	},
+	"in_list": {
+		"message": "из списка"
+	}
 }
