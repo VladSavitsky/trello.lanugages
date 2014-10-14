@@ -11,11 +11,11 @@
   "message" : "Create Board",
   "description" : "Board creation popup"
 },
-"Title" :
+"Title" : {
   "message" : "Title",
   "description" : "Board creation popup"
 },
-"Organization" :
+"Organization" : {
   "message" : "Organization",
   "description" : "Board creation popup"
 },
@@ -24,7 +24,7 @@
   "description" : "Board creation popup"
 },
 "Like__Bucket_List__for_example_" : {
-  "message" : 'Like “Bucket List” for example…',
+  "message" : "Like “Bucket List” for example…",
   "description" : "Board creation popup"
 },
 "This_board_will_be" : {
