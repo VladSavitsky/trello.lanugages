@@ -1,4 +1,7 @@
 {
+	"Public": {
+		"message": "Öffentlich"
+	},
 	"Today": {
 		"message": "Heute"
 	},
@@ -111,7 +114,7 @@
 		"message": "Keine Ergebnisse."
 	},
 	"Refine_your_search_with_operators_like__member___label__is_archived__and_has_attachments_": {
-		"message": "Ihre Suche mit Operationen, wie z.B. @member, #label, is:archived, and has:attachments verfeinern."
+		"message": "Ihre Suche mit Operatoren, wie z.B. @member, #label, is:archived, and has:attachments verfeinern."
 	},
 	"Learn_more_": {
 		"message": "Mehr erfahren…"
@@ -144,7 +147,7 @@
 		"message": "Meinten Sie…"
 	},
 	"Only_include_cards_that_have_stickers_": {
-		"message": "Nur Karten, die Sticker besitzen."
+		"message": "Nur Karten anzeigen, die Sticker besitzen."
 	},
 	"Starred_Boards": {
 		"message": "Favorisierte Boards"
@@ -174,7 +177,7 @@
 		"message": "Es gibt Neuigkeiten auf diesem Board."
 	},
 	"Collapse_section_": {
-		"message": "verkleinern"
+		"message": "reduzieren"
 	},
 	"Expand_section_": {
 		"message": "erweitern"
@@ -194,9 +197,6 @@
 	"Boards": {
 		"message": "Boards"
 	},
-	"Public": {
-		"message": "Öffentlich"
-	},
 	"Add_a_list_": {
 		"message": "Eine Liste einfügen…"
 	},
@@ -207,7 +207,7 @@
 		"message": "Aboniert"
 	},
 	"Filtering_is_on_": {
-		"message": "Filterung ist an"
+		"message": "Filtern ist ein"
 	},
 	"Show_sidebar": {
 		"message": "Zeige Menüleiste"
@@ -234,7 +234,7 @@
 		"message": "Sie haben dieses Board aboniert. Sie erhalten Benachrichtigungen bei Änderungen."
 	},
 	"Click_to_star_or_unstar_this_board__Starred_boards_show_up_at_the_top_of_your_boards_list_": {
-		"message": "Klicken, um dieses Board zu favorisieren\/entfavorisieren. Favorisierte Boards werden oben in Ihrer Board-Liste angezeigt."
+		"message": "Klicken, um dieses Board zu favorisieren\/defavorisieren. Favorisierte Boards werden oben in Ihrer Board-Liste angezeigt."
 	},
 	"Close_the_board_sidebar_": {
 		"message": "Board-Menü schließen."
@@ -330,13 +330,13 @@
 		"message": "Liste archivieren"
 	},
 	"Edit_Labels": {
-		"message": "Edit Labels"
+		"message": "Labels bearbeiten"
 	},
 	"Change_Members": {
 		"message": "Mitglieder bearbeiten"
 	},
 	"Move": {
-		"message": "Bewegen"
+		"message": "Verschieben"
 	},
 	"Copy": {
 		"message": "Kopieren"

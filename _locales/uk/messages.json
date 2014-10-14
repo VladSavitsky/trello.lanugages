@@ -1,4 +1,31 @@
 {
+	"Create_new_board_": {
+		"message": "Створити нову дошку…"
+	},
+	"Create_Board": {
+		"message": "Створити дошку"
+	},
+	"Title": {
+		"message": "Назва"
+	},
+	"Organization": {
+		"message": "Організація"
+	},
+	"Create": {
+		"message": "Створити"
+	},
+	"This_board_will_be": {
+		"message": "Ця дошка буде"
+	},
+	"Change_": {
+		"message": "Змінити."
+	},
+	"private": {
+		"message": "Приватна"
+	},
+	"Public": {
+		"message": "Загальна"
+	},
 	"Today": {
 		"message": "Сьогодні"
 	},
@@ -12,13 +39,13 @@
 		"message": "ВС"
 	},
 	"Mon": {
-		"message": "ПН"
+		"message": "Пн"
 	},
 	"Tue": {
-		"message": "ВТ"
+		"message": "Вт"
 	},
 	"Wed": {
-		"message": "СР"
+		"message": "Ср"
 	},
 	"Thu": {
 		"message": "Чт"
@@ -29,11 +56,89 @@
 	"Sat": {
 		"message": "СБ"
 	},
+	"January": {
+		"message": "Січень"
+	},
+	"February": {
+		"message": "Лютий"
+	},
+	"March": {
+		"message": "Березень"
+	},
+	"April": {
+		"message": "Квітень"
+	},
+	"May": {
+		"message": "Травень"
+	},
+	"June": {
+		"message": "Червень"
+	},
+	"July": {
+		"message": "Липень"
+	},
+	"August": {
+		"message": "Серпень"
+	},
+	"September": {
+		"message": "Вересень"
+	},
+	"October": {
+		"message": "Квітень"
+	},
+	"November": {
+		"message": "Жовтень"
+	},
+	"December": {
+		"message": "Листопад"
+	},
+	"Jan": {
+		"message": "Січ"
+	},
+	"Feb": {
+		"message": "Лют"
+	},
+	"Mar": {
+		"message": "Бер"
+	},
+	"Apr": {
+		"message": "Кві"
+	},
+	"Jun": {
+		"message": "Чер"
+	},
+	"Jul": {
+		"message": "Лип"
+	},
+	"Aug": {
+		"message": "Сер"
+	},
+	"Sep": {
+		"message": "Вер"
+	},
+	"Oct": {
+		"message": "Жов"
+	},
+	"Nov": {
+		"message": "Лис"
+	},
+	"Dec": {
+		"message": "Гру"
+	},
+	"Saved_Searches": {
+		"message": "Збережені пошуки"
+	},
+	"Your_search_produced_an_error_": {
+		"message": "Ваш пошук видав помилку."
+	},
 	"Searching_": {
 		"message": "Шукаємо…"
 	},
 	"No_results_": {
 		"message": "Немає результатів."
+	},
+	"Learn_more_": {
+		"message": "Дізнатись більше..."
 	},
 	"Cards": {
 		"message": "Картки"
@@ -41,11 +146,32 @@
 	"Loading_": {
 		"message": "Завантажується…"
 	},
+	"Show_more_boards_": {
+		"message": "Показати більше дошок…"
+	},
+	"Show_more_members_": {
+		"message": "Показати більше людей…"
+	},
 	"Organizations": {
 		"message": "Організації"
 	},
+	"Show_more_organizations_": {
+		"message": "Показати більше організацій…"
+	},
 	"Back_to_Saved_Searches": {
 		"message": "Повернутися до збережених результатів"
+	},
+	"Save_this_Search": {
+		"message": "Зберегти цей пошук"
+	},
+	"Did_you_mean_": {
+		"message": "Чи Ви знали..."
+	},
+	"Only_include_cards_that_have_stickers_": {
+		"message": "Тільки картки, що мають стікери."
+	},
+	"Starred_Boards": {
+		"message": "Улюблені дошки"
 	},
 	"My_Boards": {
 		"message": "Мої дошки"
@@ -53,26 +179,62 @@
 	"Overview": {
 		"message": "Огляд"
 	},
+	"Always_keep_this_menu_open_": {
+		"message": "Завжди лишати це меню відкритим."
+	},
+	"Don_t_keep_this_menu_open_": {
+		"message": "Не залишати це меню відкритим."
+	},
+	"See_closed_boards_": {
+		"message": "Побачити закриті дошки…"
+	},
+	"Find_boards_by_name_": {
+		"message": "Знайти дошки за назвою…"
+	},
+	"There_is_new_activity_on_this_board_": {
+		"message": "Нова активність на цій дошці."
+	},
+	"Collapse_section_": {
+		"message": "Згорнути розділ."
+	},
+	"Expand_section_": {
+		"message": "Розгорнути розділ."
+	},
 	"Closed_Boards": {
 		"message": "Закриті дошки"
 	},
 	"Re_open": {
 		"message": "Відкрити знову"
 	},
+	"No_Boards_Found": {
+		"message": "Дошки не знайдені"
+	},
 	"Boards": {
 		"message": "Дошки"
 	},
-	"Public": {
-		"message": "Загальна"
+	"Add_a_list_": {
+		"message": "Додати до списку..."
 	},
 	"Calendar": {
 		"message": "Календар"
+	},
+	"Subscribed": {
+		"message": "Підписаний"
+	},
+	"Filtering_is_on_": {
+		"message": "Фільтрація увімкнена."
+	},
+	"Show_sidebar": {
+		"message": "Показати бокову панель"
 	},
 	"Add_a_card_": {
 		"message": "Додати картку…"
 	},
 	"Notifications": {
 		"message": "Повідомлення"
+	},
+	"Go_back_to_your_boards_page_": {
+		"message": "Повернутися до сторінки ваших дошок."
 	},
 	"View_list_of_boards": {
 		"message": "Дивитись список дошок"
@@ -83,6 +245,21 @@
 	"Close_the_board_sidebar_": {
 		"message": "Закрити меню дошки."
 	},
+	"Add_a_new_board_or_organization_": {
+		"message": "Додати нову дошку чи організацію."
+	},
+	"Get_access_to_your_profile__help__and_log_out_": {
+		"message": "Отримати доступ до вашого профілю, допомоги та виход."
+	},
+	"This_member_has_Trello_Gold_": {
+		"message": "Ця людина має Trello Gold."
+	},
+	"Search_for_boards__cards__members__and_organizations_": {
+		"message": "Пошук дошок, карток, людей та організацій."
+	},
+	"Menu": {
+		"message": "Меню"
+	},
 	"Add_Members": {
 		"message": "Додати людей"
 	},
@@ -92,17 +269,32 @@
 	"Activity": {
 		"message": "Активність"
 	},
+	"Power_Ups": {
+		"message": "Підсилювачі"
+	},
 	"Stickers": {
 		"message": "Стікери"
 	},
+	"Archived_Items": {
+		"message": "Архівовані елементи"
+	},
 	"Change_Background_": {
 		"message": "Змінити фон…"
+	},
+	"Share__Print__and_Export_": {
+		"message": "Загальний доступ, Друк та Експорт..."
+	},
+	"Additional_Settings_": {
+		"message": "Додаткові налаштування..."
 	},
 	"Close_Board_": {
 		"message": "Закрити дошку…"
 	},
 	"Leave_Board_": {
 		"message": "Залишити дошку…"
+	},
+	"List_Actions": {
+		"message": "Список дій"
 	},
 	"Add_Card_": {
 		"message": "Додати картку…"
@@ -112,5 +304,110 @@
 	},
 	"Move_List_": {
 		"message": "Перемістити список…"
+	},
+	"Subscribe": {
+		"message": "Підписати"
+	},
+	"Archive_This_List": {
+		"message": "Архівувати цей список"
+	},
+	"Edit_Labels": {
+		"message": "Теги"
+	},
+	"Change_Members": {
+		"message": "Люди"
+	},
+	"Move": {
+		"message": "Перемістити"
+	},
+	"Copy": {
+		"message": "Копія"
+	},
+	"Change_Due_Date": {
+		"message": "Кінцевий строк"
+	},
+	"Archive": {
+		"message": "Архів"
+	},
+	"Add": {
+		"message": "Додати"
+	},
+	"Change_Notification_Email_Frequency": {
+		"message": "Зміна частоти повідомлення електронною поштою"
+	},
+	"See_All_Notifications": {
+		"message": "Дивитись усі сповіщення"
+	},
+	"added": {
+		"message": "додано"
+	},
+	"to": {
+		"message": "до"
+	},
+	"and": {
+		"message": "і"
+	},
+	"moved": {
+		"message": "переміщено"
+	},
+	"from": {
+		"message": "від"
+	},
+	"archived": {
+		"message": "архівовано"
+	},
+	"renamed": {
+		"message": "перейменовано"
+	},
+	"attached": {
+		"message": "прикріплено"
+	},
+	"sent": {
+		"message": "відправлено"
+	},
+	"Edit_the_description_": {
+		"message": "Редагувати опис..."
+	},
+	"Write_a_comment_": {
+		"message": "Написати коментарій..."
+	},
+	"Save": {
+		"message": "Зберегти"
+	},
+	"Actions": {
+		"message": "Дії"
+	},
+	"Labels": {
+		"message": "Теги"
+	},
+	"Checklist": {
+		"message": "Контрольний список"
+	},
+	"Attachment": {
+		"message": "Вкладення"
+	},
+	"Delete": {
+		"message": "Видалити"
+	},
+	"Share_and_more_": {
+		"message": "Загальний доступ та більше..."
+	},
+	"Send_to_board": {
+		"message": "Відправити до дошки"
+	},
+	"Due_date": {
+		"message": "Кінцевій строк"
+	},
+	"Change_the_labels_for_the_card_": {
+		"message": "Змінити теги картки."
+	},
+	"Remove_the_card_from_the_board_": {
+		"message": "Видалити картку з дошки."
+	},
+	"Send_the_card_back_to_the_board_": {
+		"message": "Повернути картку на дошку."
+	},
+	"in_list": {
+		"message": "у списку"
 	}
 }

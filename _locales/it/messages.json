@@ -1,4 +1,7 @@
 {
+	"Public": {
+		"message": "Pubblico"
+	},
 	"Today": {
 		"message": "Oggi"
 	},
@@ -193,9 +196,6 @@
 	},
 	"Boards": {
 		"message": "Tavola"
-	},
-	"Public": {
-		"message": "Pubblico"
 	},
 	"Add_a_list_": {
 		"message": "Aggiungi a un elenco…"

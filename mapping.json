@@ -295,7 +295,7 @@
 
 "form_elements" : {
   "Create" :
-    "body > div.pop-over > div.content.js-tab-parent > div > form > input.primary.wide.js-submit",
+    "body > div.pop-over > div.content.js-tab-parent > div > form > input.js-submit",
   "Add" :
     "#board div.list-cards > div.card-composer > div.cc-controls > input",
   "Save" :

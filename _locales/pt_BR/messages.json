@@ -1,8 +1,8 @@
 {
-	"Boards": {
-		"message": "Quadros"
-	},
 	"Public": {
 		"message": "Público"
+	},
+	"Boards": {
+		"message": "Quadros"
 	}
 }
