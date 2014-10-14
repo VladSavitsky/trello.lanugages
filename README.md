@@ -14,24 +14,11 @@ All translations stored in JSON files and any translator could translate them in
 Trello loads page elements using AJAX so we wait until element appears at page and then translate it.
 We translate values of HTML tags, tip (mostly 'title' attributes of A tags) and form elements.
 
-
 # How to translate trello.com into your language.
 
-## Using Online Editor.
-
-1. Open your favorite online JSON editor or http://www.jsoneditoronline.org/.
-2. Select 'Open/Open url' in top menu.
-3. Insert URL: https://raw.githubusercontent.com/VladSavitsky/trello.lanugages/master/locale/original.json
-4. Translate strings using 'original string' : 'translation' pattern. See https://github.com/VladSavitsky/trello.lanugages/blob/master/locale/ru.json
-5. If you're happy with translation - press 'Save'. File will be downloaded to your computer.
-6. Send translated file to vlad.savitsky@gmail.com. Thanks a lot! Your translation will be published with next version of extension and updated automatically at all computers.
-
-## Using your favorite editor at local computer.
-
-1. Download file https://raw.githubusercontent.com/VladSavitsky/trello.lanugages/master/locale/original.json
-2. Open this file in your favorite editor and translate it. For example, "Boards" : "place translation here".
-3. Save your changes (Ctrl + S or File/Save)
-4. Send translated file to vlad.savitsky@gmail.com. Thanks a lot! Your translation will be published with next version of extension and updated automatically at all computers.
+1. Open http://interpr.it/extension/34
+2. Log in (required to translate).
+3. Do your best!
 
 # Development
 
