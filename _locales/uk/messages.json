@@ -14,6 +14,9 @@
 	"Create": {
 		"message": "Створити"
 	},
+	"Like__Bucket_List__for_example_": {
+		"message": "Наприклад, “Ідеї”…"
+	},
 	"This_board_will_be": {
 		"message": "Ця дошка буде"
 	},
@@ -25,6 +28,12 @@
 	},
 	"Public": {
 		"message": "Загальна"
+	},
+	"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_": {
+		"message": "Цю дошку бачать члени организації. Редагувати можуть лише обрані люди."
+	},
+	"This_board_is_private___Only_people_added_to_the_board_can_view_and_edit_it_": {
+		"message": "Цю дошка особиста. Редагувати та бачити її можуть лише обрані люди."
 	},
 	"Today": {
 		"message": "Сьогодні"
@@ -137,6 +146,9 @@
 	"No_results_": {
 		"message": "Немає результатів."
 	},
+	"Refine_your_search_with_operators_like__member___label__is_archived__and_has_attachments_": {
+		"message": "Уточніть ваш пошук за допомогою операторів @member, #label, is:archived и has:attachments."
+	},
 	"Learn_more_": {
 		"message": "Дізнатись більше..."
 	},
@@ -165,7 +177,7 @@
 		"message": "Зберегти цей пошук"
 	},
 	"Did_you_mean_": {
-		"message": "Чи Ви знали..."
+		"message": "Чи Ви мали на увазі..."
 	},
 	"Only_include_cards_that_have_stickers_": {
 		"message": "Тільки картки, що мають стікери."
@@ -178,6 +190,9 @@
 	},
 	"Overview": {
 		"message": "Огляд"
+	},
+	"Recent_Boards": {
+		"message": "Останні дошки"
 	},
 	"Always_keep_this_menu_open_": {
 		"message": "Завжди лишати це меню відкритим."
@@ -205,6 +220,9 @@
 	},
 	"Re_open": {
 		"message": "Відкрити знову"
+	},
+	"You_have_to_have_been_a_board_admin_to_re_open_a_closed_board_": {
+		"message": "Аби мати змогу відкрити зачинену дошку, Ви повинні бути адміністратором."
 	},
 	"No_Boards_Found": {
 		"message": "Дошки не знайдені"
@@ -242,6 +260,12 @@
 	"Rename_the_board_": {
 		"message": "Змінити назву дошки."
 	},
+	"You_are_filtering_cards_on_this_board__Click_here_to_edit_filter_": {
+		"message": "Ви фільтруєте картки на цій дошці. Щоб змінити умови фільтрації, натисніть тут."
+	},
+	"You_are_subscribed_to_this_board__You_ll_get_notifications_about_changes_": {
+		"message": "Ви підписані на зміни на цій дошці. Ви отримаєте сповіщення про всі зміни."
+	},
 	"Close_the_board_sidebar_": {
 		"message": "Закрити меню дошки."
 	},
@@ -269,17 +293,29 @@
 	"Activity": {
 		"message": "Активність"
 	},
+	"Click_here_to_see_more_board_options_": {
+		"message": "Натисніть, щоб побачити налаштування дошки."
+	},
 	"Power_Ups": {
 		"message": "Підсилювачі"
 	},
 	"Stickers": {
 		"message": "Стікери"
 	},
+	"Filter_Cards": {
+		"message": "Фільтрувати картки"
+	},
 	"Archived_Items": {
 		"message": "Архівовані елементи"
 	},
 	"Change_Background_": {
 		"message": "Змінити фон…"
+	},
+	"Email_to_board_Settings_": {
+		"message": "Email-публікація…"
+	},
+	"Copy_Board_": {
+		"message": "Копіювати дошку..."
 	},
 	"Share__Print__and_Export_": {
 		"message": "Загальний доступ, Друк та Експорт..."
@@ -307,6 +343,12 @@
 	},
 	"Subscribe": {
 		"message": "Підписати"
+	},
+	"Move_All_Cards_in_This_List_": {
+		"message": "Перенести усі карточки списку…"
+	},
+	"Archive_All_Cards_in_This_List_": {
+		"message": "Архівувати усе карточки списку…"
 	},
 	"Archive_This_List": {
 		"message": "Архівувати цей список"
@@ -347,6 +389,9 @@
 	"and": {
 		"message": "і"
 	},
+	"joined": {
+		"message": "додав(ла) себе до"
+	},
 	"moved": {
 		"message": "переміщено"
 	},
@@ -359,11 +404,17 @@
 	"renamed": {
 		"message": "перейменовано"
 	},
+	"this_board": {
+		"message": "цю дошку"
+	},
 	"attached": {
 		"message": "прикріплено"
 	},
 	"sent": {
 		"message": "відправлено"
+	},
+	"to_the_board": {
+		"message": "на дошку"
 	},
 	"Edit_the_description_": {
 		"message": "Редагувати опис..."
@@ -395,17 +446,32 @@
 	"Send_to_board": {
 		"message": "Відправити до дошки"
 	},
+	"Drop_files_to_upload_": {
+		"message": "Киньте файли для завантаження."
+	},
 	"Due_date": {
 		"message": "Кінцевій строк"
 	},
 	"Change_the_labels_for_the_card_": {
 		"message": "Змінити теги картки."
 	},
+	"Make_a_copy_of_this_card__optionally_include_checklist__labels__members__attachments__etc_": {
+		"message": "Скопіювати цю карточку з можливістю ввімкнення чеклистів, тегів, людей, вкладень та ін."
+	},
+	"Subscribe_to_the_card_to_get_notifications_when_something_changes_": {
+		"message": "Підписатися на сповіщення про зміни карточки."
+	},
 	"Remove_the_card_from_the_board_": {
 		"message": "Видалити картку з дошки."
 	},
 	"Send_the_card_back_to_the_board_": {
 		"message": "Повернути картку на дошку."
+	},
+	"Delete_the_card_and_all_history_associated_with_it__It_can_t_be_retrieved_": {
+		"message": "Видалити картку та всю історію змін. Цю дію неможливо буде відмінити."
+	},
+	"More_options_share__print__export__and_delete_": {
+		"message": "Більше можливостей для спільного доступу, друку, експорту та  видалення."
 	},
 	"in_list": {
 		"message": "у списку"

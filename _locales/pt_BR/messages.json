@@ -1,8 +1,266 @@
 {
+	"Create_new_board_": {
+		"message": "Criar novo quadro..."
+	},
+	"Create_Board": {
+		"message": "Criar Quadro"
+	},
+	"Title": {
+		"message": "Título"
+	},
+	"Organization": {
+		"message": "Organização"
+	},
+	"Create": {
+		"message": "Criar"
+	},
+	"Like__Bucket_List__for_example_": {
+		"message": "Como \"Lista de Desejos\" por exemplo"
+	},
+	"This_board_will_be": {
+		"message": "Este quadro será"
+	},
+	"Change_": {
+		"message": "Mudar."
+	},
+	"private": {
+		"message": "Privado"
+	},
 	"Public": {
 		"message": "Público"
 	},
+	"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_": {
+		"message": "Este quadro está visível para membros da organização. Somente pessoas adicionadas ao quadro podem editar."
+	},
+	"This_board_is_private___Only_people_added_to_the_board_can_view_and_edit_it_": {
+		"message": "Este quadro é privado. Somente pessoas adicionadas ao quadro podem visualizar e editá-lo"
+	},
+	"The_board_must_be_added_to_an_org_to_enable_this_": {
+		"message": "O quadro deve ser adicionado à uma organização para habilitar esta escolha."
+	},
+	"Today": {
+		"message": "Hoje"
+	},
+	"Week": {
+		"message": "Semana"
+	},
+	"Month": {
+		"message": "Mês"
+	},
+	"Sun": {
+		"message": "Dom"
+	},
+	"Mon": {
+		"message": "Seg"
+	},
+	"Tue": {
+		"message": "Ter"
+	},
+	"Wed": {
+		"message": "Qua"
+	},
+	"Thu": {
+		"message": "Qui"
+	},
+	"Fri": {
+		"message": "Sex"
+	},
+	"Sat": {
+		"message": "Sáb"
+	},
+	"January": {
+		"message": "Janeiro"
+	},
+	"February": {
+		"message": "Fevereiro"
+	},
+	"March": {
+		"message": "Março"
+	},
+	"April": {
+		"message": "Abril"
+	},
+	"May": {
+		"message": "Maio"
+	},
+	"June": {
+		"message": "Junho"
+	},
+	"July": {
+		"message": "Julho"
+	},
+	"August": {
+		"message": "Agosto"
+	},
+	"September": {
+		"message": "Setembro"
+	},
+	"October": {
+		"message": "Outubro"
+	},
+	"November": {
+		"message": "Novembro"
+	},
+	"December": {
+		"message": "Dezembro"
+	},
+	"Jan": {
+		"message": "Jan"
+	},
+	"Feb": {
+		"message": "Fev"
+	},
+	"Mar": {
+		"message": "Mar"
+	},
+	"Apr": {
+		"message": "Abr"
+	},
+	"Jun": {
+		"message": "Jun"
+	},
+	"Jul": {
+		"message": "Jul"
+	},
+	"Aug": {
+		"message": "Ago"
+	},
+	"Sep": {
+		"message": "Set"
+	},
+	"Oct": {
+		"message": "Out"
+	},
+	"Nov": {
+		"message": "Nov"
+	},
+	"Dec": {
+		"message": "Dez"
+	},
+	"Saved_Searches": {
+		"message": "Pesquisas Salvas."
+	},
+	"Your_search_produced_an_error_": {
+		"message": "Sua pesquisa resultou em erro."
+	},
+	"Searching_": {
+		"message": "Pesquisando..."
+	},
+	"No_results_": {
+		"message": "Nenhum resultado."
+	},
+	"Refine_your_search_with_operators_like__member___label__is_archived__and_has_attachments_": {
+		"message": "Refine sua pesquisa com operadores como @membro, #label, is:arquivado, e has:anexos."
+	},
+	"Learn_more_": {
+		"message": "Saiba mais..."
+	},
+	"Cards": {
+		"message": "Cartões"
+	},
+	"Loading_": {
+		"message": "Carregando..."
+	},
+	"Show_more_boards_": {
+		"message": "Mostrar mais quadros..."
+	},
+	"Show_more_members_": {
+		"message": "Mostrar mais membros..."
+	},
+	"Organizations": {
+		"message": "Organizações"
+	},
+	"Show_more_organizations_": {
+		"message": "Mostrar mais organizações..."
+	},
+	"Back_to_Saved_Searches": {
+		"message": "Voltar para Pesquisas Salvas"
+	},
+	"Save_this_Search": {
+		"message": "Salvar essa Pesquisa"
+	},
+	"Did_you_mean_": {
+		"message": "Você quis dizer..."
+	},
+	"Only_include_cards_that_have_stickers_": {
+		"message": "Inclui somente cartões que possuem adesivos"
+	},
+	"Starred_Boards": {
+		"message": "Quadros Favoritos"
+	},
+	"My_Boards": {
+		"message": "Meus Quadros"
+	},
+	"Overview": {
+		"message": "Visão Geral"
+	},
+	"Recent_Boards": {
+		"message": "Quadros Recentes"
+	},
+	"Always_keep_this_menu_open_": {
+		"message": "Sempre manter este menu aberto."
+	},
+	"Don_t_keep_this_menu_open_": {
+		"message": "Não manter este menu aberto."
+	},
+	"See_closed_boards_": {
+		"message": "Ver quadros fechados..."
+	},
+	"Find_boards_by_name_": {
+		"message": "Achar quadros por nome..."
+	},
+	"There_is_new_activity_on_this_board_": {
+		"message": "Há nova atividade neste quadro."
+	},
+	"Collapse_section_": {
+		"message": "Minimizar seção"
+	},
+	"Expand_section_": {
+		"message": "Expandir seção"
+	},
+	"Closed_Boards": {
+		"message": "Quadros Fechados"
+	},
+	"Re_open": {
+		"message": "Re-abrir"
+	},
+	"You_have_to_have_been_a_board_admin_to_re_open_a_closed_board_": {
+		"message": "Somente o administrador do quadro pode re-abrir um quadro fechado."
+	},
+	"No_Boards_Found": {
+		"message": "Nenhum Quadro Encontrado"
+	},
 	"Boards": {
 		"message": "Quadros"
+	},
+	"Add_a_list_": {
+		"message": "Adicionar uma lista..."
+	},
+	"Calendar": {
+		"message": "Calendário"
+	},
+	"Subscribed": {
+		"message": "Subscrever"
+	},
+	"Show_sidebar": {
+		"message": "Mostrar barra lateral"
+	},
+	"Add_a_card_": {
+		"message": "Adicionar um cartão..."
+	},
+	"Notifications": {
+		"message": "Notificações"
+	},
+	"Go_back_to_your_boards_page_": {
+		"message": "Voltar para a página dos quadros"
+	},
+	"View_list_of_boards": {
+		"message": "Ver a lista de quadros"
+	},
+	"Rename_the_board_": {
+		"message": "Renomear o quadro."
+	},
+	"You_are_filtering_cards_on_this_board__Click_here_to_edit_filter_": {
+		"message": "Você está filtrando cartões nesse quadro. Clique aqui para editar o filtro."
 	}
 }

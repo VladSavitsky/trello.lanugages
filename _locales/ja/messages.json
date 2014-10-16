@@ -1,4 +1,25 @@
 {
+	"Create_new_board_": {
+		"message": "新しいボードを作成..."
+	},
+	"Create_Board": {
+		"message": "ボードを作成"
+	},
+	"Title": {
+		"message": "題名"
+	},
+	"Organization": {
+		"message": "組織"
+	},
+	"Create": {
+		"message": "作成"
+	},
+	"private": {
+		"message": "非公開"
+	},
+	"Public": {
+		"message": "公開"
+	},
 	"Today": {
 		"message": "今日"
 	},

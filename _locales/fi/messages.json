@@ -1,0 +1,20 @@
+{
+	"Create_new_board_": {
+		"message": "Luo uusi taulu..."
+	},
+	"Create_Board": {
+		"message": "Luo taulu"
+	},
+	"Title": {
+		"message": "Otsikko"
+	},
+	"Organization": {
+		"message": "Organisaatio"
+	},
+	"Create": {
+		"message": "Luo"
+	},
+	"Like__Bucket_List__for_example_": {
+		"message": "Esimerkiksi \"Ostoslista\""
+	}
+}

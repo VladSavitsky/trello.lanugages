@@ -1,0 +1,503 @@
+{
+	"Create_new_board_": {
+		"message": "Stwórz nową tablicę..."
+	},
+	"Create_Board": {
+		"message": "Stwórz tablicę"
+	},
+	"Title": {
+		"message": "Tytuł"
+	},
+	"Organization": {
+		"message": "Firma\/Organizacja"
+	},
+	"Create": {
+		"message": "Stwórz"
+	},
+	"Like__Bucket_List__for_example_": {
+		"message": "Np. \"Moja lista\"..."
+	},
+	"This_board_will_be": {
+		"message": "Tablica będzie"
+	},
+	"Change_": {
+		"message": "Zmień."
+	},
+	"private": {
+		"message": "Prywatna"
+	},
+	"Public": {
+		"message": "Publiczna"
+	},
+	"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_": {
+		"message": "Tablica jest widoczna tylko dla użytkowników organizacji. Tylko osoby dodane do tablicy mogą ją edytować."
+	},
+	"This_board_is_private___Only_people_added_to_the_board_can_view_and_edit_it_": {
+		"message": "Tablica jest prywatna. Tylko osoby dodane do tablicy mogą ją widzieć i edytować."
+	},
+	"The_board_must_be_added_to_an_org_to_enable_this_": {
+		"message": "Tablica musi zostać dodana do organizacji by to aktywować."
+	},
+	"Today": {
+		"message": "Dzisiaj"
+	},
+	"Week": {
+		"message": "Tydzień"
+	},
+	"Month": {
+		"message": "Miesiąc"
+	},
+	"Sun": {
+		"message": "Niedz"
+	},
+	"Mon": {
+		"message": "Pon"
+	},
+	"Tue": {
+		"message": "Wt"
+	},
+	"Wed": {
+		"message": "Śr"
+	},
+	"Thu": {
+		"message": "Czw"
+	},
+	"Fri": {
+		"message": "Pt"
+	},
+	"Sat": {
+		"message": "Sob"
+	},
+	"January": {
+		"message": "Styczeń"
+	},
+	"February": {
+		"message": "Luty"
+	},
+	"March": {
+		"message": "Marzec"
+	},
+	"April": {
+		"message": "Kwiecień"
+	},
+	"May": {
+		"message": "Maj"
+	},
+	"June": {
+		"message": "Czerwiec"
+	},
+	"July": {
+		"message": "Lipiec"
+	},
+	"August": {
+		"message": "Sierpień"
+	},
+	"September": {
+		"message": "Wrzesień"
+	},
+	"October": {
+		"message": "Październik"
+	},
+	"November": {
+		"message": "Listopad"
+	},
+	"December": {
+		"message": "Grudzień"
+	},
+	"Jan": {
+		"message": "Sty"
+	},
+	"Feb": {
+		"message": "Lut"
+	},
+	"Mar": {
+		"message": "Marz"
+	},
+	"Apr": {
+		"message": "Kwi"
+	},
+	"Jun": {
+		"message": "Maj"
+	},
+	"Jul": {
+		"message": "Cze"
+	},
+	"Aug": {
+		"message": "Lip"
+	},
+	"Sep": {
+		"message": "Sie"
+	},
+	"Oct": {
+		"message": "Wrz"
+	},
+	"Nov": {
+		"message": "Paź"
+	},
+	"Dec": {
+		"message": "Lis"
+	},
+	"Saved_Searches": {
+		"message": "Gru"
+	},
+	"Your_search_produced_an_error_": {
+		"message": "Wystąpił błąd."
+	},
+	"Searching_": {
+		"message": "Szukam..."
+	},
+	"No_results_": {
+		"message": "Brak wyników"
+	},
+	"Refine_your_search_with_operators_like__member___label__is_archived__and_has_attachments_": {
+		"message": "Uściślij wyszukiwanie za pomocą operatorów takich jak @member (użytkownik), #label (etykieta), is:archived (jest:zarchiwizowane), oraz has:attachments (ma:załącznik)."
+	},
+	"Learn_more_": {
+		"message": "Czytaj więcej..."
+	},
+	"Cards": {
+		"message": "Karty"
+	},
+	"Loading_": {
+		"message": "Ładuję..."
+	},
+	"Show_more_boards_": {
+		"message": "Pokaż więcej tablic..."
+	},
+	"Show_more_members_": {
+		"message": "Pokaż więcej użytkowników..."
+	},
+	"Organizations": {
+		"message": "Organizacje\/Firmy"
+	},
+	"Show_more_organizations_": {
+		"message": "Pokaż więcej organizacji\/firm"
+	},
+	"Back_to_Saved_Searches": {
+		"message": "Wróć do zapisanych wyszukiwań"
+	},
+	"Save_this_Search": {
+		"message": "Zapisz to wyszukiwanie"
+	},
+	"Did_you_mean_": {
+		"message": "Czy miałeś na myśli..."
+	},
+	"Only_include_cards_that_have_stickers_": {
+		"message": "Załącz tylko karty z naklejkami"
+	},
+	"Starred_Boards": {
+		"message": "Ogwiazdkowane tablice"
+	},
+	"My_Boards": {
+		"message": "Moje tablice"
+	},
+	"Overview": {
+		"message": "Przegląd"
+	},
+	"Recent_Boards": {
+		"message": "Ostatnie tablice"
+	},
+	"Always_keep_this_menu_open_": {
+		"message": "Zachowaj to menu na wierzchu."
+	},
+	"Don_t_keep_this_menu_open_": {
+		"message": "Nie zachowuj otwartego tego menu."
+	},
+	"See_closed_boards_": {
+		"message": "Pokaż zamknięte tablice.."
+	},
+	"Find_boards_by_name_": {
+		"message": "Znajdź tablicę po nazwie..."
+	},
+	"There_is_new_activity_on_this_board_": {
+		"message": "Nowa aktywność na tablicy."
+	},
+	"Collapse_section_": {
+		"message": "Zwiń sekcję."
+	},
+	"Expand_section_": {
+		"message": "Rozwiń sekcję."
+	},
+	"Closed_Boards": {
+		"message": "Zamknij tablicę"
+	},
+	"Re_open": {
+		"message": "Otwórz ponownie"
+	},
+	"You_have_to_have_been_a_board_admin_to_re_open_a_closed_board_": {
+		"message": "Musisz mieć uprawnienia administratora żeby otworzyć ponownie zamkniętą tablicę."
+	},
+	"No_Boards_Found": {
+		"message": "Nie znaleziono żadnej tablicy"
+	},
+	"Boards": {
+		"message": "Tablice"
+	},
+	"Add_a_list_": {
+		"message": "Dodaj listę..."
+	},
+	"Calendar": {
+		"message": "Kalendarz"
+	},
+	"Subscribed": {
+		"message": "Za subskrybowane"
+	},
+	"Filtering_is_on_": {
+		"message": "Filtrowanie jest włączone"
+	},
+	"Show_sidebar": {
+		"message": "Pokaż menu boczne"
+	},
+	"Add_a_card_": {
+		"message": "Dodaj kartę..."
+	},
+	"Notifications": {
+		"message": "Powiadomienia"
+	},
+	"Go_back_to_your_boards_page_": {
+		"message": "Powróć do strony z tablicami."
+	},
+	"View_list_of_boards": {
+		"message": "Pokaż listę z tablicami"
+	},
+	"Rename_the_board_": {
+		"message": "Zmień nazwę tablicy."
+	},
+	"You_are_filtering_cards_on_this_board__Click_here_to_edit_filter_": {
+		"message": "Fitrujesz karty na tej tablicy. Kliknij tutaj by edytować filtry."
+	},
+	"You_are_subscribed_to_this_board__You_ll_get_notifications_about_changes_": {
+		"message": "Subskrybujesz tą tablicę. Będziesz otrzymywać powiadomienia o wprowadzanych zmianach."
+	},
+	"Click_to_star_or_unstar_this_board__Starred_boards_show_up_at_the_top_of_your_boards_list_": {
+		"message": "Kliknij by dodać lub usunąć gwiazdkę tej tablicy. Ogwiazdkowane tablice pojawią się na górze listy z tablicami."
+	},
+	"Close_the_board_sidebar_": {
+		"message": "Zamknij menu boczne."
+	},
+	"Add_a_new_board_or_organization_": {
+		"message": "Dodaj nową tablicę lub organizację."
+	},
+	"You_are_seeing_an_early__experimental_version_of_Trello__We_would_love_your_feedback_": {
+		"message": "Korzystasz z eksperymentalnej wersji Trello. Będziemy wdzięczni za Twoje opinie!"
+	},
+	"Get_access_to_your_profile__help__and_log_out_": {
+		"message": "Uzyskaj dostęp do swojego profilu, pomocy i logowania."
+	},
+	"This_member_has_Trello_Gold_": {
+		"message": "Ten użytkownik ma Trello Gold."
+	},
+	"Click_to_star_this_board__It_will_show_up_at_top_of_your_boards_list_": {
+		"message": "Kliknij by dodać gwiazdkę tej tablicy. Tablica będzie się pojawiać u góry listy z tablicami."
+	},
+	"Search_for_boards__cards__members__and_organizations_": {
+		"message": "Szukaj tablic, kart, użytkowników i organizacji."
+	},
+	"Menu": {
+		"message": "Menu"
+	},
+	"Add_Members": {
+		"message": "Dodaj użytkownika"
+	},
+	"Members": {
+		"message": "Użytkownicy"
+	},
+	"Activity": {
+		"message": "Aktywność"
+	},
+	"Click_here_to_see_more_board_options_": {
+		"message": "Kliknij tutaj by zobaczyć więcej opcji tablicy."
+	},
+	"Power_Ups": {
+		"message": "Power-Ups"
+	},
+	"Stickers": {
+		"message": "Naklejki"
+	},
+	"Filter_Cards": {
+		"message": "Filtruj karty"
+	},
+	"Archived_Items": {
+		"message": "Zarchiwizowane elementy"
+	},
+	"Change_Background_": {
+		"message": "Zmień tło..."
+	},
+	"Email_to_board_Settings_": {
+		"message": "Ustawienia dodawania elementów przez email."
+	},
+	"Copy_Board_": {
+		"message": "Kopiuj tablicę..."
+	},
+	"Share__Print__and_Export_": {
+		"message": "Udostępnij, drukuj i eksportuj..."
+	},
+	"Additional_Settings_": {
+		"message": "Dodatkowe ustawienia..."
+	},
+	"Close_Board_": {
+		"message": "Zamknij tablicę..."
+	},
+	"Leave_Board_": {
+		"message": "Opuść tablicę..."
+	},
+	"List_Actions": {
+		"message": "Funkcje dla listy"
+	},
+	"Add_Card_": {
+		"message": "Dodaj kartę..."
+	},
+	"Copy_List_": {
+		"message": "Kopiuj listę..."
+	},
+	"Move_List_": {
+		"message": "Przenieś listę..."
+	},
+	"Subscribe": {
+		"message": "Subskrybuj"
+	},
+	"Move_All_Cards_in_This_List_": {
+		"message": "Przenieś wszystkie karty z tej listy..."
+	},
+	"Archive_All_Cards_in_This_List_": {
+		"message": "Archiwizuj wszystkie karty z tej listy..."
+	},
+	"Archive_This_List": {
+		"message": "Archiwizuj listę"
+	},
+	"Edit_Labels": {
+		"message": "Edytuj etykiety"
+	},
+	"Change_Members": {
+		"message": "Zmień użytkowników"
+	},
+	"Move": {
+		"message": "Przenieś"
+	},
+	"Copy": {
+		"message": "Kopiuj"
+	},
+	"Change_Due_Date": {
+		"message": "Zmień \"Do daty\""
+	},
+	"Archive": {
+		"message": "Archiwizuj"
+	},
+	"Add": {
+		"message": "Dodaj"
+	},
+	"Change_Notification_Email_Frequency": {
+		"message": "Zmień częstotliwość przychodzących maili"
+	},
+	"See_All_Notifications": {
+		"message": "Zobacz wszystkie powiadomienia"
+	},
+	"added": {
+		"message": "dodane"
+	},
+	"to": {
+		"message": "do"
+	},
+	"and": {
+		"message": "i"
+	},
+	"joined": {
+		"message": "dołączył"
+	},
+	"moved": {
+		"message": "przeniesione"
+	},
+	"from": {
+		"message": "z"
+	},
+	"archived": {
+		"message": "zarchiwizowane"
+	},
+	"renamed": {
+		"message": "zmieniono nazwę"
+	},
+	"this_board": {
+		"message": "ta tablica"
+	},
+	"attached": {
+		"message": "załączniki"
+	},
+	"sent": {
+		"message": "wysłane"
+	},
+	"to_the_board": {
+		"message": "do tablicy"
+	},
+	"Edit_the_description_": {
+		"message": "Edytuj opis..."
+	},
+	"Write_a_comment_": {
+		"message": "Napisz komentarz..."
+	},
+	"Save": {
+		"message": "Zapisz"
+	},
+	"Actions": {
+		"message": "Akcje"
+	},
+	"Labels": {
+		"message": "Etykiety"
+	},
+	"Checklist": {
+		"message": "Lista zadań"
+	},
+	"Attachment": {
+		"message": "Załączniki"
+	},
+	"Delete": {
+		"message": "Usuń"
+	},
+	"Share_and_more_": {
+		"message": "Udostępnij i więcej..."
+	},
+	"Send_to_board": {
+		"message": "Wyślij do tablicy"
+	},
+	"Drop_files_to_upload_": {
+		"message": "Przeciągnij i upuść tu pliki by przesłać."
+	},
+	"Due_date": {
+		"message": "Do daty"
+	},
+	"Add_or_remove_members_of_the_board_from_the_card_": {
+		"message": "Dodaj lub usuń użytkownika do tej karty."
+	},
+	"Change_the_labels_for_the_card_": {
+		"message": "Zmień etykiety."
+	},
+	"Add_a_checklist_and_divide_the_card_into_subtasks_": {
+		"message": "Dodaj listę zadań i podziel kartę na pod-zadania."
+	},
+	"Add_a_due_date_for_the_card_and_get_notifications_when_it_is_almost_due_": {
+		"message": "Dodaj \"do daty\" by otrzymać powiadomienie o zbliżającym się terminie."
+	},
+	"Move_the_card_to_another_board__another_list__or_a_new_position_in_a_list": {
+		"message": "Przenieś kartę na inną tablicę, inną listę lub nową pozycję"
+	},
+	"Make_a_copy_of_this_card__optionally_include_checklist__labels__members__attachments__etc_": {
+		"message": "Skopiuj tą kartę, opcjonalnie załącz listę zadań, etykiety, użytkowników, załączniki itp."
+	},
+	"Subscribe_to_the_card_to_get_notifications_when_something_changes_": {
+		"message": "Subskrybuj by otrzymywać powiadomienia jeśli coś się zmieni."
+	},
+	"Remove_the_card_from_the_board_": {
+		"message": "Usuń kartę z tablicy."
+	},
+	"Send_the_card_back_to_the_board_": {
+		"message": "Przywróć kartę na tablicę."
+	},
+	"Delete_the_card_and_all_history_associated_with_it__It_can_t_be_retrieved_": {
+		"message": "Usuń kartę i całą historię z nią związaną. Jest nieodwracalne."
+	},
+	"More_options_share__print__export__and_delete_": {
+		"message": "Więcej opcji udostępniania, drukuj, eksportuj i usuń."
+	},
+	"in_list": {
+		"message": "w liście"
+	}
+}
