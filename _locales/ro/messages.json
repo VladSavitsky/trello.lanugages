@@ -1,0 +1,167 @@
+{
+	"Create_new_board_": {
+		"message": "Crează un bord nou..."
+	},
+	"Create_Board": {
+		"message": "Crează un bord"
+	},
+	"Title": {
+		"message": "Titlu"
+	},
+	"Organization": {
+		"message": "Organizația"
+	},
+	"Create": {
+		"message": "Creați"
+	},
+	"This_board_will_be": {
+		"message": "Acest bord va fi"
+	},
+	"Change_": {
+		"message": "Schimbă."
+	},
+	"private": {
+		"message": "Privat"
+	},
+	"Public": {
+		"message": "Public"
+	},
+	"Today": {
+		"message": "Astăzi"
+	},
+	"Week": {
+		"message": "Săptămînă"
+	},
+	"Month": {
+		"message": "Lună"
+	},
+	"Sun": {
+		"message": "Lun"
+	},
+	"Mon": {
+		"message": "Mar"
+	},
+	"Tue": {
+		"message": "Mie"
+	},
+	"Wed": {
+		"message": "Joi"
+	},
+	"Thu": {
+		"message": "Vin"
+	},
+	"Fri": {
+		"message": "Sîm"
+	},
+	"Sat": {
+		"message": "Dum"
+	},
+	"January": {
+		"message": "Ianuarie"
+	},
+	"February": {
+		"message": "Februarie"
+	},
+	"March": {
+		"message": "Martie"
+	},
+	"April": {
+		"message": "Aprilie"
+	},
+	"May": {
+		"message": "Mai"
+	},
+	"June": {
+		"message": "Iunie"
+	},
+	"July": {
+		"message": "Iulie"
+	},
+	"August": {
+		"message": "August"
+	},
+	"September": {
+		"message": "Septembrie"
+	},
+	"October": {
+		"message": "Octombrie"
+	},
+	"November": {
+		"message": "Noiembrie"
+	},
+	"December": {
+		"message": "Decembrie"
+	},
+	"Jan": {
+		"message": "Ian"
+	},
+	"Feb": {
+		"message": "Feb"
+	},
+	"Mar": {
+		"message": "Mart"
+	},
+	"Apr": {
+		"message": "Apr"
+	},
+	"Jun": {
+		"message": "Iun"
+	},
+	"Jul": {
+		"message": "Iul"
+	},
+	"Aug": {
+		"message": "Aug"
+	},
+	"Sep": {
+		"message": "Sept"
+	},
+	"Oct": {
+		"message": "Oct"
+	},
+	"Nov": {
+		"message": "Nov"
+	},
+	"Dec": {
+		"message": "Dec"
+	},
+	"Searching_": {
+		"message": "Caută..."
+	},
+	"No_results_": {
+		"message": "Nu sunt rezultate."
+	},
+	"Loading_": {
+		"message": "Se încarcă ..."
+	},
+	"Organizations": {
+		"message": "Organizații"
+	},
+	"Overview": {
+		"message": "Prezentare generală"
+	},
+	"Add_Members": {
+		"message": "Adaugă Membri"
+	},
+	"Members": {
+		"message": "Membri"
+	},
+	"Activity": {
+		"message": "Activitate"
+	},
+	"Additional_Settings_": {
+		"message": "Setări Suplimentare ..."
+	},
+	"Close_Board_": {
+		"message": "Închide Bord..."
+	},
+	"this_board": {
+		"message": "acest bord"
+	},
+	"Write_a_comment_": {
+		"message": "Adaugă un comentariu..."
+	},
+	"Save": {
+		"message": "Salvează"
+	}
+}

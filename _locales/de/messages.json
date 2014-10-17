@@ -1,6 +1,42 @@
 {
+	"Create_new_board_": {
+		"message": "Neues Board..."
+	},
+	"Create_Board": {
+		"message": "Board erstellen"
+	},
+	"Title": {
+		"message": "Titel"
+	},
+	"Organization": {
+		"message": "Organisation"
+	},
+	"Create": {
+		"message": "Erstellen"
+	},
+	"Like__Bucket_List__for_example_": {
+		"message": "Als Beispiel \"Aufgabenliste\"..."
+	},
+	"This_board_will_be": {
+		"message": "Dieses Board ist"
+	},
+	"Change_": {
+		"message": "Ändern"
+	},
+	"private": {
+		"message": "Privat"
+	},
 	"Public": {
 		"message": "Öffentlich"
+	},
+	"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_": {
+		"message": "Dieses Board ist nur sichtbar für Mitglieder der Organisation. Nur Personen die zum Board hinzugefügt wurden, können bearbeiten."
+	},
+	"This_board_is_private___Only_people_added_to_the_board_can_view_and_edit_it_": {
+		"message": "Dieses Board ist privat. Nur Personen die zum Board hinzugefügt wurden, können dieses einsehen und bearbeiten."
+	},
+	"The_board_must_be_added_to_an_org_to_enable_this_": {
+		"message": "Das Board muss zu einer Organisation hinzugefügt werden um es zu aktivieren."
 	},
 	"Today": {
 		"message": "Heute"
@@ -117,7 +153,7 @@
 		"message": "Ihre Suche mit Operatoren, wie z.B. @member, #label, is:archived, and has:attachments verfeinern."
 	},
 	"Learn_more_": {
-		"message": "Mehr erfahren…"
+		"message": "Erfahre mehr…"
 	},
 	"Cards": {
 		"message": "Karten"
@@ -138,7 +174,7 @@
 		"message": "Zeige mehr Organisationen…"
 	},
 	"Back_to_Saved_Searches": {
-		"message": "Zurück zu gespeicherten Suchen"
+		"message": "Zurück zu den gespeicherten Suchen"
 	},
 	"Save_this_Search": {
 		"message": "Diese Suche speichern"
@@ -150,7 +186,7 @@
 		"message": "Nur Karten anzeigen, die Sticker besitzen."
 	},
 	"Starred_Boards": {
-		"message": "Favorisierte Boards"
+		"message": "Beobachtete Boards"
 	},
 	"My_Boards": {
 		"message": "Meine Boards"
@@ -159,7 +195,7 @@
 		"message": "Überblick"
 	},
 	"Recent_Boards": {
-		"message": "Letzte Boards"
+		"message": "Aufgerufene Boards"
 	},
 	"Always_keep_this_menu_open_": {
 		"message": "Dieses Menü offen lassen."
@@ -204,13 +240,13 @@
 		"message": "Kalender"
 	},
 	"Subscribed": {
-		"message": "Aboniert"
+		"message": "Abonniert"
 	},
 	"Filtering_is_on_": {
-		"message": "Filtern ist ein"
+		"message": "Filter ist aktiv."
 	},
 	"Show_sidebar": {
-		"message": "Zeige Menüleiste"
+		"message": "Zeige Menü"
 	},
 	"Add_a_card_": {
 		"message": "Karte hinzufügen…"
@@ -231,10 +267,10 @@
 		"message": "Sie filtern die Karten dieses Boards. Klicken Sie hier, um den Filter zu bearbeiten."
 	},
 	"You_are_subscribed_to_this_board__You_ll_get_notifications_about_changes_": {
-		"message": "Sie haben dieses Board aboniert. Sie erhalten Benachrichtigungen bei Änderungen."
+		"message": "Sie haben dieses Board abonniert. Sie erhalten Benachrichtigungen bei Änderungen."
 	},
 	"Click_to_star_or_unstar_this_board__Starred_boards_show_up_at_the_top_of_your_boards_list_": {
-		"message": "Klicken, um dieses Board zu favorisieren\/defavorisieren. Favorisierte Boards werden oben in Ihrer Board-Liste angezeigt."
+		"message": "Klicken, um dieses Board zu beobachten\/zu ignorieren. Beobachtete Boards werden oben in Ihrer Board-Liste angezeigt."
 	},
 	"Close_the_board_sidebar_": {
 		"message": "Board-Menü schließen."
@@ -252,7 +288,7 @@
 		"message": "Dieses Mitglied ist ein Trello Gold Mitglied."
 	},
 	"Click_to_star_this_board__It_will_show_up_at_top_of_your_boards_list_": {
-		"message": "Hier klicken, um dieses Board zu favorisieren. Es wird oben in Ihrer Board-Liste angezeigt.."
+		"message": "Hier klicken, um dieses Board zu beobachten. Es wird oben in Ihrer Board-Liste angezeigt.."
 	},
 	"Search_for_boards__cards__members__and_organizations_": {
 		"message": "Nach Boards, Karten, Mitgliedern und Organisationen suchen."
@@ -279,7 +315,7 @@
 		"message": "Sticker"
 	},
 	"Filter_Cards": {
-		"message": "Filtere Karten"
+		"message": "Karten filtern"
 	},
 	"Archived_Items": {
 		"message": "Archivierte Einträge"
@@ -288,7 +324,7 @@
 		"message": "Hintergrund ändern…"
 	},
 	"Email_to_board_Settings_": {
-		"message": "Email-to-board Einstellungen…"
+		"message": "E-Mail an Board Einstellungen…"
 	},
 	"Copy_Board_": {
 		"message": "Board kopieren…"
@@ -318,7 +354,7 @@
 		"message": "Liste verschieben…"
 	},
 	"Subscribe": {
-		"message": "Abonieren"
+		"message": "Abonnieren"
 	},
 	"Move_All_Cards_in_This_List_": {
 		"message": "Alle Karten in diese Liste verschieben…"
@@ -425,11 +461,14 @@
 	"Drop_files_to_upload_": {
 		"message": "Ziehen Sie Dateien hier hin, um diese hochzuladen."
 	},
+	"Due_date": {
+		"message": "Fälligkeit"
+	},
 	"Add_or_remove_members_of_the_board_from_the_card_": {
 		"message": "Mitglieder des Boards dieser Karte hinzufügen\/entfernen."
 	},
 	"Change_the_labels_for_the_card_": {
-		"message": "Label der Karten ändern."
+		"message": "Label für Karten ändern."
 	},
 	"Add_a_checklist_and_divide_the_card_into_subtasks_": {
 		"message": "Eine Checkliste einfügen und Karte in Unteraufgaben unterteilen."
@@ -444,7 +483,7 @@
 		"message": "Diese Karte kopieren. Optional Checklisten, Labels, Mitglieder, Anhänge etc. kopieren."
 	},
 	"Subscribe_to_the_card_to_get_notifications_when_something_changes_": {
-		"message": "Diese Karte abonieren, um eine Benachrichtigung bei Änderungen zu erhalten."
+		"message": "Diese Karte abonnieren, um eine Benachrichtigung bei Änderungen zu erhalten."
 	},
 	"Remove_the_card_from_the_board_": {
 		"message": "Diese Karte vom Board entfernen."

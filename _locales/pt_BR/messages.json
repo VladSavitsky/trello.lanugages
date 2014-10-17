@@ -242,6 +242,9 @@
 	"Subscribed": {
 		"message": "Subscrever"
 	},
+	"Filtering_is_on_": {
+		"message": "Filtro ativado."
+	},
 	"Show_sidebar": {
 		"message": "Mostrar barra lateral"
 	},
@@ -262,5 +265,239 @@
 	},
 	"You_are_filtering_cards_on_this_board__Click_here_to_edit_filter_": {
 		"message": "Você está filtrando cartões nesse quadro. Clique aqui para editar o filtro."
+	},
+	"You_are_subscribed_to_this_board__You_ll_get_notifications_about_changes_": {
+		"message": "Você está inscrito neste quadro. Você receberá notificações sobre mudanças."
+	},
+	"Click_to_star_or_unstar_this_board__Starred_boards_show_up_at_the_top_of_your_boards_list_": {
+		"message": "Clique para adicionar aos quadros favoritos ou para retirar dos favoritos. Quadros favoritos aparecem no topo de sua lista de quadros."
+	},
+	"Close_the_board_sidebar_": {
+		"message": "Fechar a barra lateral do quadro."
+	},
+	"Add_a_new_board_or_organization_": {
+		"message": "Adicionar novo quadro ou organização."
+	},
+	"You_are_seeing_an_early__experimental_version_of_Trello__We_would_love_your_feedback_": {
+		"message": "Você está vendo uma versão inicial, experimental do Trello. Gostaríamos muito de sua opinião."
+	},
+	"Get_access_to_your_profile__help__and_log_out_": {
+		"message": "Tenha acesso ao seu perfil, ajuda e sair de sua conta."
+	},
+	"This_member_has_Trello_Gold_": {
+		"message": "Este membro tem Trello Gold."
+	},
+	"Click_to_star_this_board__It_will_show_up_at_top_of_your_boards_list_": {
+		"message": "Clique para tornar favorito este quadro. Ele vai aparecer no topo da sua lista de quadros."
+	},
+	"Search_for_boards__cards__members__and_organizations_": {
+		"message": "Procure por quadros, cartões, membros e organizações."
+	},
+	"Menu": {
+		"message": "Menu"
+	},
+	"Add_Members": {
+		"message": "Adicionar membros"
+	},
+	"Members": {
+		"message": "Membros"
+	},
+	"Activity": {
+		"message": "Atividade"
+	},
+	"Click_here_to_see_more_board_options_": {
+		"message": "Clique aqui para ver mais opções para os quadros."
+	},
+	"Power_Ups": {
+		"message": "Power-Ups"
+	},
+	"Stickers": {
+		"message": "Adesivos"
+	},
+	"Filter_Cards": {
+		"message": "Filtro de cartões."
+	},
+	"Archived_Items": {
+		"message": "Itens arquivados."
+	},
+	"Change_Background_": {
+		"message": "Trocar plano de fundo."
+	},
+	"Email_to_board_Settings_": {
+		"message": "Configuração de e-mail para o quadro."
+	},
+	"Copy_Board_": {
+		"message": "Copiar quadro."
+	},
+	"Share__Print__and_Export_": {
+		"message": "Compartilhe, imprima e exporte..."
+	},
+	"Additional_Settings_": {
+		"message": "Configurações adicionais"
+	},
+	"Close_Board_": {
+		"message": "Fechar quadro..."
+	},
+	"Leave_Board_": {
+		"message": "Sair do quadro..."
+	},
+	"List_Actions": {
+		"message": "Lista de ações"
+	},
+	"Add_Card_": {
+		"message": "Adicionar cartões..."
+	},
+	"Copy_List_": {
+		"message": "Copiar lista..."
+	},
+	"Move_List_": {
+		"message": "Mover lista..."
+	},
+	"Subscribe": {
+		"message": "Assinar"
+	},
+	"Move_All_Cards_in_This_List_": {
+		"message": "Mover todos os cartões nesta lista..."
+	},
+	"Archive_All_Cards_in_This_List_": {
+		"message": "Arquivar todos os cartões nessa lista..."
+	},
+	"Archive_This_List": {
+		"message": "Arquivar esta lista"
+	},
+	"Edit_Labels": {
+		"message": "Editar marcadores"
+	},
+	"Change_Members": {
+		"message": "Trocar membros"
+	},
+	"Move": {
+		"message": "Mover"
+	},
+	"Copy": {
+		"message": "Copiar"
+	},
+	"Change_Due_Date": {
+		"message": "Trocar data de vencimento"
+	},
+	"Archive": {
+		"message": "Arquivo"
+	},
+	"Add": {
+		"message": "Adicionar"
+	},
+	"Change_Notification_Email_Frequency": {
+		"message": "Alterar frequência de notificações por e-mail"
+	},
+	"See_All_Notifications": {
+		"message": "Ver todas as notificações"
+	},
+	"added": {
+		"message": "Adicionado"
+	},
+	"to": {
+		"message": "para"
+	},
+	"and": {
+		"message": "e"
+	},
+	"joined": {
+		"message": "ingressou"
+	},
+	"moved": {
+		"message": "movido"
+	},
+	"from": {
+		"message": "para"
+	},
+	"archived": {
+		"message": "arquivado"
+	},
+	"renamed": {
+		"message": "renomeado"
+	},
+	"this_board": {
+		"message": "este quadro"
+	},
+	"attached": {
+		"message": "anexado"
+	},
+	"sent": {
+		"message": "enviar"
+	},
+	"to_the_board": {
+		"message": "para o quadro"
+	},
+	"Edit_the_description_": {
+		"message": "Editar a descrição"
+	},
+	"Write_a_comment_": {
+		"message": "Escreva um comentário..."
+	},
+	"Save": {
+		"message": "Salvar"
+	},
+	"Actions": {
+		"message": "Ações"
+	},
+	"Labels": {
+		"message": "Rótulos"
+	},
+	"Checklist": {
+		"message": "Lista de verificação"
+	},
+	"Attachment": {
+		"message": "Anexos"
+	},
+	"Delete": {
+		"message": "Apagar"
+	},
+	"Share_and_more_": {
+		"message": "Compartilhe e muito mais..."
+	},
+	"Send_to_board": {
+		"message": "Enviar para o quadro"
+	},
+	"Drop_files_to_upload_": {
+		"message": "Arraste os arquivos para enviar."
+	},
+	"Due_date": {
+		"message": "Data de vencimento"
+	},
+	"Add_or_remove_members_of_the_board_from_the_card_": {
+		"message": "Adicionar ou remover membros do quadro para o cartão."
+	},
+	"Change_the_labels_for_the_card_": {
+		"message": "Mudar as etiquetas do cartão."
+	},
+	"Add_a_checklist_and_divide_the_card_into_subtasks_": {
+		"message": "Adicionar lista de verificação e dividir no cartão em sub-tarefas."
+	},
+	"Add_a_due_date_for_the_card_and_get_notifications_when_it_is_almost_due_": {
+		"message": "Adicionar data de vencimento para o cartão e receber notificações quando estiver para vencer."
+	},
+	"Move_the_card_to_another_board__another_list__or_a_new_position_in_a_list": {
+		"message": "Mover o cartão para outro quadro, lista ou para nova posição na lista."
+	},
+	"Make_a_copy_of_this_card__optionally_include_checklist__labels__members__attachments__etc_": {
+		"message": "Mantenha uma cópia deste cartão, opcionalmente incluindo lista de verificação, rótulos, membros, anexos, etc..."
+	},
+	"Subscribe_to_the_card_to_get_notifications_when_something_changes_": {
+		"message": "Assine o quadro para receber notificações quando alguma alteração ocorrer."
+	},
+	"Remove_the_card_from_the_board_": {
+		"message": "Remover o cartão do quadro."
+	},
+	"Send_the_card_back_to_the_board_": {
+		"message": "Enviar o cartão novamente para o quadro."
+	},
+	"Delete_the_card_and_all_history_associated_with_it__It_can_t_be_retrieved_": {
+		"message": "Apagar o cartão e todo histórico associado a ele. Ele não poderá mais ser recuperado."
+	},
+	"More_options_share__print__export__and_delete_": {
+		"message": "Mais opções compartilhar, exportar e apagar."
+	},
+	"in_list": {
+		"message": "na lista"
 	}
 }

@@ -1,0 +1,491 @@
+{
+	"Create_new_board_": {
+		"message": "Lag nytt brett"
+	},
+	"Create_Board": {
+		"message": "Lag Brett"
+	},
+	"Title": {
+		"message": "Tittel"
+	},
+	"Organization": {
+		"message": "Organisasjon"
+	},
+	"Create": {
+		"message": "Lag"
+	},
+	"This_board_will_be": {
+		"message": "Dette brettet vil bli"
+	},
+	"Change_": {
+		"message": "Endre."
+	},
+	"private": {
+		"message": "Privat"
+	},
+	"Public": {
+		"message": "Offentlig"
+	},
+	"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_": {
+		"message": "Dette brettet er synlig for medlemmer av denne organisasjonen. Bare personer som er lagt til brettet kan redigere."
+	},
+	"This_board_is_private___Only_people_added_to_the_board_can_view_and_edit_it_": {
+		"message": "Dette brettet er privat. Bare personer som er lagt til brettet kan se og redigere det."
+	},
+	"The_board_must_be_added_to_an_org_to_enable_this_": {
+		"message": "Brettet må bli lagt til en org for å kunne gjøre dette."
+	},
+	"Today": {
+		"message": "I dag"
+	},
+	"Week": {
+		"message": "Uke"
+	},
+	"Month": {
+		"message": "Måned"
+	},
+	"Sun": {
+		"message": "Søn"
+	},
+	"Mon": {
+		"message": "Man"
+	},
+	"Tue": {
+		"message": "Tirs"
+	},
+	"Wed": {
+		"message": "Ons"
+	},
+	"Thu": {
+		"message": "Tors"
+	},
+	"Fri": {
+		"message": "Fre"
+	},
+	"Sat": {
+		"message": "Lør"
+	},
+	"January": {
+		"message": "Januar"
+	},
+	"February": {
+		"message": "Februar"
+	},
+	"March": {
+		"message": "Mars"
+	},
+	"April": {
+		"message": "April"
+	},
+	"May": {
+		"message": "Mai"
+	},
+	"June": {
+		"message": "Juni"
+	},
+	"July": {
+		"message": "Juli"
+	},
+	"August": {
+		"message": "August"
+	},
+	"September": {
+		"message": "September"
+	},
+	"October": {
+		"message": "Oktober"
+	},
+	"November": {
+		"message": "November"
+	},
+	"December": {
+		"message": "Desember"
+	},
+	"Jan": {
+		"message": "Jan"
+	},
+	"Feb": {
+		"message": "Feb"
+	},
+	"Mar": {
+		"message": "Mar"
+	},
+	"Apr": {
+		"message": "Apr"
+	},
+	"Jun": {
+		"message": "Jun"
+	},
+	"Jul": {
+		"message": "Jul"
+	},
+	"Aug": {
+		"message": "Aug"
+	},
+	"Sep": {
+		"message": "Sep"
+	},
+	"Oct": {
+		"message": "Okt"
+	},
+	"Nov": {
+		"message": "Nov"
+	},
+	"Dec": {
+		"message": "Des"
+	},
+	"Saved_Searches": {
+		"message": "Lagrede Søk"
+	},
+	"Your_search_produced_an_error_": {
+		"message": "Ditt søk produserte en feil"
+	},
+	"Searching_": {
+		"message": "Søker..."
+	},
+	"No_results_": {
+		"message": "Ingen resultater"
+	},
+	"Learn_more_": {
+		"message": "Ler mer..."
+	},
+	"Cards": {
+		"message": "Kort"
+	},
+	"Loading_": {
+		"message": "Laster..."
+	},
+	"Show_more_boards_": {
+		"message": "Vis fler brett..."
+	},
+	"Show_more_members_": {
+		"message": "Vis fler medlemmer..."
+	},
+	"Organizations": {
+		"message": "Organisasjoner"
+	},
+	"Show_more_organizations_": {
+		"message": "Vis fler organisasjoner..."
+	},
+	"Back_to_Saved_Searches": {
+		"message": "Tilbake til Lagrede Søk"
+	},
+	"Save_this_Search": {
+		"message": "Lagre dette søket"
+	},
+	"Did_you_mean_": {
+		"message": "Mente du..."
+	},
+	"Only_include_cards_that_have_stickers_": {
+		"message": "Bare innkluder kort som har klistremerker"
+	},
+	"Starred_Boards": {
+		"message": "Favoritt brett"
+	},
+	"My_Boards": {
+		"message": "Mine Brett"
+	},
+	"Overview": {
+		"message": "Overblikk"
+	},
+	"Recent_Boards": {
+		"message": "Nylige brett"
+	},
+	"Always_keep_this_menu_open_": {
+		"message": "Hold denne menyen open."
+	},
+	"Don_t_keep_this_menu_open_": {
+		"message": "Ikke hold denne menyen open."
+	},
+	"See_closed_boards_": {
+		"message": "Se lukkede brett..."
+	},
+	"Find_boards_by_name_": {
+		"message": "Finn brett med navn..."
+	},
+	"There_is_new_activity_on_this_board_": {
+		"message": "Det er ny aktivitet på dette brettet."
+	},
+	"Collapse_section_": {
+		"message": "Lukk seksjon."
+	},
+	"Expand_section_": {
+		"message": "Åpne seksjon."
+	},
+	"Closed_Boards": {
+		"message": "Lukkede brett"
+	},
+	"Re_open": {
+		"message": "Gjenåpne"
+	},
+	"You_have_to_have_been_a_board_admin_to_re_open_a_closed_board_": {
+		"message": "Du må være en brett administrator for å gjenåpne et lukket brett."
+	},
+	"No_Boards_Found": {
+		"message": "Ingen brett funnet"
+	},
+	"Boards": {
+		"message": "Brett"
+	},
+	"Add_a_list_": {
+		"message": "Legg til en liste..."
+	},
+	"Calendar": {
+		"message": "Kalender"
+	},
+	"Subscribed": {
+		"message": "Abonnert"
+	},
+	"Filtering_is_on_": {
+		"message": "Filtrer er på."
+	},
+	"Show_sidebar": {
+		"message": "Vis sidepanelet"
+	},
+	"Add_a_card_": {
+		"message": "Legg til et kort..."
+	},
+	"Notifications": {
+		"message": "Notifikasjoner"
+	},
+	"Go_back_to_your_boards_page_": {
+		"message": "Gå tilbake til dine brett siden."
+	},
+	"View_list_of_boards": {
+		"message": "Se liste over brett."
+	},
+	"Rename_the_board_": {
+		"message": "Endre navn på brettet."
+	},
+	"You_are_filtering_cards_on_this_board__Click_here_to_edit_filter_": {
+		"message": "Du filtrerer kort på dette brettet. Klikk her for å endre filteret."
+	},
+	"You_are_subscribed_to_this_board__You_ll_get_notifications_about_changes_": {
+		"message": "Du abonnerer på dette brettet. Du vil få notifikasjoner om endringer."
+	},
+	"Close_the_board_sidebar_": {
+		"message": "Lukk sidepanelet."
+	},
+	"Add_a_new_board_or_organization_": {
+		"message": "Legg til nytt brett eller organisasjon"
+	},
+	"You_are_seeing_an_early__experimental_version_of_Trello__We_would_love_your_feedback_": {
+		"message": "Du ser på en tidlig, eksperimental versjon av Trello. Vi vil gjerne høre dine tilbakemeldinger!"
+	},
+	"Get_access_to_your_profile__help__and_log_out_": {
+		"message": "Få tilgang til din profil, hjelp, og logg ut."
+	},
+	"This_member_has_Trello_Gold_": {
+		"message": "Dette medlemmet har Trello Gull."
+	},
+	"Search_for_boards__cards__members__and_organizations_": {
+		"message": "Søk etter brett, kort, medlemmer, og organisasjoner."
+	},
+	"Menu": {
+		"message": "Meny"
+	},
+	"Add_Members": {
+		"message": "Legg til medlemmer"
+	},
+	"Members": {
+		"message": "Medlemmer"
+	},
+	"Activity": {
+		"message": "Aktivitet"
+	},
+	"Click_here_to_see_more_board_options_": {
+		"message": "Klikk her for å se fler brett alternativer."
+	},
+	"Power_Ups": {
+		"message": "Tilleggs funksjoner"
+	},
+	"Stickers": {
+		"message": "Klistremerker"
+	},
+	"Filter_Cards": {
+		"message": "Filtrer kort"
+	},
+	"Archived_Items": {
+		"message": "Arkiverte elementer"
+	},
+	"Change_Background_": {
+		"message": "Endre bakgrunn..."
+	},
+	"Email_to_board_Settings_": {
+		"message": "Email-til-brett instillinger..."
+	},
+	"Copy_Board_": {
+		"message": "Kopier brett..."
+	},
+	"Share__Print__and_Export_": {
+		"message": "Del, Print, og Eksporter"
+	},
+	"Additional_Settings_": {
+		"message": "Fler Innstillinger..."
+	},
+	"Close_Board_": {
+		"message": "Lukk brett..."
+	},
+	"Leave_Board_": {
+		"message": "Forlat brett..."
+	},
+	"List_Actions": {
+		"message": "Liste handlinger"
+	},
+	"Add_Card_": {
+		"message": "Legg til kort..."
+	},
+	"Copy_List_": {
+		"message": "Kopier Liste..."
+	},
+	"Move_List_": {
+		"message": "Flytt liste..."
+	},
+	"Subscribe": {
+		"message": "Abonner"
+	},
+	"Move_All_Cards_in_This_List_": {
+		"message": "Flytt alle kort i denne listen..."
+	},
+	"Archive_All_Cards_in_This_List_": {
+		"message": "Arkiver alle kort i denne listen."
+	},
+	"Archive_This_List": {
+		"message": "Arkiver denne listen"
+	},
+	"Edit_Labels": {
+		"message": "Rediger etiketter"
+	},
+	"Change_Members": {
+		"message": "Endre Medlemmer"
+	},
+	"Move": {
+		"message": "Flytt"
+	},
+	"Copy": {
+		"message": "Kopier"
+	},
+	"Change_Due_Date": {
+		"message": "Endre frist"
+	},
+	"Archive": {
+		"message": "Arkiver"
+	},
+	"Add": {
+		"message": "Legg til"
+	},
+	"Change_Notification_Email_Frequency": {
+		"message": "Endre hvor ofte du får E-post notifikasjoner"
+	},
+	"See_All_Notifications": {
+		"message": "Se alle notifikasjoner"
+	},
+	"added": {
+		"message": "Lagt til"
+	},
+	"to": {
+		"message": "til"
+	},
+	"and": {
+		"message": "og"
+	},
+	"joined": {
+		"message": "ble med"
+	},
+	"moved": {
+		"message": "flyttet"
+	},
+	"from": {
+		"message": "fra"
+	},
+	"archived": {
+		"message": "arkiverte"
+	},
+	"renamed": {
+		"message": "endret navn"
+	},
+	"this_board": {
+		"message": "dette brettet"
+	},
+	"attached": {
+		"message": "la til"
+	},
+	"sent": {
+		"message": "sente"
+	},
+	"to_the_board": {
+		"message": "til dette brettet"
+	},
+	"Edit_the_description_": {
+		"message": "Rediger beskrivelse..."
+	},
+	"Write_a_comment_": {
+		"message": "Skriv en kommentar..."
+	},
+	"Save": {
+		"message": "Lagre"
+	},
+	"Actions": {
+		"message": "Handlinger"
+	},
+	"Labels": {
+		"message": "Etiketter"
+	},
+	"Checklist": {
+		"message": "Sjekkliste"
+	},
+	"Attachment": {
+		"message": "Vedlegg"
+	},
+	"Delete": {
+		"message": "Slett"
+	},
+	"Share_and_more_": {
+		"message": "Del og mer..."
+	},
+	"Send_to_board": {
+		"message": "Send til brett..."
+	},
+	"Drop_files_to_upload_": {
+		"message": "Drop filer for å laste opp."
+	},
+	"Due_date": {
+		"message": "Frist"
+	},
+	"Add_or_remove_members_of_the_board_from_the_card_": {
+		"message": "Legg til eller fjern medlemmer av brettet fra dette kortet."
+	},
+	"Change_the_labels_for_the_card_": {
+		"message": "Endre etiketter for dette kortet"
+	},
+	"Add_a_checklist_and_divide_the_card_into_subtasks_": {
+		"message": "Legg til en sjekkliste og del kortet opp i oppgaver."
+	},
+	"Add_a_due_date_for_the_card_and_get_notifications_when_it_is_almost_due_": {
+		"message": "Legg til en frist for dette kortet og få notifikasjoner når fristen er nesten ute."
+	},
+	"Move_the_card_to_another_board__another_list__or_a_new_position_in_a_list": {
+		"message": "Flytt kortet til ett annet brett, liste, eller en ny posisjon i en liste"
+	},
+	"Make_a_copy_of_this_card__optionally_include_checklist__labels__members__attachments__etc_": {
+		"message": "Lag en kopi av dette kortet, eventuelt inkluder sjekkliser, etiketter, medlemmer, vedlegg osv."
+	},
+	"Subscribe_to_the_card_to_get_notifications_when_something_changes_": {
+		"message": "Abonner til kortet for å få notifikasjoner nå noe endrer seg."
+	},
+	"Remove_the_card_from_the_board_": {
+		"message": "Fjern kortet fra brettet."
+	},
+	"Send_the_card_back_to_the_board_": {
+		"message": "Send kortet tilbake til brettet."
+	},
+	"Delete_the_card_and_all_history_associated_with_it__It_can_t_be_retrieved_": {
+		"message": "Slett kortet og all historikk assosiert med det. Det kan ikke bli gjenopprettet."
+	},
+	"More_options_share__print__export__and_delete_": {
+		"message": "Fler valg: del, print, eksporter, og slett."
+	},
+	"in_list": {
+		"message": "I liste"
+	}
+}

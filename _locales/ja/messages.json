@@ -14,11 +14,26 @@
 	"Create": {
 		"message": "作成"
 	},
+	"This_board_will_be": {
+		"message": "このボードの状態:"
+	},
+	"Change_": {
+		"message": "変更する。"
+	},
 	"private": {
 		"message": "非公開"
 	},
 	"Public": {
 		"message": "公開"
+	},
+	"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_": {
+		"message": "このボードは組織のメンバーにだけ表示します。ボードに追加された人だけが編集できます。"
+	},
+	"This_board_is_private___Only_people_added_to_the_board_can_view_and_edit_it_": {
+		"message": "このボードは非公開です。ボードに追加された人だけが表示と編集をできます。"
+	},
+	"The_board_must_be_added_to_an_org_to_enable_this_": {
+		"message": "ボードを有効にするには組織に追加しなければなりません。"
 	},
 	"Today": {
 		"message": "今日"
@@ -181,5 +196,179 @@
 	},
 	"Don_t_keep_this_menu_open_": {
 		"message": "メニューを表示続けません。"
+	},
+	"See_closed_boards_": {
+		"message": "終了したボードを表示..."
+	},
+	"Find_boards_by_name_": {
+		"message": "ボードを名前で探す..."
+	},
+	"There_is_new_activity_on_this_board_": {
+		"message": "このボードに新しい活動がありました。"
+	},
+	"Collapse_section_": {
+		"message": "セクションを折り畳む。"
+	},
+	"Expand_section_": {
+		"message": "セクションを展開する。"
+	},
+	"Closed_Boards": {
+		"message": "終了したボード"
+	},
+	"Re_open": {
+		"message": "再開"
+	},
+	"No_Boards_Found": {
+		"message": "ボードがありません"
+	},
+	"Boards": {
+		"message": "ボード"
+	},
+	"Add_a_list_": {
+		"message": "リストに追加..."
+	},
+	"Calendar": {
+		"message": "カレンダー"
+	},
+	"Filtering_is_on_": {
+		"message": "絞り込みが有効です。"
+	},
+	"Show_sidebar": {
+		"message": "サイドバーを表示"
+	},
+	"Add_a_card_": {
+		"message": "カードを追加..."
+	},
+	"Notifications": {
+		"message": "通知"
+	},
+	"Go_back_to_your_boards_page_": {
+		"message": "ボードのページに戻ります。"
+	},
+	"View_list_of_boards": {
+		"message": "ボードの一覧を表示"
+	},
+	"Rename_the_board_": {
+		"message": "ボードの名前を変更します。"
+	},
+	"You_are_filtering_cards_on_this_board__Click_here_to_edit_filter_": {
+		"message": "このボードのカードを絞り込んでいます。ここをクリックするとフィルターを編集します。"
+	},
+	"Click_to_star_or_unstar_this_board__Starred_boards_show_up_at_the_top_of_your_boards_list_": {
+		"message": "クリックすると星印をこのボードに付けるか外します。星印のあるボードは上部に一覧します。"
+	},
+	"Close_the_board_sidebar_": {
+		"message": "ボードのサイドバーを閉じます。"
+	},
+	"Add_a_new_board_or_organization_": {
+		"message": "新しいボードや組織を追加します。"
+	},
+	"Menu": {
+		"message": "メニュー"
+	},
+	"Add_Members": {
+		"message": "メンバーを追加"
+	},
+	"Members": {
+		"message": "メンバー"
+	},
+	"Activity": {
+		"message": "活動状況"
+	},
+	"Stickers": {
+		"message": "ステッカー"
+	},
+	"Filter_Cards": {
+		"message": "カードを絞り込み"
+	},
+	"Archived_Items": {
+		"message": "アーカイブした項目"
+	},
+	"Change_Background_": {
+		"message": "背景を変更..."
+	},
+	"Email_to_board_Settings_": {
+		"message": "ボードにメールの設定..."
+	},
+	"Copy_Board_": {
+		"message": "ボードを複製..."
+	},
+	"Share__Print__and_Export_": {
+		"message": "共有、印刷、エクスポート..."
+	},
+	"Additional_Settings_": {
+		"message": "追加の設定..."
+	},
+	"Close_Board_": {
+		"message": "ボードを終了..."
+	},
+	"Add_Card_": {
+		"message": "カードを追加..."
+	},
+	"Copy_List_": {
+		"message": "リストを複製..."
+	},
+	"Move_List_": {
+		"message": "リストを移動..."
+	},
+	"Archive_This_List": {
+		"message": "このリストをアーカイブ"
+	},
+	"Edit_Labels": {
+		"message": "ラベルを編集"
+	},
+	"Change_Members": {
+		"message": "メンバーを変更"
+	},
+	"Move": {
+		"message": "移動"
+	},
+	"Copy": {
+		"message": "複製"
+	},
+	"Change_Due_Date": {
+		"message": "期日を変更"
+	},
+	"Archive": {
+		"message": "アーカイブ"
+	},
+	"Add": {
+		"message": "追加"
+	},
+	"See_All_Notifications": {
+		"message": "すべての通知を表示"
+	},
+	"Edit_the_description_": {
+		"message": "説明を編集..."
+	},
+	"Write_a_comment_": {
+		"message": "コメントを書く..."
+	},
+	"Save": {
+		"message": "保存"
+	},
+	"Labels": {
+		"message": "ラベル"
+	},
+	"Checklist": {
+		"message": "チェックリスト"
+	},
+	"Attachment": {
+		"message": "添付ファイル"
+	},
+	"Delete": {
+		"message": "削除"
+	},
+	"Send_to_board": {
+		"message": "ボードに送信"
+	},
+	"Drop_files_to_upload_": {
+		"message": "アップロードするファイルをドロップします。"
+	},
+	"Due_date": {
+		"message": "期日"
+	},
+	"Change_the_labels_for_the_card_": {
+		"message": "カードのラベルを変更します。"
 	}
 }

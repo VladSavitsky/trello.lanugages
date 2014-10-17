@@ -9,7 +9,7 @@
 		"message": "Tytuł"
 	},
 	"Organization": {
-		"message": "Firma\/Organizacja"
+		"message": "Organizacja"
 	},
 	"Create": {
 		"message": "Stwórz"
@@ -153,7 +153,7 @@
 		"message": "Uściślij wyszukiwanie za pomocą operatorów takich jak @member (użytkownik), #label (etykieta), is:archived (jest:zarchiwizowane), oraz has:attachments (ma:załącznik)."
 	},
 	"Learn_more_": {
-		"message": "Czytaj więcej..."
+		"message": "Dowiedz się więcej..."
 	},
 	"Cards": {
 		"message": "Karty"
@@ -168,10 +168,10 @@
 		"message": "Pokaż więcej użytkowników..."
 	},
 	"Organizations": {
-		"message": "Organizacje\/Firmy"
+		"message": "Organizacje"
 	},
 	"Show_more_organizations_": {
-		"message": "Pokaż więcej organizacji\/firm"
+		"message": "Pokaż więcej organizacji"
 	},
 	"Back_to_Saved_Searches": {
 		"message": "Wróć do zapisanych wyszukiwań"
@@ -492,12 +492,12 @@
 		"message": "Przywróć kartę na tablicę."
 	},
 	"Delete_the_card_and_all_history_associated_with_it__It_can_t_be_retrieved_": {
-		"message": "Usuń kartę i całą historię z nią związaną. Jest nieodwracalne."
+		"message": "Usuń kartę i całą historię z nią związaną. Usunięcie jest nieodwracalne."
 	},
 	"More_options_share__print__export__and_delete_": {
-		"message": "Więcej opcji udostępniania, drukuj, eksportuj i usuń."
+		"message": "Więcej opcji: udostępnij, drukuj, eksportuj i usuń."
 	},
 	"in_list": {
-		"message": "w liście"
+		"message": "na liście"
 	}
 }
