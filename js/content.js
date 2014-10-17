@@ -19,16 +19,30 @@
 
 
   // Replace strings at page using mapping from translation object.
-  function l10n(element) {
+  function l10n(name, $context) {
+    if (!name && !$context) {
+      name = 'body';
+      $context = $('body');
+    }
+//    console.log(name);
+//    console.log($context);
+
     // TODO: Translate only new DOM elements.
     if (isEmpty('mapping', mapping)) return;
-    $.each(mapping, function(type, data) {
+    var contextMapping = mapping;
+    if (name != 'body') contextMapping = mapping[name];
+    $.each(contextMapping, function(type, data) {
       $.each(data, function(code, selectors) {
         if (!chrome.i18n.getMessage(code)) return;
         // Convert strings to arrays to minimize code.
         if ($.type(selectors) === 'string') selectors = selectors.split();
+
         $.each(selectors, function(index, cssPath) {
-          var $element = $(cssPath);
+          var $element = $context.find(cssPath);
+          if (code == "Saved_Searches") {
+          console.log(cssPath);
+          console.log($element);
+          }
           if ($.isEmptyObject($element)) return;
           if (type == 'title' || type == 'placeholder') {
             // Do not check 'data-language' attribute because some elements should be translated
@@ -37,6 +51,9 @@
             $element.attr(type, chrome.i18n.getMessage(code));
             // TODO: Fix strings with plurals here. See Notification icon.
           } else if (type == 'html') {
+            if (code == "Saved_Searches") {
+              console.log('html');
+            }
             $.each($element, function() {
               // Get/Store original translation.
               $(this).html(function(index, html) {
@@ -98,12 +115,19 @@
   $('#boards-drawer > div > div.board-drawer-content > div.js-boards-list-container > div.js-all-boards').waitUntilExists(function() {l10n()});
   // Closed boards window.
   $('body > div.window-overlay > div > div > div > div.window-sidebar > p.helper').waitUntilExists(function() {l10n()});
+
   // Search window.
-  $('body > div.pop-over.search-over > div.content.js-tab-parent > div > p.search-warning.js-err').waitUntilExists(function() {l10n()});
+  $('body > div.pop-over.search-over > div.content.js-tab-parent > div > p.search-warning.js-err').waitUntilExists(function() {
+    l10n('search window', $(this).parents('.pop-over'));
+  });
   // Caledar window.
-  $('#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-content > div').waitUntilExists(function() {l10n()});
+  $('#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-content > div').waitUntilExists(function() {
+    l10n('calendar view', $(this).parents('.calendar-wrapper'));
+  });
   // Board creation popup.
-  $('body > div.pop-over > div.content.js-tab-parent > div > form > input.js-submit').waitUntilExists(function() {l10n()});
+  $('body > div.pop-over > div.content.js-tab-parent > div > form > input.js-submit[value="Create"]').waitUntilExists(function() {
+    l10n('create new board window', $(this).parents('.pop-over'));
+  });
 
   // ================= //
   // Useful functions. //
