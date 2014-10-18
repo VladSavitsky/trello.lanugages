@@ -96,7 +96,7 @@
   var mapping = getFile(chrome.extension.getURL('/mapping.json'));
   $.each(mapping, function(contextName, data) {
     $.each(data, function(name, value) {
-      if (name == 'meta' && value['basePath'] && value['flag']) {
+      if (name == 'meta' && value['basePath']) {
         $(value['basePath'] + ' ' + value['flag'] + ':not(.translated)').waitUntilExists(function() {
           l10n(contextName);
         });
@@ -112,8 +112,7 @@
   $('#board .list form .js-open-add-list').waitUntilExists(function() {l10n()});
   // List's context menu.
   $('.pop-over .js-close-list').waitUntilExists(function() {l10n()});
-  // Card's quick context menu.
-  $('div.quick-card-editor').waitUntilExists(function() {l10n()});
+
   // Activity in Sidebar.
   $('.js-sidebar-list-actions .phenom-desc').waitUntilExists(function() {l10n()});
   $('body > div.window-overlay > div > div > div > div > a.js-more-actions').waitUntilExists(function() {l10n()});
