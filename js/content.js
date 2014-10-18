@@ -3,13 +3,17 @@
 // TODO: Add card creation form to wait it's appearence.
 // TODO: Fix bug with 'Subscribe' with check icon in the text.
 // TODO: store translations at server.
+// TODO: (high priority) reduce number of l10n() calls.
+// TODO: Fix strings with plurals here. See Notification icon.
 
+// X-Trello-Version:1.228.1
 
 /*
- Regexp to build correct keys from real strings in the message.json files:
- :%s/^"\(.*\)[ …\.,@’:;#-'"!?-]\(.*\)"\s*:\s*{/"\1_\2" : {/g
+ Regexp to build correct keys from real strings
+ message.json:
+  :%s/^"\(.*\)[ …\“”.,@’:;#-'"!?-]\(.*\)"\s*:\s*{/"\1_\2" : {/g
  mapping.json:
- :%s/^\(\s*".*\)[ …\.,@’:;#-'"!?-]\(.*\)"\s*:/\1_\2" :/g
+  :%s/^\(\s*".*\)[ …\“”.,@’:;#-'"!?-]\(.*\)"\s*:/\1_\2" :/g
  Note: this command should be run several times.
 */
 
@@ -19,48 +23,45 @@
 
 
   // Replace strings at page using mapping from translation object.
-  function l10n(name, $context) {
-    if (!name && !$context) {
-      name = 'body';
-      $context = $('body');
-    }
-//    console.log(name);
-//    console.log($context);
-
-    // TODO: Translate only new DOM elements.
+  function l10n(contextName) {
     if (isEmpty('mapping', mapping)) return;
+
+//    if (contextName == 'create new board window') return;
+
+    // TODO: remove this code becasue it's a temporary solution.
+    $context = $(mapping[contextName]["meta"]['basePath']);
+    if (!contextName) {
+      contextName = 'body';
+      $context = $(contextName);
+    }
+    // Mark flag element of this context as translated. If we started translation we will do it.
+    $(mapping[contextName]["meta"]["basePath"] + ' ' + mapping[contextName]["meta"]["flag"]).addClass('translated');
+    // Set mapping for this context only.
     var contextMapping = mapping;
-    if (name != 'body') contextMapping = mapping[name];
+    if (contextName != 'body') contextMapping = mapping[contextName];
+
+    // DO the translation!
     $.each(contextMapping, function(type, data) {
       $.each(data, function(code, selectors) {
         if (!chrome.i18n.getMessage(code)) return;
-        // Convert strings to arrays to minimize code.
         if ($.type(selectors) === 'string') selectors = selectors.split();
-
         $.each(selectors, function(index, cssPath) {
           var $element = $context.find(cssPath);
-          if (code == "Saved_Searches") {
-          console.log(cssPath);
-          console.log($element);
-          }
           if ($.isEmptyObject($element)) return;
           if (type == 'title' || type == 'placeholder') {
-            // Do not check 'data-language' attribute because some elements should be translated
-            // several times. Eg., title and inner HTML.
-            // We assume that element should be only one. It's not right.
-            $element.attr(type, chrome.i18n.getMessage(code));
-            // TODO: Fix strings with plurals here. See Notification icon.
-          } else if (type == 'html') {
-            if (code == "Saved_Searches") {
-              console.log('html');
-            }
             $.each($element, function() {
-              // Get/Store original translation.
-              $(this).html(function(index, html) {
-                return html.replace($(this).text().trim(), chrome.i18n.getMessage(code));
+              $(this).attr(type, function(index, el) {
+                return el.replace($(this).attr(type).trim(), chrome.i18n.getMessage(code));
               });
             });
-          } else if (type == 'form elements') {
+            //$element.attr(type, chrome.i18n.getMessage(code));
+          } else if (type == 'html') {
+            $.each($element, function() {
+              $(this).html(function(index, el) {
+                return el.replace($(this).text().trim(), chrome.i18n.getMessage(code));
+              });
+            });
+          } else if (type == 'formElements') {
             $.each($element, function() {
               $element.val(chrome.i18n.getMessage(code));
             });
@@ -70,9 +71,7 @@
             var $tag = $element.find('.language-source-text[data-original="' + code + '"]');
             if ($tag.length) {
               // Tag exists. Just translate text in SPAN.
-              $.each($tag, function() {
-                $(this).html(' ' + chrome.i18n.getMessage(code) + ' ');
-              });
+              $.each($tag, function() {$(this).html(' ' + chrome.i18n.getMessage(code) + ' ')});
             }
             else {
               // There is no tag and we should wrap substring with SPAN tag to store original sring.
@@ -95,9 +94,21 @@
 
   // Load mapping data.
   var mapping = getFile(chrome.extension.getURL('/mapping.json'));
+  $.each(mapping, function(contextName, data) {
+    $.each(data, function(name, value) {
+      if (name == 'meta' && value['basePath'] && value['flag']) {
+        $(value['basePath'] + ' ' + value['flag'] + ':not(.translated)').waitUntilExists(function() {
+          l10n(contextName);
+        });
+      }
+    });
+  });
 
-  // TODO: (high priority) reduce number of l10n() calls.
-  // This element appears last at page and we use it to add the Menu to page and set status for each List.
+
+/*
+
+  // TODO: update mapping.json file.
+
   $('#board .list form .js-open-add-list').waitUntilExists(function() {l10n()});
   // List's context menu.
   $('.pop-over .js-close-list').waitUntilExists(function() {l10n()});
@@ -124,10 +135,7 @@
   $('#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-content > div').waitUntilExists(function() {
     l10n('calendar view', $(this).parents('.calendar-wrapper'));
   });
-  // Board creation popup.
-  $('body > div.pop-over > div.content.js-tab-parent > div > form > input.js-submit[value="Create"]').waitUntilExists(function() {
-    l10n('create new board window', $(this).parents('.pop-over'));
-  });
+*/
 
   // ================= //
   // Useful functions. //
