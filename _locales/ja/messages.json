@@ -1,4 +1,7 @@
 {
+	"Close_Board_": {
+		"message": "ボードを終了..."
+	},
 	"Create_new_board_": {
 		"message": "新しいボードを作成..."
 	},
@@ -19,9 +22,6 @@
 	},
 	"Change_": {
 		"message": "変更する。"
-	},
-	"private": {
-		"message": "非公開"
 	},
 	"Public": {
 		"message": "公開"
@@ -299,9 +299,6 @@
 	"Additional_Settings_": {
 		"message": "追加の設定..."
 	},
-	"Close_Board_": {
-		"message": "ボードを終了..."
-	},
 	"Add_Card_": {
 		"message": "カードを追加..."
 	},
@@ -364,9 +361,6 @@
 	},
 	"Drop_files_to_upload_": {
 		"message": "アップロードするファイルをドロップします。"
-	},
-	"Due_date": {
-		"message": "期日"
 	},
 	"Change_the_labels_for_the_card_": {
 		"message": "カードのラベルを変更します。"

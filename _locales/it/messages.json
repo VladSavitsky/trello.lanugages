@@ -1,4 +1,7 @@
 {
+	"Close_Board_": {
+		"message": "Chiudi Tavola…"
+	},
 	"Public": {
 		"message": "Pubblico"
 	},
@@ -298,9 +301,6 @@
 	},
 	"Additional_Settings_": {
 		"message": "Ulteriori Impostazioni..."
-	},
-	"Close_Board_": {
-		"message": "Chiudi Tavola…"
 	},
 	"Leave_Board_": {
 		"message": "Abbandona Tavola…"

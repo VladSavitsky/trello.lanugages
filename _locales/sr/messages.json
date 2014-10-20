@@ -1,0 +1,497 @@
+{
+	"Close_Board_": {
+		"message": "Затвори таблу..."
+	},
+	"Like__Bucket_List__for_example_": {
+		"message": "Као на пример „Листа приоритета“..."
+	},
+	"Create_new_board_": {
+		"message": "Направи нову таблу..."
+	},
+	"Create_Board": {
+		"message": "Направи таблу"
+	},
+	"Title": {
+		"message": "Наслов"
+	},
+	"Organization": {
+		"message": "Организација"
+	},
+	"Create": {
+		"message": "Направи"
+	},
+	"This_board_will_be": {
+		"message": "Ова табла ће бити"
+	},
+	"Change_": {
+		"message": "Измени."
+	},
+	"Public": {
+		"message": "Јавна"
+	},
+	"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_": {
+		"message": "Ова табла је видљива члановима организације. Само чланови које сте додали на таблу могу да праве измене."
+	},
+	"This_board_is_private___Only_people_added_to_the_board_can_view_and_edit_it_": {
+		"message": "Ова табла је приватна. Само особе које сте додали на таблу могу да је виде и да праве измене."
+	},
+	"The_board_must_be_added_to_an_org_to_enable_this_": {
+		"message": "Да бисте активирали опцију морате таблу додати у организацију."
+	},
+	"Today": {
+		"message": "Данас"
+	},
+	"Week": {
+		"message": "Седмица"
+	},
+	"Month": {
+		"message": "Месец"
+	},
+	"Sun": {
+		"message": "Нед"
+	},
+	"Mon": {
+		"message": "Пон"
+	},
+	"Tue": {
+		"message": "Уто"
+	},
+	"Wed": {
+		"message": "Сре"
+	},
+	"Thu": {
+		"message": "Чет"
+	},
+	"Fri": {
+		"message": "Пет"
+	},
+	"Sat": {
+		"message": "Суб"
+	},
+	"January": {
+		"message": "Јануар"
+	},
+	"February": {
+		"message": "Фебруар"
+	},
+	"March": {
+		"message": "Март"
+	},
+	"April": {
+		"message": "Април"
+	},
+	"May": {
+		"message": "Мај"
+	},
+	"June": {
+		"message": "Јуни"
+	},
+	"July": {
+		"message": "Јули"
+	},
+	"August": {
+		"message": "Август"
+	},
+	"September": {
+		"message": "Септембар"
+	},
+	"October": {
+		"message": "Октобар"
+	},
+	"November": {
+		"message": "Новембар"
+	},
+	"December": {
+		"message": "Децембар"
+	},
+	"Jan": {
+		"message": "Јан"
+	},
+	"Feb": {
+		"message": "Феб"
+	},
+	"Mar": {
+		"message": "Мар"
+	},
+	"Apr": {
+		"message": "Апр"
+	},
+	"Jun": {
+		"message": "Јун"
+	},
+	"Jul": {
+		"message": "Јул"
+	},
+	"Aug": {
+		"message": "Авг"
+	},
+	"Sep": {
+		"message": "Сеп"
+	},
+	"Oct": {
+		"message": "Окт"
+	},
+	"Nov": {
+		"message": "Нов"
+	},
+	"Dec": {
+		"message": "Дец"
+	},
+	"Saved_Searches": {
+		"message": "Сачуване претраге"
+	},
+	"Your_search_produced_an_error_": {
+		"message": "Ваша претрага је резултовала грешком."
+	},
+	"Searching_": {
+		"message": "Тражење..."
+	},
+	"No_results_": {
+		"message": "Нема резултата."
+	},
+	"Refine_your_search_with_operators_like__member___label__is_archived__and_has_attachments_": {
+		"message": "За детаљнију претрагу користите операторе као нпр. @члан, #ознака, is:archived или has:attachments."
+	},
+	"Learn_more_": {
+		"message": "Детаљније..."
+	},
+	"Cards": {
+		"message": "Картице"
+	},
+	"Loading_": {
+		"message": "Учитава се..."
+	},
+	"Show_more_boards_": {
+		"message": "Прикажи остале табле..."
+	},
+	"Show_more_members_": {
+		"message": "Прикажи остале чланове..."
+	},
+	"Organizations": {
+		"message": "Организације"
+	},
+	"Show_more_organizations_": {
+		"message": "Прикажи остале организације..."
+	},
+	"Back_to_Saved_Searches": {
+		"message": "Назад на сачуване претраге"
+	},
+	"Save_this_Search": {
+		"message": "Сачувај ову претрагу"
+	},
+	"Did_you_mean_": {
+		"message": "Да ли сте мислили..."
+	},
+	"Only_include_cards_that_have_stickers_": {
+		"message": "Укључи само картице са обележивачима."
+	},
+	"Starred_Boards": {
+		"message": "Истакнуте табле"
+	},
+	"My_Boards": {
+		"message": "Моје табле"
+	},
+	"Overview": {
+		"message": "Преглед"
+	},
+	"Recent_Boards": {
+		"message": "Скорашње табле"
+	},
+	"Always_keep_this_menu_open_": {
+		"message": "Увек држи овај изборник отворен."
+	},
+	"Don_t_keep_this_menu_open_": {
+		"message": "Увек држи овај изборник затворен."
+	},
+	"See_closed_boards_": {
+		"message": "Прикажи затворене табле..."
+	},
+	"Find_boards_by_name_": {
+		"message": "Нађи таблу по њеном називу..."
+	},
+	"There_is_new_activity_on_this_board_": {
+		"message": "Нове активности на табли."
+	},
+	"Collapse_section_": {
+		"message": "Скупи садржај."
+	},
+	"Expand_section_": {
+		"message": "Отвори садржај."
+	},
+	"Closed_Boards": {
+		"message": "Затворене табле"
+	},
+	"Re_open": {
+		"message": "Поново отвори"
+	},
+	"You_have_to_have_been_a_board_admin_to_re_open_a_closed_board_": {
+		"message": "Да бисте поново отворили или затворили таблу морате имати администраторска овлашћења."
+	},
+	"No_Boards_Found": {
+		"message": "Нема пронађених табли"
+	},
+	"Boards": {
+		"message": "Табле"
+	},
+	"Add_a_list_": {
+		"message": "Додај листу..."
+	},
+	"Calendar": {
+		"message": "Календар"
+	},
+	"Subscribed": {
+		"message": "Претплате"
+	},
+	"Filtering_is_on_": {
+		"message": "Филтери су укључени."
+	},
+	"Show_sidebar": {
+		"message": "Прикажи траку са стране"
+	},
+	"Add_a_card_": {
+		"message": "Додај картицу..."
+	},
+	"Notifications": {
+		"message": "Обавештења"
+	},
+	"Go_back_to_your_boards_page_": {
+		"message": "Иди назад на страницу табли."
+	},
+	"View_list_of_boards": {
+		"message": "Прикажи листу табли"
+	},
+	"Rename_the_board_": {
+		"message": "Преименуј таблу."
+	},
+	"You_are_filtering_cards_on_this_board__Click_here_to_edit_filter_": {
+		"message": "На табли су приказане само филтриране картице. Кликни овде за измену филтера."
+	},
+	"You_are_subscribed_to_this_board__You_ll_get_notifications_about_changes_": {
+		"message": "Претплаћени сте на ову таблу. За сваку измену ћете добити обавештење."
+	},
+	"Click_to_star_or_unstar_this_board__Starred_boards_show_up_at_the_top_of_your_boards_list_": {
+		"message": "Кликни на зваздицу да би табла била истакнута. Истакнуте табле се приказују на врху листе."
+	},
+	"Close_the_board_sidebar_": {
+		"message": "Затвори траку са стране."
+	},
+	"Add_a_new_board_or_organization_": {
+		"message": "Додај нову таблу или организацију."
+	},
+	"You_are_seeing_an_early__experimental_version_of_Trello__We_would_love_your_feedback_": {
+		"message": "Тренутно користите рану, експерименталну верију Трела. Волели бисмо да нам саопштите своје утиске!"
+	},
+	"Get_access_to_your_profile__help__and_log_out_": {
+		"message": "Приступ Вашем профилу, помоћи или одјављивању."
+	},
+	"This_member_has_Trello_Gold_": {
+		"message": "Овај члан има златни Трело."
+	},
+	"Click_to_star_this_board__It_will_show_up_at_top_of_your_boards_list_": {
+		"message": "Кликни да табла постане истакнута. Тиме ће се појавити на врху твоје листе."
+	},
+	"Search_for_boards__cards__members__and_organizations_": {
+		"message": "Претрага табли, картица, чланова и организација."
+	},
+	"Menu": {
+		"message": "Изборник"
+	},
+	"Add_Members": {
+		"message": "Додај члана"
+	},
+	"Members": {
+		"message": "Чланови"
+	},
+	"Activity": {
+		"message": "Активности"
+	},
+	"Click_here_to_see_more_board_options_": {
+		"message": "Кликни да се прикажу остале опције табле."
+	},
+	"Power_Ups": {
+		"message": "Моћни додаци"
+	},
+	"Stickers": {
+		"message": "Обележивачи"
+	},
+	"Filter_Cards": {
+		"message": "Фитрирање картица"
+	},
+	"Archived_Items": {
+		"message": "Архивиране ставке"
+	},
+	"Change_Background_": {
+		"message": "Промени позадину..."
+	},
+	"Email_to_board_Settings_": {
+		"message": "Поставке имејл-на-таблу"
+	},
+	"Copy_Board_": {
+		"message": "Умножи таблу..."
+	},
+	"Share__Print__and_Export_": {
+		"message": "Дељење, штампа и извоз..."
+	},
+	"Additional_Settings_": {
+		"message": "Додатне поставке..."
+	},
+	"Leave_Board_": {
+		"message": "Напусти таблу..."
+	},
+	"List_Actions": {
+		"message": "Листа наредби"
+	},
+	"Add_Card_": {
+		"message": "Додај картицу..."
+	},
+	"Copy_List_": {
+		"message": "Копирај листу..."
+	},
+	"Move_List_": {
+		"message": "Премести листу..."
+	},
+	"Subscribe": {
+		"message": "Претплати се"
+	},
+	"Move_All_Cards_in_This_List_": {
+		"message": "Премести све картице у ову листу..."
+	},
+	"Archive_All_Cards_in_This_List_": {
+		"message": "Архивирај све картице из ове листе..."
+	},
+	"Archive_This_List": {
+		"message": "Архивирај листу"
+	},
+	"Edit_Labels": {
+		"message": "Измени ознаке"
+	},
+	"Change_Members": {
+		"message": "Промена приступа чланова"
+	},
+	"Move": {
+		"message": "Премести"
+	},
+	"Copy": {
+		"message": "Копирај"
+	},
+	"Change_Due_Date": {
+		"message": "Измени крајњи рок"
+	},
+	"Archive": {
+		"message": "Архивирај"
+	},
+	"Add": {
+		"message": "Додај"
+	},
+	"Change_Notification_Email_Frequency": {
+		"message": "Измени учесталост имејл обавештавања"
+	},
+	"See_All_Notifications": {
+		"message": "Прикажи сва обавештења"
+	},
+	"added": {
+		"message": "додато"
+	},
+	"to": {
+		"message": "у"
+	},
+	"and": {
+		"message": "и"
+	},
+	"joined": {
+		"message": "придружен"
+	},
+	"moved": {
+		"message": "премештен"
+	},
+	"from": {
+		"message": "из"
+	},
+	"archived": {
+		"message": "архивирано"
+	},
+	"renamed": {
+		"message": "преименовано"
+	},
+	"this_board": {
+		"message": "ову таблу"
+	},
+	"attached": {
+		"message": "прикачено"
+	},
+	"sent": {
+		"message": "послато"
+	},
+	"to_the_board": {
+		"message": "на таблу"
+	},
+	"Edit_the_description_": {
+		"message": "Измени опис..."
+	},
+	"Write_a_comment_": {
+		"message": "Напиши коментар..."
+	},
+	"Save": {
+		"message": "Сачувај"
+	},
+	"Actions": {
+		"message": "Наредбе"
+	},
+	"Labels": {
+		"message": "Ознаке"
+	},
+	"Checklist": {
+		"message": "Листа"
+	},
+	"Attachment": {
+		"message": "Прилог"
+	},
+	"Delete": {
+		"message": "Обриши"
+	},
+	"Share_and_more_": {
+		"message": "Дељење и остало..."
+	},
+	"Send_to_board": {
+		"message": "Пошаљи на таблу"
+	},
+	"Drop_files_to_upload_": {
+		"message": "Испусти датотеке да би их послао."
+	},
+	"Add_or_remove_members_of_the_board_from_the_card_": {
+		"message": "Додај или одузни приступ картици члановима табле."
+	},
+	"Change_the_labels_for_the_card_": {
+		"message": "Измена ознаке на картици."
+	},
+	"Add_a_checklist_and_divide_the_card_into_subtasks_": {
+		"message": "Додај листу или подели картицу у подзадатке."
+	},
+	"Add_a_due_date_for_the_card_and_get_notifications_when_it_is_almost_due_": {
+		"message": "Додај рок за завршетак картице и укључи обавештавање када се рок приближава."
+	},
+	"Move_the_card_to_another_board__another_list__or_a_new_position_in_a_list": {
+		"message": "Премести картицу на другу таблу, другу листу или не другу позицију у листи"
+	},
+	"Make_a_copy_of_this_card__optionally_include_checklist__labels__members__attachments__etc_": {
+		"message": "Направи копију ове картице, опционо и листе, ознаке, чланове, прилоге, итд."
+	},
+	"Subscribe_to_the_card_to_get_notifications_when_something_changes_": {
+		"message": "Претплати се на картицу да би добијао обавештења када се десе промене."
+	},
+	"Remove_the_card_from_the_board_": {
+		"message": "Уклони картицу из табле."
+	},
+	"Send_the_card_back_to_the_board_": {
+		"message": "Пошаљи картицу натраг на таблу."
+	},
+	"Delete_the_card_and_all_history_associated_with_it__It_can_t_be_retrieved_": {
+		"message": "Обриши картицу и сав историјат везан за њу. Без могућности опоравка."
+	},
+	"More_options_share__print__export__and_delete_": {
+		"message": "Остале опције дељења, штампе, извоза и брисања."
+	},
+	"in_list": {
+		"message": "у листи"
+	}
+}

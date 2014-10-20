@@ -1,4 +1,10 @@
 {
+	"Close_Board_": {
+		"message": "Zamknij tablicę..."
+	},
+	"Like__Bucket_List__for_example_": {
+		"message": "Np. \"Moja lista\"..."
+	},
 	"Create_new_board_": {
 		"message": "Stwórz nową tablicę..."
 	},
@@ -14,17 +20,11 @@
 	"Create": {
 		"message": "Stwórz"
 	},
-	"Like__Bucket_List__for_example_": {
-		"message": "Np. \"Moja lista\"..."
-	},
 	"This_board_will_be": {
 		"message": "Tablica będzie"
 	},
 	"Change_": {
 		"message": "Zmień."
-	},
-	"private": {
-		"message": "Prywatna"
 	},
 	"Public": {
 		"message": "Publiczna"
@@ -335,9 +335,6 @@
 	"Additional_Settings_": {
 		"message": "Dodatkowe ustawienia..."
 	},
-	"Close_Board_": {
-		"message": "Zamknij tablicę..."
-	},
 	"Leave_Board_": {
 		"message": "Opuść tablicę..."
 	},
@@ -460,9 +457,6 @@
 	},
 	"Drop_files_to_upload_": {
 		"message": "Przeciągnij i upuść tu pliki by przesłać."
-	},
-	"Due_date": {
-		"message": "Do daty"
 	},
 	"Add_or_remove_members_of_the_board_from_the_card_": {
 		"message": "Dodaj lub usuń użytkownika do tej karty."

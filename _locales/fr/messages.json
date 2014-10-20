@@ -1,4 +1,10 @@
 {
+	"Close_Board_": {
+		"message": "Fermer le tableau..."
+	},
+	"Like__Bucket_List__for_example_": {
+		"message": "Comme \"Liste des choses à faire avant de mourir\" par exemple"
+	},
 	"Create_new_board_": {
 		"message": "Créer un nouveau tableau ..."
 	},
@@ -14,17 +20,11 @@
 	"Create": {
 		"message": "Créer"
 	},
-	"Like__Bucket_List__for_example_": {
-		"message": "Comme \"Liste des choses à faire avant de mourir\" par exemple"
-	},
 	"This_board_will_be": {
 		"message": "Ce tableau sera"
 	},
 	"Change_": {
 		"message": "Modifier"
-	},
-	"private": {
-		"message": "Privé"
 	},
 	"Public": {
 		"message": "Public"
@@ -335,9 +335,6 @@
 	"Additional_Settings_": {
 		"message": "Paramètres supplémentaires ..."
 	},
-	"Close_Board_": {
-		"message": "Fermer le tableau..."
-	},
 	"Leave_Board_": {
 		"message": "Quitter le tableau..."
 	},
@@ -460,9 +457,6 @@
 	},
 	"Drop_files_to_upload_": {
 		"message": "Déposer les fichiers à télécharger."
-	},
-	"Due_date": {
-		"message": "Date d'échéance"
 	},
 	"Add_or_remove_members_of_the_board_from_the_card_": {
 		"message": "Ajouter ou supprimer des membres du tableau de la carte."

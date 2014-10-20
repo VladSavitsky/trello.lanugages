@@ -1,4 +1,7 @@
 {
+	"Like__Bucket_List__for_example_": {
+		"message": "Esimerkiksi \"Ostoslista\""
+	},
 	"Create_new_board_": {
 		"message": "Luo uusi taulu..."
 	},
@@ -13,8 +16,5 @@
 	},
 	"Create": {
 		"message": "Luo"
-	},
-	"Like__Bucket_List__for_example_": {
-		"message": "Esimerkiksi \"Ostoslista\""
 	}
 }

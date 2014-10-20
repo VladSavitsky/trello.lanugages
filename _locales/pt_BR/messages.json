@@ -1,4 +1,10 @@
 {
+	"Close_Board_": {
+		"message": "Fechar quadro..."
+	},
+	"Like__Bucket_List__for_example_": {
+		"message": "Como \"Lista de Desejos\" por exemplo"
+	},
 	"Create_new_board_": {
 		"message": "Criar novo quadro..."
 	},
@@ -14,17 +20,11 @@
 	"Create": {
 		"message": "Criar"
 	},
-	"Like__Bucket_List__for_example_": {
-		"message": "Como \"Lista de Desejos\" por exemplo"
-	},
 	"This_board_will_be": {
 		"message": "Este quadro será"
 	},
 	"Change_": {
 		"message": "Mudar."
-	},
-	"private": {
-		"message": "Privado"
 	},
 	"Public": {
 		"message": "Público"
@@ -335,9 +335,6 @@
 	"Additional_Settings_": {
 		"message": "Configurações adicionais"
 	},
-	"Close_Board_": {
-		"message": "Fechar quadro..."
-	},
 	"Leave_Board_": {
 		"message": "Sair do quadro..."
 	},
@@ -460,9 +457,6 @@
 	},
 	"Drop_files_to_upload_": {
 		"message": "Arraste os arquivos para enviar."
-	},
-	"Due_date": {
-		"message": "Data de vencimento"
 	},
 	"Add_or_remove_members_of_the_board_from_the_card_": {
 		"message": "Adicionar ou remover membros do quadro para o cartão."

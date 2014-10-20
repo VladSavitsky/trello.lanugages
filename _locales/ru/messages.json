@@ -1,4 +1,73 @@
 {
+	"Close_Board_": {
+		"message": "Удалить доску…"
+	},
+	"Close": {
+		"message": "Закрыть"
+	},
+	"Click_here_to_re_open_it_": {
+		"message": "Кликните, чтобы снова открыть."
+	},
+	"is_closed_": {
+		"message": "закрыта."
+	},
+	"Create_Organization": {
+		"message": "Создать организацию"
+	},
+	"An_organization_is_a_group_of_boards_and_members_": {
+		"message": "Организация - это объединение досок и людей."
+	},
+	"Name": {
+		"message": "Название"
+	},
+	"Description": {
+		"message": "Описание"
+	},
+	"Add_an_Organization": {
+		"message": "Добавить организацию"
+	},
+	"Create_an_Organization": {
+		"message": "Создать организацию"
+	},
+	"What_are_you_organizing_": {
+		"message": "Что вы организовываете?"
+	},
+	"What_are_you_planning_": {
+		"message": "Что вы планируете?"
+	},
+	"Like__Vacation_Planning__for_example_": {
+		"message": "Например, \"План отпуска\"..."
+	},
+	"Like__House_Stuff__for_example_": {
+		"message": "Например, \"Домашние дела\"..."
+	},
+	"Like__Bucket_List__for_example_": {
+		"message": "Например “Идеи”…"
+	},
+	"Like__Game_Development_Roadmap__": {
+		"message": "Например, \"План релизов игры\"..."
+	},
+	"Like__Calvinball_Meetup_Schedule__": {
+		"message": "Например, \"Расписание кемпа\"..."
+	},
+	"Like__Weekly_Meal_Planning__for_example_": {
+		"message": "Например, \"Недельное меню\"..."
+	},
+	"Like__School_Research__for_example_": {
+		"message": "Например, \"Домашние задания\"..."
+	},
+	"Like__Team_Product_Sprint__for_example_": {
+		"message": "Например, \"Спринт команды разработки\"..."
+	},
+	"Like__Publishing_Calendar__for_example_": {
+		"message": "Например, \"Публикация календаря\"..."
+	},
+	"Like__New_Hire_Onboarding__for_example_": {
+		"message": "Например, \"Найм новых людей\"..."
+	},
+	"Like__Reading_Collection__for_example_": {
+		"message": "Например, \"Моё чтение\"..."
+	},
 	"Create_new_board_": {
 		"message": "Создать новую доску…"
 	},
@@ -14,9 +83,6 @@
 	"Create": {
 		"message": "Создать"
 	},
-	"Like__Bucket_List__for_example_": {
-		"message": "Например “Идеи”…"
-	},
 	"This_board_will_be": {
 		"message": "Эта доска будет"
 	},
@@ -24,7 +90,7 @@
 		"message": "Изменить."
 	},
 	"private": {
-		"message": "Личной"
+		"message": "Личная"
 	},
 	"Public": {
 		"message": "Общая"
@@ -227,6 +293,9 @@
 	"You_have_to_have_been_a_board_admin_to_re_open_a_closed_board_": {
 		"message": "Вы должны быть администратором, чтобы снова открывать закрытые доски."
 	},
+	"Close_this_dialog_window_": {
+		"message": "Закрыть это окно."
+	},
 	"No_Boards_Found": {
 		"message": "Доски не найдены"
 	},
@@ -335,9 +404,6 @@
 	"Additional_Settings_": {
 		"message": "Другие настройки…"
 	},
-	"Close_Board_": {
-		"message": "Удалить доску…"
-	},
 	"Leave_Board_": {
 		"message": "Покинуть доску…"
 	},
@@ -427,6 +493,12 @@
 	},
 	"to_the_board": {
 		"message": "на доску"
+	},
+	"This_card_is_past_due_": {
+		"message": "Крайний срок карточки уже прошёл."
+	},
+	"You_are_subscribed_to_this_card_": {
+		"message": "Вы подписаны на эту карточку."
 	},
 	"Edit_the_description_": {
 		"message": "Измените описание…"

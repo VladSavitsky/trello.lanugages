@@ -1,4 +1,22 @@
 {
+	"Close_Board_": {
+		"message": "Закрити дошку…"
+	},
+	"Create_Organization": {
+		"message": "Створити організацію"
+	},
+	"Name": {
+		"message": "Назва"
+	},
+	"Description": {
+		"message": "Опис"
+	},
+	"Add_an_Organization": {
+		"message": "Додати організацію"
+	},
+	"Like__Bucket_List__for_example_": {
+		"message": "Наприклад, “Ідеї”…"
+	},
 	"Create_new_board_": {
 		"message": "Створити нову дошку…"
 	},
@@ -14,17 +32,11 @@
 	"Create": {
 		"message": "Створити"
 	},
-	"Like__Bucket_List__for_example_": {
-		"message": "Наприклад, “Ідеї”…"
-	},
 	"This_board_will_be": {
 		"message": "Ця дошка буде"
 	},
 	"Change_": {
 		"message": "Змінити."
-	},
-	"private": {
-		"message": "Приватна"
 	},
 	"Public": {
 		"message": "Загальна"
@@ -323,9 +335,6 @@
 	"Additional_Settings_": {
 		"message": "Додаткові налаштування..."
 	},
-	"Close_Board_": {
-		"message": "Закрити дошку…"
-	},
 	"Leave_Board_": {
 		"message": "Залишити дошку…"
 	},
@@ -448,9 +457,6 @@
 	},
 	"Drop_files_to_upload_": {
 		"message": "Киньте файли для завантаження."
-	},
-	"Due_date": {
-		"message": "Кінцевій строк"
 	},
 	"Change_the_labels_for_the_card_": {
 		"message": "Змінити теги картки."

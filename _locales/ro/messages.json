@@ -1,4 +1,7 @@
 {
+	"Close_Board_": {
+		"message": "Închide Bord..."
+	},
 	"Create_new_board_": {
 		"message": "Crează un bord nou..."
 	},
@@ -19,9 +22,6 @@
 	},
 	"Change_": {
 		"message": "Schimbă."
-	},
-	"private": {
-		"message": "Privat"
 	},
 	"Public": {
 		"message": "Public"
@@ -151,9 +151,6 @@
 	},
 	"Additional_Settings_": {
 		"message": "Setări Suplimentare ..."
-	},
-	"Close_Board_": {
-		"message": "Închide Bord..."
 	},
 	"this_board": {
 		"message": "acest bord"

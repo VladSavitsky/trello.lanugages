@@ -1,9 +1,12 @@
 {
+	"Close_Board_": {
+		"message": "Lukk tavle..."
+	},
 	"Create_new_board_": {
-		"message": "Lag nytt brett"
+		"message": "Lag nytt tavle"
 	},
 	"Create_Board": {
-		"message": "Lag Brett"
+		"message": "Lag tavle"
 	},
 	"Title": {
 		"message": "Tittel"
@@ -15,25 +18,22 @@
 		"message": "Lag"
 	},
 	"This_board_will_be": {
-		"message": "Dette brettet vil bli"
+		"message": "Denne tavlen vil bli"
 	},
 	"Change_": {
 		"message": "Endre."
-	},
-	"private": {
-		"message": "Privat"
 	},
 	"Public": {
 		"message": "Offentlig"
 	},
 	"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_": {
-		"message": "Dette brettet er synlig for medlemmer av denne organisasjonen. Bare personer som er lagt til brettet kan redigere."
+		"message": "Denne tavlen er synlig for medlemmer av denne organisasjonen. Bare personer som er lagt til brettet kan redigere."
 	},
 	"This_board_is_private___Only_people_added_to_the_board_can_view_and_edit_it_": {
-		"message": "Dette brettet er privat. Bare personer som er lagt til brettet kan se og redigere det."
+		"message": "Denne tavlen er privat. Bare personer som er lagt til brettet kan se og redigere det."
 	},
 	"The_board_must_be_added_to_an_org_to_enable_this_": {
-		"message": "Brettet må bli lagt til en org for å kunne gjøre dette."
+		"message": "Tavlen må bli lagt til en organisasjon for å kunne gjøre dette."
 	},
 	"Today": {
 		"message": "I dag"
@@ -137,9 +137,6 @@
 	"Saved_Searches": {
 		"message": "Lagrede Søk"
 	},
-	"Your_search_produced_an_error_": {
-		"message": "Ditt søk produserte en feil"
-	},
 	"Searching_": {
 		"message": "Søker..."
 	},
@@ -156,7 +153,7 @@
 		"message": "Laster..."
 	},
 	"Show_more_boards_": {
-		"message": "Vis fler brett..."
+		"message": "Vis fler tavler..."
 	},
 	"Show_more_members_": {
 		"message": "Vis fler medlemmer..."
@@ -168,7 +165,7 @@
 		"message": "Vis fler organisasjoner..."
 	},
 	"Back_to_Saved_Searches": {
-		"message": "Tilbake til Lagrede Søk"
+		"message": "Tilbake til lagrede søk"
 	},
 	"Save_this_Search": {
 		"message": "Lagre dette søket"
@@ -180,31 +177,31 @@
 		"message": "Bare innkluder kort som har klistremerker"
 	},
 	"Starred_Boards": {
-		"message": "Favoritt brett"
+		"message": "Favorittavler"
 	},
 	"My_Boards": {
-		"message": "Mine Brett"
+		"message": "Mine tavler"
 	},
 	"Overview": {
 		"message": "Overblikk"
 	},
 	"Recent_Boards": {
-		"message": "Nylige brett"
+		"message": "Nylig brukte tavler"
 	},
 	"Always_keep_this_menu_open_": {
-		"message": "Hold denne menyen open."
+		"message": "Hold denne menyen åpen."
 	},
 	"Don_t_keep_this_menu_open_": {
-		"message": "Ikke hold denne menyen open."
+		"message": "Ikke hold denne menyen åpen."
 	},
 	"See_closed_boards_": {
-		"message": "Se lukkede brett..."
+		"message": "Se lukkede tavler..."
 	},
 	"Find_boards_by_name_": {
-		"message": "Finn brett med navn..."
+		"message": "Finn tavler med navn..."
 	},
 	"There_is_new_activity_on_this_board_": {
-		"message": "Det er ny aktivitet på dette brettet."
+		"message": "Det er ny aktivitet på denne tavlen."
 	},
 	"Collapse_section_": {
 		"message": "Lukk seksjon."
@@ -213,19 +210,19 @@
 		"message": "Åpne seksjon."
 	},
 	"Closed_Boards": {
-		"message": "Lukkede brett"
+		"message": "Lukkede tavler"
 	},
 	"Re_open": {
 		"message": "Gjenåpne"
 	},
 	"You_have_to_have_been_a_board_admin_to_re_open_a_closed_board_": {
-		"message": "Du må være en brett administrator for å gjenåpne et lukket brett."
+		"message": "Du må være en brett administrator for å gjenåpne en lukket tavle."
 	},
 	"No_Boards_Found": {
-		"message": "Ingen brett funnet"
+		"message": "Ingen tavler funnet"
 	},
 	"Boards": {
-		"message": "Brett"
+		"message": "Tavler"
 	},
 	"Add_a_list_": {
 		"message": "Legg til en liste..."
@@ -249,25 +246,25 @@
 		"message": "Notifikasjoner"
 	},
 	"Go_back_to_your_boards_page_": {
-		"message": "Gå tilbake til dine brett siden."
+		"message": "Gå tilbake til dine tavler siden."
 	},
 	"View_list_of_boards": {
-		"message": "Se liste over brett."
+		"message": "Se liste over tavler."
 	},
 	"Rename_the_board_": {
-		"message": "Endre navn på brettet."
+		"message": "Endre navn på tavlen."
 	},
 	"You_are_filtering_cards_on_this_board__Click_here_to_edit_filter_": {
-		"message": "Du filtrerer kort på dette brettet. Klikk her for å endre filteret."
+		"message": "Du filtrerer kort på denne tavlen. Klikk her for å endre filteret."
 	},
 	"You_are_subscribed_to_this_board__You_ll_get_notifications_about_changes_": {
-		"message": "Du abonnerer på dette brettet. Du vil få notifikasjoner om endringer."
+		"message": "Du abonnerer på denne tavlen. Du vil få notifikasjoner om endringer."
 	},
 	"Close_the_board_sidebar_": {
 		"message": "Lukk sidepanelet."
 	},
 	"Add_a_new_board_or_organization_": {
-		"message": "Legg til nytt brett eller organisasjon"
+		"message": "Legg til ny tavle eller organisasjon"
 	},
 	"You_are_seeing_an_early__experimental_version_of_Trello__We_would_love_your_feedback_": {
 		"message": "Du ser på en tidlig, eksperimental versjon av Trello. Vi vil gjerne høre dine tilbakemeldinger!"
@@ -279,7 +276,7 @@
 		"message": "Dette medlemmet har Trello Gull."
 	},
 	"Search_for_boards__cards__members__and_organizations_": {
-		"message": "Søk etter brett, kort, medlemmer, og organisasjoner."
+		"message": "Søk etter tavler, kort, medlemmer, og organisasjoner."
 	},
 	"Menu": {
 		"message": "Meny"
@@ -294,10 +291,10 @@
 		"message": "Aktivitet"
 	},
 	"Click_here_to_see_more_board_options_": {
-		"message": "Klikk her for å se fler brett alternativer."
+		"message": "Klikk her for å se fler tavle alternativer."
 	},
 	"Power_Ups": {
-		"message": "Tilleggs funksjoner"
+		"message": "Utvidelser"
 	},
 	"Stickers": {
 		"message": "Klistremerker"
@@ -312,10 +309,10 @@
 		"message": "Endre bakgrunn..."
 	},
 	"Email_to_board_Settings_": {
-		"message": "Email-til-brett instillinger..."
+		"message": "E-post-til-tavle instillinger..."
 	},
 	"Copy_Board_": {
-		"message": "Kopier brett..."
+		"message": "Kopier tavle..."
 	},
 	"Share__Print__and_Export_": {
 		"message": "Del, Print, og Eksporter"
@@ -323,11 +320,8 @@
 	"Additional_Settings_": {
 		"message": "Fler Innstillinger..."
 	},
-	"Close_Board_": {
-		"message": "Lukk brett..."
-	},
 	"Leave_Board_": {
-		"message": "Forlat brett..."
+		"message": "Forlat tavle..."
 	},
 	"List_Actions": {
 		"message": "Liste handlinger"
@@ -405,7 +399,7 @@
 		"message": "endret navn"
 	},
 	"this_board": {
-		"message": "dette brettet"
+		"message": "denne tavlen"
 	},
 	"attached": {
 		"message": "la til"
@@ -414,7 +408,7 @@
 		"message": "sente"
 	},
 	"to_the_board": {
-		"message": "til dette brettet"
+		"message": "til denne tavlen"
 	},
 	"Edit_the_description_": {
 		"message": "Rediger beskrivelse..."
@@ -444,16 +438,13 @@
 		"message": "Del og mer..."
 	},
 	"Send_to_board": {
-		"message": "Send til brett..."
+		"message": "Send til tavle..."
 	},
 	"Drop_files_to_upload_": {
-		"message": "Drop filer for å laste opp."
-	},
-	"Due_date": {
-		"message": "Frist"
+		"message": "Slipp filer for å laste opp."
 	},
 	"Add_or_remove_members_of_the_board_from_the_card_": {
-		"message": "Legg til eller fjern medlemmer av brettet fra dette kortet."
+		"message": "Legg til eller fjern tavlemedlemmer fra dette kortet."
 	},
 	"Change_the_labels_for_the_card_": {
 		"message": "Endre etiketter for dette kortet"
@@ -465,7 +456,7 @@
 		"message": "Legg til en frist for dette kortet og få notifikasjoner når fristen er nesten ute."
 	},
 	"Move_the_card_to_another_board__another_list__or_a_new_position_in_a_list": {
-		"message": "Flytt kortet til ett annet brett, liste, eller en ny posisjon i en liste"
+		"message": "Flytt kortet til en annen tavle, liste, eller en ny posisjon i en liste"
 	},
 	"Make_a_copy_of_this_card__optionally_include_checklist__labels__members__attachments__etc_": {
 		"message": "Lag en kopi av dette kortet, eventuelt inkluder sjekkliser, etiketter, medlemmer, vedlegg osv."
@@ -474,10 +465,10 @@
 		"message": "Abonner til kortet for å få notifikasjoner nå noe endrer seg."
 	},
 	"Remove_the_card_from_the_board_": {
-		"message": "Fjern kortet fra brettet."
+		"message": "Fjern kortet fra tavlen."
 	},
 	"Send_the_card_back_to_the_board_": {
-		"message": "Send kortet tilbake til brettet."
+		"message": "Send kortet tilbake til tavlen."
 	},
 	"Delete_the_card_and_all_history_associated_with_it__It_can_t_be_retrieved_": {
 		"message": "Slett kortet og all historikk assosiert med det. Det kan ikke bli gjenopprettet."

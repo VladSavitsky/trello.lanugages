@@ -1,4 +1,10 @@
 {
+	"Close_Board_": {
+		"message": "Board schließen…"
+	},
+	"Like__Bucket_List__for_example_": {
+		"message": "Als Beispiel \"Aufgabenliste\"..."
+	},
 	"Create_new_board_": {
 		"message": "Neues Board..."
 	},
@@ -14,17 +20,11 @@
 	"Create": {
 		"message": "Erstellen"
 	},
-	"Like__Bucket_List__for_example_": {
-		"message": "Als Beispiel \"Aufgabenliste\"..."
-	},
 	"This_board_will_be": {
 		"message": "Dieses Board ist"
 	},
 	"Change_": {
 		"message": "Ändern"
-	},
-	"private": {
-		"message": "Privat"
 	},
 	"Public": {
 		"message": "Öffentlich"
@@ -335,9 +335,6 @@
 	"Additional_Settings_": {
 		"message": "Weitere Einstellungen…"
 	},
-	"Close_Board_": {
-		"message": "Board schließen…"
-	},
 	"Leave_Board_": {
 		"message": "Board verlassen…"
 	},
@@ -460,9 +457,6 @@
 	},
 	"Drop_files_to_upload_": {
 		"message": "Ziehen Sie Dateien hier hin, um diese hochzuladen."
-	},
-	"Due_date": {
-		"message": "Fälligkeit"
 	},
 	"Add_or_remove_members_of_the_board_from_the_card_": {
 		"message": "Mitglieder des Boards dieser Karte hinzufügen\/entfernen."
