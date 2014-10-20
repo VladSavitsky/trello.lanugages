@@ -1,6 +1,66 @@
 {
 
 
+
+"Close_Board_" : {
+  "message" : "Close Board?",
+  "description" : "Close Board window."
+},
+"You_can_re_open_the_board_by_clicking_the___Boards___menu_from_the_header__selecting___View_Closed_Boards____finding_the_board_and_clicking___Re_open___" : {
+  "message" :  "You can re-open the board by clicking the \"Boards\" menu from the header, selecting \"View Closed Boards\", finding the board and clicking \"Re-open\".",
+  "description" : "Close Board window."
+},
+"Close" : {
+  "message" : "Close",
+  "description" : "Close Board window."
+},
+
+
+
+"Click_here_to_re_open_it_" : {
+  "message" : "Click here to re-open it.",
+  "description" : "Big message that Board was closed."
+},
+"is_closed_" : {
+  "message" : "is closed.",
+  "description" : "Big message that Board was closed."
+},
+
+
+"Create_Organization" : {
+  "message" : "Create Organization",
+  "description" : "Create Organization_window"
+},
+"An_organization_is_a_group_of_boards_and_members_" : {
+  "message" : "An organization is a group of boards and members.",
+  "description" : "Create Organization_window"
+},
+"Name" : {
+  "message" : "Name",
+  "description" : "Create Organization_window"
+},
+"Description" : {
+  "message" : "Description",
+  "description" : "Create Organization_window"
+},
+
+
+
+"Add_an_Organization" : {
+  "message" : "Add an Organization",
+  "description" : "Create an Organization window"
+},
+"Create_an_Organization" : {
+  "message" : "Create an Organization",
+  "description" : "Create an Organization window"
+},
+"An_organizations_is_a_collection_of_members_and_boards__They_make_sharing_and_working_within_a_group_even_easier_" : {
+  "message" : "An organizations is a collection of members and boards. They make sharing and working within a group even easier.",
+  "description" : "Create an Organization window"
+},
+
+
+
 "What_are_you_organizing_" : {
   "message" : "What are you organizing?",
   "description" : "Board creation popup"
@@ -77,7 +137,7 @@
 },
 "Create" : {
   "message" : "Create",
-  "description" : "Board creation popup"
+  "description" : "Board creation popup; Create Organization window."
 },
 "This_board_will_be" : {
   "message" : "This board will be",
@@ -332,7 +392,7 @@
 },
 "My_Boards" : {
   "message" : "My Boards",
-  "description" : "Main interface"
+  "description" : "Board's List"
 },
 "Overview"  : {
   "message" : "Overview",
@@ -371,18 +431,26 @@
   "message" : "Expand section.",
   "description" : "Main interface"
 },
+
+
 "Closed_Boards" : {
   "message" : "Closed Boards",
-  "description" : "Main interface"
+  "description" : "Closed boards window"
 },
 "Re_open" : {
   "message" : "Re-open",
-  "description" : "Main interface"
+  "description" : "Closed boards window"
 },
 "You_have_to_have_been_a_board_admin_to_re_open_a_closed_board_" : {
   "message" : "You have to have been a board admin to re-open a closed board.",
-  "description" : "Main interface"
+  "description" : "Closed boards window"
 },
+"Close_this_dialog_window_" : {
+  "message" : "Close this dialog window.",
+  "description" : "Closed boards window"
+},
+
+
 "No_Boards_Found" : {
   "message" : "No Boards Found",
   "description" : "Main interface"
@@ -670,6 +738,14 @@
 },
 
 
+"This_card_is_past_due_" : {
+  "message" : "This card is past due.",
+  "description" : "Edit card popup"
+},
+"You_are_subscribed_to_this_card_" : {
+  "message" : "You are subscribed to this card.",
+  "description" : "Edit card popup"
+},
 "Edit_the_description_" : {
   "message" : "Edit the description…",
   "description" : "Edit card popup"

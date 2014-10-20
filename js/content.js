@@ -1,9 +1,5 @@
 // TODO: Dates translation.
-// TODO: add language names http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
-// TODO: Add card creation form to wait it's appearence.
 // TODO: Fix bug with 'Subscribe' with check icon in the text.
-// TODO: store translations at server.
-// TODO: (high priority) reduce number of l10n() calls.
 // TODO: Fix strings with plurals here. See Notification icon.
 
 // X-Trello-Version:1.228.1
@@ -22,11 +18,10 @@
   var debug = chrome.extension.getURL('/manifest.json').indexOf('alhoallabckfhacphbkkideohcgbchhl') <= 0;
 
 
+
   // Replace strings at page using mapping from translation object.
   function l10n(contextName) {
     if (isEmpty('mapping', mapping)) return;
-
-//    if (contextName == 'create new board window') return;
 
     // TODO: remove this code becasue it's a temporary solution.
     $context = $(mapping[contextName]["meta"]['basePath']);
@@ -109,20 +104,21 @@
 
   // TODO: update mapping.json file.
 
-  $('#board .list form .js-open-add-list').waitUntilExists(function() {l10n()});
-  // List's context menu.
-  $('.pop-over .js-close-list').waitUntilExists(function() {l10n()});
 
   // Activity in Sidebar.
   $('.js-sidebar-list-actions .phenom-desc').waitUntilExists(function() {l10n()});
   $('body > div.window-overlay > div > div > div > div > a.js-more-actions').waitUntilExists(function() {l10n()});
+
   // Card edit window.
   $('body > div.window-overlay > div > div > div > p.dropzone').waitUntilExists(function() {l10n()});
+
   // Notification popup.
   $('body > div.pop-over.popover-notifications > div.content > div > ul > li > a.js-change-email-frequency').waitUntilExists(function() {l10n()});
+
   // Home page. List of all boards.
   $('#content > div > div > div > a.js-view-org-profile').waitUntilExists(function() {l10n()});
-  $('#boards-drawer > div > div.board-drawer-content > div.js-boards-list-container > div.js-all-boards').waitUntilExists(function() {l10n()});
+
+
   // Closed boards window.
   $('body > div.window-overlay > div > div > div > div.window-sidebar > p.helper').waitUntilExists(function() {l10n()});
 
@@ -166,7 +162,7 @@
    */
   function isEmpty(filename, entity) {
     if (jQuery.isEmptyObject(entity)) {
-      if (debug) {console.log(filename + '.json file is missing or broken. Please check.')};
+      if (debug) {console.log(filename + '.json file is missing or broken.')};
       return true;
     }
     return false;
