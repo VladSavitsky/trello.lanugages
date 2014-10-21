@@ -46,10 +46,10 @@
           var $element = $context.find(cssPath);
           if (!$element.length) {
             if (debug) console.log(
-              'Element exists in mapping.json but wasn\'t found at page: ', "\n",
-              contextName, "\n",
+              contextName + ' (' +type, ")\n",
               chrome.i18n.getMessage(code), "\n",
-              mapping[contextName]["meta"]["basePath"] + ' ' + cssPath, "\n"
+              mapping[contextName]["meta"]["basePath"] + ' ' + cssPath, "\n",
+              'Message: element exists in mapping.json but wasn\'t found at page: ', "\n"
             );
             return;
           }
