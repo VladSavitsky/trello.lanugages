@@ -38,9 +38,6 @@
 	"Like__House_Stuff__for_example_": {
 		"message": "Come \"Cose di Casa\" per esempio..."
 	},
-	"Public": {
-		"message": "Pubblico"
-	},
 	"Today": {
 		"message": "Oggi"
 	},
@@ -235,6 +232,9 @@
 	},
 	"Boards": {
 		"message": "Tavola"
+	},
+	"Public": {
+		"message": "Pubblico"
 	},
 	"Add_a_list_": {
 		"message": "Aggiungi a un elenco…"

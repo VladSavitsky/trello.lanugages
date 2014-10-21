@@ -20,9 +20,6 @@
 	"Change_": {
 		"message": "変更する。"
 	},
-	"Public": {
-		"message": "公開"
-	},
 	"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_": {
 		"message": "このボードは組織のメンバーにだけ表示します。ボードに追加された人だけが編集できます。"
 	},
@@ -220,6 +217,9 @@
 	},
 	"Boards": {
 		"message": "ボード"
+	},
+	"Public": {
+		"message": "公開"
 	},
 	"Add_a_list_": {
 		"message": "リストに追加..."

@@ -23,9 +23,6 @@
 	"Change_": {
 		"message": "Mudar."
 	},
-	"Public": {
-		"message": "Público"
-	},
 	"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_": {
 		"message": "Este quadro está visível para membros da organização. Somente pessoas adicionadas ao quadro podem editar."
 	},
@@ -229,6 +226,9 @@
 	},
 	"Boards": {
 		"message": "Quadros"
+	},
+	"Public": {
+		"message": "Público"
 	},
 	"Add_a_list_": {
 		"message": "Adicionar uma lista..."

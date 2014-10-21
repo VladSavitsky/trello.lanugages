@@ -35,9 +35,6 @@
 	"Change_": {
 		"message": "Змінити."
 	},
-	"Public": {
-		"message": "Загальна"
-	},
 	"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_": {
 		"message": "Цю дошку бачать члени организації. Редагувати можуть лише обрані люди."
 	},
@@ -238,6 +235,9 @@
 	},
 	"Boards": {
 		"message": "Дошки"
+	},
+	"Public": {
+		"message": "Загальна"
 	},
 	"Add_a_list_": {
 		"message": "Додати до списку..."

@@ -74,9 +74,6 @@
 	"Change_": {
 		"message": "Zmień."
 	},
-	"Public": {
-		"message": "Publiczna"
-	},
 	"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_": {
 		"message": "Tablica jest widoczna tylko dla użytkowników organizacji. Tylko osoby dodane do tablicy mogą ją edytować."
 	},
@@ -283,6 +280,9 @@
 	},
 	"Boards": {
 		"message": "Tablice"
+	},
+	"Public": {
+		"message": "Publiczna"
 	},
 	"Add_a_list_": {
 		"message": "Dodaj listę..."

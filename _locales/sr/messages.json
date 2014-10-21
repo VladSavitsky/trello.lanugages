@@ -23,9 +23,6 @@
 	"Change_": {
 		"message": "Измени."
 	},
-	"Public": {
-		"message": "Јавна"
-	},
 	"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_": {
 		"message": "Ова табла је видљива члановима организације. Само чланови које сте додали на таблу могу да праве измене."
 	},
@@ -229,6 +226,9 @@
 	},
 	"Boards": {
 		"message": "Табле"
+	},
+	"Public": {
+		"message": "Јавна"
 	},
 	"Add_a_list_": {
 		"message": "Додај листу..."

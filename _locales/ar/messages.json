@@ -1,8 +1,8 @@
 {
-	"Public": {
-		"message": "عام"
-	},
 	"Boards": {
 		"message": "لوحات"
+	},
+	"Public": {
+		"message": "عام"
 	}
 }

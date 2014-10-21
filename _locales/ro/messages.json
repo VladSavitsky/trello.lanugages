@@ -26,9 +26,6 @@
 	"Change_": {
 		"message": "Schimbă."
 	},
-	"Public": {
-		"message": "Public"
-	},
 	"Today": {
 		"message": "Astăzi"
 	},
@@ -142,6 +139,9 @@
 	},
 	"Overview": {
 		"message": "Prezentare generală"
+	},
+	"Public": {
+		"message": "Public"
 	},
 	"Add_Members": {
 		"message": "Adaugă Membri"

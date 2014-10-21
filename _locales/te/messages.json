@@ -1,8 +1,8 @@
 {
-	"Public": {
-		"message": "బహిరంగం"
-	},
 	"Boards": {
 		"message": "బోర్డులు"
+	},
+	"Public": {
+		"message": "బహిరంగం"
 	}
 }

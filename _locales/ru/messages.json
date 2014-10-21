@@ -20,6 +20,9 @@
 	"Close_Board_question_mark": {
 		"message": "Закрыть доску?"
 	},
+	"You_can_re_open_the_board_by_clicking_the___Boards___menu_from_the_header_": {
+		"message": "Вы можете снова открыть доску. Для этого нужно кликнуть меню “Доски” в заголовке, выбрать “Смотреть закрытые доски”, найти доску и кликнуть “Снова открыть”."
+	},
 	"Close": {
 		"message": "Закрыть"
 	},
@@ -46,6 +49,9 @@
 	},
 	"Create_an_Organization": {
 		"message": "Создать организацию"
+	},
+	"An_organizations_is_a_collection_of_members_and_boards_": {
+		"message": "Организации - это набор людей и досок. Они позволяют легче шарить и работать с группой."
 	},
 	"What_are_you_organizing_": {
 		"message": "Что вы организовываете?"
@@ -109,9 +115,6 @@
 	},
 	"private": {
 		"message": "Личная"
-	},
-	"Public": {
-		"message": "Общая"
 	},
 	"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_": {
 		"message": "Только люди из организаци видят эту доску. Только люди, которые были добавлены, могут изменять."
@@ -320,6 +323,9 @@
 	"Boards": {
 		"message": "Доски"
 	},
+	"Public": {
+		"message": "Общая"
+	},
 	"Add_a_list_": {
 		"message": "Добавить список…"
 	},
@@ -340,6 +346,9 @@
 	},
 	"Notifications": {
 		"message": "Уведомления"
+	},
+	"This_board_is_public__It_s_visible_to_anyone_with_the_link_": {
+		"message": "Эта доска общая. Она видна всем, у кого есть ссылка и будет показываться в результатах поисковиков (например, Google). Только люди, которые были добавлены могут редактировать."
 	},
 	"Go_back_to_your_boards_page_": {
 		"message": "Вернуться к странице всех досок."
@@ -568,6 +577,9 @@
 	},
 	"Add_a_due_date_for_the_card_and_get_notifications_when_it_is_almost_due_": {
 		"message": "Добавить крайний срок для карточки и напоминание о приближении крайнего срока."
+	},
+	"Attach_files_from_your_computer_or_from_Google_Drive_": {
+		"message": "Приложите файлы с вашего компьютера или Google Drive. Вы также можете перетащить и бросить файлы с рабочего стола, чтобы закачать их."
 	},
 	"Move_the_card_to_another_board__another_list__or_a_new_position_in_a_list": {
 		"message": "Переместить карточку на другую доску, список или на другое место в списке"

@@ -86,9 +86,6 @@
 	"Change_": {
 		"message": "Ändern"
 	},
-	"Public": {
-		"message": "Öffentlich"
-	},
 	"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_": {
 		"message": "Dieses Board ist nur sichtbar für Mitglieder der Organisation. Nur Personen die zum Board hinzugefügt wurden, können bearbeiten."
 	},
@@ -295,6 +292,9 @@
 	},
 	"Boards": {
 		"message": "Boards"
+	},
+	"Public": {
+		"message": "Öffentlich"
 	},
 	"Add_a_list_": {
 		"message": "Eine Liste einfügen…"

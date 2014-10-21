@@ -1,8 +1,8 @@
 {
-	"Public": {
-		"message": "Público"
-	},
 	"Boards": {
 		"message": "Interfaz visible"
+	},
+	"Public": {
+		"message": "Público"
 	}
 }

@@ -53,9 +53,6 @@
 	"Change_": {
 		"message": "Endre."
 	},
-	"Public": {
-		"message": "Offentlig"
-	},
 	"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_": {
 		"message": "Denne tavlen er synlig for medlemmer av denne organisasjonen. Bare personer som er lagt til brettet kan redigere."
 	},
@@ -256,6 +253,9 @@
 	},
 	"Boards": {
 		"message": "Tavler"
+	},
+	"Public": {
+		"message": "Offentlig"
 	},
 	"Add_a_list_": {
 		"message": "Legg til en liste..."
