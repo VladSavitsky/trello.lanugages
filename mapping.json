@@ -40,7 +40,7 @@
         "> div.board-header-btns.left > a.board-header-btn.js-star-board",
       "Rename_the_board_" :
         "> a.board-header-btn.board-header-btn-name.js-rename-board",
-      "This board is private.  Only people added to the board can view and edit it." :
+      "This_board_is_private___Only_people_added_to_the_board_can_view_and_edit_it_" :
         "#permission-level",
       "This_board_is_public__It_s_visible_to_anyone_with_the_link_" :
         "#permission-level"
