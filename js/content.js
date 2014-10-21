@@ -56,10 +56,18 @@
           if (type == 'title' || type == 'placeholder') {
             $.each($element, function() {
               $(this).attr(type, function(index, el) {
-                return el.replace($(this).attr(type).trim(), chrome.i18n.getMessage(code));
+                if (cssPath == "#permission-level" && type == 'title') {
+                  if (escapeString($(this).attr(type).trim()) == code) {
+                    // We must to do that extra check because some elements
+                    // has the same CSS Path but different content text.
+                    return el.replace($(this).attr(type).trim(), chrome.i18n.getMessage(code));
+                  }
+                }
+                else {
+                  return el.replace($(this).attr(type).trim(), chrome.i18n.getMessage(code));
+                }
               });
             });
-            //$element.attr(type, chrome.i18n.getMessage(code));
           } else if (type == 'html') {
             $.each($element, function() {
               $(this).html(function(index, el) {
@@ -178,5 +186,13 @@
     return false;
   }
 
+  /**
+   * Replace all special symbols in string with '_' (underscore).
+   * @param String String which should be modified.
+   * @return Returns already updated string.
+   */
+  function escapeString(string) {
+    return newstring = string.replace(new RegExp("[ …“”.,@’:;#-'\"!?-]", 'g'), "_");
+  }
 
 }) ();
