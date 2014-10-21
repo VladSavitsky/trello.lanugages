@@ -306,7 +306,7 @@
          "body > div.window-overlay > div > div > div > div.window-sidebar > div:nth-child(1) > div > a.button-link.js-add-checklist-menu",
       "Add_a_due_date_for_the_card_and_get_notifications_when_it_is_almost_due_" :
          "body > div.window-overlay > div > div > div > div.window-sidebar > div > div > a.js-add-due-date",
-      "Attach_files_from_your_computer_or_from_Google_Drive__You_can_also_drag_n_drop_files_from_your_desktop_to_upload_them_" :
+      "Attach_files_from_your_computer_or_from_Google_Drive_" :
         "body > div.window-overlay > div > div > div > div.window-sidebar > div:nth-child(1) > div > a.button-link.js-attach",
       "Move_the_card_to_another_board__another_list__or_a_new_position_in_a_list" :
         "body > div.window-overlay > div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-move-card",
@@ -696,7 +696,7 @@
         "> div.header > span",
       "Create_an_Organization" :
         "> div.content.js-tab-parent > div > a.button.js-create-org",
-      "An_organizations_is_a_collection_of_members_and_boards__They_make_sharing_and_working_within_a_group_even_easier_" :
+      "An_organizations_is_a_collection_of_members_and_boards_" :
         "> div.content.js-tab-parent > div > p"
     },
     "formElements" : {},
@@ -815,7 +815,7 @@
     "html" : {
       "Close_Board_question_mark" :
         "> div.header > span",
-      "You_can_re_open_the_board_by_clicking_the___Boards___menu_from_the_header__selecting___View_Closed_Boards____finding_the_board_and_clicking___Re_open___" :
+      "You_can_re_open_the_board_by_clicking_the___Boards___menu_from_the_header_" :
         "> div.content.js-tab-parent > div > p"
     },
     "formElements" : {
