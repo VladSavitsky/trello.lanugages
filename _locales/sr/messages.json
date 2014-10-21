@@ -1,7 +1,4 @@
 {
-	"Close_Board_": {
-		"message": "Затвори таблу..."
-	},
 	"Like__Bucket_List__for_example_": {
 		"message": "Као на пример „Листа приоритета“..."
 	},
@@ -334,6 +331,9 @@
 	},
 	"Additional_Settings_": {
 		"message": "Додатне поставке..."
+	},
+	"Close_Board_": {
+		"message": "Затвори таблу..."
 	},
 	"Leave_Board_": {
 		"message": "Напусти таблу..."

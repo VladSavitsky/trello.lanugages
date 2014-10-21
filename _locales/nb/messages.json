@@ -1,6 +1,36 @@
 {
-	"Close_Board_": {
-		"message": "Lukk tavle..."
+	"Close": {
+		"message": "Lukk"
+	},
+	"Click_here_to_re_open_it_": {
+		"message": "Klikk her for å gjenåpne den."
+	},
+	"is_closed_": {
+		"message": "er lukket"
+	},
+	"Create_Organization": {
+		"message": "Lag organisasjon"
+	},
+	"An_organization_is_a_group_of_boards_and_members_": {
+		"message": "En organisasjon er en gruppe med tavler og medlemmer."
+	},
+	"Name": {
+		"message": "Navn"
+	},
+	"Description": {
+		"message": "Beskrivelse"
+	},
+	"Add_an_Organization": {
+		"message": "Legg til en organisasjon"
+	},
+	"Create_an_Organization": {
+		"message": "Lag en organisasjon"
+	},
+	"What_are_you_organizing_": {
+		"message": "Hva organiserer du?"
+	},
+	"What_are_you_planning_": {
+		"message": "Hva planlegger du?"
 	},
 	"Create_new_board_": {
 		"message": "Lag nytt tavle"
@@ -218,6 +248,9 @@
 	"You_have_to_have_been_a_board_admin_to_re_open_a_closed_board_": {
 		"message": "Du må være en brett administrator for å gjenåpne en lukket tavle."
 	},
+	"Close_this_dialog_window_": {
+		"message": "Lukk dette vinduet."
+	},
 	"No_Boards_Found": {
 		"message": "Ingen tavler funnet"
 	},
@@ -320,6 +353,9 @@
 	"Additional_Settings_": {
 		"message": "Fler Innstillinger..."
 	},
+	"Close_Board_": {
+		"message": "Lukk tavle..."
+	},
 	"Leave_Board_": {
 		"message": "Forlat tavle..."
 	},
@@ -409,6 +445,12 @@
 	},
 	"to_the_board": {
 		"message": "til denne tavlen"
+	},
+	"This_card_is_past_due_": {
+		"message": "Dette kortet har pasert fristen."
+	},
+	"You_are_subscribed_to_this_card_": {
+		"message": "Du abonnerer på dette kortet."
 	},
 	"Edit_the_description_": {
 		"message": "Rediger beskrivelse..."

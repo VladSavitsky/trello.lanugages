@@ -1,7 +1,4 @@
 {
-	"Close_Board_": {
-		"message": "Fechar quadro..."
-	},
 	"Like__Bucket_List__for_example_": {
 		"message": "Como \"Lista de Desejos\" por exemplo"
 	},
@@ -334,6 +331,9 @@
 	},
 	"Additional_Settings_": {
 		"message": "Configurações adicionais"
+	},
+	"Close_Board_": {
+		"message": "Fechar quadro..."
 	},
 	"Leave_Board_": {
 		"message": "Sair do quadro..."

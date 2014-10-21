@@ -1,7 +1,4 @@
 {
-	"Close_Board_": {
-		"message": "ボードを終了..."
-	},
 	"Create_new_board_": {
 		"message": "新しいボードを作成..."
 	},
@@ -298,6 +295,9 @@
 	},
 	"Additional_Settings_": {
 		"message": "追加の設定..."
+	},
+	"Close_Board_": {
+		"message": "ボードを終了..."
 	},
 	"Add_Card_": {
 		"message": "カードを追加..."

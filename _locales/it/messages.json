@@ -1,6 +1,42 @@
 {
-	"Close_Board_": {
-		"message": "Chiudi Tavola…"
+	"Close": {
+		"message": "Chiudi"
+	},
+	"Click_here_to_re_open_it_": {
+		"message": "Click per riaprire"
+	},
+	"is_closed_": {
+		"message": "è chiuso"
+	},
+	"Create_Organization": {
+		"message": "Creare una Organizzazione"
+	},
+	"An_organization_is_a_group_of_boards_and_members_": {
+		"message": "Una Organizzazione è un grupo di schede e di utenti"
+	},
+	"Name": {
+		"message": "Nome"
+	},
+	"Description": {
+		"message": "Decrizzione"
+	},
+	"Add_an_Organization": {
+		"message": "Aggiungere una Organizazzione"
+	},
+	"Create_an_Organization": {
+		"message": "Creare una organizzazione"
+	},
+	"What_are_you_organizing_": {
+		"message": "Cosà sta organizzando?"
+	},
+	"What_are_you_planning_": {
+		"message": "Cosà prevede?"
+	},
+	"Like__Vacation_Planning__for_example_": {
+		"message": "Come \"Previsione di Vacanze"
+	},
+	"Like__House_Stuff__for_example_": {
+		"message": "Come \"Cose di Casa\" per esempio..."
 	},
 	"Public": {
 		"message": "Pubblico"
@@ -301,6 +337,9 @@
 	},
 	"Additional_Settings_": {
 		"message": "Ulteriori Impostazioni..."
+	},
+	"Close_Board_": {
+		"message": "Chiudi Schede..."
 	},
 	"Leave_Board_": {
 		"message": "Abbandona Tavola…"

@@ -1,9 +1,69 @@
 {
-	"Close_Board_": {
-		"message": "Fermer le tableau..."
+	"Close": {
+		"message": "Fermer"
+	},
+	"Click_here_to_re_open_it_": {
+		"message": "Click pour ouvrir à nouveau"
+	},
+	"is_closed_": {
+		"message": "est fermé"
+	},
+	"Create_Organization": {
+		"message": "Créer une Organisation"
+	},
+	"An_organization_is_a_group_of_boards_and_members_": {
+		"message": "Une Organisation est un groupe de tableaux et de membres"
+	},
+	"Name": {
+		"message": "Nom"
+	},
+	"Description": {
+		"message": "Description"
+	},
+	"Add_an_Organization": {
+		"message": "Ajouter une Organisation"
+	},
+	"Create_an_Organization": {
+		"message": "Créer une Organisation"
+	},
+	"What_are_you_organizing_": {
+		"message": "Qu'est ce que vous organisez?"
+	},
+	"What_are_you_planning_": {
+		"message": "Quel est le planning?"
+	},
+	"Like__Vacation_Planning__for_example_": {
+		"message": "Comme \"Organisation de Vacances\" par exemple"
+	},
+	"Like__House_Stuff__for_example_": {
+		"message": "Comme \"Choses de la Maison\" par exemple"
 	},
 	"Like__Bucket_List__for_example_": {
 		"message": "Comme \"Liste des choses à faire avant de mourir\" par exemple"
+	},
+	"Like__Game_Development_Roadmap__": {
+		"message": "Comme \"Plan de Route du Développement du Jeu\""
+	},
+	"Like__Calvinball_Meetup_Schedule__": {
+		"message": "Comme \"Horaire de la Réunion de mise en marche de Calvinball\""
+	},
+	"Like__Weekly_Meal_Planning__for_example_": {
+		"message": "Comme \"Planning Hebdomadaire des Repas\" par exemple"
+	},
+	"Like__School_Research__for_example_": {
+		"message": "Comme \"Recherche d'Écoles\" par exemple"
+	},
+	"Like__Team_Product_Sprint__for_example_": {
+		"message": "Comme \"Sprint de l'Équipe de Produit\" par exemple"
+	},
+	"Like__Publishing_Calendar__for_example_": {
+		"message": "Comme \"Publication du Calendrier\" par exemple"
+	},
+	"Like__New_Hire_Onboarding__for_example_": {
+		"message": "Comme \"Tableau de Nouveau Embauchement\" par exemple"
+	},
+	"Like__Reading_Collection__for_example_": {
+		"message": "Comme \"Collection de Lectures\" par exemple"
 	},
 	"Create_new_board_": {
 		"message": "Créer un nouveau tableau ..."
@@ -30,7 +90,7 @@
 		"message": "Public"
 	},
 	"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_": {
-		"message": "Cette carte est visible aux membres de l'organisation. Seules les personnes ajoutées au tableau peuvent modifier."
+		"message": "Ce tableau n'est visible qu'aux membres de l'organisation. Seules les personnes ajoutées au tableau peuvent le modifier."
 	},
 	"This_board_is_private___Only_people_added_to_the_board_can_view_and_edit_it_": {
 		"message": "Ce tableau est privé. Seules les personnes ajoutées ce tableau peuvent l'afficher et le modifier."
@@ -141,7 +201,7 @@
 		"message": "Recherches sauvegardées"
 	},
 	"Your_search_produced_an_error_": {
-		"message": "Votre recherche a générée une erreur."
+		"message": "Votre recherche a généré une erreur."
 	},
 	"Searching_": {
 		"message": "Recherche en cours ..."
@@ -195,7 +255,7 @@
 		"message": "Vue d'ensemble"
 	},
 	"Recent_Boards": {
-		"message": "Récents tableaux"
+		"message": "Tableaux récents"
 	},
 	"Always_keep_this_menu_open_": {
 		"message": "Toujours garder ce menu ouvert."
@@ -207,7 +267,7 @@
 		"message": "Voir les tableaux fermés ..."
 	},
 	"Find_boards_by_name_": {
-		"message": "Trouver un tableaux par son nom ..."
+		"message": "Trouver un tableau par son nom ..."
 	},
 	"There_is_new_activity_on_this_board_": {
 		"message": "Il y a une nouvelle activité sur ce tableau ."
@@ -225,10 +285,13 @@
 		"message": "Rouvrir"
 	},
 	"You_have_to_have_been_a_board_admin_to_re_open_a_closed_board_": {
-		"message": "Vous devez avoir été un administrateur pour rouvrir une carte fermée."
+		"message": "Seul un administrateur peut rouvrir une carte fermée."
+	},
+	"Close_this_dialog_window_": {
+		"message": "Fermer cette fenêtre."
 	},
 	"No_Boards_Found": {
-		"message": "Pas de tableaux trouvés"
+		"message": "Aucun tableau trouvé"
 	},
 	"Boards": {
 		"message": "Tableaux"
@@ -243,13 +306,13 @@
 		"message": "Abonné"
 	},
 	"Filtering_is_on_": {
-		"message": "Le filtrage est sur"
+		"message": "Filtrage activé."
 	},
 	"Show_sidebar": {
 		"message": "Afficher la barre latérale"
 	},
 	"Add_a_card_": {
-		"message": "Ajouter une carte ..."
+		"message": "Ajouter une carte..."
 	},
 	"Notifications": {
 		"message": "Notifications"
@@ -261,13 +324,13 @@
 		"message": "Voir la liste des tableaux"
 	},
 	"Rename_the_board_": {
-		"message": "Renommez le tableau."
+		"message": "Renommer le tableau."
 	},
 	"You_are_filtering_cards_on_this_board__Click_here_to_edit_filter_": {
 		"message": "Vous filtrez les cartes sur ce tableau. Cliquez ici pour modifier le filtre."
 	},
 	"You_are_subscribed_to_this_board__You_ll_get_notifications_about_changes_": {
-		"message": "Vous êtes abonné à ce tableau. Vous aurez des notifications lors de changements."
+		"message": "Vous êtes abonné à ce tableau. Vous recevrez des notifications de modifications."
 	},
 	"Click_to_star_or_unstar_this_board__Starred_boards_show_up_at_the_top_of_your_boards_list_": {
 		"message": "Cliquez pour mettre ou ôter ce tableau de vos favoris. Vos tableaux favoris apparaissent en haut de votre liste de tableaux."
@@ -334,6 +397,9 @@
 	},
 	"Additional_Settings_": {
 		"message": "Paramètres supplémentaires ..."
+	},
+	"Close_Board_": {
+		"message": "Fermer le tableau..."
 	},
 	"Leave_Board_": {
 		"message": "Quitter le tableau..."

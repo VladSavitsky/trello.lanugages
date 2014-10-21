@@ -1,7 +1,4 @@
 {
-	"Close_Board_": {
-		"message": "Закрити дошку…"
-	},
 	"Create_Organization": {
 		"message": "Створити організацію"
 	},
@@ -334,6 +331,9 @@
 	},
 	"Additional_Settings_": {
 		"message": "Додаткові налаштування..."
+	},
+	"Close_Board_": {
+		"message": "Закрити дошку…"
 	},
 	"Leave_Board_": {
 		"message": "Залишити дошку…"

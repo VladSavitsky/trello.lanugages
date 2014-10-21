@@ -1,6 +1,24 @@
 {
-	"Close_Board_": {
-		"message": "Удалить доску…"
+	"Change_Organization": {
+		"message": "Поменять организацию"
+	},
+	"Change": {
+		"message": "Поменять"
+	},
+	"Change_Organization_": {
+		"message": "Поменять организацию..."
+	},
+	"View_Organization_Page": {
+		"message": "Открыть страницу организации"
+	},
+	"Rename_Board": {
+		"message": "Переименовать доску"
+	},
+	"Rename": {
+		"message": "Переименовать"
+	},
+	"Close_Board_question_mark": {
+		"message": "Закрыть доску?"
 	},
 	"Close": {
 		"message": "Закрыть"
@@ -404,6 +422,9 @@
 	"Additional_Settings_": {
 		"message": "Другие настройки…"
 	},
+	"Close_Board_": {
+		"message": "Удалить доску…"
+	},
 	"Leave_Board_": {
 		"message": "Покинуть доску…"
 	},
@@ -534,7 +555,7 @@
 		"message": "Бросьте файлы для загрузки."
 	},
 	"Due_date": {
-		"message": "Крайний срок"
+		"message": "Конечный срок"
 	},
 	"Add_or_remove_members_of_the_board_from_the_card_": {
 		"message": "Добавить или удалить людей этой доски к карточке."

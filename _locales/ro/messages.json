@@ -1,6 +1,9 @@
 {
-	"Close_Board_": {
-		"message": "Închide Bord..."
+	"Name": {
+		"message": "Nume"
+	},
+	"Description": {
+		"message": "Descriere"
 	},
 	"Create_new_board_": {
 		"message": "Crează un bord nou..."
@@ -151,6 +154,9 @@
 	},
 	"Additional_Settings_": {
 		"message": "Setări Suplimentare ..."
+	},
+	"Close_Board_": {
+		"message": "Închide Bord..."
 	},
 	"this_board": {
 		"message": "acest bord"

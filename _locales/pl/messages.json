@@ -1,9 +1,57 @@
 {
-	"Close_Board_": {
-		"message": "Zamknij tablicę..."
+	"Close": {
+		"message": "Zamknij"
+	},
+	"Click_here_to_re_open_it_": {
+		"message": "Kliknij tutaj by otworzyć ponownie."
+	},
+	"is_closed_": {
+		"message": "jest zamknięta."
+	},
+	"Create_Organization": {
+		"message": "Stwórz organizację"
+	},
+	"An_organization_is_a_group_of_boards_and_members_": {
+		"message": "Organizacja to grupa tablic i użytkowników"
+	},
+	"Name": {
+		"message": "Nazwa"
+	},
+	"Description": {
+		"message": "Opis"
+	},
+	"Add_an_Organization": {
+		"message": "Dodaj organizację"
+	},
+	"Create_an_Organization": {
+		"message": "Dodaj organizację"
+	},
+	"What_are_you_planning_": {
+		"message": "Co planujesz?"
+	},
+	"Like__Vacation_Planning__for_example_": {
+		"message": "Np \"Plany na wakacje\"..."
+	},
+	"Like__House_Stuff__for_example_": {
+		"message": "Np \"Do zrobienia w domu\"..."
 	},
 	"Like__Bucket_List__for_example_": {
 		"message": "Np. \"Moja lista\"..."
+	},
+	"Like__Calvinball_Meetup_Schedule__": {
+		"message": "Np \"Plan spotkania\"..."
+	},
+	"Like__Weekly_Meal_Planning__for_example_": {
+		"message": "Np \"Tygodniowy plan dań\"..."
+	},
+	"Like__School_Research__for_example_": {
+		"message": "Np \"Do szkoły\"..."
+	},
+	"Like__Team_Product_Sprint__for_example_": {
+		"message": "Np \"Team Product Sprint\"..."
+	},
+	"Like__Publishing_Calendar__for_example_": {
+		"message": "Np \"Publikacja kalendarza\"..."
 	},
 	"Create_new_board_": {
 		"message": "Stwórz nową tablicę..."
@@ -227,6 +275,9 @@
 	"You_have_to_have_been_a_board_admin_to_re_open_a_closed_board_": {
 		"message": "Musisz mieć uprawnienia administratora żeby otworzyć ponownie zamkniętą tablicę."
 	},
+	"Close_this_dialog_window_": {
+		"message": "Zamknij to okno."
+	},
 	"No_Boards_Found": {
 		"message": "Nie znaleziono żadnej tablicy"
 	},
@@ -335,6 +386,9 @@
 	"Additional_Settings_": {
 		"message": "Dodatkowe ustawienia..."
 	},
+	"Close_Board_": {
+		"message": "Zamknij tablicę..."
+	},
 	"Leave_Board_": {
 		"message": "Opuść tablicę..."
 	},
@@ -424,6 +478,12 @@
 	},
 	"to_the_board": {
 		"message": "do tablicy"
+	},
+	"This_card_is_past_due_": {
+		"message": "Karta jest już po terminie."
+	},
+	"You_are_subscribed_to_this_card_": {
+		"message": "Subskrybujesz tą kartę."
 	},
 	"Edit_the_description_": {
 		"message": "Edytuj opis..."
