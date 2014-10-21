@@ -2,12 +2,12 @@
 
 
 
-"Close_Board_" : {
+"Close_Board_question_mark" : {
   "message" : "Close Board?",
   "description" : "Close Board window."
 },
 "You_can_re_open_the_board_by_clicking_the___Boards___menu_from_the_header__selecting___View_Closed_Boards____finding_the_board_and_clicking___Re_open___" : {
-  "message" :  "You can re-open the board by clicking the \"Boards\" menu from the header, selecting \"View Closed Boards\", finding the board and clicking \"Re-open\".",
+  "message" :  "You can re-open the board by clicking the “Boards” menu from the header, selecting “View Closed Boards”, finding the board and clicking “Re-open”.",
   "description" : "Close Board window."
 },
 "Close" : {

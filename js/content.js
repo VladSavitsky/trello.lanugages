@@ -22,6 +22,7 @@
   // Replace strings at page using mapping from translation object.
   function l10n(contextName) {
     if (isEmpty('mapping', mapping)) return;
+    if (debug) console.log(contextName);
 
     // TODO: remove this code becasue it's a temporary solution.
     $context = $(mapping[contextName]["meta"]['basePath']);
@@ -37,12 +38,16 @@
 
     // DO the translation!
     $.each(contextMapping, function(type, data) {
+      if (type == 'meta') return;
       $.each(data, function(code, selectors) {
-        if (!chrome.i18n.getMessage(code)) return;
+//        if (!chrome.i18n.getMessage(code)) return;
         if ($.type(selectors) === 'string') selectors = selectors.split();
         $.each(selectors, function(index, cssPath) {
           var $element = $context.find(cssPath);
-          if ($.isEmptyObject($element)) return;
+          if (!$element.length) {
+            if (debug) console.log('Element exists in mapping.json but wasn\'t found at page: ', contextName, type, cssPath);
+            return;
+          }
           if (type == 'title' || type == 'placeholder') {
             $.each($element, function() {
               $(this).attr(type, function(index, el) {

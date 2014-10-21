@@ -773,16 +773,19 @@
   },
   "Close_Board_window" : {
     "meta" : {
+      "howToGet" : "Sidebar Menu, click 'Close board'.",
       "basePath" : "body > div.pop-over",
       "flag" : "> div.content.js-tab-parent > div > input.js-confirm.negate[value='Close']"
     },
     "html" : {
-      "Close_Board_" :
+      "Close_Board_question_mark" :
         "> div.header > span",
       "You_can_re_open_the_board_by_clicking_the___Boards___menu_from_the_header__selecting___View_Closed_Boards____finding_the_board_and_clicking___Re_open___" :
         "> div.content.js-tab-parent > div > p"
     },
     "formElements" : {
+      "Add" :
+        "> div.content.js-tab-parent > div > input.sdfsdf",
       "Close" :
         "> div.content.js-tab-parent > div > input.js-confirm.negate"
     },
@@ -792,6 +795,7 @@
   },
   "Closed_boards_window" : {
     "meta" : {
+      "howToGet" : "click 'Boards', Click 'See closed boards'.",
       "basePath" : "body > div.window-overlay",
       "flag" : "> div > div > div > div.window-sidebar > p.helper"
     },
