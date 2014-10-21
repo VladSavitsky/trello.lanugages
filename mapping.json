@@ -18,6 +18,46 @@
   },
 
 
+  "boardHeader" : {
+    "meta" : {
+      "howToGet" : "Open any board. Also visible at Calendar view.",
+      "basePath" : "#content > div > div.board-header.js-board-header",
+      "flag" : "> div.board-header-btns.right > a.board-header-btn.calendar-btn.js-calendar > span.board-header-btn-text"
+    },
+    "html" : {
+      "Subscribed" :
+        "> div.board-header-btns > div > span.board-header-btn-text",
+      "Filtering_is_on_" :
+        "> div.board-header-btns > a.board-header-btn.board-header-btn-filter-indicator.js-filter-cards-indicator > span.board-header-btn-text"
+    },
+    "formElements" : {},
+    "title" : {
+      "You_are_filtering_cards_on_this_board__Click_here_to_edit_filter_" :
+        "> div.board-header-btns.right > a.board-header-btn.board-header-btn-filter-indicator.js-filter-cards-indicator",
+      "You_are_subscribed_to_this_board__You_ll_get_notifications_about_changes_" :
+        "> div.board-header-btns.right > div.board-header-btn.sub-btn.js-board-header-subscribed",
+      "Click_to_star_or_unstar_this_board__Starred_boards_show_up_at_the_top_of_your_boards_list_" :
+        "> div.board-header-btns.left > a.board-header-btn.js-star-board",
+      "Rename_the_board_" :
+        "> a.board-header-btn.board-header-btn-name.js-rename-board",
+      "This board is private.  Only people added to the board can view and edit it." :
+        "#permission-level",
+      "This_board_is_public__It_s_visible_to_anyone_with_the_link_and_will_show_up_in_search_engines_like_Google___Only_people_added_to_the_board_can_edit_" :
+        "#permission-level"
+    },
+    "placeholder" : {},
+    "substrings" : {
+      "Public" :
+        "#permission-level > span.board-header-btn-text",
+      "Private" :
+        "#permission-level > span.board-header-btn-text"
+    }
+  },
+
+
+
+
+
   "activityWindow" : {
     "meta" : {
       "basePath" : "",
@@ -826,33 +866,54 @@
     "placeholder" : {},
     "substrings" : {}
   },
-  "boardHeader" : {
+  "renameBoardWindow" : {
     "meta" : {
-      "howToGet" : "Open any board. Also visible at Calendar view.",
-      "basePath" : "#content > div > div.board-header.js-board-header",
-      "flag" : "> div.board-header-btns.right > a.board-header-btn.calendar-btn.js-calendar > span.board-header-btn-text"
+      "howToGet" : "Click board name in the header.",
+      "basePath" : "body > div.pop-over ",
+      "flag" : "> div.content.js-tab-parent > div > form > input.primary.wide.js-rename-board[value='Rename']"
     },
     "html" : {
-      "Subscribed" :
-        "> div.board-header-btns > div > span.board-header-btn-text",
-      "Filtering_is_on_" :
-        "> div.board-header-btns > a.board-header-btn.board-header-btn-filter-indicator.js-filter-cards-indicator > span.board-header-btn-text",
-      "Public" :
-        "#permission-level > span.board-header-btn-text"
+      "Rename_Board" : "> div.header > span",
+      "Name" : "> div.content.js-tab-parent > div > form > label"
+    },
+    "formElements" : {
+      "Rename" : "> div.content.js-tab-parent > div > form > input.primary.wide.js-rename-board[value='Rename']"
+    },
+    "title" : {},
+    "placeholder" : {},
+    "substrings" : {}
+  },
+  "boardOrganizationWindow" : {
+    "meta" : {
+      "howToGet" : "Click current organization name in header.",
+      "basePath" : "body > div.pop-over",
+      "flag" : "> div.content.js-tab-parent > div > ul > li > a.js-view-org"
+    },
+    "html" : {
+     "Change_Organization_" :
+       "> div.content.js-tab-parent > div > ul > li > a.js-change-org",
+     "View_Organization_Page" :
+       "> div.content.js-tab-parent > div > ul > li > a.js-view-org"
     },
     "formElements" : {},
-    "title" : {
-      "This_board_is_public__It_s_visible_to_anyone_with_the_link_and_will_show_up_in_search_engines_like_Google___Only_people_added_to_the_board_can_edit_" :
-        "#permission-level",
-      "You_are_filtering_cards_on_this_board__Click_here_to_edit_filter_" :
-        "> div.board-header-btns.right > a.board-header-btn.board-header-btn-filter-indicator.js-filter-cards-indicator",
-      "You_are_subscribed_to_this_board__You_ll_get_notifications_about_changes_" :
-        "> div.board-header-btns.right > div.board-header-btn.sub-btn.js-board-header-subscribed",
-      "Click_to_star_or_unstar_this_board__Starred_boards_show_up_at_the_top_of_your_boards_list_" :
-        "> div.board-header-btns.left > a.board-header-btn.js-star-board",
-      "Rename_the_board_" :
-        "> a.board-header-btn.board-header-btn-name.js-rename-board"
+    "title" : {},
+    "placeholder" : {},
+    "substrings" : {}
+  },
+  "changeOrganizationWindow" : {
+    "meta" : {
+      "howToGet" : "Click organization name in board's header, than 'Change Organization' link.",
+      "basePath" : "body > div.pop-over",
+      "flag" : "> div.content > div > form > select.js-org"
     },
+    "html" : {
+      "Change_Organization" : "> div.header > span.header-title",
+      "Organization" : "> div.content > div > form > label"
+    },
+    "formElements" : {
+      "Change" : "> div.content > div > form > input.js-submit.wide.primary"
+    },
+    "title" : {},
     "placeholder" : {},
     "substrings" : {}
   },

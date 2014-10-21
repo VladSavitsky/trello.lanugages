@@ -1,6 +1,38 @@
 {
 
 
+"Change_Organization" : {
+  "message" : "Change Organization",
+  "description" : "Change Organization window."
+},
+"Change" : {
+  "message" : "Change",
+  "description" : "Change Organization window."
+},
+
+
+
+"Change_Organization_" : {
+  "message" : "Change Organization…",
+  "description" : "Board Organization window."
+},
+"View_Organization_Page" : {
+  "message" : "View Organization Page",
+  "description" : "Board Organization window."
+},
+
+
+
+"Rename_Board" : {
+  "message" : "Rename Board",
+  "description" : "Window title at Rename Board window."
+},
+"Rename" : {
+  "message" : "Rename",
+  "description" : "Button at Rename Board window."
+},
+
+
 
 "Close_Board_question_mark" : {
   "message" : "Close Board?",
@@ -37,7 +69,7 @@
 },
 "Name" : {
   "message" : "Name",
-  "description" : "Create Organization_window"
+  "description" : "Name of organization at 'Create Organization' window; Name of  oard at 'Rename Board' window."
 },
 "Description" : {
   "message" : "Description",
@@ -133,7 +165,7 @@
 },
 "Organization" : {
   "message" : "Organization",
-  "description" : "Board creation popup"
+  "description" : "At Board creation popup; Label of dropdown list at 'Change Organization' window."
 },
 "Create" : {
   "message" : "Create",
@@ -169,10 +201,6 @@
 },
 "This_board_is_private___Only_people_added_to_the_board_can_view_and_edit_it_" : {
   "message" : "This board is private.  Only people added to the board can view and edit it.",
-  "description" : "Board creation popup"
-},
-"This_board_is_public__It_s_visible_to_anyone_with_the_link_and_will_show_up_in_search_engines_like_Google___Only_people_added_to_the_board_can_edit_" : {
-  "message" : "This board is public. It's visible to anyone with the link and will show up in search engines like Google.  Only people added to the board can edit.",
   "description" : "Board creation popup"
 },
 "The_board_must_be_added_to_an_org_to_enable_this_" : {
@@ -495,7 +523,7 @@
 },
 "This_board_is_public__It_s_visible_to_anyone_with_the_link_and_will_show_up_in_search_engines_like_Google___Only_people_added_to_the_board_can_edit_" : {
   "message" : "This board is public. It's visible to anyone with the link and will show up in search engines like Google.  Only people added to the board can edit.",
-  "description" : "Main interface"
+  "description" : "Main interface and Board creation popup"
 },
 "Go_back_to_your_boards_page_" : {
   "message" : "Go back to your boards page.",
