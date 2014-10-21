@@ -1,6 +1,7 @@
 {
   "new_element" : {
     "meta" : {
+      "howToGet" : "",
       "basePath" : "",
       "flag" : ""
     },
@@ -19,6 +20,73 @@
 
 
 
+
+
+
+
+  "boardHeader" : {
+    "meta" : {
+      "howToGet" : "Open any board. Also visible at Calendar view.",
+      "basePath" : "#content > div > div.board-header.js-board-header",
+      "flag" : "> div.board-header-btns.right > a.board-header-btn.calendar-btn.js-calendar > span.board-header-btn-text"
+    },
+    "html" : {
+      "Subscribed" :
+        "> div.board-header-btns > div > span.board-header-btn-text",
+      "Filtering_is_on_" :
+        "> div.board-header-btns > a.board-header-btn.board-header-btn-filter-indicator.js-filter-cards-indicator > span.board-header-btn-text",
+      "Public" :
+        "#permission-level > span.board-header-btn-text"
+    },
+    "formElements" : {},
+    "title" : {
+      "This_board_is_public__It_s_visible_to_anyone_with_the_link_and_will_show_up_in_search_engines_like_Google___Only_people_added_to_the_board_can_edit_" :
+        "#permission-level",
+      "You_are_filtering_cards_on_this_board__Click_here_to_edit_filter_" :
+        "> div.board-header-btns.right > a.board-header-btn.board-header-btn-filter-indicator.js-filter-cards-indicator",
+      "You_are_subscribed_to_this_board__You_ll_get_notifications_about_changes_" :
+        "> div.board-header-btns.right > div.board-header-btn.sub-btn.js-board-header-subscribed",
+      "Click_to_star_or_unstar_this_board__Starred_boards_show_up_at_the_top_of_your_boards_list_" :
+        "> div.board-header-btns.left > a.board-header-btn.js-star-board",
+      "Rename_the_board_" :
+        "> a.board-header-btn.board-header-btn-name.js-rename-board"
+    },
+    "placeholder" : {},
+    "substrings" : {}
+  },
+
+
+
+
+
+  "boardContent" : {
+    "meta" : {
+      "basePath" : "body",
+      "flag" : "#board .list form .js-open-add-list"
+    },
+    "html" : {
+      "Starred_Boards" :
+        "#content > div > div:nth-child(2) > div > h3",
+      "My_Boards" :
+        "#content > div > div:nth-child(3) > div > h3",
+      "Overview" :
+        "#content > div > div > div > a.js-view-org-profile",
+      "Show_sidebar" :
+        "#content > div > a > span.text",
+      "Add_a_card_" :
+        "#board div.list a.open-card-composer",
+      "Add_a_list_" :
+        "#board > div.list.add-list.idle > form > span"
+    },
+    "formElements" : {
+      "Add" :
+        "#board div.list-cards > div.card-composer > div.cc-controls > input"
+    },
+    "title" : {},
+    "placeholder" : {},
+    "substrings" : {
+    }
+  },
 
 
 
@@ -166,67 +234,7 @@
 
 
 
-  "General_interface" : {
-    "meta" : {
-      "basePath" : "body",
-      "flag" : "#board .list form .js-open-add-list"
-    },
-    "html" : {
-      "Subscribed" :
-        "#content > div > div.board-header.js-board-header > div.board-header-btns > div > span.board-header-btn-text",
-      "Filtering_is_on_" :
-        "#content > div > div.board-header.clearfix.js-board-header > div.board-header-btns > a.board-header-btn.board-header-btn-filter-indicator.js-filter-cards-indicator > span.board-header-btn-text",
-      "Boards" :
-        "#header > div.header-boards-button > a > span.header-btn-text",
-      "Public" :
-        "#permission-level > span.board-header-btn-text",
-      "Starred_Boards" :
-        "#content > div > div:nth-child(2) > div > h3",
-      "My_Boards" :
-        "#content > div > div:nth-child(3) > div > h3",
-      "Overview" :
-        "#content > div > div > div > a.js-view-org-profile",
-      "Show_sidebar" :
-        "#content > div > a > span.text",
-      "Add_a_card_" :
-        "#board div.list a.open-card-composer",
-      "Add_a_list_" :
-        "#board > div.list.add-list.idle > form > span"
-    },
-    "formElements" : {
-      "Add" :
-        "#board div.list-cards > div.card-composer > div.cc-controls > input"
-    },
-    "title" : {
-      "Search_for_boards__cards__members__and_organizations_" :
-        "#header > div > a.header-btn.open-search-btn.js-open-search-page",
-      "This_board_is_public__It_s_visible_to_anyone_with_the_link_and_will_show_up_in_search_engines_like_Google___Only_people_added_to_the_board_can_edit_" :
-        "#permission-level",
-      "You_are_filtering_cards_on_this_board__Click_here_to_edit_filter_" :
-        "#content > div > div.board-header.js-board-header > div.board-header-btns.right > a.board-header-btn.board-header-btn-filter-indicator.js-filter-cards-indicator",
-      "You_are_subscribed_to_this_board__You_ll_get_notifications_about_changes_" :
-        "#content > div > div.board-header.js-board-header > div.board-header-btns.right > div.board-header-btn.sub-btn.js-board-header-subscribed",
-      "Click_to_star_or_unstar_this_board__Starred_boards_show_up_at_the_top_of_your_boards_list_" :
-        "#content > div > div.board-header.js-board-header > div.board-header-btns.left > a.board-header-btn.js-star-board.board-header-btn-enabled",
-      "Add_a_new_board_or_organization_" :
-        "#header > div.header-user > a.header-btn.js-open-add-menu",
-      "You_are_seeing_an_early__experimental_version_of_Trello__We_would_love_your_feedback_" :
-        "#header > div.header-user > a.header-btn.header-btn-feedback.js-open-feedback",
-      "Get_access_to_your_profile__help__and_log_out_" :
-        "#header > div.header-user > a.header-btn.header-member.js-open-header-member-menu",
-      "This_member_has_Trello_Gold_" :
-        "#header > div.header-user > a.header-btn.header-member.js-open-header-member-menu > span.member.has-crown > span.member-gold-badge",
-      "Go_back_to_your_boards_page_" :
-        "#header > a",
-      "View_list_of_boards" :
-        "#header > div.header-boards-button > a",
-      "Rename_the_board_" :
-        "#content > div > div.board-header.clearfix.js-board-header > a.board-header-btn.board-header-btn-name.js-rename-board"
-    },
-    "placeholder" : {},
-    "substrings" : {
-    }
-  },
+
 
 
 
@@ -272,9 +280,8 @@
         "> div.content.clearfix.fancy-scrollbar.js-tab-parent > div > div.search-results-section.js-search-suggestions.clearfix > div.search-results-section-header > h4",
       "Only_include_cards_that_have_stickers_" :
         ">div.content.clearfix.fancy-scrollbar.js-tab-parent > div > div.search-results-section.js-search-suggestions.clearfix > div.js-search-suggestions-list > a > span.search-suggestion-desc"
-      },
-    "formElements" : {
     },
+    "formElements" : {},
     "title" : {},
     "placeholder" : {},
     "substrings" : {}
@@ -347,9 +354,7 @@
       "Close_the_board_sidebar_" :
         "> div > a.js-hide-sidebar",
       "Click_here_to_see_more_board_options_" :
-        "> div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > h3",
-      "Click_here_to_see_more_available_languages_" :
-        "> div > div.board-widgets-content-wrapper > div > div.board-widget-language > h3"
+        "> div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > h3"
     },
     "placeholder" : {},
     "substrings" : {
@@ -784,12 +789,50 @@
         "> div.content.js-tab-parent > div > p"
     },
     "formElements" : {
-      "Add" :
-        "> div.content.js-tab-parent > div > input.sdfsdf",
       "Close" :
         "> div.content.js-tab-parent > div > input.js-confirm.negate"
     },
     "title" : {},
+    "placeholder" : {},
+    "substrings" : {}
+  },
+  "trelloGold" : {
+    "meta" : {
+      "howToGet" : "Will be visible only if person has Trello Gold.",
+      "basePath" : "body #header > div.header-user > a.header-btn.header-member.js-open-header-member-menu > span.member.has-crown",
+      "flag" : "> span.member-gold-badge"
+    },
+    "html" : {},
+    "formElements" : {},
+    "title" : {
+      "This_member_has_Trello_Gold_" : "> span.member-gold-badge"
+    },
+    "placeholder" : {},
+    "substrings" : {}
+  },
+  "pageHeader" : {
+    "meta" : {
+      "howToGet" : "Visible at any view.",
+      "basePath" : "body #header",
+      "flag" : "> div.header-user > a.header-btn.header-notifications.js-open-header-notifications-menu"
+    },
+    "html" : {
+      "Boards" :
+        "> div.header-boards-button > a > span.header-btn-text"
+    },
+    "formElements" : {},
+    "title" : {
+      "Search_for_boards__cards__members__and_organizations_" :
+        "> div > a.header-btn.open-search-btn.js-open-search-page",
+      "Add_a_new_board_or_organization_" :
+        "> div.header-user > a.header-btn.js-open-add-menu",
+      "You_are_seeing_an_early__experimental_version_of_Trello__We_would_love_your_feedback_" :
+        "> div.header-user > a.header-btn.header-btn-feedback.js-open-feedback",
+      "Get_access_to_your_profile__help__and_log_out_" :
+        "> div.header-user > a.header-btn.header-member.js-open-header-member-menu",
+      "Go_back_to_your_boards_page_" : "> a",
+      "View_list_of_boards" : "> div.header-boards-button > a"
+    },
     "placeholder" : {},
     "substrings" : {}
   },

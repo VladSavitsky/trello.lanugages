@@ -45,7 +45,12 @@
         $.each(selectors, function(index, cssPath) {
           var $element = $context.find(cssPath);
           if (!$element.length) {
-            if (debug) console.log('Element exists in mapping.json but wasn\'t found at page: ', contextName, type, cssPath);
+            if (debug) console.log(
+              'Element exists in mapping.json but wasn\'t found at page: ', "\n",
+              contextName, "\n",
+              chrome.i18n.getMessage(code), "\n",
+              mapping[contextName]["meta"]["basePath"] + ' ' + cssPath, "\n"
+            );
             return;
           }
           if (type == 'title' || type == 'placeholder') {
