@@ -191,10 +191,6 @@
   "message" : "Organization",
   "description" : "Board creation popup"
 },
-"Public" : {
-  "message" : "Public",
-  "description" : "Board creation popup"
-},
 "This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_" : {
   "message" : "This board is visible to members of the organization.  Only people added to the board can edit.",
   "description" : "Board creation popup"
@@ -490,7 +486,7 @@
 },
 "Public"            : {
   "message" : "Public",
-  "description" : "Main interface"
+  "description" : "Main interface and Board creation popup"
 },
 "Add_a_list_" : {
   "message" : "Add a list…",
@@ -521,7 +517,7 @@
   "message" : "Notifications",
   "description" : "Main interface"
 },
-"This_board_is_public__It_s_visible_to_anyone_with_the_link_and_will_show_up_in_search_engines_like_Google___Only_people_added_to_the_board_can_edit_" : {
+"This_board_is_public__It_s_visible_to_anyone_with_the_link_" : {
   "message" : "This board is public. It's visible to anyone with the link and will show up in search engines like Google.  Only people added to the board can edit.",
   "description" : "Main interface and Board creation popup"
 },

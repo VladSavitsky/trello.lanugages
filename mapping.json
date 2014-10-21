@@ -42,7 +42,7 @@
         "> a.board-header-btn.board-header-btn-name.js-rename-board",
       "This board is private.  Only people added to the board can view and edit it." :
         "#permission-level",
-      "This_board_is_public__It_s_visible_to_anyone_with_the_link_and_will_show_up_in_search_engines_like_Google___Only_people_added_to_the_board_can_edit_" :
+      "This_board_is_public__It_s_visible_to_anyone_with_the_link_" :
         "#permission-level"
     },
     "placeholder" : {},
@@ -429,7 +429,7 @@
     "html" : {
       "This_board_is_private___Only_people_added_to_the_board_can_view_and_edit_it_" :
         "div.content > div > form > ul > li > a[name='private'] > span.sub-name",
-      "This_board_is_public__It_s_visible_to_anyone_with_the_link_and_will_show_up_in_search_engines_like_Google___Only_people_added_to_the_board_can_edit_" :
+      "This_board_is_public__It_s_visible_to_anyone_with_the_link_" :
         "div.content > div > form > ul > li > a[name='public'] > span.sub-name",
       "The_board_must_be_added_to_an_org_to_enable_this_" :
         "div.content > div > form > ul > li > a[name='org'] > span.sub-name span.error",
