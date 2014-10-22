@@ -5,7 +5,7 @@
   "message" : "Change Organization",
   "description" : "Change Organization window."
 },
-"Change" : {
+"__Change" : {
   "message" : "Change",
   "description" : "Change Organization window."
 },
@@ -163,7 +163,7 @@
   "message" : "Title",
   "description" : "Board creation popup"
 },
-"Organization" : {
+"__Organization" : {
   "message" : "Organization",
   "description" : "At Board creation popup; Label of dropdown list at 'Change Organization' window."
 },
@@ -175,7 +175,7 @@
   "message" : "This board will be",
   "description" : "Board creation popup"
 },
-"private" : {
+"__private" : {
   "message" : "private",
   "description" : "Board creation popup"
 },
@@ -183,12 +183,8 @@
   "message" : "Change.",
   "description" : "Board creation popup"
 },
-"Private" : {
+"__Private" : {
   "message" : "Private",
-  "description" : "Board creation popup"
-},
-"Organization" : {
-  "message" : "Organization",
   "description" : "Board creation popup"
 },
 "This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_" : {
@@ -673,33 +669,33 @@
   "description" : "List actions pop-up"
 },
 
-"Edit_Labels" : {
-  "message" : "Edit Labels",
-  "description" : "Card's context menu"
+"Edit_Labels": {
+  "message": "Edit Labels",
+  "description": "Card's context menu"
 },
-"Change_Members" : {
-  "message" : "Change Members",
-  "description" : "Card's context menu"
+"Change_Members": {
+  "message": "Change Members",
+  "description": "Card's context menu"
 },
-"Move"             : {
-  "message" : "Move",
-  "description" : "Card's context menu"
+"Move": {
+  "message": "Move",
+  "description": "Card's context menu"
 },
-"Copy"             : {
-  "message" : "Copy",
-  "description" : "Card's context menu"
+"Copy": {
+  "message": "Copy",
+  "description": "Card's context menu"
 },
 "Change_Due_Date" : {
   "message" : "Change Due Date",
   "description" : "Card's context menu"
 },
-"Archive"          : {
+"Archive": {
   "message" : "Archive",
   "description" : "Card's context menu"
 },
 
-"Add"              : {
-  "message" : "Add",
+"Add": {
+  "message": "Add",
   "description" : "Form elements"
 },
 
@@ -834,11 +830,6 @@
   "message" : "Drop files to upload.",
   "description" : "Edit card popup"
 },
-"Due_Date" : {
-  "message" : "Due Date",
-  "description" : "Edit card popup"
-},
-
 "Add_or_remove_members_of_the_board_from_the_card_" : {
   "message" : "Add or remove members of the board from the card.",
   "description" : "Edit card popup"

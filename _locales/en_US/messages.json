@@ -2,7 +2,7 @@
 	"Change_Organization": {
 		"message": "Change Organization"
 	},
-	"Change": {
+	"__Change": {
 		"message": "Change"
 	},
 	"Change_Organization_": {
@@ -104,7 +104,7 @@
 	"Title": {
 		"message": "Title"
 	},
-	"Organization": {
+	"__Organization": {
 		"message": "Organization"
 	},
 	"Create": {
@@ -113,16 +113,16 @@
 	"This_board_will_be": {
 		"message": "This board will be"
 	},
-	"private": {
+	"__private": {
 		"message": "private"
 	},
 	"Change_": {
 		"message": "Change."
 	},
-	"Private": {
+	"__Private": {
 		"message": "Private"
 	},
-	"Organization": {
+	"__Organization": {
 		"message": "Organization"
 	},
 	"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_": {
