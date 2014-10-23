@@ -21,7 +21,7 @@
   "description": "Provides translations of Trello.com site interface.",
   "update_url": "http://clients2.google.com/service/update2/crx",
   "author": "Vlad Savitsky",
-  "version": "0.6",
+  "version": "0.7",
   "default_locale": "en",
   "icons": {
     "128": "icons/icon.png",
