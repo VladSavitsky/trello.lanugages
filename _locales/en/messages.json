@@ -1,5 +1,45 @@
 {
 
+
+
+"New_Organization_" : {
+  "message" : "New_Organization_",
+  "description" : "Add new Organization or Board window."
+},
+"New_Board_" : {
+  "message" : "New Board…",
+  "description" : "Add new Organization or Board window."
+},
+"A_board_is_a_collection_of_cards_ordered_in_a_list_of_lists__" : {
+  "message" : "A board is a collection of cards ordered in a list of lists. Use it to manage a project, track a collection, or organize anything.",
+  "description" : "Add new Organization or Board window."
+},
+"An_organization_is_a_group_of_boards_and_people__" : {
+  "message" : "An organization is a group of boards and people. Use it to group boards in your company, team, or family.",
+  "description" : "Add new Organization or Board window."
+},
+
+
+
+
+"Reload_page" : {
+  "message" : "Reload page",
+  "description" : "Connection Error Window."
+},
+"Could_not_connect_to_Trello_" : {
+  "message" : "Could not connect to Trello.",
+  "description" : "Connection Error Window."
+},
+
+
+"Page_not_found_" : {
+  "message" : "Page not found.",
+  "description" : "Page Not Found message."
+},
+"This_page_may_be_private__If_someone_gave_you_this_link__" : {
+  "message" : "This page may be private. If someone gave you this link, they may need to invite you to one of their boards or organizations.",
+  "description" : "Page Not Found message."
+},
 "View_all_activity_" : {
   "message" : "View all activity…",
   "description" : "Activity under Menu Sidebar."
@@ -162,7 +202,7 @@
 
 "Create_new_board_" : {
   "message" : "Create new board…",
-  "description" : "Boards List"
+  "description" : "Home page."
 },
 "Create_Board": {
   "message" : "Create Board",
@@ -706,13 +746,10 @@
   "message" : "Archive",
   "description" : "Card's context menu"
 },
-
 "Add": {
   "message": "Add",
-  "description" : "Form elements"
+  "description" : "Form elements; Title of 'Add new board or organization window."
 },
-
-
 "Change_Notification_Email_Frequency" : {
   "message" : "Change Notification Email Frequency",
   "description" : "Activity Substrings"

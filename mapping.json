@@ -18,6 +18,7 @@
   },
 
 
+
   "boardHeader" : {
     "meta" : {
       "howToGet" : "Open any board. Also visible at Calendar view.",
@@ -906,6 +907,86 @@
     "title" : {},
     "placeholder" : {},
     "substrings" : {}
+  },
+  "homePage" : {
+    "meta" : {
+      "howToGet" : "Open trello.com or click Trello logo in header.",
+      "basePath" : "#content > div",
+      "flag" : "> div > div > a.js-view-org-profile"
+    },
+    "html" : {
+      "Starred_Boards" :
+        "> div:nth-child(2) > div > h3",
+      "My_Boards" :
+        "> div:nth-child(3) > div > h3",
+      "Overview" :
+        "> div > div > a.js-view-org-profile",
+      "Create_new_board_" :
+        "> div > ul > li > a.board-list-item--add-board.js-add-board"
+    },
+    "formElements" : {},
+    "title" : {},
+    "placeholder" : {},
+    "substrings" : {}
+  },
+  "pageNotFound" : {
+    "meta" : {
+      "howToGet" : "Add new symbols to trello's URL.",
+      "basePath" : "#content",
+      "flag" : "> div.big-message.quiet > h1"
+    },
+    "html" : {},
+    "formElements" : {},
+    "title" : {},
+    "placeholder" : {},
+    "substrings" : {
+      "Page_not_found_" :
+        "> div.big-message quiet > h1",
+      "This_page_may_be_private__If_someone_gave_you_this_link__" :
+        "> div.big-message quiet > p"
+    }
+  },
+  "connectionError" : {
+    "meta" : {
+      "howToGet" : "Open trello.com and turn off internet connection.",
+      "basePath" : "#notification",
+      "flag" : "#notification_connectionDead > a"
+    },
+    "html" : {
+      "Reload_page" :
+        "#notification_connectionDead > a"
+    },
+    "formElements" : {},
+    "title" : {},
+    "placeholder" : {},
+    "substrings" : {
+      "Could not connect to Trello." :
+        "#notification_connectionDead"
+    }
+  },
+  "addNewOrganizationOrBoardWindow" : {
+    "meta" : {
+      "howToGet" : "Click '+' in header at any page.",
+      "basePath" : "body > div.pop-over",
+      "flag" : "> div.content > div > ul > li > a.js-new-org"
+    },
+    "html" : {
+      "Add" :
+        "> div.header > span.header-title",
+      "A_board_is_a_collection_of_cards_ordered_in_a_list_of_lists__" :
+        "> div.content > div > ul > li > a.js-new-board > span",
+      "An_organization_is_a_group_of_boards_and_people__" :
+        "> div.content > div > ul > li > a.js-new-org > span"
+    },
+    "formElements" : {},
+    "title" : {},
+    "placeholder" : {},
+    "substrings" : {
+      "New_Organization_" :
+        "> div.content > div > ul > li > a.js-new-org",
+      "New_Board_" :
+        "> div.content > div > ul > li > a.js-new-board"
+    }
   },
   "Closed_boards_window" : {
     "meta" : {
