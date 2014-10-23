@@ -1,11 +1,24 @@
 {
 
+"View_all_activity_" : {
+  "message" : "View all activity…",
+  "description" : "Activity under Menu Sidebar."
+},
+
+"Board_Activity" : {
+  "message" : "Board Activity",
+  "description" : "Board Activity Window."
+},
+"Load_More_Activity" : {
+  "message" : "Load More Activity",
+  "description" : "Board Activity Window."
+},
 
 "Change_Organization" : {
   "message" : "Change Organization",
   "description" : "Change Organization window."
 },
-"__Change" : {
+"Change" : {
   "message" : "Change",
   "description" : "Change Organization window."
 },
@@ -163,7 +176,7 @@
   "message" : "Title",
   "description" : "Board creation popup"
 },
-"__Organization" : {
+"Organization" : {
   "message" : "Organization",
   "description" : "At Board creation popup; Label of dropdown list at 'Change Organization' window."
 },
@@ -175,7 +188,7 @@
   "message" : "This board will be",
   "description" : "Board creation popup"
 },
-"__private" : {
+"private" : {
   "message" : "private",
   "description" : "Board creation popup"
 },
@@ -183,7 +196,7 @@
   "message" : "Change.",
   "description" : "Board creation popup"
 },
-"__Private" : {
+"Private" : {
   "message" : "Private",
   "description" : "Board creation popup"
 },
@@ -467,7 +480,7 @@
 },
 "Close_this_dialog_window_" : {
   "message" : "Close this dialog window.",
-  "description" : "Closed boards window"
+  "description" : "Closed boards window; Board Activity Window."
 },
 
 
