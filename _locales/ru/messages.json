@@ -1,9 +1,42 @@
 {
+	"New_Organization_": {
+		"message": "Новая организация..."
+	},
+	"New_Board_": {
+		"message": "Новая доска..."
+	},
+	"A_board_is_a_collection_of_cards_ordered_in_a_list_of_lists__": {
+		"message": "Доска - это коллекция карточек, которые упорядочены в списки списков. Используйте их, чтобы управлять проектами, создавать коллекции и организовывать что угодно."
+	},
+	"An_organization_is_a_group_of_boards_and_people__": {
+		"message": "Организация - это группа досок и людей. Используйте их, чтобы группировать доски для компании, команды или семьи."
+	},
+	"Reload_page": {
+		"message": "Перегрузить страницу"
+	},
+	"Could_not_connect_to_Trello_": {
+		"message": "Нет связи с Trello."
+	},
+	"Page_not_found_": {
+		"message": "Страница не найдена."
+	},
+	"This_page_may_be_private__If_someone_gave_you_this_link__": {
+		"message": "Эта страница может быть личной. Если кто-то дал вам ссылку, то им следует пригласить вас в организацию или доску."
+	},
+	"View_all_activity_": {
+		"message": "Смотреть всю активность..."
+	},
+	"Board_Activity": {
+		"message": "Активность на доске"
+	},
+	"Load_More_Activity": {
+		"message": "Загрузить больше"
+	},
 	"Change_Organization": {
 		"message": "Поменять организацию"
 	},
 	"Change": {
-		"message": "Поменять"
+		"message": "Изменить"
 	},
 	"Change_Organization_": {
 		"message": "Поменять организацию..."
@@ -548,6 +581,9 @@
 	"Checklist": {
 		"message": "Чеклист"
 	},
+	"Due_date": {
+		"message": "Конечный срок"
+	},
 	"Attachment": {
 		"message": "Вложения"
 	},
@@ -562,9 +598,6 @@
 	},
 	"Drop_files_to_upload_": {
 		"message": "Бросьте файлы для загрузки."
-	},
-	"Due_date": {
-		"message": "Конечный срок"
 	},
 	"Add_or_remove_members_of_the_board_from_the_card_": {
 		"message": "Добавить или удалить людей этой доски к карточке."

@@ -1,0 +1,446 @@
+{
+	"Change_Organization": {
+		"message": "更改组织"
+	},
+	"Change_Organization_": {
+		"message": "更改组织"
+	},
+	"View_Organization_Page": {
+		"message": "查看组织页面"
+	},
+	"Rename_Board": {
+		"message": "板面重命名"
+	},
+	"Rename": {
+		"message": "重命名"
+	},
+	"Close_Board_question_mark": {
+		"message": "关闭板面？"
+	},
+	"You_can_re_open_the_board_by_clicking_the___Boards___menu_from_the_header_": {
+		"message": "你可由以下方式重新打开版面，从导览条点击“版面”，选取“观看关闭版面”，然后选择版面并点击“重新打开”"
+	},
+	"Close": {
+		"message": "关闭"
+	},
+	"Click_here_to_re_open_it_": {
+		"message": "点击重新打开"
+	},
+	"is_closed_": {
+		"message": "已关闭"
+	},
+	"Create_Organization": {
+		"message": "创建组织"
+	},
+	"An_organization_is_a_group_of_boards_and_members_": {
+		"message": "组织由一群板面与成员组成。"
+	},
+	"Name": {
+		"message": "组织名称"
+	},
+	"Description": {
+		"message": "描述"
+	},
+	"Add_an_Organization": {
+		"message": "添加组织"
+	},
+	"Create_an_Organization": {
+		"message": "创建组织"
+	},
+	"What_are_you_organizing_": {
+		"message": "您准备组织什么东西？"
+	},
+	"What_are_you_planning_": {
+		"message": "您准备策划什么？"
+	},
+	"Like__Vacation_Planning__for_example_": {
+		"message": "例如“旅游策划”。。。"
+	},
+	"Like__House_Stuff__for_example_": {
+		"message": "例如“家务事”。。。"
+	},
+	"Like__Bucket_List__for_example_": {
+		"message": "例如“收纳盒”。。。"
+	},
+	"Like__Game_Development_Roadmap__": {
+		"message": "例如“游戏开发展望”。。。"
+	},
+	"Like__Calvinball_Meetup_Schedule__": {
+		"message": "例如“张三的会议议程”。。。"
+	},
+	"Like__Weekly_Meal_Planning__for_example_": {
+		"message": "例如“每周用餐计划”。。。"
+	},
+	"Like__School_Research__for_example_": {
+		"message": "例如“学校调研报告”。。。"
+	},
+	"Create_new_board_": {
+		"message": "创建新的板面"
+	},
+	"Create_Board": {
+		"message": "创建板面"
+	},
+	"Title": {
+		"message": "标题"
+	},
+	"Create": {
+		"message": "创建"
+	},
+	"Change_": {
+		"message": "更改"
+	},
+	"Today": {
+		"message": "今天"
+	},
+	"Week": {
+		"message": "周"
+	},
+	"Month": {
+		"message": "月"
+	},
+	"Sun": {
+		"message": "周日"
+	},
+	"Mon": {
+		"message": "周一"
+	},
+	"Tue": {
+		"message": "周二"
+	},
+	"Wed": {
+		"message": "周三"
+	},
+	"Thu": {
+		"message": "周四"
+	},
+	"Fri": {
+		"message": "周五"
+	},
+	"Sat": {
+		"message": "周六"
+	},
+	"January": {
+		"message": "一月"
+	},
+	"February": {
+		"message": "二月"
+	},
+	"March": {
+		"message": "三月"
+	},
+	"April": {
+		"message": "四月"
+	},
+	"May": {
+		"message": "五月"
+	},
+	"June": {
+		"message": "六月"
+	},
+	"July": {
+		"message": "七月"
+	},
+	"August": {
+		"message": "八月"
+	},
+	"September": {
+		"message": "九月"
+	},
+	"October": {
+		"message": "十月"
+	},
+	"November": {
+		"message": "十一月"
+	},
+	"December": {
+		"message": "十二月"
+	},
+	"Saved_Searches": {
+		"message": "已保存搜索"
+	},
+	"Your_search_produced_an_error_": {
+		"message": "您的搜索导致一个错误"
+	},
+	"Searching_": {
+		"message": "搜索中"
+	},
+	"No_results_": {
+		"message": "没有结果"
+	},
+	"Learn_more_": {
+		"message": "了解详情"
+	},
+	"Cards": {
+		"message": "卡片"
+	},
+	"Loading_": {
+		"message": "加载中。。。"
+	},
+	"Show_more_boards_": {
+		"message": "显示更多板面"
+	},
+	"Show_more_members_": {
+		"message": "显示更多成员。。。"
+	},
+	"Show_more_organizations_": {
+		"message": "显示更多组织"
+	},
+	"Back_to_Saved_Searches": {
+		"message": "返回已保存搜索"
+	},
+	"Save_this_Search": {
+		"message": "保存此搜索"
+	},
+	"Did_you_mean_": {
+		"message": "您是否指。。。"
+	},
+	"My_Boards": {
+		"message": "我的板面"
+	},
+	"Overview": {
+		"message": "概览"
+	},
+	"Recent_Boards": {
+		"message": "最近的板面"
+	},
+	"See_closed_boards_": {
+		"message": "查看已关闭板面。。。"
+	},
+	"Find_boards_by_name_": {
+		"message": "基于名称搜索板面。。。"
+	},
+	"Expand_section_": {
+		"message": "展开区域"
+	},
+	"Closed_Boards": {
+		"message": "已关闭板面"
+	},
+	"Re_open": {
+		"message": "重开"
+	},
+	"Close_this_dialog_window_": {
+		"message": "关闭此窗口"
+	},
+	"No_Boards_Found": {
+		"message": "没找到板面"
+	},
+	"Boards": {
+		"message": "板面"
+	},
+	"Public": {
+		"message": "公开"
+	},
+	"Add_a_list_": {
+		"message": "添加列表。。。"
+	},
+	"Calendar": {
+		"message": "日历"
+	},
+	"Subscribed": {
+		"message": "已订阅"
+	},
+	"Filtering_is_on_": {
+		"message": "过滤器已打开"
+	},
+	"Show_sidebar": {
+		"message": "显示侧栏"
+	},
+	"Add_a_card_": {
+		"message": "添加卡片。。。"
+	},
+	"Notifications": {
+		"message": "通知"
+	},
+	"Go_back_to_your_boards_page_": {
+		"message": "返回您的板面页面"
+	},
+	"View_list_of_boards": {
+		"message": "观看板面列表"
+	},
+	"Rename_the_board_": {
+		"message": "重命名板面"
+	},
+	"Close_the_board_sidebar_": {
+		"message": "关闭板面侧栏"
+	},
+	"Add_a_new_board_or_organization_": {
+		"message": "添加新的板面或者组织"
+	},
+	"This_member_has_Trello_Gold_": {
+		"message": "此成员拥有Trello Gold"
+	},
+	"Search_for_boards__cards__members__and_organizations_": {
+		"message": "搜索板面，卡片，成员和组织。"
+	},
+	"Menu": {
+		"message": "菜单"
+	},
+	"Add_Members": {
+		"message": "添加成员"
+	},
+	"Members": {
+		"message": "成员"
+	},
+	"Filter_Cards": {
+		"message": "过滤卡片"
+	},
+	"Archived_Items": {
+		"message": "已归档事项"
+	},
+	"Change_Background_": {
+		"message": "更换背景。。。"
+	},
+	"Email_to_board_Settings_": {
+		"message": "Email至板面设置。。。"
+	},
+	"Copy_Board_": {
+		"message": "复制板面。。。"
+	},
+	"Share__Print__and_Export_": {
+		"message": "分享，打印与导出。。。"
+	},
+	"Additional_Settings_": {
+		"message": "更多设置。。。"
+	},
+	"Close_Board_": {
+		"message": "关闭板面。。。"
+	},
+	"Leave_Board_": {
+		"message": "离开板面。。。"
+	},
+	"List_Actions": {
+		"message": "列表动作"
+	},
+	"Add_Card_": {
+		"message": "添加卡片。。。"
+	},
+	"Copy_List_": {
+		"message": "复制列表。。。"
+	},
+	"Move_List_": {
+		"message": "移动列表。。。"
+	},
+	"Subscribe": {
+		"message": "订阅"
+	},
+	"Move_All_Cards_in_This_List_": {
+		"message": "移动此列表所有卡片。。。"
+	},
+	"Archive_All_Cards_in_This_List_": {
+		"message": "归档此列表所有卡片。。。"
+	},
+	"Archive_This_List": {
+		"message": "归档此列表"
+	},
+	"Edit_Labels": {
+		"message": "编辑标签"
+	},
+	"Change_Members": {
+		"message": "更换成员"
+	},
+	"Move": {
+		"message": "移动"
+	},
+	"Copy": {
+		"message": "复制"
+	},
+	"Change_Due_Date": {
+		"message": "更改期限"
+	},
+	"Archive": {
+		"message": "归档"
+	},
+	"Add": {
+		"message": "添加"
+	},
+	"Change_Notification_Email_Frequency": {
+		"message": "更改通知邮件频率"
+	},
+	"See_All_Notifications": {
+		"message": "观看所有通知"
+	},
+	"added": {
+		"message": "已添加"
+	},
+	"to": {
+		"message": "至"
+	},
+	"and": {
+		"message": "与"
+	},
+	"joined": {
+		"message": "已加入"
+	},
+	"from": {
+		"message": "从"
+	},
+	"archived": {
+		"message": "已归档"
+	},
+	"renamed": {
+		"message": "已重命名"
+	},
+	"this_board": {
+		"message": "此板面"
+	},
+	"attached": {
+		"message": "已附上"
+	},
+	"sent": {
+		"message": "已发送"
+	},
+	"This_card_is_past_due_": {
+		"message": "此卡片已到期"
+	},
+	"You_are_subscribed_to_this_card_": {
+		"message": "您已订阅次卡片"
+	},
+	"Edit_the_description_": {
+		"message": "编辑描述"
+	},
+	"Write_a_comment_": {
+		"message": "写一些注释。。。"
+	},
+	"Save": {
+		"message": "保存"
+	},
+	"Actions": {
+		"message": "动作"
+	},
+	"Labels": {
+		"message": "标签"
+	},
+	"Checklist": {
+		"message": "清单"
+	},
+	"Due_date": {
+		"message": "到期日期"
+	},
+	"Attachment": {
+		"message": "附件"
+	},
+	"Delete": {
+		"message": "删除"
+	},
+	"Share_and_more_": {
+		"message": "分享与更多"
+	},
+	"Send_to_board": {
+		"message": "发送至板面"
+	},
+	"Drop_files_to_upload_": {
+		"message": "拖动文件自此上传"
+	},
+	"Change_the_labels_for_the_card_": {
+		"message": "更改卡片标签"
+	},
+	"Add_a_checklist_and_divide_the_card_into_subtasks_": {
+		"message": "添加一个清单并且把卡片分解为二级事项"
+	},
+	"Remove_the_card_from_the_board_": {
+		"message": "把此卡片从板面移除"
+	},
+	"in_list": {
+		"message": "在列表里"
+	}
+}

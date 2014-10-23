@@ -1,4 +1,25 @@
 {
+	"Change_Organization": {
+		"message": "Endre organisasjon"
+	},
+	"Change_Organization_": {
+		"message": "Endre organisasjon..."
+	},
+	"View_Organization_Page": {
+		"message": "Se organisasjons siden"
+	},
+	"Rename_Board": {
+		"message": "Endre tavlens navn"
+	},
+	"Rename": {
+		"message": "Endre navn"
+	},
+	"Close_Board_question_mark": {
+		"message": "Lukk tavlen"
+	},
+	"You_can_re_open_the_board_by_clicking_the___Boards___menu_from_the_header_": {
+		"message": "Du kan gjenåpne denne tavlen ved å klikke \"Tavler\" menyen i"
+	},
 	"Close": {
 		"message": "Lukk"
 	},
@@ -40,9 +61,6 @@
 	},
 	"Title": {
 		"message": "Tittel"
-	},
-	"Organization": {
-		"message": "Organisasjon"
 	},
 	"Create": {
 		"message": "Lag"

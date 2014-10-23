@@ -1,0 +1,38 @@
+{
+	"Change_Organization": {
+		"message": "更改組織"
+	},
+	"Change_Organization_": {
+		"message": "更改組織"
+	},
+	"View_Organization_Page": {
+		"message": "觀看組織頁面"
+	},
+	"Rename_Board": {
+		"message": "白板改名"
+	},
+	"Rename": {
+		"message": "改名"
+	},
+	"Close_Board_question_mark": {
+		"message": "關閉白板？"
+	},
+	"You_can_re_open_the_board_by_clicking_the___Boards___menu_from_the_header_": {
+		"message": "你可由以下方式重新打開白板，從導覽條點擊“白板”，選取“觀看關閉白板”，然後選擇白板並點擊“重新打開”"
+	},
+	"Close": {
+		"message": "關閉"
+	},
+	"Click_here_to_re_open_it_": {
+		"message": "點擊這裡來重開"
+	},
+	"is_closed_": {
+		"message": "已關閉"
+	},
+	"Create_Organization": {
+		"message": "創建組織"
+	},
+	"An_organization_is_a_group_of_boards_and_members_": {
+		"message": "組織是由一群白板和成員組成的。"
+	}
+}

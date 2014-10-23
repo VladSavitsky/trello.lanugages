@@ -1,6 +1,93 @@
 {
+	"Change_Organization": {
+		"message": "Alterar Organização"
+	},
+	"Change_Organization_": {
+		"message": "Alterar Organização..."
+	},
+	"View_Organization_Page": {
+		"message": "Ver Página da Organização"
+	},
+	"Rename_Board": {
+		"message": "Renomear Quadro"
+	},
+	"Rename": {
+		"message": "Renomear"
+	},
+	"Close_Board_question_mark": {
+		"message": "Fechar Quadro?"
+	},
+	"You_can_re_open_the_board_by_clicking_the___Boards___menu_from_the_header_": {
+		"message": "Você pode re-abrir o quadro, clicando no menu \"Quadros\" do cabeçalho, selecionar \"Exibir Quadros Fechados\", encontrar o Quadro e clicar em \"Re-abrir\"."
+	},
+	"Close": {
+		"message": "Fechar"
+	},
+	"Click_here_to_re_open_it_": {
+		"message": "Clique aqui para reabri-lo."
+	},
+	"is_closed_": {
+		"message": "está fechado."
+	},
+	"Create_Organization": {
+		"message": "Criar Organização"
+	},
+	"An_organization_is_a_group_of_boards_and_members_": {
+		"message": "Uma organização é um grupo de quadros e membros."
+	},
+	"Name": {
+		"message": "Nome"
+	},
+	"Description": {
+		"message": "Descrição"
+	},
+	"Add_an_Organization": {
+		"message": "Adicionar uma Organização"
+	},
+	"Create_an_Organization": {
+		"message": "Criar uma Organmização"
+	},
+	"An_organizations_is_a_collection_of_members_and_boards_": {
+		"message": "Uma Organização é uma coleção de membros e quadros. Ela torna o trabalho e o compartilhamento entre um grupo ainda mais fácil."
+	},
+	"What_are_you_organizing_": {
+		"message": "O que você está organizando?"
+	},
+	"What_are_you_planning_": {
+		"message": "O que está planejando?"
+	},
+	"Like__Vacation_Planning__for_example_": {
+		"message": "Como \"Planejando as férias\", por exemplo ..."
+	},
+	"Like__House_Stuff__for_example_": {
+		"message": "Como \"coisas de casa\" por exemplo..."
+	},
 	"Like__Bucket_List__for_example_": {
 		"message": "Como \"Lista de Desejos\" por exemplo"
+	},
+	"Like__Game_Development_Roadmap__": {
+		"message": "Como \"roteiro de desenvolvimento de jogos\"..."
+	},
+	"Like__Calvinball_Meetup_Schedule__": {
+		"message": "Como \"agendar encontros de Calvinball\"..."
+	},
+	"Like__Weekly_Meal_Planning__for_example_": {
+		"message": "Como \"planejamento semanal de refeições\" por exemplo..."
+	},
+	"Like__School_Research__for_example_": {
+		"message": "Como \"pesquisar escolar\" por exemplo..."
+	},
+	"Like__Team_Product_Sprint__for_example_": {
+		"message": "Como \"disputa de produção de equipe\" por exemplo..."
+	},
+	"Like__Publishing_Calendar__for_example_": {
+		"message": "Como \"Calendário de divulgação\", por exemplo ..."
+	},
+	"Like__New_Hire_Onboarding__for_example_": {
+		"message": "Como \"Nova contratação na forma de abordagem\" por exemplo..."
+	},
+	"Like__Reading_Collection__for_example_": {
+		"message": "Como ler Coleção por exemplo ..."
 	},
 	"Create_new_board_": {
 		"message": "Criar novo quadro..."
@@ -10,9 +97,6 @@
 	},
 	"Title": {
 		"message": "Título"
-	},
-	"Organization": {
-		"message": "Organização"
 	},
 	"Create": {
 		"message": "Criar"
@@ -221,6 +305,9 @@
 	"You_have_to_have_been_a_board_admin_to_re_open_a_closed_board_": {
 		"message": "Somente o administrador do quadro pode re-abrir um quadro fechado."
 	},
+	"Close_this_dialog_window_": {
+		"message": "Fechar essa janela de diálogo."
+	},
 	"No_Boards_Found": {
 		"message": "Nenhum Quadro Encontrado"
 	},
@@ -250,6 +337,9 @@
 	},
 	"Notifications": {
 		"message": "Notificações"
+	},
+	"This_board_is_public__It_s_visible_to_anyone_with_the_link_": {
+		"message": "Este Quadro é público. É visível para qualquer pessoa com o link e vai aparecer nos motores de busca como o Google. Somente pessoas vinculadas ao Quadro podem editar."
 	},
 	"Go_back_to_your_boards_page_": {
 		"message": "Voltar para a página dos quadros"
@@ -425,6 +515,12 @@
 	"to_the_board": {
 		"message": "para o quadro"
 	},
+	"This_card_is_past_due_": {
+		"message": "Este cartão está vencido."
+	},
+	"You_are_subscribed_to_this_card_": {
+		"message": "Você está inscrito para este cartão."
+	},
 	"Edit_the_description_": {
 		"message": "Editar a descrição"
 	},
@@ -442,6 +538,9 @@
 	},
 	"Checklist": {
 		"message": "Lista de verificação"
+	},
+	"Due_date": {
+		"message": "data de vencimento"
 	},
 	"Attachment": {
 		"message": "Anexos"
@@ -469,6 +568,9 @@
 	},
 	"Add_a_due_date_for_the_card_and_get_notifications_when_it_is_almost_due_": {
 		"message": "Adicionar data de vencimento para o cartão e receber notificações quando estiver para vencer."
+	},
+	"Attach_files_from_your_computer_or_from_Google_Drive_": {
+		"message": "Anexe arquivos do seu computador ou do Google Drive. Você também pode arrastar e soltar arquivos do seu desktop para carregá-las."
 	},
 	"Move_the_card_to_another_board__another_list__or_a_new_position_in_a_list": {
 		"message": "Mover o cartão para outro quadro, lista ou para nova posição na lista."

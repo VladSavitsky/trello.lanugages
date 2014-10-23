@@ -1,4 +1,22 @@
 {
+	"Change_Organization": {
+		"message": "組織を変更"
+	},
+	"Change_Organization_": {
+		"message": "組織を変更..."
+	},
+	"View_Organization_Page": {
+		"message": "組織のページを表示"
+	},
+	"Rename_Board": {
+		"message": "ボードの名前を変更"
+	},
+	"Rename": {
+		"message": "名前を変更"
+	},
+	"Close_Board_question_mark": {
+		"message": "ボードを閉じる?"
+	},
 	"Create_new_board_": {
 		"message": "新しいボードを作成..."
 	},
@@ -7,9 +25,6 @@
 	},
 	"Title": {
 		"message": "題名"
-	},
-	"Organization": {
-		"message": "組織"
 	},
 	"Create": {
 		"message": "作成"

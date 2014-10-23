@@ -3,7 +3,7 @@
 
 
 "New_Organization_" : {
-  "message" : "New_Organization_",
+  "message" : "New Organization…",
   "description" : "Add new Organization or Board window."
 },
 "New_Board_" : {
@@ -18,8 +18,6 @@
   "message" : "An organization is a group of boards and people. Use it to group boards in your company, team, or family.",
   "description" : "Add new Organization or Board window."
 },
-
-
 
 
 "Reload_page" : {
