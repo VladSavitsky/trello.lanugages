@@ -98,14 +98,8 @@
 	"Create_Board": {
 		"message": "Create Board"
 	},
-	"Create_Board": {
-		"message": "Create Board"
-	},
 	"Title": {
 		"message": "Title"
-	},
-	"Organization": {
-		"message": "Organization"
 	},
 	"Create": {
 		"message": "Create"
@@ -589,9 +583,6 @@
 	},
 	"Drop_files_to_upload_": {
 		"message": "Drop files to upload."
-	},
-	"Due_Date": {
-		"message": "Due Date"
 	},
 	"Add_or_remove_members_of_the_board_from_the_card_": {
 		"message": "Add or remove members of the board from the card."
