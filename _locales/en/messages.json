@@ -202,10 +202,6 @@
   "message" : "Create new board…",
   "description" : "Home page."
 },
-"Create_Board": {
-  "message" : "Create Board",
-  "description" : "Board creation popup"
-},
 "Create_Board" : {
   "message" : "Create Board",
   "description" : "Board creation popup"
@@ -308,10 +304,6 @@
 },
 "April"  : {
   "message" : "April",
-  "description" : "Calendar view"
-},
-"May"  : {
-  "message" : "May",
   "description" : "Calendar view"
 },
 "June"  : {
@@ -728,10 +720,6 @@
   "message": "Change Members",
   "description": "Card's context menu"
 },
-"Move": {
-  "message": "Move",
-  "description": "Card's context menu"
-},
 "Copy": {
   "message": "Copy",
   "description": "Card's context menu"
@@ -848,18 +836,6 @@
 },
 "Move" : {
   "message" : "Move",
-  "description" : "Edit card popup"
-},
-"Copy" : {
-  "message" : "Copy",
-  "description" : "Edit card popup"
-},
-"Subscribe" : {
-  "message" : "Subscribe",
-  "description" : "Edit card popup"
-},
-"Archive" : {
-  "message" : "Archive",
   "description" : "Edit card popup"
 },
 "Delete" : {
