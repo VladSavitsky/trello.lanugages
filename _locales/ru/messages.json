@@ -24,7 +24,7 @@
 		"message": "Эта страница может быть личной. Если кто-то дал вам ссылку, то им следует пригласить вас в организацию или доску."
 	},
 	"View_all_activity_": {
-		"message": "Смотреть всю активность..."
+		"message": "Вся активность..."
 	},
 	"Board_Activity": {
 		"message": "Активность на доске"
@@ -143,10 +143,13 @@
 	"This_board_will_be": {
 		"message": "Эта доска будет"
 	},
+	"private": {
+		"message": "личная"
+	},
 	"Change_": {
 		"message": "Изменить."
 	},
-	"private": {
+	"Private": {
 		"message": "Личная"
 	},
 	"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_": {
@@ -200,9 +203,6 @@
 	"April": {
 		"message": "Апрель"
 	},
-	"May": {
-		"message": "Май"
-	},
 	"June": {
 		"message": "Июнь"
 	},
@@ -235,6 +235,9 @@
 	},
 	"Apr": {
 		"message": "Апр"
+	},
+	"May": {
+		"message": "Май"
 	},
 	"Jun": {
 		"message": "Июн"
@@ -500,9 +503,6 @@
 	"Change_Members": {
 		"message": "Люди"
 	},
-	"Move": {
-		"message": "Перенести"
-	},
 	"Copy": {
 		"message": "Копировать"
 	},
@@ -586,6 +586,9 @@
 	},
 	"Attachment": {
 		"message": "Вложения"
+	},
+	"Move": {
+		"message": "Перенести"
 	},
 	"Delete": {
 		"message": "Удалить"
