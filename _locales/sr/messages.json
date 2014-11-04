@@ -71,9 +71,6 @@
 	"April": {
 		"message": "Април"
 	},
-	"May": {
-		"message": "Мај"
-	},
 	"June": {
 		"message": "Јуни"
 	},
@@ -106,6 +103,9 @@
 	},
 	"Apr": {
 		"message": "Апр"
+	},
+	"May": {
+		"message": "Мај"
 	},
 	"Jun": {
 		"message": "Јун"
@@ -365,9 +365,6 @@
 	"Change_Members": {
 		"message": "Промена приступа чланова"
 	},
-	"Move": {
-		"message": "Премести"
-	},
 	"Copy": {
 		"message": "Копирај"
 	},
@@ -442,6 +439,9 @@
 	},
 	"Attachment": {
 		"message": "Прилог"
+	},
+	"Move": {
+		"message": "Премести"
 	},
 	"Delete": {
 		"message": "Обриши"

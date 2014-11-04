@@ -1,4 +1,61 @@
 {
+	"New_Organization_": {
+		"message": "Nowa Organizacja..."
+	},
+	"New_Board_": {
+		"message": "Nowa tablica..."
+	},
+	"A_board_is_a_collection_of_cards_ordered_in_a_list_of_lists__": {
+		"message": "Tablica to zbiór pogrupowanych kart. Użyj jej do zarządzania projektem lub organizacji czego zechcesz."
+	},
+	"An_organization_is_a_group_of_boards_and_people__": {
+		"message": "Organizacja to grupa tablic i użytkowników. Użyj jej by pogrupować tablice w twojej firmie, grupie, rodzinie."
+	},
+	"Reload_page": {
+		"message": "Odśwież stronę"
+	},
+	"Could_not_connect_to_Trello_": {
+		"message": "Brak połączenia z Trello."
+	},
+	"Page_not_found_": {
+		"message": "Strona nie odnaleziona."
+	},
+	"This_page_may_be_private__If_someone_gave_you_this_link__": {
+		"message": "Ta strona może być prywatna. Jeśli ktoś dał Ci ten link, mogą zaprosić się do tablicy lub organizacji."
+	},
+	"View_all_activity_": {
+		"message": "Zobacz całą aktywność..."
+	},
+	"Board_Activity": {
+		"message": "Aktywność na tablicy"
+	},
+	"Load_More_Activity": {
+		"message": "Wczytaj więcej"
+	},
+	"Change_Organization": {
+		"message": "Zmień Organizację"
+	},
+	"Change": {
+		"message": "Zmień"
+	},
+	"Change_Organization_": {
+		"message": "Zmień Organizację..."
+	},
+	"View_Organization_Page": {
+		"message": "Zobacz stronę Organizacji"
+	},
+	"Rename_Board": {
+		"message": "Zmień nazwę tablicy"
+	},
+	"Rename": {
+		"message": "Zmień nazwę"
+	},
+	"Close_Board_question_mark": {
+		"message": "Zamknij tablicę?"
+	},
+	"You_can_re_open_the_board_by_clicking_the___Boards___menu_from_the_header_": {
+		"message": "Możesz otworzyć ponownie tablicę klikając \"Tablice\" u samej góry, zaznacz \"Zobacz zamknięte tablice\", znajdź ją i kliknij \"Otwórz ponownie\"."
+	},
 	"Close": {
 		"message": "Zamknij"
 	},
@@ -25,6 +82,9 @@
 	},
 	"Create_an_Organization": {
 		"message": "Dodaj organizację"
+	},
+	"An_organizations_is_a_collection_of_members_and_boards_": {
+		"message": "Organizacja to zbiór użytkowników i tablic. Wszyscy mogą udostępniać i pracować w grupie."
 	},
 	"What_are_you_planning_": {
 		"message": "Co planujesz?"
@@ -62,14 +122,23 @@
 	"Title": {
 		"message": "Tytuł"
 	},
+	"Organization": {
+		"message": "Organizacja"
+	},
 	"Create": {
 		"message": "Stwórz"
 	},
 	"This_board_will_be": {
 		"message": "Tablica będzie"
 	},
+	"private": {
+		"message": "prywatny"
+	},
 	"Change_": {
 		"message": "Zmień."
+	},
+	"Private": {
+		"message": "Prywatny"
 	},
 	"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_": {
 		"message": "Tablica jest widoczna tylko dla użytkowników organizacji. Tylko osoby dodane do tablicy mogą ją edytować."
@@ -122,9 +191,6 @@
 	"April": {
 		"message": "Kwiecień"
 	},
-	"May": {
-		"message": "Maj"
-	},
 	"June": {
 		"message": "Czerwiec"
 	},
@@ -157,6 +223,9 @@
 	},
 	"Apr": {
 		"message": "Kwi"
+	},
+	"May": {
+		"message": "Maj"
 	},
 	"Jun": {
 		"message": "Maj"
@@ -302,6 +371,9 @@
 	"Notifications": {
 		"message": "Powiadomienia"
 	},
+	"This_board_is_public__It_s_visible_to_anyone_with_the_link_": {
+		"message": "Ta tablica jest publiczna. Jest widoczna dla każdego, kto posiada link oraz może być znaleziona w wyszukiwarkach takich jak Google. Tylko użytkownicy dodani do tablicy mogą ją edytować."
+	},
 	"Go_back_to_your_boards_page_": {
 		"message": "Powróć do strony z tablicami."
 	},
@@ -419,9 +491,6 @@
 	"Change_Members": {
 		"message": "Zmień użytkowników"
 	},
-	"Move": {
-		"message": "Przenieś"
-	},
 	"Copy": {
 		"message": "Kopiuj"
 	},
@@ -500,8 +569,14 @@
 	"Checklist": {
 		"message": "Lista zadań"
 	},
+	"Due_date": {
+		"message": "Do daty"
+	},
 	"Attachment": {
 		"message": "Załączniki"
+	},
+	"Move": {
+		"message": "Przenieś"
 	},
 	"Delete": {
 		"message": "Usuń"
@@ -526,6 +601,9 @@
 	},
 	"Add_a_due_date_for_the_card_and_get_notifications_when_it_is_almost_due_": {
 		"message": "Dodaj \"do daty\" by otrzymać powiadomienie o zbliżającym się terminie."
+	},
+	"Attach_files_from_your_computer_or_from_Google_Drive_": {
+		"message": "Załącz pliki z twojego komputera lub z dysku Googla. Możesz również przeciągnąć i upuścić tutaj pliki z twojego pulpitu."
 	},
 	"Move_the_card_to_another_board__another_list__or_a_new_position_in_a_list": {
 		"message": "Przenieś kartę na inną tablicę, inną listę lub nową pozycję"

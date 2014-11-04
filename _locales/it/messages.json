@@ -80,9 +80,6 @@
 	"April": {
 		"message": "Aprile"
 	},
-	"May": {
-		"message": "Mag"
-	},
 	"June": {
 		"message": "Giugno"
 	},
@@ -115,6 +112,9 @@
 	},
 	"Apr": {
 		"message": "Apr"
+	},
+	"May": {
+		"message": "Mag"
 	},
 	"Jun": {
 		"message": "Giu"
@@ -374,9 +374,6 @@
 	"Change_Members": {
 		"message": "Cambia Utenti"
 	},
-	"Move": {
-		"message": "Muovi"
-	},
 	"Copy": {
 		"message": "Copia"
 	},
@@ -445,6 +442,9 @@
 	},
 	"Attachment": {
 		"message": "Allegato"
+	},
+	"Move": {
+		"message": "Muovi"
 	},
 	"Delete": {
 		"message": "Elimina"

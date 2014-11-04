@@ -86,9 +86,6 @@
 	"April": {
 		"message": "4月"
 	},
-	"May": {
-		"message": "5月"
-	},
 	"June": {
 		"message": "6月"
 	},
@@ -121,6 +118,9 @@
 	},
 	"Apr": {
 		"message": "4月"
+	},
+	"May": {
+		"message": "5月"
 	},
 	"Jun": {
 		"message": "5月"
@@ -332,9 +332,6 @@
 	"Change_Members": {
 		"message": "メンバーを変更"
 	},
-	"Move": {
-		"message": "移動"
-	},
 	"Copy": {
 		"message": "複製"
 	},
@@ -367,6 +364,9 @@
 	},
 	"Attachment": {
 		"message": "添付ファイル"
+	},
+	"Move": {
+		"message": "移動"
 	},
 	"Delete": {
 		"message": "削除"

@@ -1,6 +1,72 @@
 {
+	"New_Organization_": {
+		"message": "Нова організація..."
+	},
+	"New_Board_": {
+		"message": "Нова дошка..."
+	},
+	"A_board_is_a_collection_of_cards_ordered_in_a_list_of_lists__": {
+		"message": "Дошка це коллекція карток, які зібрані у списки списків. Їх використовують, щоб керувати проектами, коллекціями або організовувати будь-що."
+	},
+	"An_organization_is_a_group_of_boards_and_people__": {
+		"message": "Організації це об’єднання дошок та людей. Їх використовують, щоб об’єднати дошки для компанії, команди обо родини."
+	},
+	"Reload_page": {
+		"message": "Перегрузити сторінку"
+	},
+	"Could_not_connect_to_Trello_": {
+		"message": "Немає з’єднання з Trello."
+	},
+	"Page_not_found_": {
+		"message": "Сторінка не знайдена."
+	},
+	"This_page_may_be_private__If_someone_gave_you_this_link__": {
+		"message": "Скоріше за все ця сторінка приватна. Якщо хтось дав вам посилання на цю сторінку, то їм також потрібно додати вас до цієї дошки обо організації."
+	},
+	"View_all_activity_": {
+		"message": "Уся активність..."
+	},
+	"Board_Activity": {
+		"message": "Активність на дошці"
+	},
+	"Load_More_Activity": {
+		"message": "Загрузити ще"
+	},
+	"Change_Organization": {
+		"message": "Змінити організацію"
+	},
+	"Change": {
+		"message": "Змінити"
+	},
+	"Change_Organization_": {
+		"message": "Змінити організацію..."
+	},
+	"View_Organization_Page": {
+		"message": "Дивитися сторінку організації"
+	},
+	"Rename_Board": {
+		"message": "Змінити назву дошки"
+	},
+	"Rename": {
+		"message": "Змінити назву"
+	},
+	"Close_Board_question_mark": {
+		"message": "Закрити дошку?"
+	},
+	"Close": {
+		"message": "Закрити"
+	},
+	"Click_here_to_re_open_it_": {
+		"message": "Клацніть тут щоб знову відкрити ії."
+	},
+	"is_closed_": {
+		"message": "зачинена."
+	},
 	"Create_Organization": {
 		"message": "Створити організацію"
+	},
+	"An_organization_is_a_group_of_boards_and_members_": {
+		"message": "Організація це об’єднання дошок та людей."
 	},
 	"Name": {
 		"message": "Назва"
@@ -10,6 +76,21 @@
 	},
 	"Add_an_Organization": {
 		"message": "Додати організацію"
+	},
+	"Create_an_Organization": {
+		"message": "Створити організацію"
+	},
+	"What_are_you_organizing_": {
+		"message": "Що ви організуєте?"
+	},
+	"What_are_you_planning_": {
+		"message": "Що ви плануєте?"
+	},
+	"Like__Vacation_Planning__for_example_": {
+		"message": "Наприклад, \"Планування відпустки\"..."
+	},
+	"Like__House_Stuff__for_example_": {
+		"message": "Наприклад, \"Домашні справи\"..."
 	},
 	"Like__Bucket_List__for_example_": {
 		"message": "Наприклад, “Ідеї”…"
@@ -23,20 +104,32 @@
 	"Title": {
 		"message": "Назва"
 	},
+	"Organization": {
+		"message": "Організація"
+	},
 	"Create": {
 		"message": "Створити"
 	},
 	"This_board_will_be": {
 		"message": "Ця дошка буде"
 	},
+	"private": {
+		"message": "приватна"
+	},
 	"Change_": {
 		"message": "Змінити."
+	},
+	"Private": {
+		"message": "Приватна"
 	},
 	"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_": {
 		"message": "Цю дошку бачать члени организації. Редагувати можуть лише обрані люди."
 	},
 	"This_board_is_private___Only_people_added_to_the_board_can_view_and_edit_it_": {
 		"message": "Цю дошка особиста. Редагувати та бачити її можуть лише обрані люди."
+	},
+	"The_board_must_be_added_to_an_org_to_enable_this_": {
+		"message": "Дошка повинна бути додана до організації, щоб це включити."
 	},
 	"Today": {
 		"message": "Сьогодні"
@@ -80,9 +173,6 @@
 	"April": {
 		"message": "Квітень"
 	},
-	"May": {
-		"message": "Травень"
-	},
 	"June": {
 		"message": "Червень"
 	},
@@ -115,6 +205,9 @@
 	},
 	"Apr": {
 		"message": "Кві"
+	},
+	"May": {
+		"message": "Травень"
 	},
 	"Jun": {
 		"message": "Чер"
@@ -227,6 +320,9 @@
 	"You_have_to_have_been_a_board_admin_to_re_open_a_closed_board_": {
 		"message": "Аби мати змогу відкрити зачинену дошку, Ви повинні бути адміністратором."
 	},
+	"Close_this_dialog_window_": {
+		"message": "Закрити це вікно."
+	},
 	"No_Boards_Found": {
 		"message": "Дошки не знайдені"
 	},
@@ -256,6 +352,9 @@
 	},
 	"Notifications": {
 		"message": "Повідомлення"
+	},
+	"This_board_is_public__It_s_visible_to_anyone_with_the_link_": {
+		"message": "Ця дошка загальна. Кожен, у кого є посилання, може переглянути її та вана буде показана у результатах пошуку систем таких як Google. Тільки люди, що були додані до цієї дошки можут щось змінювати."
 	},
 	"Go_back_to_your_boards_page_": {
 		"message": "Повернутися до сторінки ваших дошок."
@@ -365,9 +464,6 @@
 	"Change_Members": {
 		"message": "Люди"
 	},
-	"Move": {
-		"message": "Перемістити"
-	},
 	"Copy": {
 		"message": "Копія"
 	},
@@ -440,8 +536,14 @@
 	"Checklist": {
 		"message": "Контрольний список"
 	},
+	"Due_date": {
+		"message": "Кінцевий строк"
+	},
 	"Attachment": {
 		"message": "Вкладення"
+	},
+	"Move": {
+		"message": "Перемістити"
 	},
 	"Delete": {
 		"message": "Видалити"

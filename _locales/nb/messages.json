@@ -122,9 +122,6 @@
 	"April": {
 		"message": "April"
 	},
-	"May": {
-		"message": "Mai"
-	},
 	"June": {
 		"message": "Juni"
 	},
@@ -157,6 +154,9 @@
 	},
 	"Apr": {
 		"message": "Apr"
+	},
+	"May": {
+		"message": "Mai"
 	},
 	"Jun": {
 		"message": "Jun"
@@ -407,9 +407,6 @@
 	"Change_Members": {
 		"message": "Endre Medlemmer"
 	},
-	"Move": {
-		"message": "Flytt"
-	},
 	"Copy": {
 		"message": "Kopier"
 	},
@@ -490,6 +487,9 @@
 	},
 	"Attachment": {
 		"message": "Vedlegg"
+	},
+	"Move": {
+		"message": "Flytt"
 	},
 	"Delete": {
 		"message": "Slett"

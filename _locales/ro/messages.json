@@ -65,9 +65,6 @@
 	"April": {
 		"message": "Aprilie"
 	},
-	"May": {
-		"message": "Mai"
-	},
 	"June": {
 		"message": "Iunie"
 	},
@@ -100,6 +97,9 @@
 	},
 	"Apr": {
 		"message": "Apr"
+	},
+	"May": {
+		"message": "Mai"
 	},
 	"Jun": {
 		"message": "Iun"

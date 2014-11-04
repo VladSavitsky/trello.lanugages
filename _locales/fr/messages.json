@@ -1,18 +1,75 @@
 {
+	"New_Organization_": {
+		"message": "Nouvelle organisation..."
+	},
+	"New_Board_": {
+		"message": "Nouveau tableau..."
+	},
+	"A_board_is_a_collection_of_cards_ordered_in_a_list_of_lists__": {
+		"message": "Un tableau est une collection de cartes (fiches) ordonnées dans une liste de listes. Utilisez-le pour gérer un projet, suivre une collection, ou organiser tout autre chose."
+	},
+	"An_organization_is_a_group_of_boards_and_people__": {
+		"message": "Une organisation est un groupe de tableaux et de personnes. Utilisez la pour grouper les tableaux de votre société, équipe ou famille."
+	},
+	"Reload_page": {
+		"message": "Recharger la page"
+	},
+	"Could_not_connect_to_Trello_": {
+		"message": "Impossible de se connecter à Trello."
+	},
+	"Page_not_found_": {
+		"message": "Page non trouvée."
+	},
+	"This_page_may_be_private__If_someone_gave_you_this_link__": {
+		"message": "Cette page est peut-être privée. Si quelqu'un vous a donné ce lien, il doit vous inviter sur l'un de ses tableaux ou l'une de ses organisations."
+	},
+	"View_all_activity_": {
+		"message": "Voir toute l'activité..."
+	},
+	"Board_Activity": {
+		"message": "Activité du tableau"
+	},
+	"Load_More_Activity": {
+		"message": "Charger davantage d'activités"
+	},
+	"Change_Organization": {
+		"message": "Changer d'organisation"
+	},
+	"Change": {
+		"message": "Changer"
+	},
+	"Change_Organization_": {
+		"message": "Changer d'organisation..."
+	},
+	"View_Organization_Page": {
+		"message": "Voir la page de l'organisation"
+	},
+	"Rename_Board": {
+		"message": "Renommer le tableau"
+	},
+	"Rename": {
+		"message": "Renommer"
+	},
+	"Close_Board_question_mark": {
+		"message": "Fermer le tableau ?"
+	},
+	"You_can_re_open_the_board_by_clicking_the___Boards___menu_from_the_header_": {
+		"message": "Vous pouvez ré-ouvrir le tableau en cliquant sur le menu « Tableaux » de l'en-tête et en sélectionnant « Voir les tableaux fermés », trouvez le tableau et cliquez sur « Ré-ouvrir »."
+	},
 	"Close": {
 		"message": "Fermer"
 	},
 	"Click_here_to_re_open_it_": {
-		"message": "Click pour ouvrir à nouveau"
+		"message": "Cliquez ici pour le ré-ouvrir."
 	},
 	"is_closed_": {
-		"message": "est fermé"
+		"message": "est fermé."
 	},
 	"Create_Organization": {
-		"message": "Créer une Organisation"
+		"message": "Créer une organisation"
 	},
 	"An_organization_is_a_group_of_boards_and_members_": {
-		"message": "Une Organisation est un groupe de tableaux et de membres"
+		"message": "Une organisation est un groupe de tableaux et de membres."
 	},
 	"Name": {
 		"message": "Nom"
@@ -21,52 +78,55 @@
 		"message": "Description"
 	},
 	"Add_an_Organization": {
-		"message": "Ajouter une Organisation"
+		"message": "Ajouter une organisation"
 	},
 	"Create_an_Organization": {
-		"message": "Créer une Organisation"
+		"message": "Créer une organisation"
+	},
+	"An_organizations_is_a_collection_of_members_and_boards_": {
+		"message": "Une organisation est un ensemble de membres et de tableaux. Elles favorisent le partage et le travail au sein d'un groupe plus facilement."
 	},
 	"What_are_you_organizing_": {
-		"message": "Qu'est ce que vous organisez?"
+		"message": "Qu'est ce que vous organisez ?"
 	},
 	"What_are_you_planning_": {
-		"message": "Quel est le planning?"
+		"message": "Quel est le planning ?"
 	},
 	"Like__Vacation_Planning__for_example_": {
-		"message": "Comme \"Organisation de Vacances\" par exemple"
+		"message": "Comme « Organisation des vacances » par exemple..."
 	},
 	"Like__House_Stuff__for_example_": {
-		"message": "Comme \"Choses de la Maison\" par exemple"
+		"message": "Comme « Objets de la maison » par exemple..."
 	},
 	"Like__Bucket_List__for_example_": {
-		"message": "Comme \"Liste des choses à faire avant de mourir\" par exemple"
+		"message": "Comme « Liste des choses à faire avant de partir » par exemple..."
 	},
 	"Like__Game_Development_Roadmap__": {
-		"message": "Comme \"Plan de Route du Développement du Jeu\""
+		"message": "Comme « Plan de route du développement du jeu »..."
 	},
 	"Like__Calvinball_Meetup_Schedule__": {
-		"message": "Comme \"Horaire de la Réunion de mise en marche de Calvinball\""
+		"message": "Comme « Horaire de la réunion de mise en marche de Calvinball »"
 	},
 	"Like__Weekly_Meal_Planning__for_example_": {
-		"message": "Comme \"Planning Hebdomadaire des Repas\" par exemple"
+		"message": "Comme « Planning hebdomadaire des repas » par exemple."
 	},
 	"Like__School_Research__for_example_": {
-		"message": "Comme \"Recherche d'Écoles\" par exemple"
+		"message": "Comme « Recherche d'écoles » par exemple..."
 	},
 	"Like__Team_Product_Sprint__for_example_": {
-		"message": "Comme \"Sprint de l'Équipe de Produit\" par exemple"
+		"message": "Comme « Sprint de l'équipe de produit » par exemple..."
 	},
 	"Like__Publishing_Calendar__for_example_": {
-		"message": "Comme \"Publication du Calendrier\" par exemple"
+		"message": "Comme « Publication du calendrier » par exemple..."
 	},
 	"Like__New_Hire_Onboarding__for_example_": {
-		"message": "Comme \"Tableau de Nouveau Embauchement\" par exemple"
+		"message": "Comme « Tableau de nouvelles ébauches » par exemple..."
 	},
 	"Like__Reading_Collection__for_example_": {
-		"message": "Comme \"Collection de Lectures\" par exemple"
+		"message": "Comme « Collection de livres » par exemple..."
 	},
 	"Create_new_board_": {
-		"message": "Créer un nouveau tableau ..."
+		"message": "Créer un nouveau tableau..."
 	},
 	"Create_Board": {
 		"message": "Créer un tableau"
@@ -74,20 +134,29 @@
 	"Title": {
 		"message": "Titre"
 	},
+	"Organization": {
+		"message": "Organisation"
+	},
 	"Create": {
 		"message": "Créer"
 	},
 	"This_board_will_be": {
 		"message": "Ce tableau sera"
 	},
+	"private": {
+		"message": "privé"
+	},
 	"Change_": {
 		"message": "Modifier"
+	},
+	"Private": {
+		"message": "Privé"
 	},
 	"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_": {
 		"message": "Ce tableau n'est visible qu'aux membres de l'organisation. Seules les personnes ajoutées au tableau peuvent le modifier."
 	},
 	"This_board_is_private___Only_people_added_to_the_board_can_view_and_edit_it_": {
-		"message": "Ce tableau est privé. Seules les personnes ajoutées ce tableau peuvent l'afficher et le modifier."
+		"message": "Ce tableau est privé. Seules les personnes ajoutées à ce tableau peuvent l'afficher et le modifier."
 	},
 	"The_board_must_be_added_to_an_org_to_enable_this_": {
 		"message": "Le tableau doit être ajouté à une organisation pour permettre cela."
@@ -134,9 +203,6 @@
 	"April": {
 		"message": "Avril"
 	},
-	"May": {
-		"message": "Mai"
-	},
 	"June": {
 		"message": "Juin"
 	},
@@ -170,6 +236,9 @@
 	"Apr": {
 		"message": "Avr"
 	},
+	"May": {
+		"message": "Mai"
+	},
 	"Jun": {
 		"message": "Juin"
 	},
@@ -198,34 +267,34 @@
 		"message": "Votre recherche a généré une erreur."
 	},
 	"Searching_": {
-		"message": "Recherche en cours ..."
+		"message": "Recherche en cours..."
 	},
 	"No_results_": {
-		"message": "Aucun résultat"
+		"message": "Aucun résultat."
 	},
 	"Refine_your_search_with_operators_like__member___label__is_archived__and_has_attachments_": {
 		"message": "Affinez votre recherche avec les opérateurs comme @membre, #label, is:archived, et has:attachments."
 	},
 	"Learn_more_": {
-		"message": "En savoir plus ..."
+		"message": "En savoir plus..."
 	},
 	"Cards": {
 		"message": "Cartes"
 	},
 	"Loading_": {
-		"message": "Chargement en cours ..."
+		"message": "Chargement en cours..."
 	},
 	"Show_more_boards_": {
-		"message": "Voir plus de tableaux ..."
+		"message": "Voir plus de tableaux..."
 	},
 	"Show_more_members_": {
-		"message": "Voir plus de membres ..."
+		"message": "Voir plus de membres..."
 	},
 	"Organizations": {
 		"message": "Organisations"
 	},
 	"Show_more_organizations_": {
-		"message": "Afficher plus d'organisations ..."
+		"message": "Afficher plus d'organisations..."
 	},
 	"Back_to_Saved_Searches": {
 		"message": "Retour aux recherches enregistrées"
@@ -234,7 +303,7 @@
 		"message": "Enregistrer cette recherche"
 	},
 	"Did_you_mean_": {
-		"message": "Vouliez-vous dire ..."
+		"message": "Vouliez-vous dire..."
 	},
 	"Only_include_cards_that_have_stickers_": {
 		"message": "Inclure uniquement les cartes qui ont des autocollants."
@@ -243,7 +312,7 @@
 		"message": "Tableaux favoris"
 	},
 	"My_Boards": {
-		"message": "Mes Tableaux"
+		"message": "Mes tableaux"
 	},
 	"Overview": {
 		"message": "Vue d'ensemble"
@@ -255,16 +324,16 @@
 		"message": "Toujours garder ce menu ouvert."
 	},
 	"Don_t_keep_this_menu_open_": {
-		"message": "Ne gardez pas ce menu ouvert."
+		"message": "Ne pas garder ce menu ouvert."
 	},
 	"See_closed_boards_": {
-		"message": "Voir les tableaux fermés ..."
+		"message": "Voir les tableaux fermés..."
 	},
 	"Find_boards_by_name_": {
-		"message": "Trouver un tableau par son nom ..."
+		"message": "Trouver un tableau par son nom..."
 	},
 	"There_is_new_activity_on_this_board_": {
-		"message": "Il y a une nouvelle activité sur ce tableau ."
+		"message": "Il y a une nouvelle activité sur ce tableau."
 	},
 	"Collapse_section_": {
 		"message": "Réduire la section."
@@ -273,7 +342,7 @@
 		"message": "Développer la section."
 	},
 	"Closed_Boards": {
-		"message": "Tableaux Fermés"
+		"message": "Tableaux fermés"
 	},
 	"Re_open": {
 		"message": "Rouvrir"
@@ -294,7 +363,7 @@
 		"message": "Public"
 	},
 	"Add_a_list_": {
-		"message": "Ajouter une liste ..."
+		"message": "Ajouter une liste..."
 	},
 	"Calendar": {
 		"message": "Calendrier"
@@ -313,6 +382,9 @@
 	},
 	"Notifications": {
 		"message": "Notifications"
+	},
+	"This_board_is_public__It_s_visible_to_anyone_with_the_link_": {
+		"message": "Ce tableau est public. Il est visible à toute personne qui utilise son lien et apparaitra dans les moteurs de recherche comme Google. Seules les personnes ajoutées au tableau peuvent le modifier."
 	},
 	"Go_back_to_your_boards_page_": {
 		"message": "Retour à la page des tableaux."
@@ -339,7 +411,7 @@
 		"message": "Ajouter un nouveau tableau ou une nouvelle organisation."
 	},
 	"You_are_seeing_an_early__experimental_version_of_Trello__We_would_love_your_feedback_": {
-		"message": "Vous voyez une version précoce et expérimentale de Trello. Nous aimerions avoir votre avis!"
+		"message": "Vous voyez une version précoce et expérimentale de Trello. Nous aimerions avoir votre avis !"
 	},
 	"Get_access_to_your_profile__help__and_log_out_": {
 		"message": "Accédez à votre profil, à l'aide, ou à la déconnexion."
@@ -369,7 +441,7 @@
 		"message": "Cliquez ici pour voir plus d'options pour ce tableau."
 	},
 	"Power_Ups": {
-		"message": "Power-Ups"
+		"message": "Options avancées"
 	},
 	"Stickers": {
 		"message": "Autocollants"
@@ -431,9 +503,6 @@
 	"Change_Members": {
 		"message": "Changer les membres"
 	},
-	"Move": {
-		"message": "Déplacer"
-	},
 	"Copy": {
 		"message": "Copier"
 	},
@@ -483,16 +552,22 @@
 		"message": "à joint"
 	},
 	"sent": {
-		"message": "a expédié"
+		"message": "à expédié"
 	},
 	"to_the_board": {
 		"message": "au tableau"
 	},
+	"This_card_is_past_due_": {
+		"message": "Cette carte est expirée."
+	},
+	"You_are_subscribed_to_this_card_": {
+		"message": "Vous êtes inscrit à cette carte."
+	},
 	"Edit_the_description_": {
-		"message": "Modifier la description ..."
+		"message": "Modifier la description..."
 	},
 	"Write_a_comment_": {
-		"message": "Ecrire un commentaire ..."
+		"message": "Écrire un commentaire..."
 	},
 	"Save": {
 		"message": "Enregistrer"
@@ -504,10 +579,16 @@
 		"message": "Étiquettes"
 	},
 	"Checklist": {
-		"message": "Check-list"
+		"message": "« Check-list »"
+	},
+	"Due_date": {
+		"message": "Date d'échéance"
 	},
 	"Attachment": {
 		"message": "Pièce-jointe"
+	},
+	"Move": {
+		"message": "Déplacer"
 	},
 	"Delete": {
 		"message": "Effacer"
@@ -532,6 +613,9 @@
 	},
 	"Add_a_due_date_for_the_card_and_get_notifications_when_it_is_almost_due_": {
 		"message": "Ajouter une date à cette carte et recevez des notifications quand on est proche de l'échéance."
+	},
+	"Attach_files_from_your_computer_or_from_Google_Drive_": {
+		"message": "Ajoutez des fichiers à partir de votre ordinateur ou de Google Drive. Vous pouvez aussi déplacer et lâcher les fichiers à partir de votre bureau pour les charger."
 	},
 	"Move_the_card_to_another_board__another_list__or_a_new_position_in_a_list": {
 		"message": "Déplacez la carte vers un autre tableau, une autre liste, ou une nouvelle position dans la liste"

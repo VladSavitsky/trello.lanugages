@@ -1,0 +1,644 @@
+{
+	"New_Organization_": {
+		"message": "Ny organisering..."
+	},
+	"New_Board_": {
+		"message": "Ny tavla..."
+	},
+	"A_board_is_a_collection_of_cards_ordered_in_a_list_of_lists__": {
+		"message": "En tavla är en samling med kort ordnade i listor, som används för att hantera ett projekt, hålla koll på en samling eller för att organisera olika saker."
+	},
+	"An_organization_is_a_group_of_boards_and_people__": {
+		"message": "En organisering är en grupp av tavlor samt folk, som används för att gruppera tavlor ämnade för ditt företag, ditt team eller din familj."
+	},
+	"Reload_page": {
+		"message": "Ladda om sidan"
+	},
+	"Could_not_connect_to_Trello_": {
+		"message": "Kunde inte ansluta till Trello."
+	},
+	"Page_not_found_": {
+		"message": "Sidan hittades inte."
+	},
+	"This_page_may_be_private__If_someone_gave_you_this_link__": {
+		"message": "Denna sida kan vara privat, personen som gav dig denna länk kan behöva bjuda in dig till en av hans tavlor eller organiseringar."
+	},
+	"View_all_activity_": {
+		"message": "Visa all aktivitet..."
+	},
+	"Board_Activity": {
+		"message": "Tavelaktivitet"
+	},
+	"Load_More_Activity": {
+		"message": "Visa fler aktiviteter"
+	},
+	"Change_Organization": {
+		"message": "Ändra organisering"
+	},
+	"Change": {
+		"message": "Ändra"
+	},
+	"Change_Organization_": {
+		"message": "Ändra organisering..."
+	},
+	"View_Organization_Page": {
+		"message": "Visa organiseringssidan"
+	},
+	"Rename_Board": {
+		"message": "Ändra tavelnamn"
+	},
+	"Rename": {
+		"message": "Ändra namn"
+	},
+	"Close_Board_question_mark": {
+		"message": "Stäng tavla?"
+	},
+	"You_can_re_open_the_board_by_clicking_the___Boards___menu_from_the_header_": {
+		"message": "Du kan öppna tavlan igen genom att först klicka på menyn \"Tavlor\" i rubriken och sedan välja \"Visa stängda tavlor\" för att då hitta önskad tavla och då klicka \"Öppna igen\"."
+	},
+	"Close": {
+		"message": "Stäng"
+	},
+	"Click_here_to_re_open_it_": {
+		"message": "Klicka här för att öppna igen."
+	},
+	"is_closed_": {
+		"message": "är stängd."
+	},
+	"Create_Organization": {
+		"message": "Skapa organisering"
+	},
+	"An_organization_is_a_group_of_boards_and_members_": {
+		"message": "En organisering är en grupp av tavlor samt medlemmar."
+	},
+	"Name": {
+		"message": "Namn"
+	},
+	"Description": {
+		"message": "Beskrivning"
+	},
+	"Add_an_Organization": {
+		"message": "Lägg till en organisering"
+	},
+	"Create_an_Organization": {
+		"message": "Skapa en organisering"
+	},
+	"An_organizations_is_a_collection_of_members_and_boards_": {
+		"message": "En organisering är en samling av medlemmar samt tavlor, vilket gör det ännu enklare att dela med sig och att samarbeta inom en grupp."
+	},
+	"What_are_you_organizing_": {
+		"message": "Vad organiserar du?"
+	},
+	"What_are_you_planning_": {
+		"message": "Vad planerar du?"
+	},
+	"Like__Vacation_Planning__for_example_": {
+		"message": "Likt \"Semesterplanering\" som exempel..."
+	},
+	"Like__House_Stuff__for_example_": {
+		"message": "Likt \"Husgöromål\" som exempel..."
+	},
+	"Like__Bucket_List__for_example_": {
+		"message": "Likt \"Pricklista\" som exempel..."
+	},
+	"Like__Game_Development_Roadmap__": {
+		"message": "Likt \"Spelutvecklingsfärdplan\"..."
+	},
+	"Like__Calvinball_Meetup_Schedule__": {
+		"message": "Likt \"Turnering för Kvantlogikfotboll\"..."
+	},
+	"Like__Weekly_Meal_Planning__for_example_": {
+		"message": "Likt \"Veckans matlista\" som exempel..."
+	},
+	"Like__School_Research__for_example_": {
+		"message": "Likt \"Skolfördjupning\" som exempel..."
+	},
+	"Like__Team_Product_Sprint__for_example_": {
+		"message": "Likt \"Grupp Produktrusch\" som exempel..."
+	},
+	"Like__Publishing_Calendar__for_example_": {
+		"message": "Likt \"Publiceringskalender\" som exempel..."
+	},
+	"Like__New_Hire_Onboarding__for_example_": {
+		"message": "Likt \"Nyrekrytering Lärling\" som exempel..."
+	},
+	"Like__Reading_Collection__for_example_": {
+		"message": "Likt \"läsesamling\" som exempel..."
+	},
+	"Create_new_board_": {
+		"message": "Skapa ny tavla..."
+	},
+	"Create_Board": {
+		"message": "Skapa tavla"
+	},
+	"Title": {
+		"message": "Titel"
+	},
+	"Organization": {
+		"message": "Organisering"
+	},
+	"Create": {
+		"message": "Skapa"
+	},
+	"This_board_will_be": {
+		"message": "Denna tavla kommer att vara"
+	},
+	"private": {
+		"message": "privat"
+	},
+	"Change_": {
+		"message": "Ändra."
+	},
+	"Private": {
+		"message": "Privat"
+	},
+	"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_": {
+		"message": "Denna tavla är endast åtkomlig för organiseringens medlemmar. Endast personer som inkluderats till denna tavla kan redigera den."
+	},
+	"This_board_is_private___Only_people_added_to_the_board_can_view_and_edit_it_": {
+		"message": "Denna tavla är privat. Endast personer som inkluderats till tavlan kan se samt ändra den."
+	},
+	"The_board_must_be_added_to_an_org_to_enable_this_": {
+		"message": "Tavlan måste tilldelas en organisering för att kunna tillåtas detta."
+	},
+	"Today": {
+		"message": "I dag"
+	},
+	"Week": {
+		"message": "Vecka"
+	},
+	"Month": {
+		"message": "Månad"
+	},
+	"Sun": {
+		"message": "Sön"
+	},
+	"Mon": {
+		"message": "Mån"
+	},
+	"Tue": {
+		"message": "Tis"
+	},
+	"Wed": {
+		"message": "Ons"
+	},
+	"Thu": {
+		"message": "Tor"
+	},
+	"Fri": {
+		"message": "Fre"
+	},
+	"Sat": {
+		"message": "Lör"
+	},
+	"January": {
+		"message": "Januari"
+	},
+	"February": {
+		"message": "Februari"
+	},
+	"March": {
+		"message": "Mars"
+	},
+	"April": {
+		"message": "April"
+	},
+	"June": {
+		"message": "Juni"
+	},
+	"July": {
+		"message": "Juli"
+	},
+	"August": {
+		"message": "Augusti"
+	},
+	"September": {
+		"message": "September"
+	},
+	"October": {
+		"message": "Oktober"
+	},
+	"November": {
+		"message": "November"
+	},
+	"December": {
+		"message": "December"
+	},
+	"Jan": {
+		"message": "Jan"
+	},
+	"Feb": {
+		"message": "Feb"
+	},
+	"Mar": {
+		"message": "Mar"
+	},
+	"Apr": {
+		"message": "Apr"
+	},
+	"May": {
+		"message": "Maj"
+	},
+	"Jun": {
+		"message": "Jun"
+	},
+	"Jul": {
+		"message": "Jul"
+	},
+	"Aug": {
+		"message": "Aug"
+	},
+	"Sep": {
+		"message": "Sep"
+	},
+	"Oct": {
+		"message": "Okt"
+	},
+	"Nov": {
+		"message": "Nov"
+	},
+	"Dec": {
+		"message": "Dec"
+	},
+	"Saved_Searches": {
+		"message": "Sparade sökningar"
+	},
+	"Your_search_produced_an_error_": {
+		"message": "Din sökning producerade ett fel."
+	},
+	"Searching_": {
+		"message": "Söker..."
+	},
+	"No_results_": {
+		"message": "Inga resultat."
+	},
+	"Refine_your_search_with_operators_like__member___label__is_archived__and_has_attachments_": {
+		"message": "Förfina din sökning med operatorer såsom @member, #label, is:archived samt has:attachments."
+	},
+	"Learn_more_": {
+		"message": "Finn mer..."
+	},
+	"Cards": {
+		"message": "Kort"
+	},
+	"Loading_": {
+		"message": "Laddar..."
+	},
+	"Show_more_boards_": {
+		"message": "Visa fler tavlor..."
+	},
+	"Show_more_members_": {
+		"message": "Visa fler medlemmar..."
+	},
+	"Organizations": {
+		"message": "Organiseringar"
+	},
+	"Show_more_organizations_": {
+		"message": "Visa fler organiseringar..."
+	},
+	"Back_to_Saved_Searches": {
+		"message": "Tillbaka till sparade sökningar"
+	},
+	"Save_this_Search": {
+		"message": "Spara denna sökning"
+	},
+	"Did_you_mean_": {
+		"message": "Menade du..."
+	},
+	"Only_include_cards_that_have_stickers_": {
+		"message": "Inkludera endast kort som har klistermärken."
+	},
+	"Starred_Boards": {
+		"message": "Stjärnade tavlor"
+	},
+	"My_Boards": {
+		"message": "Mina tavlor"
+	},
+	"Overview": {
+		"message": "Överblick"
+	},
+	"Recent_Boards": {
+		"message": "Senaste tavlor"
+	},
+	"Always_keep_this_menu_open_": {
+		"message": "Håll alltid denna meny öppen."
+	},
+	"Don_t_keep_this_menu_open_": {
+		"message": "Behåll inte denna meny öppen."
+	},
+	"See_closed_boards_": {
+		"message": "Visa stängda tavlor..."
+	},
+	"Find_boards_by_name_": {
+		"message": "Hitta tavlor med namn..."
+	},
+	"There_is_new_activity_on_this_board_": {
+		"message": "Det är ny aktivitet på denna tavla."
+	},
+	"Collapse_section_": {
+		"message": "Sammanfoga sektion."
+	},
+	"Expand_section_": {
+		"message": "Expandera sektion."
+	},
+	"Closed_Boards": {
+		"message": "Stängda tavlor"
+	},
+	"Re_open": {
+		"message": "Öppna igen"
+	},
+	"You_have_to_have_been_a_board_admin_to_re_open_a_closed_board_": {
+		"message": "Du måste vara admin för att åter kunna öppna en stängd tavla."
+	},
+	"Close_this_dialog_window_": {
+		"message": "Stäng detta dialogfönster."
+	},
+	"No_Boards_Found": {
+		"message": "Inga tavlor hittades"
+	},
+	"Boards": {
+		"message": "Tavlor"
+	},
+	"Public": {
+		"message": "Allmän"
+	},
+	"Add_a_list_": {
+		"message": "Lägg till en lista..."
+	},
+	"Calendar": {
+		"message": "Kalender"
+	},
+	"Subscribed": {
+		"message": "Abonnerad"
+	},
+	"Filtering_is_on_": {
+		"message": "Filtrering är på."
+	},
+	"Show_sidebar": {
+		"message": "Visa sidomeny"
+	},
+	"Add_a_card_": {
+		"message": "Lägg till ett kort..."
+	},
+	"Notifications": {
+		"message": "Notifieringar"
+	},
+	"This_board_is_public__It_s_visible_to_anyone_with_the_link_": {
+		"message": "Denna tavla är allmän. Den är synlig för alla som har tillgång till dess länk samt kommer även att synas i sökmotorer såsom Google. Endast personer som är inkluderade till dena tavla kan redigera den."
+	},
+	"Go_back_to_your_boards_page_": {
+		"message": "Gå tillbaka till din tavelsida."
+	},
+	"View_list_of_boards": {
+		"message": "Visa tavellista"
+	},
+	"Rename_the_board_": {
+		"message": "Ändra namn för tavlan."
+	},
+	"You_are_filtering_cards_on_this_board__Click_here_to_edit_filter_": {
+		"message": "Du filtrerar kort på denna tavla, klicka här för att redigera filter."
+	},
+	"You_are_subscribed_to_this_board__You_ll_get_notifications_about_changes_": {
+		"message": "Du abonnerar på denna tavlas uppdateringar, du får notifieringar om ändringar."
+	},
+	"Click_to_star_or_unstar_this_board__Starred_boards_show_up_at_the_top_of_your_boards_list_": {
+		"message": "Klicka för att stjärna eller ostjärna denna tavla. Stjärnade tavlor visas högst upp på din tavellista."
+	},
+	"Close_the_board_sidebar_": {
+		"message": "Stäng tavlans sidomeny."
+	},
+	"Add_a_new_board_or_organization_": {
+		"message": "Lägg till en ny tavla eller organisering."
+	},
+	"You_are_seeing_an_early__experimental_version_of_Trello__We_would_love_your_feedback_": {
+		"message": "Du besöker en tidig och experimentell version av Trello, vi skulle väldigt gärna vilja ta del av dina synpunkter!"
+	},
+	"Get_access_to_your_profile__help__and_log_out_": {
+		"message": "Få åtkomst till din profil, hjälp samt logga ut."
+	},
+	"This_member_has_Trello_Gold_": {
+		"message": "Denna medlem har Trello Gold."
+	},
+	"Click_to_star_this_board__It_will_show_up_at_top_of_your_boards_list_": {
+		"message": "Klicka för att stjärna denna tavla. Den kommer att visas högst upp i din tavellista."
+	},
+	"Search_for_boards__cards__members__and_organizations_": {
+		"message": "Sök efter tavlor, kort, medlemmar och organiseringar."
+	},
+	"Menu": {
+		"message": "Meny"
+	},
+	"Add_Members": {
+		"message": "Lägg till medlemmar"
+	},
+	"Members": {
+		"message": "Medlemmar"
+	},
+	"Activity": {
+		"message": "Aktivitet"
+	},
+	"Click_here_to_see_more_board_options_": {
+		"message": "Klicka här för att visa fler tavelalternativ."
+	},
+	"Power_Ups": {
+		"message": "Superkrafter"
+	},
+	"Stickers": {
+		"message": "Klistermärken"
+	},
+	"Filter_Cards": {
+		"message": "Filtrera kort"
+	},
+	"Archived_Items": {
+		"message": "Arkiverade"
+	},
+	"Change_Background_": {
+		"message": "Ändra bakgrund..."
+	},
+	"Email_to_board_Settings_": {
+		"message": "Inställningar för Email-till-tavlan..."
+	},
+	"Copy_Board_": {
+		"message": "Kopiera tavla..."
+	},
+	"Share__Print__and_Export_": {
+		"message": "Dela, skriv ut och exportera..."
+	},
+	"Additional_Settings_": {
+		"message": "Tilläggsinställningar..."
+	},
+	"Close_Board_": {
+		"message": "Stäng tavla..."
+	},
+	"Leave_Board_": {
+		"message": "Lämna tavla..."
+	},
+	"List_Actions": {
+		"message": "Liståtgärder"
+	},
+	"Add_Card_": {
+		"message": "Lägg till kort..."
+	},
+	"Copy_List_": {
+		"message": "Kopiera lista..."
+	},
+	"Move_List_": {
+		"message": "Flytta lista..."
+	},
+	"Subscribe": {
+		"message": "Abonnera"
+	},
+	"Move_All_Cards_in_This_List_": {
+		"message": "Flytta alla korten i denna lista..."
+	},
+	"Archive_All_Cards_in_This_List_": {
+		"message": "Arkivera alla korten i denna lista..."
+	},
+	"Archive_This_List": {
+		"message": "Arkivera denna lista"
+	},
+	"Edit_Labels": {
+		"message": "Redigera etiketter"
+	},
+	"Change_Members": {
+		"message": "Ändra medlemmar"
+	},
+	"Copy": {
+		"message": "Kopiera"
+	},
+	"Change_Due_Date": {
+		"message": "Ändra förfallodatum"
+	},
+	"Archive": {
+		"message": "Arkivera"
+	},
+	"Add": {
+		"message": "Lägg till"
+	},
+	"Change_Notification_Email_Frequency": {
+		"message": "Ändra frekvens för mailnotifieringar"
+	},
+	"See_All_Notifications": {
+		"message": "Visa alla notifieringar"
+	},
+	"added": {
+		"message": "tillagd"
+	},
+	"to": {
+		"message": "till"
+	},
+	"and": {
+		"message": "och"
+	},
+	"joined": {
+		"message": "kombinerad"
+	},
+	"moved": {
+		"message": "flyttad"
+	},
+	"from": {
+		"message": "från"
+	},
+	"archived": {
+		"message": "arkiverad"
+	},
+	"renamed": {
+		"message": "omdöpt"
+	},
+	"this_board": {
+		"message": "denna tavla"
+	},
+	"attached": {
+		"message": "knuten"
+	},
+	"sent": {
+		"message": "skickad"
+	},
+	"to_the_board": {
+		"message": "till tavlan"
+	},
+	"This_card_is_past_due_": {
+		"message": "Detta kort har utgått."
+	},
+	"You_are_subscribed_to_this_card_": {
+		"message": "Du abonnerar på dessa kort."
+	},
+	"Edit_the_description_": {
+		"message": "Redigera beskrivningen..."
+	},
+	"Write_a_comment_": {
+		"message": "Skriv en kommentar..."
+	},
+	"Save": {
+		"message": "Spara"
+	},
+	"Actions": {
+		"message": "Åtgärder"
+	},
+	"Labels": {
+		"message": "Etiketter"
+	},
+	"Checklist": {
+		"message": "Checklista"
+	},
+	"Due_date": {
+		"message": "Utgångsdatum"
+	},
+	"Attachment": {
+		"message": "Tillfogning"
+	},
+	"Move": {
+		"message": "Flytta"
+	},
+	"Delete": {
+		"message": "Radera"
+	},
+	"Share_and_more_": {
+		"message": "Dela samt mer..."
+	},
+	"Send_to_board": {
+		"message": "Skicka till tavla"
+	},
+	"Drop_files_to_upload_": {
+		"message": "Droppa filer för uppladdning."
+	},
+	"Add_or_remove_members_of_the_board_from_the_card_": {
+		"message": "Lägg till eller avlägsna tavelmedlemmar för detta kort."
+	},
+	"Change_the_labels_for_the_card_": {
+		"message": "Ändra etiketterna för detta kort."
+	},
+	"Add_a_checklist_and_divide_the_card_into_subtasks_": {
+		"message": "Lägg till en checklista och dela upp kortet till deluppgifter."
+	},
+	"Add_a_due_date_for_the_card_and_get_notifications_when_it_is_almost_due_": {
+		"message": "Lägg till ett utgångsdatum för kortet och få notifieringar när tiden är nära."
+	},
+	"Attach_files_from_your_computer_or_from_Google_Drive_": {
+		"message": "Tillfoga filer från din dator eller från Google Drive. Du kan även ladda upp filer från ditt skrivbord genom att dra dom hit med musen."
+	},
+	"Move_the_card_to_another_board__another_list__or_a_new_position_in_a_list": {
+		"message": "Flytta kortet till en annan tavla, annan lista eller till en annan position i en lista"
+	},
+	"Make_a_copy_of_this_card__optionally_include_checklist__labels__members__attachments__etc_": {
+		"message": "Skapa en kopia av detta kort, alternativt inkludera en checklista, etiketter, medlemmar, tillfogningar och så vidare."
+	},
+	"Subscribe_to_the_card_to_get_notifications_when_something_changes_": {
+		"message": "Abonnera på detta kort för att får notifieringar när någonting ändrats."
+	},
+	"Remove_the_card_from_the_board_": {
+		"message": "Avlägsna detta kort från tavlan."
+	},
+	"Send_the_card_back_to_the_board_": {
+		"message": "Skicka detta kort tillbaka till tavlan."
+	},
+	"Delete_the_card_and_all_history_associated_with_it__It_can_t_be_retrieved_": {
+		"message": "Radera detta kort samt även all dess associerade historik, vilket inte kan bli återskapad."
+	},
+	"More_options_share__print__export__and_delete_": {
+		"message": "Fler val såsom dela, skriv ut, exportera och radera."
+	},
+	"in_list": {
+		"message": "i lista"
+	}
+}

@@ -131,9 +131,6 @@
 	"April": {
 		"message": "四月"
 	},
-	"May": {
-		"message": "五月"
-	},
 	"June": {
 		"message": "六月"
 	},
@@ -154,6 +151,9 @@
 	},
 	"December": {
 		"message": "十二月"
+	},
+	"May": {
+		"message": "五月"
 	},
 	"Saved_Searches": {
 		"message": "已保存搜索"
@@ -338,9 +338,6 @@
 	"Change_Members": {
 		"message": "更换成员"
 	},
-	"Move": {
-		"message": "移动"
-	},
 	"Copy": {
 		"message": "复制"
 	},
@@ -418,6 +415,9 @@
 	},
 	"Attachment": {
 		"message": "附件"
+	},
+	"Move": {
+		"message": "移动"
 	},
 	"Delete": {
 		"message": "删除"

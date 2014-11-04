@@ -1,6 +1,42 @@
 {
+	"New_Organization_": {
+		"message": "Nueva Organización..."
+	},
+	"New_Board_": {
+		"message": "Nuevo Panel..."
+	},
+	"A_board_is_a_collection_of_cards_ordered_in_a_list_of_lists__": {
+		"message": "Un panel es una colección de fichas ordenadas en una lista con varias listas. Úsala para gestionar un proyecto, controlar una recopilación u organizar algo"
+	},
+	"An_organization_is_a_group_of_boards_and_people__": {
+		"message": "Una organización es un conjunto de paneles y gente. Úsala para agrupar paneles dentro de tu compañía, equipo o familia."
+	},
+	"Reload_page": {
+		"message": "Recargar página"
+	},
+	"Could_not_connect_to_Trello_": {
+		"message": "No se puede conectar a Trello"
+	},
+	"Page_not_found_": {
+		"message": "Página no encontrada"
+	},
+	"This_page_may_be_private__If_someone_gave_you_this_link__": {
+		"message": "Esta página puede ser privada. Si alguien te proporcionó este link, puede que necesiten invitarte a uno de sus paneles u organizaciones."
+	},
+	"View_all_activity_": {
+		"message": "Ver toda la actividad..."
+	},
+	"Board_Activity": {
+		"message": "Actividad en el Panel"
+	},
+	"Load_More_Activity": {
+		"message": "Cargar más Actividad"
+	},
 	"Change_Organization": {
 		"message": "Cambiar Organización"
+	},
+	"Change": {
+		"message": "Cambiar"
 	},
 	"Change_Organization_": {
 		"message": "Cambiar Organización..."
@@ -90,13 +126,16 @@
 		"message": "Por ejemplo \"Colección de Lectura\"..."
 	},
 	"Create_new_board_": {
-		"message": "Cear un nuevo panel..."
+		"message": "Crear un nuevo panel..."
 	},
 	"Create_Board": {
 		"message": "Crear un panel"
 	},
 	"Title": {
 		"message": "Título"
+	},
+	"Organization": {
+		"message": "Organización"
 	},
 	"Create": {
 		"message": "Crear"
@@ -158,9 +197,6 @@
 	"April": {
 		"message": "Abril"
 	},
-	"May": {
-		"message": "Mayo"
-	},
 	"June": {
 		"message": "Junio"
 	},
@@ -193,6 +229,9 @@
 	},
 	"Apr": {
 		"message": "Abr"
+	},
+	"May": {
+		"message": "Mayo"
 	},
 	"Jun": {
 		"message": "Jun"
@@ -270,7 +309,7 @@
 		"message": "Mis Paneles"
 	},
 	"Overview": {
-		"message": "vista General"
+		"message": "Vista General"
 	},
 	"Recent_Boards": {
 		"message": "Paneles Recientes"
@@ -458,9 +497,6 @@
 	"Change_Members": {
 		"message": "Cambiar Miembros"
 	},
-	"Move": {
-		"message": "Mover"
-	},
 	"Copy": {
 		"message": "Copiar"
 	},
@@ -544,6 +580,9 @@
 	},
 	"Attachment": {
 		"message": "Adjunto"
+	},
+	"Move": {
+		"message": "Mover"
 	},
 	"Delete": {
 		"message": "Borrar"
