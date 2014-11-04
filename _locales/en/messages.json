@@ -537,7 +537,7 @@
 },
 "Subscribed"        : {
   "message" : "Subscribed",
-  "description" : "Main interface"
+  "description" : "Card Edit Window; Board page."
 },
 "Filtering_is_on_" : {
   "message" : "Filtering is on.",
@@ -697,7 +697,7 @@
 },
 "Subscribe" : {
   "message" : "Subscribe",
-  "description" : "List actions pop-up"
+  "description" : "List actions pop-up; Card Edit Window."
 },
 "Move_All_Cards_in_This_List_" : {
   "message" : "Move All Cards in This List…",
@@ -810,9 +810,14 @@
   "message" : "Write a comment…",
   "description" : "Edit card popup"
 },
+
+"Formatting_help" : {
+  "message" : "Formatting help",
+  "description" : "Click any card at board. Click 'Edit description'."
+},
 "Save"  : {
   "message" : "Save",
-  "description" : "Edit card popup"
+  "description" : "Click any card at board. Click 'Edit description'."
 },
 "Actions"  : {
   "message" : "Actions",

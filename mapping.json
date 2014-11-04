@@ -1,7 +1,47 @@
 {
   "new_element" : {
     "meta" : {
-      "howToGet" : "",
+      "howtoget" : "",
+      "basepath" : "",
+      "flag" : ""
+    },
+    "html" : {
+    },
+    "formelements" : {
+    },
+    "title" : {
+    },
+    "placeholder" : {
+    },
+    "substrings" : {
+    }
+  },
+
+
+  "subscribeButtonAtCardEditWindow" : {
+    "meta" : {
+      "howtoget" : "Open Card Edit window and click 'Subscribe'.",
+      "basepath" : "body > div.window-overlay > div > div > div > div.window-sidebar > div.window-module.other-actions > div > div.js-subscribe-sidebar-button",
+      "flag" : "> a.button-link"
+    },
+    "html" : {},
+    "formelements" : {},
+    "title" : {
+      "Subscribe_to_the_card_to_get_notifications_when_something_changes_" :
+        "> a.button-link"
+    },
+    "placeholder" : {},
+    "substrings" : {
+      "Subscribe" : "> a.button-link"
+    }
+  },
+
+
+
+
+  "formattingHelpWidnow" : {
+    "meta" : {
+      "howToGet" : "Open any board. Click any card. Click 'Edit description'. Click 'Formatting help'.",
       "basePath" : "",
       "flag" : ""
     },
@@ -16,6 +56,105 @@
     "substrings" : {
     }
   },
+
+
+
+
+
+
+
+  "cardEditWindow" : {
+    "meta" : {
+      "howToGet" : "Click any card on board.",
+      "basePath" : "body > div.window-overlay",
+      "flag" : "> div > div > div > div.window-sidebar > div > p > a.quiet-button.js-more-menu"
+
+    },
+    "html" : {
+      "Members" :
+        "> div > div > div > div.window-main-col > div.card-detail-data > div.card-detail-item.card-detail-item-members.js-card-detail-members > h3.card-detail-item-header",
+      "Activity" :
+        "> div > div > div > div.window-main-col > div > div.window-module-title.window-module-title-no-divider > h3",
+      "Members" :
+        "> div > div > div > div.window-sidebar > div > div > a.js-change-card-members",
+      "Move" :
+        "> div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-move-card",
+      "Copy" :
+        "> div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-copy-card",
+      "Archive" :
+        "> div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-archive-card",
+      "Due_Date" :
+        "> div > div > div > div.window-main-col > div.card-detail-data > div.card-detail-item.card-detail-item-due-date.js-card-detail-due-date > h3.card-detail-item-header",
+      "Labels" :
+        "> div > div > div > div.window-main-col > div.card-detail-data > div.card-detail-item.card-detail-item-labels.js-card-detail-labels > h3",
+      "Add" :
+        "> div > div > div > div.window-sidebar > div.window-module > h3",
+      "Actions" :
+        "> div > div > div > div.window-sidebar > div.window-module.other-actions > h3",
+      "Edit_the_description_" :
+        "> div > div > div > div.window-main-col > div.card-detail-data > div.card-detail-item.card-detail-item-block.editable > p.bottom > a.js-hide-with-desc",
+      "Labels" :
+        "> div > div > div > div.window-sidebar > div > div > a.js-edit-labels",
+      "Checklist" :
+        "> div > div > div > div.window-sidebar > div > div > a.js-add-checklist-menu",
+      "Due_date" :
+        "> div > div > div > div.window-sidebar > div > div > a.js-add-due-date",
+      "Attachment" :
+        "> div > div > div > div.window-sidebar > div > div > a.button-link.js-attach",
+      "Delete" :
+        "> div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-delete-card",
+      "Share_and_more_" :
+        "> div > div > div > div.window-sidebar > div:nth-child(3) > p > a.quiet-button.js-more-menu",
+      "Send_to_board" :
+        "> div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-unarchive-card",
+      "Drop_files_to_upload_" :
+        "> div > div > div > p.dropzone"
+    },
+    "formElements" : {},
+    "title" : {
+      "Add_or_remove_members_of_the_board_from_the_card_" :
+        "> div > div > div > div.window-sidebar > div:nth-child(1) > div > a.button-link.js-change-card-members",
+      "Change_the_labels_for_the_card_" :
+        "> div > div > div > div.window-sidebar > div:nth-child(1) > div > a.button-link.js-edit-labels",
+      "Add_a_checklist_and_divide_the_card_into_subtasks_" :
+        "> div > div > div > div.window-sidebar > div:nth-child(1) > div > a.button-link.js-add-checklist-menu",
+      "Add_a_due_date_for_the_card_and_get_notifications_when_it_is_almost_due_" :
+        "> div > div > div > div.window-sidebar > div > div > a.js-add-due-date",
+      "Attach_files_from_your_computer_or_from_Google_Drive_" :
+        "> div > div > div > div.window-sidebar > div:nth-child(1) > div > a.button-link.js-attach",
+      "Move_the_card_to_another_board__another_list__or_a_new_position_in_a_list" :
+        "> div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-move-card",
+      "Make_a_copy_of_this_card__optionally_include_checklist__labels__members__attachments__etc_" :
+        "> div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-copy-card",
+      "Remove_the_card_from_the_board_" :
+        "> div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-archive-card",
+      "Send_the_card_back_to_the_board_" :
+        "> div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-unarchive-card",
+      "Delete_the_card_and_all_history_associated_with_it__It_can_t_be_retrieved_" :
+        "> div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-delete-card",
+      "More_options_share__print__export__and_delete_" :
+        "> div > div > div > div.window-sidebar > div:nth-child(3) > p > a.quiet-button.js-more-menu",
+      "Click_to_star_this_board__It_will_show_up_at_top_of_your_boards_list_" :
+        "#content > div > div > ul > li > a > span > span.icon-sm.icon-star.js-star-board",
+      "You_are_subscribed_to_this_card_" :
+        "> div > div.list-card.list-card-quick-edit.js-stop > div.list-card-details.clearfix > div.badges > div",
+      "This_card_is_past_due_" :
+        "> div > div.list-card.list-card-quick-edit.js-stop > div.list-card-details.clearfix > div.badges > div.badge-state-due-past.badge"
+    },
+    "placeholder" : {
+      "Write_a_comment_" :
+        "> div > div > div > div.window-main-col > div > div.new-comment.js-new-comment > textarea.js-new-comment-input"
+    },
+    "substrings" : {
+      "in_list" :
+        "> div > div > div > div.window-header > div > div.window-header-inline-content.js-current-list > p.inline-block"
+    }
+  },
+
+
+
+
+
 
 
 
@@ -231,105 +370,6 @@
     "placeholder" : {},
     "substrings" : {}
   },
-
-
-
-
-  "cardEditWindow" : {
-    "meta" : {
-      "howToGet" : "Click any card on board.",
-      "basePath" : "body > div.window-overlay",
-      "flag" : "> div > div > div > div.window-sidebar > div > p > a.quiet-button.js-more-menu"
-
-    },
-    "html" : {
-      "Members" :
-        "> div > div > div > div.window-main-col > div.card-detail-data > div.card-detail-item.card-detail-item-members > h3",
-      "Activity" :
-        "> div > div > div > div.window-main-col > div > div.window-module-title.window-module-title-no-divider > h3",
-      "Members" :
-        "> div > div > div > div.window-sidebar > div > div > a.js-change-card-members",
-      "Subscribe" :
-        "> div > div > div > div.window-sidebar > div.window-module.other-actions > div > div.js-subscribe-sidebar-button > a.button-link.js-subscribe",
-      "Move" :
-        "> div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-move-card",
-      "Copy" :
-        "> div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-copy-card",
-      "Archive" :
-        "> div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-archive-card",
-      "Due_Date" :
-        "> div > div > div > div.window-main-col > div.card-detail-data > div.card-detail-item.card-detail-item-due-date.js-card-detail-due-date > h3.card-detail-item-header",
-      "Labels" :
-        "> div > div > div > div.window-main-col > div.card-detail-data > div.card-detail-item.card-detail-item-labels.js-card-detail-labels > h3",
-      "Add" :
-        "> div > div > div > div.window-sidebar > div.window-module > h3",
-      "Actions" :
-        "> div > div > div > div.window-sidebar > div.window-module.other-actions > h3",
-      "Edit_the_description_" :
-        "> div > div > div > div.window-main-col > div.card-detail-data > div.card-detail-item.card-detail-item-block.editable > p.bottom > a.js-hide-with-desc",
-      "Labels" :
-        "> div > div > div > div.window-sidebar > div > div > a.js-edit-labels",
-      "Checklist" :
-        "> div > div > div > div.window-sidebar > div > div > a.js-add-checklist-menu",
-      "Due_date" :
-        "> div > div > div > div.window-sidebar > div > div > a.js-add-due-date",
-      "Attachment" :
-        "> div > div > div > div.window-sidebar > div > div > a.button-link.js-attach",
-      "Delete" :
-        "> div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-delete-card",
-      "Share_and_more_" :
-        "> div > div > div > div.window-sidebar > div:nth-child(3) > p > a.quiet-button.js-more-menu",
-      "Send_to_board" :
-        "> div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-unarchive-card",
-      "Drop_files_to_upload_" :
-        "> div > div > div > p.dropzone"
-    },
-    "formElements" : {
-      "Save" :
-        "> div > div > div > div.window-main-col > div.card-detail-data > div.card-detail-item.card-detail-item-block > div.card-detail-edit > div > input.js-save-edit"
-    },
-    "title" : {
-      "Add_or_remove_members_of_the_board_from_the_card_" :
-        "> div > div > div > div.window-sidebar > div:nth-child(1) > div > a.button-link.js-change-card-members",
-      "Change_the_labels_for_the_card_" :
-        "> div > div > div > div.window-sidebar > div:nth-child(1) > div > a.button-link.js-edit-labels",
-      "Add_a_checklist_and_divide_the_card_into_subtasks_" :
-        "> div > div > div > div.window-sidebar > div:nth-child(1) > div > a.button-link.js-add-checklist-menu",
-      "Add_a_due_date_for_the_card_and_get_notifications_when_it_is_almost_due_" :
-        "> div > div > div > div.window-sidebar > div > div > a.js-add-due-date",
-      "Attach_files_from_your_computer_or_from_Google_Drive_" :
-        "> div > div > div > div.window-sidebar > div:nth-child(1) > div > a.button-link.js-attach",
-      "Move_the_card_to_another_board__another_list__or_a_new_position_in_a_list" :
-        "> div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-move-card",
-      "Make_a_copy_of_this_card__optionally_include_checklist__labels__members__attachments__etc_" :
-        "> div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-copy-card",
-      "Subscribe_to_the_card_to_get_notifications_when_something_changes_" :
-        "> div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > div.js-subscribe-sidebar-button > a.button-link.js-subscribe",
-      "Remove_the_card_from_the_board_" :
-        "> div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-archive-card",
-      "Send_the_card_back_to_the_board_" :
-        "> div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-unarchive-card",
-      "Delete_the_card_and_all_history_associated_with_it__It_can_t_be_retrieved_" :
-        "> div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-delete-card",
-      "More_options_share__print__export__and_delete_" :
-        "> div > div > div > div.window-sidebar > div:nth-child(3) > p > a.quiet-button.js-more-menu",
-      "Click_to_star_this_board__It_will_show_up_at_top_of_your_boards_list_" :
-        "#content > div > div > ul > li > a > span > span.icon-sm.icon-star.js-star-board",
-      "You_are_subscribed_to_this_card_" :
-        "> div > div.list-card.list-card-quick-edit.js-stop > div.list-card-details.clearfix > div.badges > div",
-      "This_card_is_past_due_" :
-        "> div > div.list-card.list-card-quick-edit.js-stop > div.list-card-details.clearfix > div.badges > div.badge-state-due-past.badge"
-    },
-    "placeholder" : {
-      "Write_a_comment_" :
-        "> div > div > div > div.window-main-col > div > div.new-comment.js-new-comment > textarea.js-new-comment-input"
-    },
-    "substrings" : {
-      "in_list" :
-        "> div > div > div > div.window-header > div > div.window-header-inline-content.js-current-list > p.inline-block"
-    }
-  },
-
 
 
 
@@ -987,6 +1027,23 @@
       "New_Board_" :
         "> div.content > div > ul > li > a.js-new-board"
     }
+  },
+  "cardDescriptionEdit" : {
+    "meta" : {
+      "howToGet" : "Click any card at board. Click 'Edit description'.",
+      "basePath" : "body > div.window-overlay > div > div > div > div.window-main-col > div.card-detail-data > div.card-detail-item.card-detail-item-block > div.card-detail-edit.edit",
+      "flag" :
+      "> a.js-format-help"
+    },
+    "html" : {
+      "Formatting_help" : "> a.js-format-help"
+    },
+    "formElements" : {
+      "Save" : "> div > input.js-save-edit"
+    },
+    "title" : {},
+    "placeholder" : {},
+    "substrings" : {}
   },
   "Closed_boards_window" : {
     "meta" : {
