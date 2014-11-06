@@ -569,6 +569,9 @@
 	"Write_a_comment_": {
 		"message": "Écrire un commentaire..."
 	},
+	"Formatting_help": {
+		"message": "Aide au formatage"
+	},
 	"Save": {
 		"message": "Enregistrer"
 	},

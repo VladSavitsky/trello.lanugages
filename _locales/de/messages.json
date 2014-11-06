@@ -1,4 +1,61 @@
 {
+	"New_Organization_": {
+		"message": "Neue Organisation"
+	},
+	"New_Board_": {
+		"message": "Neues Board"
+	},
+	"A_board_is_a_collection_of_cards_ordered_in_a_list_of_lists__": {
+		"message": "Ein Board besteht aus in Listen zusammengefasste Karten. Benutze es um Projekte zu verwalten, um Änderungen zu verfolgen oder einfach alles mögliche zu organisieren."
+	},
+	"An_organization_is_a_group_of_boards_and_people__": {
+		"message": "Benutzer und Boards können in einer Organisation zusammengefasst werden. Benutze sie um Boards gemeinsam in einem Unternehmen, Team oder der Familie zu benutzen."
+	},
+	"Reload_page": {
+		"message": "Seite neu laden"
+	},
+	"Could_not_connect_to_Trello_": {
+		"message": "Keine Verbindung zu Trello."
+	},
+	"Page_not_found_": {
+		"message": "Seite nicht gefunden."
+	},
+	"This_page_may_be_private__If_someone_gave_you_this_link__": {
+		"message": "Diese Seite ist Privat. Um diese Seite sehen zu können, müssen Sie zunächst als Mitglied zu diesem Boards oder der Organisation hinzugefügt werden."
+	},
+	"View_all_activity_": {
+		"message": "Alle Aktivitäten..."
+	},
+	"Board_Activity": {
+		"message": "Board Aktivitäten"
+	},
+	"Load_More_Activity": {
+		"message": "Mehr Aktivitäten"
+	},
+	"Change_Organization": {
+		"message": "Organisation ändern"
+	},
+	"Change": {
+		"message": "ändern"
+	},
+	"Change_Organization_": {
+		"message": "Organisation ändern..."
+	},
+	"View_Organization_Page": {
+		"message": "Organisations-Seite öffnen"
+	},
+	"Rename_Board": {
+		"message": "Board umbenennen"
+	},
+	"Rename": {
+		"message": "Umbenennen"
+	},
+	"Close_Board_question_mark": {
+		"message": "Board schließen?"
+	},
+	"You_can_re_open_the_board_by_clicking_the___Boards___menu_from_the_header_": {
+		"message": "Sie können dieses Board wiederherstellen indem Sie auf oben im \"Board\"-Menü \"Geschlossene Boards ansehen\" und dort beim gewünschten Board \"erneut öffnen\" wählen."
+	},
 	"Close": {
 		"message": "Schließen"
 	},
@@ -25,6 +82,9 @@
 	},
 	"Create_an_Organization": {
 		"message": "Organisation anlegen"
+	},
+	"An_organizations_is_a_collection_of_members_and_boards_": {
+		"message": "Mitglieder und Boards können in einer Organisation zusammengefasst werden. Teilen und zusammenarbeiten ist in einer Gruppe viel einfacher."
 	},
 	"What_are_you_organizing_": {
 		"message": "Was organisieren Sie?"
@@ -74,14 +134,23 @@
 	"Title": {
 		"message": "Titel"
 	},
+	"Organization": {
+		"message": "Organisation"
+	},
 	"Create": {
 		"message": "Erstellen"
 	},
 	"This_board_will_be": {
 		"message": "Dieses Board ist"
 	},
+	"private": {
+		"message": "Privat"
+	},
 	"Change_": {
 		"message": "Ändern"
+	},
+	"Private": {
+		"message": "Privat"
 	},
 	"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_": {
 		"message": "Dieses Board ist nur sichtbar für Mitglieder der Organisation. Nur Personen die zum Board hinzugefügt wurden, können bearbeiten."
@@ -285,7 +354,7 @@
 		"message": "Dieses Fenster schließen."
 	},
 	"No_Boards_Found": {
-		"message": "Es wurden keine Boards gefunden"
+		"message": "Keine Boards gefunden"
 	},
 	"Boards": {
 		"message": "Boards"
@@ -294,7 +363,7 @@
 		"message": "Öffentlich"
 	},
 	"Add_a_list_": {
-		"message": "Eine Liste einfügen…"
+		"message": "Neue Liste…"
 	},
 	"Calendar": {
 		"message": "Kalender"
@@ -309,10 +378,13 @@
 		"message": "Zeige Menü"
 	},
 	"Add_a_card_": {
-		"message": "Karte hinzufügen…"
+		"message": "Neue Karte…"
 	},
 	"Notifications": {
 		"message": "Benachrichtigungen"
+	},
+	"This_board_is_public__It_s_visible_to_anyone_with_the_link_": {
+		"message": "Dieses Board ist öffentlich. Es ist für jeden sichtbar, der über einen Link zu diesem Board verfügt oder diesen über Suchmaschinen wie Google findet. Nur Mitglieder dieses Boards können Änderungen durchführen."
 	},
 	"Go_back_to_your_boards_page_": {
 		"message": "Zurück zu Ihren Boards."
@@ -327,7 +399,7 @@
 		"message": "Sie filtern die Karten dieses Boards. Klicken Sie hier, um den Filter zu bearbeiten."
 	},
 	"You_are_subscribed_to_this_board__You_ll_get_notifications_about_changes_": {
-		"message": "Sie haben dieses Board abonniert. Sie erhalten Benachrichtigungen bei Änderungen."
+		"message": "Sie haben dieses Board abonniert. Bei Änderungen werden Sie benachrichtigt."
 	},
 	"Click_to_star_or_unstar_this_board__Starred_boards_show_up_at_the_top_of_your_boards_list_": {
 		"message": "Klicken, um dieses Board zu beobachten\/zu ignorieren. Beobachtete Boards werden oben in Ihrer Board-Liste angezeigt."
@@ -336,7 +408,7 @@
 		"message": "Board-Menü schließen."
 	},
 	"Add_a_new_board_or_organization_": {
-		"message": "Neues Board oder neue Organisation hinzufügen."
+		"message": "Neues Board oder neue Organisation."
 	},
 	"You_are_seeing_an_early__experimental_version_of_Trello__We_would_love_your_feedback_": {
 		"message": "Sie sehen eine frühe, experimentelle Version von Trello. Wir freuen uns auf Ihr Feedback!"
@@ -357,7 +429,7 @@
 		"message": "Menü"
 	},
 	"Add_Members": {
-		"message": "Mitglieder hinzufügen"
+		"message": "Neue Mitglieder"
 	},
 	"Members": {
 		"message": "Mitglieder"
@@ -497,6 +569,9 @@
 	"Write_a_comment_": {
 		"message": "Kommentar schreiben…"
 	},
+	"Formatting_help": {
+		"message": "Hilfe zur Formatierung"
+	},
 	"Save": {
 		"message": "Speichern"
 	},
@@ -508,6 +583,9 @@
 	},
 	"Checklist": {
 		"message": "Checkliste"
+	},
+	"Due_date": {
+		"message": "Fälligkeit"
 	},
 	"Attachment": {
 		"message": "Anhang"
@@ -538,6 +616,9 @@
 	},
 	"Add_a_due_date_for_the_card_and_get_notifications_when_it_is_almost_due_": {
 		"message": "Ein Fälligkeitsdatum für diese Karte hinzufügen und Benachrichtigungen erhalten, wenn es fast fällig ist."
+	},
+	"Attach_files_from_your_computer_or_from_Google_Drive_": {
+		"message": "Dateien vom Computer oder aus Google Drive anhängen. Sie können auch Dateien per drag'n'drop von Ihrem Computer hinzufügen."
 	},
 	"Move_the_card_to_another_board__another_list__or_a_new_position_in_a_list": {
 		"message": "Diese Karte zu einem anderen Board, einer anderen Liste oder einer neuen Position dieser Liste verschieben."

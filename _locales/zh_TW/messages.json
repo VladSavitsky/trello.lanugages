@@ -1,15 +1,45 @@
 {
+	"New_Organization_": {
+		"message": "新增組織..."
+	},
+	"New_Board_": {
+		"message": "新增版塊..."
+	},
+	"Reload_page": {
+		"message": "更新頁面"
+	},
+	"Could_not_connect_to_Trello_": {
+		"message": "無法連線至Trello"
+	},
+	"Page_not_found_": {
+		"message": "無此頁面"
+	},
+	"This_page_may_be_private__If_someone_gave_you_this_link__": {
+		"message": "這個頁面可能是私有的。如果此連結是其他人給你的，他們可能要邀請你加入一個板塊或是組織"
+	},
+	"View_all_activity_": {
+		"message": "檢視所有的活動"
+	},
+	"Board_Activity": {
+		"message": "版塊的活動"
+	},
+	"Load_More_Activity": {
+		"message": "讀取更多的活動"
+	},
 	"Change_Organization": {
-		"message": "更改組織"
+		"message": "變更組織"
+	},
+	"Change": {
+		"message": "變更"
 	},
 	"Change_Organization_": {
-		"message": "更改組織"
+		"message": "更改組織..."
 	},
 	"View_Organization_Page": {
-		"message": "觀看組織頁面"
+		"message": "檢視組織頁面"
 	},
 	"Rename_Board": {
-		"message": "白板改名"
+		"message": "版塊改名"
 	},
 	"Rename": {
 		"message": "改名"
@@ -34,5 +64,263 @@
 	},
 	"An_organization_is_a_group_of_boards_and_members_": {
 		"message": "組織是由一群白板和成員組成的。"
+	},
+	"Name": {
+		"message": "名稱"
+	},
+	"Description": {
+		"message": "描述"
+	},
+	"Add_an_Organization": {
+		"message": "加入一個組織"
+	},
+	"Create_an_Organization": {
+		"message": "建立一個組織"
+	},
+	"Create_new_board_": {
+		"message": "建立新的版塊..."
+	},
+	"Create_Board": {
+		"message": "建立版塊"
+	},
+	"Title": {
+		"message": "標題"
+	},
+	"Organization": {
+		"message": "組織"
+	},
+	"Create": {
+		"message": "建立"
+	},
+	"This_board_will_be": {
+		"message": "這個版塊將會"
+	},
+	"private": {
+		"message": "私人"
+	},
+	"Change_": {
+		"message": "變更"
+	},
+	"Private": {
+		"message": "私人"
+	},
+	"Today": {
+		"message": "今天"
+	},
+	"Week": {
+		"message": "週"
+	},
+	"Month": {
+		"message": "月"
+	},
+	"Sun": {
+		"message": "週日"
+	},
+	"Mon": {
+		"message": "周一"
+	},
+	"Tue": {
+		"message": "週二"
+	},
+	"Wed": {
+		"message": "週三"
+	},
+	"Thu": {
+		"message": "週四"
+	},
+	"Fri": {
+		"message": "週五"
+	},
+	"Sat": {
+		"message": "週六"
+	},
+	"January": {
+		"message": "一月"
+	},
+	"February": {
+		"message": "二月"
+	},
+	"March": {
+		"message": "三月"
+	},
+	"April": {
+		"message": "四月"
+	},
+	"June": {
+		"message": "六月"
+	},
+	"July": {
+		"message": "七月"
+	},
+	"August": {
+		"message": "八月"
+	},
+	"September": {
+		"message": "九月"
+	},
+	"October": {
+		"message": "十月"
+	},
+	"November": {
+		"message": "十一月"
+	},
+	"December": {
+		"message": "十二月"
+	},
+	"Jan": {
+		"message": "一"
+	},
+	"Feb": {
+		"message": "二"
+	},
+	"Mar": {
+		"message": "三"
+	},
+	"Apr": {
+		"message": "四"
+	},
+	"May": {
+		"message": "五"
+	},
+	"Jun": {
+		"message": "六"
+	},
+	"Jul": {
+		"message": "七"
+	},
+	"Aug": {
+		"message": "八"
+	},
+	"Sep": {
+		"message": "九"
+	},
+	"Oct": {
+		"message": "十"
+	},
+	"Nov": {
+		"message": "十一"
+	},
+	"Dec": {
+		"message": "十二"
+	},
+	"Saved_Searches": {
+		"message": "已儲存的搜尋結果"
+	},
+	"Searching_": {
+		"message": "搜尋中..."
+	},
+	"No_results_": {
+		"message": "沒有結果"
+	},
+	"Learn_more_": {
+		"message": "了解更多..."
+	},
+	"Cards": {
+		"message": "卡片"
+	},
+	"Loading_": {
+		"message": "讀取中..."
+	},
+	"Show_more_boards_": {
+		"message": "顯示更多版塊..."
+	},
+	"Show_more_members_": {
+		"message": "顯示更多成員..."
+	},
+	"Organizations": {
+		"message": "組織"
+	},
+	"Show_more_organizations_": {
+		"message": "顯示更多組織..."
+	},
+	"Back_to_Saved_Searches": {
+		"message": "回到已儲存的搜尋結果"
+	},
+	"Save_this_Search": {
+		"message": "儲存這個搜尋結果"
+	},
+	"Starred_Boards": {
+		"message": "標註星號的版塊"
+	},
+	"My_Boards": {
+		"message": "我的版塊"
+	},
+	"Overview": {
+		"message": "簡介"
+	},
+	"Recent_Boards": {
+		"message": "最近使用的版塊"
+	},
+	"Always_keep_this_menu_open_": {
+		"message": "讓此選單保持開啟"
+	},
+	"Don_t_keep_this_menu_open_": {
+		"message": "不要讓選單保持開啟"
+	},
+	"See_closed_boards_": {
+		"message": "開啟關閉的版塊..."
+	},
+	"Find_boards_by_name_": {
+		"message": "根據名稱搜尋版塊"
+	},
+	"There_is_new_activity_on_this_board_": {
+		"message": "此版塊有新的活動"
+	},
+	"Closed_Boards": {
+		"message": "關閉的版塊"
+	},
+	"Re_open": {
+		"message": "重新開啟"
+	},
+	"Close_this_dialog_window_": {
+		"message": "關閉此對話視窗"
+	},
+	"No_Boards_Found": {
+		"message": "找不到版塊"
+	},
+	"Boards": {
+		"message": "版塊"
+	},
+	"Public": {
+		"message": "公開"
+	},
+	"Add_a_list_": {
+		"message": "加入一個清單..."
+	},
+	"Calendar": {
+		"message": "日曆"
+	},
+	"Subscribed": {
+		"message": "已訂閱"
+	},
+	"Show_sidebar": {
+		"message": "顯示側邊攔"
+	},
+	"Add_a_card_": {
+		"message": "增加一個卡片..."
+	},
+	"Notifications": {
+		"message": "通知"
+	},
+	"Go_back_to_your_boards_page_": {
+		"message": "回到你的版塊頁面"
+	},
+	"View_list_of_boards": {
+		"message": "列出版塊清單"
+	},
+	"Rename_the_board_": {
+		"message": "重命名版塊"
+	},
+	"Menu": {
+		"message": "選單"
+	},
+	"Add_Members": {
+		"message": "增加成員"
+	},
+	"Members": {
+		"message": "成員"
+	},
+	"Activity": {
+		"message": "活動"
 	}
 }

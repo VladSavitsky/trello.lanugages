@@ -1,4 +1,13 @@
 {
+	"New_Organization_": {
+		"message": "添加组织"
+	},
+	"New_Board_": {
+		"message": "添加看板"
+	},
+	"Reload_page": {
+		"message": "刷新页面"
+	},
 	"Change_Organization": {
 		"message": "更改组织"
 	},

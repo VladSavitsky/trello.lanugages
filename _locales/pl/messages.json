@@ -86,6 +86,9 @@
 	"An_organizations_is_a_collection_of_members_and_boards_": {
 		"message": "Organizacja to zbiór użytkowników i tablic. Wszyscy mogą udostępniać i pracować w grupie."
 	},
+	"What_are_you_organizing_": {
+		"message": "Co organizujesz?"
+	},
 	"What_are_you_planning_": {
 		"message": "Co planujesz?"
 	},

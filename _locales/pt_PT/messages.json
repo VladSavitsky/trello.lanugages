@@ -6,7 +6,31 @@
 		"message": "Novo Quadro..."
 	},
 	"A_board_is_a_collection_of_cards_ordered_in_a_list_of_lists__": {
-		"message": "Um quadro é um conjunto de cartões organizados em uma série de listas. Use-o para gerenciar um projeto, rastrear uma"
+		"message": "Um quadro é um conjunto de cartões organizados em uma série de listas. Use-o para gerir um projeto, rastrear uma coleção, ou organizar seja o que for."
+	},
+	"An_organization_is_a_group_of_boards_and_people__": {
+		"message": "Uma organização é um grupo de quadros e pessoas. Use-o para agrupar quadros na sua empresa, equipa ou família."
+	},
+	"Reload_page": {
+		"message": "Recarregar página"
+	},
+	"Could_not_connect_to_Trello_": {
+		"message": "Não conseguiu conectar a Trello."
+	},
+	"Page_not_found_": {
+		"message": "Página não encontrada."
+	},
+	"This_page_may_be_private__If_someone_gave_you_this_link__": {
+		"message": "Esta página pode ser privada. Se alguém lhe enviou este link, poderá ter que o convidar para um dos seus quadros ou organizações."
+	},
+	"View_all_activity_": {
+		"message": "Ver toda a actividade..."
+	},
+	"Board_Activity": {
+		"message": "Actividade do Quadro"
+	},
+	"Load_More_Activity": {
+		"message": "Carregar Mais Actividade"
 	},
 	"Change_Organization": {
 		"message": "Alterar Organização"
@@ -30,7 +54,7 @@
 		"message": "Fechar Quadro?"
 	},
 	"You_can_re_open_the_board_by_clicking_the___Boards___menu_from_the_header_": {
-		"message": "Você pode re-abrir o quadro, clicando no menu \"Quadros\" do cabeçalho, selecionar \"Exibir Quadros Fechados\", encontrar o Quadro e clicar em \"Re-abrir\"."
+		"message": "Pode re-abrir o quadro clicando no menú \"Quadros\" no cabeçalho, selecionando \"Ver Quadros Fechados\", encontrando o quadro e selecionando \"Re-abrir\"."
 	},
 	"Close": {
 		"message": "Fechar"
@@ -39,7 +63,7 @@
 		"message": "Clique aqui para reabri-lo."
 	},
 	"is_closed_": {
-		"message": "está fechado."
+		"message": "é fechado."
 	},
 	"Create_Organization": {
 		"message": "Criar Organização"
@@ -57,49 +81,49 @@
 		"message": "Adicionar uma Organização"
 	},
 	"Create_an_Organization": {
-		"message": "Criar uma Organmização"
+		"message": "Criar uma Organização"
 	},
 	"An_organizations_is_a_collection_of_members_and_boards_": {
-		"message": "Uma Organização é uma coleção de membros e quadros. Ela torna o trabalho e o compartilhamento entre um grupo ainda mais fácil."
+		"message": "Uma organização é um conjunto de membros e quadros. Para facilitar ainda mais a partilha e o trabalho em grupo."
 	},
 	"What_are_you_organizing_": {
-		"message": "O que você está organizando?"
+		"message": "O que está a Organizar?"
 	},
 	"What_are_you_planning_": {
-		"message": "O que está planejando?"
+		"message": "O que está a planear?"
 	},
 	"Like__Vacation_Planning__for_example_": {
-		"message": "Como \"Planejando as férias\", por exemplo ..."
+		"message": "Como \"Planeamento das Férias\" por exemplo...."
 	},
 	"Like__House_Stuff__for_example_": {
-		"message": "Como \"coisas de casa\" por exemplo..."
+		"message": "Como \"Coisas de Casa\" por exemplo...."
 	},
 	"Like__Bucket_List__for_example_": {
-		"message": "Como \"Lista de Desejos\" por exemplo"
+		"message": "Como \"Bucket List\" por exemplo...."
 	},
 	"Like__Game_Development_Roadmap__": {
-		"message": "Como \"roteiro de desenvolvimento de jogos\"..."
+		"message": "Como \"Game Development Roadmap\" por exemplo...."
 	},
 	"Like__Calvinball_Meetup_Schedule__": {
-		"message": "Como \"agendar encontros de Calvinball\"..."
+		"message": "Como \"Calvinball Meetup Schedule\" por exemplo...."
 	},
 	"Like__Weekly_Meal_Planning__for_example_": {
-		"message": "Como \"planejamento semanal de refeições\" por exemplo..."
+		"message": "Como \"Plano de Dieta Semanal\" por exemplo...."
 	},
 	"Like__School_Research__for_example_": {
-		"message": "Como \"pesquisar escolar\" por exemplo..."
+		"message": "Como \"Pesquisa Escolar\" por exemplo...."
 	},
 	"Like__Team_Product_Sprint__for_example_": {
-		"message": "Como \"disputa de produção de equipe\" por exemplo..."
+		"message": "Como \"Team Product Sprint\" por exemplo...."
 	},
 	"Like__Publishing_Calendar__for_example_": {
-		"message": "Como \"Calendário de divulgação\", por exemplo ..."
+		"message": "Como \"Calendário de Publicações\" por exemplo...."
 	},
 	"Like__New_Hire_Onboarding__for_example_": {
-		"message": "Como \"Nova contratação na forma de abordagem\" por exemplo..."
+		"message": "Como \"Novas Contratações em Espera\" por exemplo...."
 	},
 	"Like__Reading_Collection__for_example_": {
-		"message": "Como ler Coleção por exemplo ..."
+		"message": "Como \"Colecção de Leitura\" por exemplo...."
 	},
 	"Create_new_board_": {
 		"message": "Criar novo quadro..."
@@ -110,23 +134,32 @@
 	"Title": {
 		"message": "Título"
 	},
+	"Organization": {
+		"message": "Oraganização"
+	},
 	"Create": {
 		"message": "Criar"
 	},
 	"This_board_will_be": {
-		"message": "Este quadro será"
+		"message": "Esta quadro será"
+	},
+	"private": {
+		"message": "privado"
 	},
 	"Change_": {
 		"message": "Mudar."
 	},
+	"Private": {
+		"message": "Privado"
+	},
 	"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_": {
-		"message": "Este quadro está visível para membros da organização. Somente pessoas adicionadas ao quadro podem editar."
+		"message": "Este quadro é visível para membros da organização. Apenas pessoas adicionadas podem editar."
 	},
 	"This_board_is_private___Only_people_added_to_the_board_can_view_and_edit_it_": {
-		"message": "Este quadro é privado. Somente pessoas adicionadas ao quadro podem visualizar e editá-lo"
+		"message": "Este quadro é privado. Apenas pessoas adicionadas ao quadro podem ver e editar."
 	},
 	"The_board_must_be_added_to_an_org_to_enable_this_": {
-		"message": "O quadro deve ser adicionado à uma organização para habilitar esta escolha."
+		"message": "Tem que adicionar o quadro a uma organização para activar isto."
 	},
 	"Today": {
 		"message": "Hoje"
@@ -195,7 +228,7 @@
 		"message": "Jan"
 	},
 	"Feb": {
-		"message": "Fev"
+		"message": "Feb"
 	},
 	"Mar": {
 		"message": "Mar"
@@ -204,7 +237,7 @@
 		"message": "Abr"
 	},
 	"May": {
-		"message": "Maio"
+		"message": "Mai"
 	},
 	"Jun": {
 		"message": "Jun"
@@ -228,22 +261,22 @@
 		"message": "Dez"
 	},
 	"Saved_Searches": {
-		"message": "Pesquisas Salvas."
+		"message": "Pesquisas Salvas"
 	},
 	"Your_search_produced_an_error_": {
-		"message": "Sua pesquisa resultou em erro."
+		"message": "A sua pesquisa deu um erro."
 	},
 	"Searching_": {
-		"message": "Pesquisando..."
+		"message": "Procurando..."
 	},
 	"No_results_": {
-		"message": "Nenhum resultado."
+		"message": "Sem resultados."
 	},
 	"Refine_your_search_with_operators_like__member___label__is_archived__and_has_attachments_": {
-		"message": "Refine sua pesquisa com operadores como @membro, #label, is:arquivado, e has:anexos."
+		"message": "Refinar a sua pesquisa com operadores como @member, #label, is:archived, e has:attachments."
 	},
 	"Learn_more_": {
-		"message": "Saiba mais..."
+		"message": "Aprenda mais..."
 	},
 	"Cards": {
 		"message": "Cartões"
@@ -264,31 +297,31 @@
 		"message": "Mostrar mais organizações..."
 	},
 	"Back_to_Saved_Searches": {
-		"message": "Voltar para Pesquisas Salvas"
+		"message": "Voltar ás Pesquisas Salvas"
 	},
 	"Save_this_Search": {
-		"message": "Salvar essa Pesquisa"
+		"message": "Salvar esta Pesquisa"
 	},
 	"Did_you_mean_": {
-		"message": "Você quis dizer..."
+		"message": "Será que quis dizer..."
 	},
 	"Only_include_cards_that_have_stickers_": {
-		"message": "Inclui somente cartões que possuem adesivos"
+		"message": "Incluir apenas cartões que tenham stickers."
 	},
 	"Starred_Boards": {
-		"message": "Quadros Favoritos"
+		"message": "Quadros com Estrela"
 	},
 	"My_Boards": {
 		"message": "Meus Quadros"
 	},
 	"Overview": {
-		"message": "Visão Geral"
+		"message": "Vista Geral"
 	},
 	"Recent_Boards": {
-		"message": "Quadros Recentes"
+		"message": "Quadros Recenes"
 	},
 	"Always_keep_this_menu_open_": {
-		"message": "Sempre manter este menu aberto."
+		"message": "Manter este menu sempre aberto."
 	},
 	"Don_t_keep_this_menu_open_": {
 		"message": "Não manter este menu aberto."
@@ -297,31 +330,31 @@
 		"message": "Ver quadros fechados..."
 	},
 	"Find_boards_by_name_": {
-		"message": "Achar quadros por nome..."
+		"message": "Encontrar quadros por nome..."
 	},
 	"There_is_new_activity_on_this_board_": {
-		"message": "Há nova atividade neste quadro."
+		"message": "Há nova actividades neste quadro."
 	},
 	"Collapse_section_": {
-		"message": "Minimizar seção"
+		"message": "Fechar secção."
 	},
 	"Expand_section_": {
-		"message": "Expandir seção"
+		"message": "Expandir secção."
 	},
 	"Closed_Boards": {
-		"message": "Quadros Fechados"
+		"message": "Fechar Quadros"
 	},
 	"Re_open": {
 		"message": "Re-abrir"
 	},
 	"You_have_to_have_been_a_board_admin_to_re_open_a_closed_board_": {
-		"message": "Somente o administrador do quadro pode re-abrir um quadro fechado."
+		"message": "Precisa de ser um administrador de quadro para re-abrir um quadro fechado."
 	},
 	"Close_this_dialog_window_": {
-		"message": "Fechar essa janela de diálogo."
+		"message": "Fechar esta janela de diálogo."
 	},
 	"No_Boards_Found": {
-		"message": "Nenhum Quadro Encontrado"
+		"message": "Não foram Encontrados Quadros"
 	},
 	"Boards": {
 		"message": "Quadros"
@@ -336,10 +369,10 @@
 		"message": "Calendário"
 	},
 	"Subscribed": {
-		"message": "Subscrever"
+		"message": "Subscrito"
 	},
 	"Filtering_is_on_": {
-		"message": "Filtro ativado."
+		"message": "Filtragem está ligada."
 	},
 	"Show_sidebar": {
 		"message": "Mostrar barra lateral"
@@ -351,25 +384,25 @@
 		"message": "Notificações"
 	},
 	"This_board_is_public__It_s_visible_to_anyone_with_the_link_": {
-		"message": "Este Quadro é público. É visível para qualquer pessoa com o link e vai aparecer nos motores de busca como o Google. Somente pessoas vinculadas ao Quadro podem editar."
+		"message": "Este quadro é público. É visível para qualquer um com o link e aparecerá em motores de busca como o Google. Apenas pessoas adicionadas ao quadro podem editá-lo."
 	},
 	"Go_back_to_your_boards_page_": {
-		"message": "Voltar para a página dos quadros"
+		"message": "Voltar à página de quadros."
 	},
 	"View_list_of_boards": {
-		"message": "Ver a lista de quadros"
+		"message": "Ver lista de quadros"
 	},
 	"Rename_the_board_": {
 		"message": "Renomear o quadro."
 	},
 	"You_are_filtering_cards_on_this_board__Click_here_to_edit_filter_": {
-		"message": "Você está filtrando cartões nesse quadro. Clique aqui para editar o filtro."
+		"message": "Está a filtrar cartões neste quadro. Clique aqui para editar o filtro."
 	},
 	"You_are_subscribed_to_this_board__You_ll_get_notifications_about_changes_": {
-		"message": "Você está inscrito neste quadro. Você receberá notificações sobre mudanças."
+		"message": "Está subscrito a este quadro. Receberá notificações acerca das alterações."
 	},
 	"Click_to_star_or_unstar_this_board__Starred_boards_show_up_at_the_top_of_your_boards_list_": {
-		"message": "Clique para adicionar aos quadros favoritos ou para retirar dos favoritos. Quadros favoritos aparecem no topo de sua lista de quadros."
+		"message": "Clique para adicionar ou remover estrela deste quadro. Quadros com estrela aparecem no topo da sua lista de quadros."
 	},
 	"Close_the_board_sidebar_": {
 		"message": "Fechar a barra lateral do quadro."
@@ -378,103 +411,103 @@
 		"message": "Adicionar novo quadro ou organização."
 	},
 	"You_are_seeing_an_early__experimental_version_of_Trello__We_would_love_your_feedback_": {
-		"message": "Você está vendo uma versão inicial, experimental do Trello. Gostaríamos muito de sua opinião."
+		"message": "Está a usar uma versão experimental de Trello. Adorava-mos receber seu feedback!"
 	},
 	"Get_access_to_your_profile__help__and_log_out_": {
-		"message": "Tenha acesso ao seu perfil, ajuda e sair de sua conta."
+		"message": "Aceder ao seu perfil, ajuda, e fazer log out."
 	},
 	"This_member_has_Trello_Gold_": {
 		"message": "Este membro tem Trello Gold."
 	},
 	"Click_to_star_this_board__It_will_show_up_at_top_of_your_boards_list_": {
-		"message": "Clique para tornar favorito este quadro. Ele vai aparecer no topo da sua lista de quadros."
+		"message": "Clique para adicionar estrela a este quadro. Aparecerá no topo da sua lista de quadros."
 	},
 	"Search_for_boards__cards__members__and_organizations_": {
-		"message": "Procure por quadros, cartões, membros e organizações."
+		"message": "Procurar quadros, cartões, membros, e organizações."
 	},
 	"Menu": {
-		"message": "Menu"
+		"message": "Menú"
 	},
 	"Add_Members": {
-		"message": "Adicionar membros"
+		"message": "Adicionar Membros"
 	},
 	"Members": {
 		"message": "Membros"
 	},
 	"Activity": {
-		"message": "Atividade"
+		"message": "Actividade"
 	},
 	"Click_here_to_see_more_board_options_": {
-		"message": "Clique aqui para ver mais opções para os quadros."
+		"message": "Clique aqui para ver mais opções do quadro."
 	},
 	"Power_Ups": {
 		"message": "Power-Ups"
 	},
 	"Stickers": {
-		"message": "Adesivos"
+		"message": "Stickers"
 	},
 	"Filter_Cards": {
-		"message": "Filtro de cartões."
+		"message": "Filtrar Cartões"
 	},
 	"Archived_Items": {
-		"message": "Itens arquivados."
+		"message": "Itens Arquivados"
 	},
 	"Change_Background_": {
-		"message": "Trocar plano de fundo."
+		"message": "Alterar Fundo..."
 	},
 	"Email_to_board_Settings_": {
-		"message": "Configuração de e-mail para o quadro."
+		"message": "Definições de Email-to-board..."
 	},
 	"Copy_Board_": {
-		"message": "Copiar quadro."
+		"message": "Copiar Quadro..."
 	},
 	"Share__Print__and_Export_": {
-		"message": "Compartilhe, imprima e exporte..."
+		"message": "Partilhar, Imprimir e Exportar..."
 	},
 	"Additional_Settings_": {
-		"message": "Configurações adicionais"
+		"message": "Mais Definições..."
 	},
 	"Close_Board_": {
-		"message": "Fechar quadro..."
+		"message": "Fechar Quadro..."
 	},
 	"Leave_Board_": {
-		"message": "Sair do quadro..."
+		"message": "Sair do Quadro..."
 	},
 	"List_Actions": {
-		"message": "Lista de ações"
+		"message": "Listar Acções"
 	},
 	"Add_Card_": {
-		"message": "Adicionar cartões..."
+		"message": "Adicionar Cartão..."
 	},
 	"Copy_List_": {
-		"message": "Copiar lista..."
+		"message": "Copiar Lista..."
 	},
 	"Move_List_": {
-		"message": "Mover lista..."
+		"message": "Mover Lista..."
 	},
 	"Subscribe": {
-		"message": "Assinar"
+		"message": "Subscrever"
 	},
 	"Move_All_Cards_in_This_List_": {
-		"message": "Mover todos os cartões nesta lista..."
+		"message": "Mover Todos os Cartões Desta Lista..."
 	},
 	"Archive_All_Cards_in_This_List_": {
-		"message": "Arquivar todos os cartões nessa lista..."
+		"message": "Arquivar Todos os Cartões Desta Lista..."
 	},
 	"Archive_This_List": {
-		"message": "Arquivar esta lista"
+		"message": "Arquivar Esta Lista"
 	},
 	"Edit_Labels": {
-		"message": "Editar marcadores"
+		"message": "Editar Etiquetas"
 	},
 	"Change_Members": {
-		"message": "Trocar membros"
+		"message": "Alterar Membros"
 	},
 	"Copy": {
 		"message": "Copiar"
 	},
 	"Change_Due_Date": {
-		"message": "Trocar data de vencimento"
+		"message": "Alterar Data-Limite"
 	},
 	"Archive": {
 		"message": "Arquivo"
@@ -483,13 +516,13 @@
 		"message": "Adicionar"
 	},
 	"Change_Notification_Email_Frequency": {
-		"message": "Alterar frequência de notificações por e-mail"
+		"message": "Alterar a Frequência de Notificações por Email"
 	},
 	"See_All_Notifications": {
-		"message": "Ver todas as notificações"
+		"message": "Ver Todas as Notificações"
 	},
 	"added": {
-		"message": "Adicionado"
+		"message": "adicionado"
 	},
 	"to": {
 		"message": "para"
@@ -498,13 +531,13 @@
 		"message": "e"
 	},
 	"joined": {
-		"message": "ingressou"
+		"message": "aderiu"
 	},
 	"moved": {
-		"message": "movido"
+		"message": "moveu"
 	},
 	"from": {
-		"message": "para"
+		"message": "de"
 	},
 	"archived": {
 		"message": "arquivado"
@@ -519,40 +552,43 @@
 		"message": "anexado"
 	},
 	"sent": {
-		"message": "enviar"
+		"message": "enviado"
 	},
 	"to_the_board": {
 		"message": "para o quadro"
 	},
 	"This_card_is_past_due_": {
-		"message": "Este cartão está vencido."
+		"message": "Este cartão ultrapassou a data-limite."
 	},
 	"You_are_subscribed_to_this_card_": {
-		"message": "Você está inscrito para este cartão."
+		"message": "Subscreveu a este cartão."
 	},
 	"Edit_the_description_": {
-		"message": "Editar a descrição"
+		"message": "Editar a descrição..."
 	},
 	"Write_a_comment_": {
-		"message": "Escreva um comentário..."
+		"message": "Escrever comentário..."
+	},
+	"Formatting_help": {
+		"message": "ajuda de Formatação"
 	},
 	"Save": {
 		"message": "Salvar"
 	},
 	"Actions": {
-		"message": "Ações"
+		"message": "Acções"
 	},
 	"Labels": {
-		"message": "Rótulos"
+		"message": "Etiquetas"
 	},
 	"Checklist": {
-		"message": "Lista de verificação"
+		"message": "Checklist"
 	},
 	"Due_date": {
-		"message": "data de vencimento"
+		"message": "Data-Limite"
 	},
 	"Attachment": {
-		"message": "Anexos"
+		"message": "Anexo"
 	},
 	"Move": {
 		"message": "Mover"
@@ -561,49 +597,49 @@
 		"message": "Apagar"
 	},
 	"Share_and_more_": {
-		"message": "Compartilhe e muito mais..."
+		"message": "Partilhar e mais..."
 	},
 	"Send_to_board": {
-		"message": "Enviar para o quadro"
+		"message": "Enviar para quadro"
 	},
 	"Drop_files_to_upload_": {
-		"message": "Arraste os arquivos para enviar."
+		"message": "Arrastar ficheiros para carregar."
 	},
 	"Add_or_remove_members_of_the_board_from_the_card_": {
-		"message": "Adicionar ou remover membros do quadro para o cartão."
+		"message": "Adicionar ou remover membros do quadro deste cartão."
 	},
 	"Change_the_labels_for_the_card_": {
-		"message": "Mudar as etiquetas do cartão."
+		"message": "Alterar as etiquetas deste cartão."
 	},
 	"Add_a_checklist_and_divide_the_card_into_subtasks_": {
-		"message": "Adicionar lista de verificação e dividir no cartão em sub-tarefas."
+		"message": "Adicionar uma checklist e dividir o cartão em sub-tarefas."
 	},
 	"Add_a_due_date_for_the_card_and_get_notifications_when_it_is_almost_due_": {
-		"message": "Adicionar data de vencimento para o cartão e receber notificações quando estiver para vencer."
+		"message": "Adicionar uma data-limite ao cartão e receber notificações aquando da sua aproximação."
 	},
 	"Attach_files_from_your_computer_or_from_Google_Drive_": {
-		"message": "Anexe arquivos do seu computador ou do Google Drive. Você também pode arrastar e soltar arquivos do seu desktop para carregá-las."
+		"message": "Anexar ficheiros do seu computador ou da Google Drive. Pode também arrastar ficheiros do seu desktop para carregá-los."
 	},
 	"Move_the_card_to_another_board__another_list__or_a_new_position_in_a_list": {
-		"message": "Mover o cartão para outro quadro, lista ou para nova posição na lista."
+		"message": "Mover o cartão para outro quadro, outra lista, ou para uma nova posição na lista"
 	},
 	"Make_a_copy_of_this_card__optionally_include_checklist__labels__members__attachments__etc_": {
-		"message": "Mantenha uma cópia deste cartão, opcionalmente incluindo lista de verificação, rótulos, membros, anexos, etc..."
+		"message": "Fazer uma cópia deste cartão, optar por incluir checklist, etiquetas, membros, anexos, etc."
 	},
 	"Subscribe_to_the_card_to_get_notifications_when_something_changes_": {
-		"message": "Assine o quadro para receber notificações quando alguma alteração ocorrer."
+		"message": "Subscrever ao cartão para receber notificações sobre alterações."
 	},
 	"Remove_the_card_from_the_board_": {
-		"message": "Remover o cartão do quadro."
+		"message": "Retirar o cartão do quadro."
 	},
 	"Send_the_card_back_to_the_board_": {
-		"message": "Enviar o cartão novamente para o quadro."
+		"message": "Enviar o cartão de volta ao quadro."
 	},
 	"Delete_the_card_and_all_history_associated_with_it__It_can_t_be_retrieved_": {
-		"message": "Apagar o cartão e todo histórico associado a ele. Ele não poderá mais ser recuperado."
+		"message": "Apagar o cartão e toda a história associada. Pode ser revertido."
 	},
 	"More_options_share__print__export__and_delete_": {
-		"message": "Mais opções compartilhar, exportar e apagar."
+		"message": "Mais opções partilhar, imprimir, exportar, e apagar."
 	},
 	"in_list": {
 		"message": "na lista"

@@ -53,7 +53,7 @@ $.fn.waitUntilExists = function(handler, shouldRunHandlerOnce, isChild) {
 			intervals[selector] = window.setInterval(function () {
 				
 				$this.waitUntilExists(handler, shouldRunHandlerOnce, true);
-			}, 500);
+			}, 100);
 		}
 	}
 	

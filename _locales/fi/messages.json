@@ -13,5 +13,104 @@
 	},
 	"Create": {
 		"message": "Luo"
+	},
+	"Today": {
+		"message": "Tänään"
+	},
+	"Week": {
+		"message": "Viikko"
+	},
+	"Month": {
+		"message": "Kuukausi"
+	},
+	"Sun": {
+		"message": "Su"
+	},
+	"Mon": {
+		"message": "Ma"
+	},
+	"Tue": {
+		"message": "Ti"
+	},
+	"Wed": {
+		"message": "Ke"
+	},
+	"Thu": {
+		"message": "To"
+	},
+	"Fri": {
+		"message": "Pe"
+	},
+	"Sat": {
+		"message": "La"
+	},
+	"January": {
+		"message": "Tammikuu"
+	},
+	"February": {
+		"message": "Helmikuu"
+	},
+	"March": {
+		"message": "Maaliskuu"
+	},
+	"April": {
+		"message": "Huhtikuu"
+	},
+	"June": {
+		"message": "Kesäkuu"
+	},
+	"July": {
+		"message": "Heinäkuu"
+	},
+	"August": {
+		"message": "Elokuu"
+	},
+	"September": {
+		"message": "Syyskuu"
+	},
+	"October": {
+		"message": "Lokakuu"
+	},
+	"November": {
+		"message": "Marraskuu"
+	},
+	"December": {
+		"message": "Joulukuu"
+	},
+	"Jan": {
+		"message": "Tammi"
+	},
+	"Feb": {
+		"message": "Helmi"
+	},
+	"Mar": {
+		"message": "Maalis"
+	},
+	"Apr": {
+		"message": "Huhti"
+	},
+	"May": {
+		"message": "Touko"
+	},
+	"Jun": {
+		"message": "Kesä"
+	},
+	"Jul": {
+		"message": "Heinä"
+	},
+	"Aug": {
+		"message": "Elo"
+	},
+	"Sep": {
+		"message": "Syys"
+	},
+	"Oct": {
+		"message": "Loka"
+	},
+	"Nov": {
+		"message": "Marras"
+	},
+	"Dec": {
+		"message": "Joulu"
 	}
 }

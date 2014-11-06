@@ -53,6 +53,9 @@
 	"Close_Board_question_mark": {
 		"message": "Закрити дошку?"
 	},
+	"You_can_re_open_the_board_by_clicking_the___Boards___menu_from_the_header_": {
+		"message": "Ви знову відкриєте цю дошку, якщо клацнете меню \"Дошки\" у шапці, виберіте \"Показати закриті дошки\", знайдете дошку та клацнете \"Знову відкрити\"."
+	},
 	"Close": {
 		"message": "Закрити"
 	},
@@ -80,6 +83,9 @@
 	"Create_an_Organization": {
 		"message": "Створити організацію"
 	},
+	"An_organizations_is_a_collection_of_members_and_boards_": {
+		"message": "Організації це коллекції людей та дошок. Вони роблять роботу з дошками легшою для групп людей."
+	},
 	"What_are_you_organizing_": {
 		"message": "Що ви організуєте?"
 	},
@@ -94,6 +100,30 @@
 	},
 	"Like__Bucket_List__for_example_": {
 		"message": "Наприклад, “Ідеї”…"
+	},
+	"Like__Game_Development_Roadmap__": {
+		"message": "Наприклад, \"Розробка гри\"..."
+	},
+	"Like__Calvinball_Meetup_Schedule__": {
+		"message": "Наприклад, \"Проведення вечірки\"..."
+	},
+	"Like__Weekly_Meal_Planning__for_example_": {
+		"message": "Наприклад, \"Меню на тиждень\"..."
+	},
+	"Like__School_Research__for_example_": {
+		"message": "Наприклад, \"Дослідження для школи\"..."
+	},
+	"Like__Team_Product_Sprint__for_example_": {
+		"message": "Наприклад, \"Спрінт команди розробки\"..."
+	},
+	"Like__Publishing_Calendar__for_example_": {
+		"message": "Наприклад, \"Публикація книжки\"..."
+	},
+	"Like__New_Hire_Onboarding__for_example_": {
+		"message": "Наприклад, \"Введення нової людину у команду\"..."
+	},
+	"Like__Reading_Collection__for_example_": {
+		"message": "Наприклад, \"Прочитати пізніше\"..."
 	},
 	"Create_new_board_": {
 		"message": "Створити нову дошку…"
@@ -371,17 +401,26 @@
 	"You_are_subscribed_to_this_board__You_ll_get_notifications_about_changes_": {
 		"message": "Ви підписані на зміни на цій дошці. Ви отримаєте сповіщення про всі зміни."
 	},
+	"Click_to_star_or_unstar_this_board__Starred_boards_show_up_at_the_top_of_your_boards_list_": {
+		"message": "Клацніть, щоб додати або видалити цю дошку з списку улюблених. Улюблені дошки показуються понад інші доски у списку усіх дошок."
+	},
 	"Close_the_board_sidebar_": {
 		"message": "Закрити меню дошки."
 	},
 	"Add_a_new_board_or_organization_": {
 		"message": "Додати нову дошку чи організацію."
 	},
+	"You_are_seeing_an_early__experimental_version_of_Trello__We_would_love_your_feedback_": {
+		"message": "Ви бучите буже ранню, експериментальну версію Trello. Мы будемо раді почити вашу думку!"
+	},
 	"Get_access_to_your_profile__help__and_log_out_": {
 		"message": "Отримати доступ до вашого профілю, допомоги та виход."
 	},
 	"This_member_has_Trello_Gold_": {
 		"message": "Ця людина має Trello Gold."
+	},
+	"Click_to_star_this_board__It_will_show_up_at_top_of_your_boards_list_": {
+		"message": "Клацніть, щоб додати цю дошку до списку улюблених. Вони будуть показані понад інші дошки у списку."
 	},
 	"Search_for_boards__cards__members__and_organizations_": {
 		"message": "Пошук дошок, карток, людей та організацій."
@@ -518,11 +557,20 @@
 	"to_the_board": {
 		"message": "на дошку"
 	},
+	"This_card_is_past_due_": {
+		"message": "Настав крайній строк цієї картки."
+	},
+	"You_are_subscribed_to_this_card_": {
+		"message": "Ви підписані на цю картку."
+	},
 	"Edit_the_description_": {
 		"message": "Редагувати опис..."
 	},
 	"Write_a_comment_": {
 		"message": "Написати коментарій..."
+	},
+	"Formatting_help": {
+		"message": "Про форматування"
 	},
 	"Save": {
 		"message": "Зберегти"
@@ -557,8 +605,23 @@
 	"Drop_files_to_upload_": {
 		"message": "Киньте файли для завантаження."
 	},
+	"Add_or_remove_members_of_the_board_from_the_card_": {
+		"message": "Додати чи видалити людей цієї дошки з картки."
+	},
 	"Change_the_labels_for_the_card_": {
 		"message": "Змінити теги картки."
+	},
+	"Add_a_checklist_and_divide_the_card_into_subtasks_": {
+		"message": "Додати чеклист та розбити картку на підзадачі."
+	},
+	"Add_a_due_date_for_the_card_and_get_notifications_when_it_is_almost_due_": {
+		"message": "Додати кінцевий строк для картки та отримати сповіщення, коли цей строк наближається."
+	},
+	"Attach_files_from_your_computer_or_from_Google_Drive_": {
+		"message": "Прикріпити файли з вашого компьютера або Google Drive. Ви також можете перетащити файли з вашого рабочого стола щоб завантажити їх."
+	},
+	"Move_the_card_to_another_board__another_list__or_a_new_position_in_a_list": {
+		"message": "Перенести картку на іншу доску, в інший список або змінити позицію у цьому списку"
 	},
 	"Make_a_copy_of_this_card__optionally_include_checklist__labels__members__attachments__etc_": {
 		"message": "Скопіювати цю карточку з можливістю ввімкнення чеклистів, тегів, людей, вкладень та ін."

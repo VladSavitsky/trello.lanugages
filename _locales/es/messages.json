@@ -143,8 +143,14 @@
 	"This_board_will_be": {
 		"message": "Este panel será"
 	},
+	"private": {
+		"message": "privado"
+	},
 	"Change_": {
 		"message": "Cambiar."
+	},
+	"Private": {
+		"message": "Privado"
 	},
 	"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_": {
 		"message": "Este panel es visible a miembros de la organización. Solo gente añadida al panel puede editarlo."
@@ -562,6 +568,9 @@
 	},
 	"Write_a_comment_": {
 		"message": "Escribir un comentario..."
+	},
+	"Formatting_help": {
+		"message": "Ayuda para el formato"
 	},
 	"Save": {
 		"message": "Guardar"

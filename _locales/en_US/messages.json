@@ -1,4 +1,37 @@
 {
+	"New_Organization_": {
+		"message": "New Organization…"
+	},
+	"New_Board_": {
+		"message": "New Board…"
+	},
+	"A_board_is_a_collection_of_cards_ordered_in_a_list_of_lists__": {
+		"message": "A board is a collection of cards ordered in a list of lists. Use it to manage a project, track a collection, or organize anything."
+	},
+	"An_organization_is_a_group_of_boards_and_people__": {
+		"message": "An organization is a group of boards and people. Use it to group boards in your company, team, or family."
+	},
+	"Reload_page": {
+		"message": "Reload page"
+	},
+	"Could_not_connect_to_Trello_": {
+		"message": "Could not connect to Trello."
+	},
+	"Page_not_found_": {
+		"message": "Page not found."
+	},
+	"This_page_may_be_private__If_someone_gave_you_this_link__": {
+		"message": "This page may be private. If someone gave you this link, they may need to invite you to one of their boards or organizations."
+	},
+	"View_all_activity_": {
+		"message": "View all activity..."
+	},
+	"Board_Activity": {
+		"message": "Board Activity"
+	},
+	"Load_More_Activity": {
+		"message": "Load More Activity"
+	},
 	"Change_Organization": {
 		"message": "Change Organization"
 	},
@@ -21,7 +54,7 @@
 		"message": "Close Board?"
 	},
 	"You_can_re_open_the_board_by_clicking_the___Boards___menu_from_the_header_": {
-		"message" :  "You can re-open the board by clicking the “Boards” menu from the header, selecting “View Closed Boards”, finding the board and clicking “Re-open”."
+		"message": "You can re-open the board by clicking the “Boards” menu from the header, selecting “View Closed Boards”, finding the board and clicking “Re-open”."
 	},
 	"Close": {
 		"message": "Close"
@@ -101,6 +134,9 @@
 	"Title": {
 		"message": "Title"
 	},
+	"Organization": {
+		"message": "Organization"
+	},
 	"Create": {
 		"message": "Create"
 	},
@@ -115,9 +151,6 @@
 	},
 	"Private": {
 		"message": "Private"
-	},
-	"Organization": {
-		"message": "Organization"
 	},
 	"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_": {
 		"message": "This board is visible to members of the organization.  Only people added to the board can edit."
@@ -169,9 +202,6 @@
 	},
 	"April": {
 		"message": "April"
-	},
-	"May": {
-		"message": "May"
 	},
 	"June": {
 		"message": "June"
@@ -473,9 +503,6 @@
 	"Change_Members": {
 		"message": "Change Members"
 	},
-	"Move": {
-		"message": "Move"
-	},
 	"Copy": {
 		"message": "Copy"
 	},
@@ -542,6 +569,9 @@
 	"Write_a_comment_": {
 		"message": "Write a comment…"
 	},
+	"Formatting_help": {
+		"message": "Formatting help"
+	},
 	"Save": {
 		"message": "Save"
 	},
@@ -562,15 +592,6 @@
 	},
 	"Move": {
 		"message": "Move"
-	},
-	"Copy": {
-		"message": "Copy"
-	},
-	"Subscribe": {
-		"message": "Subscribe"
-	},
-	"Archive": {
-		"message": "Archive"
 	},
 	"Delete": {
 		"message": "Delete"

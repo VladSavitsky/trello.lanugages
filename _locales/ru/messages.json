@@ -569,6 +569,9 @@
 	"Write_a_comment_": {
 		"message": "Добавьте комментарий…"
 	},
+	"Formatting_help": {
+		"message": "О форматировании"
+	},
 	"Save": {
 		"message": "Сохранить"
 	},
