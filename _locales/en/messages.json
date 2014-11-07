@@ -513,12 +513,6 @@
   "description" : "Closed boards window; Board Activity Window."
 },
 
-
-"No_Boards_Found" : {
-  "message" : "No Boards Found",
-  "description" : "Main interface"
-},
-
 "Boards"            : {
   "message" : "Boards",
   "description" : "Main interface"

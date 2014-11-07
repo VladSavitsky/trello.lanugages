@@ -30,7 +30,7 @@
       contextName = 'body';
       $context = $(contextName);
     }
-    // Mark flag element of this context as translated. If we started translation we will do it.
+    // Mark the flag element of this context as translated. If we started translation we will do it.
     $(mapping[contextName]["meta"]["basePath"] + ' ' + mapping[contextName]["meta"]["flag"]).addClass('translated');
     // Set mapping for this context only.
     var contextMapping = mapping;
@@ -53,6 +53,10 @@
             );
             return;
           }
+          // Store original string just for fun.
+          $element.prop('data-translation-code-' + type, code);
+
+          // Do the magic: replace original string with translation.
           if (type == 'title' || type == 'placeholder') {
             $.each($element, function() {
               $(this).attr(type, function(index, el) {
@@ -74,7 +78,7 @@
                 return el.replace($(this).text().trim(), chrome.i18n.getMessage(code));
               });
             });
-          } else if (type == 'formElements') {
+          } else if (type == 'inputs') {
             $.each($element, function() {
               $element.val(chrome.i18n.getMessage(code));
             });
