@@ -1,0 +1,590 @@
+{
+	"New_Organization_": {
+		"message": "Νέος Οργανισμός"
+	},
+	"New_Board_": {
+		"message": "Νέος Πίνακας"
+	},
+	"A_board_is_a_collection_of_cards_ordered_in_a_list_of_lists__": {
+		"message": "Ένας πίνακας είναι μια συλλογή από κάρτες ταξινομημένες σε μία λίστα απο λίστες. Χρησιμοποίησέ τον για να διαχειριστείς ένα έργο, να παρακολουθήσεις μια συλλογή ή να οργανώσεις το οτιδήποτε."
+	},
+	"An_organization_is_a_group_of_boards_and_people__": {
+		"message": "Αν οργανισμός είναι μια ομάδα από πίνακες και άτομα. Χρησιμοποίησέ τον για να ομαδοποιήσεις πίνακες στην εταιρεία, στην ομάδα ή στην οικογένειά σου."
+	},
+	"Reload_page": {
+		"message": "Ανανέωση σελίδας"
+	},
+	"Could_not_connect_to_Trello_": {
+		"message": "Δεν ήταν δυνατή η σύνδεση με το Trello"
+	},
+	"Page_not_found_": {
+		"message": "Η σελίδα δεν βρέθηκε"
+	},
+	"This_page_may_be_private__If_someone_gave_you_this_link__": {
+		"message": "Η σελίδα αυτή μπορεί να είναι προσωπική. Αν κάποιος σου έδωσε αυτό τον σύνδεσμο, ίσως πρέπει να σε προσκαλέσουν σε έναν απο τους πίνακες ή τους οργανισμούς τους."
+	},
+	"View_all_activity_": {
+		"message": "Εμφάνιση όλης της δραστηριότητας..."
+	},
+	"Board_Activity": {
+		"message": "Δραστηριότητα Πίνακα"
+	},
+	"Load_More_Activity": {
+		"message": "Φόρτωση περισσότερης Δραστηριότητας"
+	},
+	"Change_Organization": {
+		"message": "Αλλαγή Οργανισμού"
+	},
+	"Change": {
+		"message": "Αλλαγή"
+	},
+	"Change_Organization_": {
+		"message": "Αλλαγή Οργανισμού"
+	},
+	"View_Organization_Page": {
+		"message": "Εμφάνιση Σελίδας Οργανισμού"
+	},
+	"Rename_Board": {
+		"message": "Μετονομασία Πίνακα"
+	},
+	"Rename": {
+		"message": "Μετονομασία"
+	},
+	"Close_Board_question_mark": {
+		"message": "Κλείσιμο Πίνακα;"
+	},
+	"You_can_re_open_the_board_by_clicking_the___Boards___menu_from_the_header_": {
+		"message": "Μπορείς να ξανα ανοιξεις τον πίνακα κάνοντας κλικ στο μενού \"Πίνακες\" στην κεφαλίδα, επιλέγοντας \"Εμφάνιση Κλειστών Πινάκων\", βρίσκεις τον πίνακα και κάνεις κλικ \"Άνοιγμα\"."
+	},
+	"Close": {
+		"message": "Κλείσιμο"
+	},
+	"Click_here_to_re_open_it_": {
+		"message": "Κάνε κλικ εδώ για να το ξανα ανοίξεις."
+	},
+	"is_closed_": {
+		"message": "είναι κλειστό."
+	},
+	"Create_Organization": {
+		"message": "Δημιουργία Οργανισμού"
+	},
+	"An_organization_is_a_group_of_boards_and_members_": {
+		"message": "Ένας οργανισμός ειναι μια ομάδα πινάκων και μελών."
+	},
+	"Name": {
+		"message": "Όνομα"
+	},
+	"Description": {
+		"message": "Περιγραφή"
+	},
+	"Add_an_Organization": {
+		"message": "Πρόσθεσε έναν Οργανισμό"
+	},
+	"Create_an_Organization": {
+		"message": "Δημιούργησε έναν Οργανισμό"
+	},
+	"An_organizations_is_a_collection_of_members_and_boards_": {
+		"message": "Ένας οργανισμός είναι μια συλλογή μελών και πινάκων. Κάνει ευκολότερη την εργασία σε μια ομάδα ακόμα πιο εύκολη."
+	},
+	"What_are_you_organizing_": {
+		"message": "Τι οργανώνεις;"
+	},
+	"What_are_you_planning_": {
+		"message": "Τι σχεδιάζεις;"
+	},
+	"Like__Vacation_Planning__for_example_": {
+		"message": "Όπως \"Οργάνωση Διακοπών\" για παράδειγμα..."
+	},
+	"Like__House_Stuff__for_example_": {
+		"message": "Όπως \"Πράγματα για το σπίτι\" για παράδειγμα..."
+	},
+	"Like__Bucket_List__for_example_": {
+		"message": "Όπως \"Πράγματα που θέλω να κάνω\" για παράδειγμα..."
+	},
+	"Like__Game_Development_Roadmap__": {
+		"message": "Όπως \"Game Development Roadmap\" για παράδειγμα..."
+	},
+	"Create_new_board_": {
+		"message": "Δημιουργία νέου πίνακα"
+	},
+	"Create_Board": {
+		"message": "Δημιουργία Πίνακα"
+	},
+	"Title": {
+		"message": "Τίτλος"
+	},
+	"Organization": {
+		"message": "Οργανισμός"
+	},
+	"Create": {
+		"message": "Δημιουργία"
+	},
+	"This_board_will_be": {
+		"message": "Αυτός ο πίνακας θα είναι"
+	},
+	"private": {
+		"message": "προσωπικό"
+	},
+	"Change_": {
+		"message": "Αλλαγή"
+	},
+	"Private": {
+		"message": "Προσωπικό"
+	},
+	"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_": {
+		"message": "Αυτός ο πίνακας ειναι εμφανής στα μέλη του οργανισμού. Πόνο άτομα που έχουν προστεθεί στον πίνακα μπορούν να τον επεξεργαστούν"
+	},
+	"This_board_is_private___Only_people_added_to_the_board_can_view_and_edit_it_": {
+		"message": "Αυτός ο πίνακας είναι προσωπικός. Μόνο άτομα που έχουν προστεθεί στον πίνακα μπορούν να τον επεξεργαστούν."
+	},
+	"The_board_must_be_added_to_an_org_to_enable_this_": {
+		"message": "Ο πίνακας πρέπει να προστεθεί σε έναν οργανισμό για να το ενεργοποιείσετε αυτό."
+	},
+	"Today": {
+		"message": "Σήμερα"
+	},
+	"Week": {
+		"message": "Εβδομάδα"
+	},
+	"Month": {
+		"message": "Μήνας"
+	},
+	"Sun": {
+		"message": "Κυρ"
+	},
+	"Mon": {
+		"message": "Δευτ"
+	},
+	"Tue": {
+		"message": "Τρι"
+	},
+	"Wed": {
+		"message": "Τετ"
+	},
+	"Thu": {
+		"message": "Πεμ"
+	},
+	"Fri": {
+		"message": "Παρ"
+	},
+	"Sat": {
+		"message": "Σαβ"
+	},
+	"January": {
+		"message": "Ιανουάριος"
+	},
+	"February": {
+		"message": "Φεβρουάριος"
+	},
+	"March": {
+		"message": "Μάρτιος"
+	},
+	"April": {
+		"message": "Απρίλιος"
+	},
+	"June": {
+		"message": "Ιούνιος"
+	},
+	"July": {
+		"message": "Ιούλιος"
+	},
+	"August": {
+		"message": "Αύγουστος"
+	},
+	"September": {
+		"message": "Σεπτέμβριος"
+	},
+	"October": {
+		"message": "Οκτώβριος"
+	},
+	"November": {
+		"message": "Νοέμβριος"
+	},
+	"December": {
+		"message": "Δεκέμβριος"
+	},
+	"Jan": {
+		"message": "Ιαν"
+	},
+	"Feb": {
+		"message": "Φεβ"
+	},
+	"Mar": {
+		"message": "Μαρ"
+	},
+	"Apr": {
+		"message": "Απρ"
+	},
+	"May": {
+		"message": "Μάι"
+	},
+	"Jun": {
+		"message": "Ιουν"
+	},
+	"Jul": {
+		"message": "Ιουλ"
+	},
+	"Aug": {
+		"message": "Αυγ"
+	},
+	"Sep": {
+		"message": "Σεπτ"
+	},
+	"Oct": {
+		"message": "Οκτ"
+	},
+	"Nov": {
+		"message": "Νοεβ"
+	},
+	"Dec": {
+		"message": "Δεκ"
+	},
+	"Saved_Searches": {
+		"message": "Αποθηκευμένες Αναζητήσεις"
+	},
+	"Your_search_produced_an_error_": {
+		"message": "Η αναζήτηση σου προκάλσε παρήγαγε ένα σφάλμα"
+	},
+	"Searching_": {
+		"message": "Αναζήτηση..."
+	},
+	"No_results_": {
+		"message": "Κανένα αποτέλεσμα"
+	},
+	"Learn_more_": {
+		"message": "Μάθε περισσότερα"
+	},
+	"Cards": {
+		"message": "Κάρτες"
+	},
+	"Loading_": {
+		"message": "Φόρτωση..."
+	},
+	"Show_more_boards_": {
+		"message": "Εμφάνιση περισσότερων καρτών"
+	},
+	"Show_more_members_": {
+		"message": "Εμφάνιση περισσότερον μελών"
+	},
+	"Organizations": {
+		"message": "Οργανισμοί"
+	},
+	"Show_more_organizations_": {
+		"message": "Εμφάνιση περισσότερων οργανισμών"
+	},
+	"Back_to_Saved_Searches": {
+		"message": "Πίσω στις Αποθηκευμένες Αναζητήσεις"
+	},
+	"Save_this_Search": {
+		"message": "Αποθηκευση της Αναζήτησης"
+	},
+	"Did_you_mean_": {
+		"message": "Μήπως εννοούσες..."
+	},
+	"Only_include_cards_that_have_stickers_": {
+		"message": "Περιέλαβε μόνο κάρτες που έχουν αυτοκόλλητα"
+	},
+	"Starred_Boards": {
+		"message": "Σημαντικοί Πίνακες"
+	},
+	"My_Boards": {
+		"message": "Οι Πινακές μου"
+	},
+	"Overview": {
+		"message": "Επισκόπηση"
+	},
+	"Recent_Boards": {
+		"message": "Πρόσφατοι Πίνακες"
+	},
+	"Always_keep_this_menu_open_": {
+		"message": "Κράτα πάντα αυτό το μενού ανοικτό"
+	},
+	"Don_t_keep_this_menu_open_": {
+		"message": "Μην κρατάς αυτό το μενού ανοικτό"
+	},
+	"See_closed_boards_": {
+		"message": "Εμφάνιση κλειστών πινάκων"
+	},
+	"Find_boards_by_name_": {
+		"message": "Αναζήτηση πινάκων βάσει ονόματος"
+	},
+	"There_is_new_activity_on_this_board_": {
+		"message": "Υπάρχει νέα δρστηριότητα σε αυτόν τον πίνακα"
+	},
+	"Expand_section_": {
+		"message": "Αναπτυξη τομέα"
+	},
+	"Closed_Boards": {
+		"message": "Κλειστοί Πίνακες"
+	},
+	"You_have_to_have_been_a_board_admin_to_re_open_a_closed_board_": {
+		"message": "Πρέπει να είσαι διαχειριστής του πίνακα για να ξανα ανοίξεις εναν κλειστό πίνακα"
+	},
+	"Close_this_dialog_window_": {
+		"message": "Κλείσε αυτό το παράθυρο"
+	},
+	"No_Boards_Found": {
+		"message": "Δεν βρέθηκαν πίνακες"
+	},
+	"Boards": {
+		"message": "Πίνακες"
+	},
+	"Public": {
+		"message": "Δημόσιο"
+	},
+	"Add_a_list_": {
+		"message": "Προσθήκη λίστας..."
+	},
+	"Calendar": {
+		"message": "Ημερολόγιο"
+	},
+	"Subscribed": {
+		"message": "Έγινε εγγραφή"
+	},
+	"Filtering_is_on_": {
+		"message": "Το Φίλτρο ειναι ενεργοποιημένο"
+	},
+	"Show_sidebar": {
+		"message": "Εμφάνιση sidebar"
+	},
+	"Add_a_card_": {
+		"message": "Προσθήκη κάρτας"
+	},
+	"Notifications": {
+		"message": "Ειδοποιήσεις"
+	},
+	"This_board_is_public__It_s_visible_to_anyone_with_the_link_": {
+		"message": "Αυτός ο πίνακας ειναι δημόσιος. Είναι εμφανής σε όσους έχουν τον σύνδεσμο και θα εμφανίζεται στις μηχανές αναζήτησεις οπως η Google. Μόνο άτομα που έχουν προστεθεί στον πίνακα μπορούν να τον τροποποιήσουν."
+	},
+	"Go_back_to_your_boards_page_": {
+		"message": "Πήγαινε πίσω στην σελίδα με τους πίνακές σου."
+	},
+	"View_list_of_boards": {
+		"message": "Εμφάνιση λίστας πινάκων"
+	},
+	"Rename_the_board_": {
+		"message": "Μετονομασίου του πίνακα"
+	},
+	"You_are_filtering_cards_on_this_board__Click_here_to_edit_filter_": {
+		"message": "Φιλτράρετε κάρτες σε αυτόν τον πίνακα. Κάντε κλικ εδώ για να αλλάξετε το φίλτρο."
+	},
+	"You_are_subscribed_to_this_board__You_ll_get_notifications_about_changes_": {
+		"message": "Είστε εγεγγραμένοι σε αυτόν τον πίνακα. Θα παίρνετε ειδοποιήσεις για αλλαγές."
+	},
+	"Click_to_star_or_unstar_this_board__Starred_boards_show_up_at_the_top_of_your_boards_list_": {
+		"message": "Κάντε κλικ για να προσθέσετε ή να αφαιρέσετε ένα αστέρι στον πίνακα. Οι πίνακες με αστέρια εμφανίζονται στην κορυφή της λιστας πινάκων."
+	},
+	"Close_the_board_sidebar_": {
+		"message": "Κλείσε το sidebar του πίνακα"
+	},
+	"Add_a_new_board_or_organization_": {
+		"message": "Προσθήκη ενός πίνακα ή οργανισμού"
+	},
+	"You_are_seeing_an_early__experimental_version_of_Trello__We_would_love_your_feedback_": {
+		"message": "Βλέπετε μια πρόωρη, πειραματική έκδοση του Trello. Μας ενδιαφέρει πολύ η γνώμη σας!"
+	},
+	"Get_access_to_your_profile__help__and_log_out_": {
+		"message": "Αποκτήστε πρόσβαση στον προφιλ σας, βοήθεια και έξοδο."
+	},
+	"This_member_has_Trello_Gold_": {
+		"message": "Αυτό το μέλος έχει Trello Gold"
+	},
+	"Click_to_star_this_board__It_will_show_up_at_top_of_your_boards_list_": {
+		"message": "Κάνε κλικ για να δώσεις ενα αστερι στον πίνακα. Θα εμφανιστεί στην κορυφή της λίστας με τους πινακές σου."
+	},
+	"Search_for_boards__cards__members__and_organizations_": {
+		"message": "Αναζήτησε πίνακες, κάρτες, μέλη και οργανισμούς"
+	},
+	"Menu": {
+		"message": "Μενού"
+	},
+	"Add_Members": {
+		"message": "Προσθήκη Μέλους"
+	},
+	"Members": {
+		"message": "Μέλη"
+	},
+	"Activity": {
+		"message": "Δραστηριότητα"
+	},
+	"Click_here_to_see_more_board_options_": {
+		"message": "Κάντε κλικ εδώ για να δεις περισσότερες επιλογές για τον πίνακα."
+	},
+	"Power_Ups": {
+		"message": "Power-Ups"
+	},
+	"Stickers": {
+		"message": "Αυτοκόλλητα"
+	},
+	"Filter_Cards": {
+		"message": "Φιλτράρισμα Καρτών"
+	},
+	"Archived_Items": {
+		"message": "Αρχειοθετημένα Αντικείμενα"
+	},
+	"Change_Background_": {
+		"message": "Αλλαγή φόντου"
+	},
+	"Email_to_board_Settings_": {
+		"message": "Ρυθμίσεις για Email-σε-πίνακα"
+	},
+	"Copy_Board_": {
+		"message": "Αντιγραφή Πίνακα"
+	},
+	"Share__Print__and_Export_": {
+		"message": "Μοιραστείτε, Εκτυπώστε, Εξάγετε"
+	},
+	"Additional_Settings_": {
+		"message": "Πρόσθετες Ρυθμισεις"
+	},
+	"Close_Board_": {
+		"message": "Κλεισε τον Πίνακα"
+	},
+	"Leave_Board_": {
+		"message": "Φύγε απο τον Πίνακα"
+	},
+	"List_Actions": {
+		"message": "Λίστα Επιλογών"
+	},
+	"Add_Card_": {
+		"message": "Προσθήκη Κάρτας"
+	},
+	"Copy_List_": {
+		"message": "Αντιγραφή Λίστας"
+	},
+	"Move_List_": {
+		"message": "Μετακίνηση Λίστας"
+	},
+	"Subscribe": {
+		"message": "Εγγραφή"
+	},
+	"Move_All_Cards_in_This_List_": {
+		"message": "Μετακίνηση όλων των καρτών σε αυτην την λιστα..."
+	},
+	"Archive_All_Cards_in_This_List_": {
+		"message": "Αρχειοθέτηση όλων των καρτών σε αυτην την λίστα..."
+	},
+	"Archive_This_List": {
+		"message": "Αρχειοθέτηση αυτή την λίστα"
+	},
+	"Edit_Labels": {
+		"message": "Επεξεργασία Ετικετών"
+	},
+	"Change_Members": {
+		"message": "Αλλαγή Μέλους"
+	},
+	"Copy": {
+		"message": "Αντιγραφή"
+	},
+	"Change_Due_Date": {
+		"message": "Αλλαγή προθεσμίας"
+	},
+	"Archive": {
+		"message": "Αρχειοθέτηση"
+	},
+	"Add": {
+		"message": "Προσθήκη"
+	},
+	"Change_Notification_Email_Frequency": {
+		"message": "Αλλαγή Συχνότητας Ειδοποίησης με Email"
+	},
+	"See_All_Notifications": {
+		"message": "Εμφάνιση όλων των Ειδοποιήσεων"
+	},
+	"added": {
+		"message": "προστέθηκε"
+	},
+	"to": {
+		"message": "σε"
+	},
+	"and": {
+		"message": "και"
+	},
+	"joined": {
+		"message": "εντάχθηκε"
+	},
+	"moved": {
+		"message": "μετακινήθηκε"
+	},
+	"from": {
+		"message": "από"
+	},
+	"archived": {
+		"message": "αρχειοθετήθηκε"
+	},
+	"renamed": {
+		"message": "μετονομάστηκε"
+	},
+	"this_board": {
+		"message": "αυτός ο πίνακας"
+	},
+	"attached": {
+		"message": "επισυνάφθηκε"
+	},
+	"sent": {
+		"message": "απεστάλη"
+	},
+	"to_the_board": {
+		"message": "στον πίνακα"
+	},
+	"This_card_is_past_due_": {
+		"message": "Αυτή η κάρτα ειναι εκπρόθεσμη"
+	},
+	"You_are_subscribed_to_this_card_": {
+		"message": "Έχετε εγγραφεί σε αυτή την κάρτα"
+	},
+	"Edit_the_description_": {
+		"message": "Αλλάξτε την περιγραφή"
+	},
+	"Write_a_comment_": {
+		"message": "Γράψτε ένα σχόλιο"
+	},
+	"Formatting_help": {
+		"message": "Βοήθεια με το formatting"
+	},
+	"Save": {
+		"message": "Αποθήκευση"
+	},
+	"Actions": {
+		"message": "Ενέργειες"
+	},
+	"Labels": {
+		"message": "Ετικέτες"
+	},
+	"Checklist": {
+		"message": "Λίστα επιλογών"
+	},
+	"Due_date": {
+		"message": "Προθεσμία"
+	},
+	"Attachment": {
+		"message": "Επισυναπτόμενο"
+	},
+	"Move": {
+		"message": "Μετακίνηση"
+	},
+	"Delete": {
+		"message": "Διαγραφή"
+	},
+	"Share_and_more_": {
+		"message": "Μοιραστείτε και περισσότερα"
+	},
+	"Send_to_board": {
+		"message": "Αποστολή στον πίνακα"
+	},
+	"Drop_files_to_upload_": {
+		"message": "Σύρετε επάνω εδω αρχεία για ανέβασμα"
+	},
+	"Add_or_remove_members_of_the_board_from_the_card_": {
+		"message": "Προσθέστε ή αφαιρέστε μέλη του πίνακα από αυτή την κάρτα"
+	},
+	"Change_the_labels_for_the_card_": {
+		"message": "Αλλάξτε τις ετικέτες για αυτήν την κάρτα"
+	},
+	"Add_a_checklist_and_divide_the_card_into_subtasks_": {
+		"message": "Προσθήκη λίστας επιλογών και \"σπάσιμο\" της κάρτας σε υποεργασίες"
+	},
+	"Add_a_due_date_for_the_card_and_get_notifications_when_it_is_almost_due_": {
+		"message": "Προσθήκη προθεσμίας για αυτήν την κάρτα και λήψη ειδοποιήσεων όταν σχεδόν λήξει."
+	}
+}

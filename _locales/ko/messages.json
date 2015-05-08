@@ -1,0 +1,647 @@
+{
+	"New_Organization_": {
+		"message": "새 조직..."
+	},
+	"New_Board_": {
+		"message": "새 보드..."
+	},
+	"A_board_is_a_collection_of_cards_ordered_in_a_list_of_lists__": {
+		"message": "보드는 순서대로 정렬된 여러 카드들의 리스트들이 모인 컬렉션입니다. 프로젝트를 관리하거나 컬렉션을 추적하고 무엇이든 정리할 수 있습니다."
+	},
+	"An_organization_is_a_group_of_boards_and_people__": {
+		"message": "조직은 여러 보드와 사람들의 그룹입니다. 회사나 팀 또는 가족을 그룹으로 묶어보세요."
+	},
+	"Reload_page": {
+		"message": "페이지 새로고침"
+	},
+	"Could_not_connect_to_Trello_": {
+		"message": "Trello에 연결할 수 없습니다."
+	},
+	"Page_not_found_": {
+		"message": "페이지를 찾을 수 없습니다."
+	},
+	"This_page_may_be_private__If_someone_gave_you_this_link__": {
+		"message": "비공개 페이지입니다. 만약 누군가 링크를 주었다면 먼저 링크를 준 사람이 보드나 조직에 초대해야 합니다."
+	},
+	"View_all_activity_": {
+		"message": "모든 활동 보기..."
+	},
+	"Board_Activity": {
+		"message": "보드 활동"
+	},
+	"Load_More_Activity": {
+		"message": "활동 더 보기"
+	},
+	"Change_Organization": {
+		"message": "조직 바꾸기"
+	},
+	"Change": {
+		"message": "바꾸기"
+	},
+	"Change_Organization_": {
+		"message": "조직 바꾸기..."
+	},
+	"View_Organization_Page": {
+		"message": "조직 페이지 보기"
+	},
+	"Rename_Board": {
+		"message": "보드 이름 변경"
+	},
+	"Rename": {
+		"message": "이름 변경"
+	},
+	"Close_Board_question_mark": {
+		"message": "보드를 닫을까요?"
+	},
+	"You_can_re_open_the_board_by_clicking_the___Boards___menu_from_the_header_": {
+		"message": "보드를 다시 열려면 \"보드\" 메뉴에서 \"닫힌 보드 보기\"를 선택하고 보드를 찾은 후에 \"다시 열기\"를 클릭하세요."
+	},
+	"Close": {
+		"message": "닫기"
+	},
+	"Click_here_to_re_open_it_": {
+		"message": "다시 열려면 클릭하세요."
+	},
+	"is_closed_": {
+		"message": "은(는) 닫혀있습니다."
+	},
+	"Create_Organization": {
+		"message": "조직 만들기"
+	},
+	"An_organization_is_a_group_of_boards_and_members_": {
+		"message": "조직은 여러 보드들과 멤버들의 그룹입니다."
+	},
+	"Name": {
+		"message": "이름"
+	},
+	"Description": {
+		"message": "설명"
+	},
+	"Add_an_Organization": {
+		"message": "조직 추가하기"
+	},
+	"Create_an_Organization": {
+		"message": "조직 만들기"
+	},
+	"An_organizations_is_a_collection_of_members_and_boards_": {
+		"message": "조직은 멤버들과 보드들의 컬렉션 입니다. 조직은 그룹내에서 공유나 작업을 편리하게 해줍니다."
+	},
+	"What_are_you_organizing_": {
+		"message": "무엇을 준비하나요?"
+	},
+	"What_are_you_planning_": {
+		"message": "무엇을 계획하나요?"
+	},
+	"Like__Vacation_Planning__for_example_": {
+		"message": "예: \"휴가 계획\""
+	},
+	"Like__House_Stuff__for_example_": {
+		"message": "예: \"집안일 목록\""
+	},
+	"Like__Bucket_List__for_example_": {
+		"message": "예: \"죽기전에 꼭 할일\""
+	},
+	"Like__Game_Development_Roadmap__": {
+		"message": "예: \"게임 개발 로드맵\""
+	},
+	"Like__Calvinball_Meetup_Schedule__": {
+		"message": "예: \"화성 여행 계획\""
+	},
+	"Like__Weekly_Meal_Planning__for_example_": {
+		"message": "예: \"주말 요리 계획\""
+	},
+	"Like__School_Research__for_example_": {
+		"message": "예: \"U.F.O 연구일지\""
+	},
+	"Like__Team_Product_Sprint__for_example_": {
+		"message": "예: \"우리팀 개발 계획\""
+	},
+	"Like__Publishing_Calendar__for_example_": {
+		"message": "예: \"캘린더 만들기\""
+	},
+	"Like__New_Hire_Onboarding__for_example_": {
+		"message": "예: \"신입사원 뽑기\""
+	},
+	"Like__Reading_Collection__for_example_": {
+		"message": "예: \"독서 계획\""
+	},
+	"Create_new_board_": {
+		"message": "새 보드 만들기..."
+	},
+	"Create_Board": {
+		"message": "보드 만들기"
+	},
+	"Title": {
+		"message": "제목"
+	},
+	"Organization": {
+		"message": "조직"
+	},
+	"Create": {
+		"message": "만들기"
+	},
+	"This_board_will_be": {
+		"message": "이 보드는"
+	},
+	"private": {
+		"message": "비공개"
+	},
+	"Change_": {
+		"message": "변경."
+	},
+	"Private": {
+		"message": "비공개"
+	},
+	"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_": {
+		"message": "이 보드는 조직의 멤버들에게만 공개됩니다. 보드를 만든 사람만 수정할 수 있습니다."
+	},
+	"This_board_is_private___Only_people_added_to_the_board_can_view_and_edit_it_": {
+		"message": "이 보드는 비공개 입니다. 보드를 만든 사람만 볼 수 있고 수정할 수 있습니다."
+	},
+	"The_board_must_be_added_to_an_org_to_enable_this_": {
+		"message": "활성화하려면 조직을 먼저 선택해야 합니다."
+	},
+	"Today": {
+		"message": "오늘"
+	},
+	"Week": {
+		"message": "주"
+	},
+	"Month": {
+		"message": "월"
+	},
+	"Sun": {
+		"message": "일"
+	},
+	"Mon": {
+		"message": "월"
+	},
+	"Tue": {
+		"message": "화"
+	},
+	"Wed": {
+		"message": "수"
+	},
+	"Thu": {
+		"message": "목"
+	},
+	"Fri": {
+		"message": "금"
+	},
+	"Sat": {
+		"message": "토"
+	},
+	"January": {
+		"message": "1월"
+	},
+	"February": {
+		"message": "2월"
+	},
+	"March": {
+		"message": "3월"
+	},
+	"April": {
+		"message": "4월"
+	},
+	"June": {
+		"message": "6월"
+	},
+	"July": {
+		"message": "7월"
+	},
+	"August": {
+		"message": "8월"
+	},
+	"September": {
+		"message": "9월"
+	},
+	"October": {
+		"message": "10월"
+	},
+	"November": {
+		"message": "11월"
+	},
+	"December": {
+		"message": "12월"
+	},
+	"Jan": {
+		"message": "1월"
+	},
+	"Feb": {
+		"message": "2월"
+	},
+	"Mar": {
+		"message": "3월"
+	},
+	"Apr": {
+		"message": "4월"
+	},
+	"May": {
+		"message": "5월"
+	},
+	"Jun": {
+		"message": "6월"
+	},
+	"Jul": {
+		"message": "7월"
+	},
+	"Aug": {
+		"message": "8월"
+	},
+	"Sep": {
+		"message": "9월"
+	},
+	"Oct": {
+		"message": "10월"
+	},
+	"Nov": {
+		"message": "11월"
+	},
+	"Dec": {
+		"message": "12월"
+	},
+	"Saved_Searches": {
+		"message": "저장된 검색어"
+	},
+	"Your_search_produced_an_error_": {
+		"message": "검색에 오류가 발생했습니다."
+	},
+	"Searching_": {
+		"message": "검색중..."
+	},
+	"No_results_": {
+		"message": "결과 없음."
+	},
+	"Refine_your_search_with_operators_like__member___label__is_archived__and_has_attachments_": {
+		"message": "검색에 @member, #label, is:archived, has:attachments 같은 연산자를 활용해 보세요."
+	},
+	"Learn_more_": {
+		"message": "자세히 알아보기..."
+	},
+	"Cards": {
+		"message": "카드"
+	},
+	"Loading_": {
+		"message": "불러오는 중..."
+	},
+	"Show_more_boards_": {
+		"message": "보드 더 보기..."
+	},
+	"Show_more_members_": {
+		"message": "멤버 더 보기..."
+	},
+	"Organizations": {
+		"message": "조직"
+	},
+	"Show_more_organizations_": {
+		"message": "조직 더 보기..."
+	},
+	"Back_to_Saved_Searches": {
+		"message": "저장된 검색어로 돌아가기"
+	},
+	"Save_this_Search": {
+		"message": "이 검색어 저장하기"
+	},
+	"Did_you_mean_": {
+		"message": "이것을 찾으셨나요..."
+	},
+	"Only_include_cards_that_have_stickers_": {
+		"message": "스티커를 가진 카드만 포함할 수 있습니다."
+	},
+	"Starred_Boards": {
+		"message": "별표한 보드"
+	},
+	"My_Boards": {
+		"message": "내 보드"
+	},
+	"Overview": {
+		"message": "요약"
+	},
+	"Recent_Boards": {
+		"message": "최근 보드"
+	},
+	"Always_keep_this_menu_open_": {
+		"message": "이 메뉴를 항상 열기."
+	},
+	"Don_t_keep_this_menu_open_": {
+		"message": "이 메뉴를 숨기기."
+	},
+	"See_closed_boards_": {
+		"message": "닫힌 보드 보기..."
+	},
+	"Find_boards_by_name_": {
+		"message": "보드를 이름으로 찾기..."
+	},
+	"There_is_new_activity_on_this_board_": {
+		"message": "이 보드에 새 활동이 있습니다."
+	},
+	"Collapse_section_": {
+		"message": "섹션 축소."
+	},
+	"Expand_section_": {
+		"message": "섹션 확장."
+	},
+	"Closed_Boards": {
+		"message": "보드 닫기"
+	},
+	"Re_open": {
+		"message": "다시 열기"
+	},
+	"You_have_to_have_been_a_board_admin_to_re_open_a_closed_board_": {
+		"message": "닫힌 보드는 보드 관리에서 다시 열었어야 합니다."
+	},
+	"Close_this_dialog_window_": {
+		"message": "이 다이얼로그 창 닫기."
+	},
+	"No_Boards_Found": {
+		"message": "보드를 찾을 수 없습니다"
+	},
+	"Boards": {
+		"message": "보드"
+	},
+	"Public": {
+		"message": "공개"
+	},
+	"Add_a_list_": {
+		"message": "리스트 추가..."
+	},
+	"Calendar": {
+		"message": "캘린더"
+	},
+	"Subscribed": {
+		"message": "구독중"
+	},
+	"Filtering_is_on_": {
+		"message": "필터링 켬"
+	},
+	"Show_sidebar": {
+		"message": "사이드바 보기"
+	},
+	"Add_a_card_": {
+		"message": "카드 추가..."
+	},
+	"Notifications": {
+		"message": "알림"
+	},
+	"This_board_is_public__It_s_visible_to_anyone_with_the_link_": {
+		"message": "이 보드는 공개입니다. 누구나 볼 수 있고 구글같은 검색엔진에서 검색됩니다. 보드를 만든 사람만 수정할 수 있습니다."
+	},
+	"Go_back_to_your_boards_page_": {
+		"message": "보드 페이지로 돌아가기."
+	},
+	"View_list_of_boards": {
+		"message": "보드 리스트 보기"
+	},
+	"Rename_the_board_": {
+		"message": "보드 이름 바꾸기."
+	},
+	"You_are_filtering_cards_on_this_board__Click_here_to_edit_filter_": {
+		"message": "카드를 필터링 중 입니다. 필터를 수정하려면 클릭하세요."
+	},
+	"You_are_subscribed_to_this_board__You_ll_get_notifications_about_changes_": {
+		"message": "이 보드를 구독중입니다. 보드의 변경에 대한 알림을 받습니다."
+	},
+	"Click_to_star_or_unstar_this_board__Starred_boards_show_up_at_the_top_of_your_boards_list_": {
+		"message": "별표하기나 별표해제를 클릭하세요. 별표한 보드는 보드 리스트에서 위쪽에 표시됩니다."
+	},
+	"Close_the_board_sidebar_": {
+		"message": "보드 사이드바 닫기."
+	},
+	"Add_a_new_board_or_organization_": {
+		"message": "보드나 조직 추가하기."
+	},
+	"You_are_seeing_an_early__experimental_version_of_Trello__We_would_love_your_feedback_": {
+		"message": "트렐로의 실험버전입니다. 저희는 항상 피드백을 기다립니다!"
+	},
+	"Get_access_to_your_profile__help__and_log_out_": {
+		"message": "프로필, 도움말, 로그아웃으로 접근"
+	},
+	"This_member_has_Trello_Gold_": {
+		"message": "트렐로 골드 멤버입니다."
+	},
+	"Click_to_star_this_board__It_will_show_up_at_top_of_your_boards_list_": {
+		"message": "별표를 클릭하면 보드 리스트 위쪽에서 보여집니다."
+	},
+	"Search_for_boards__cards__members__and_organizations_": {
+		"message": "보드, 카드, 멤버, 조직 검색."
+	},
+	"Menu": {
+		"message": "메뉴"
+	},
+	"Add_Members": {
+		"message": "멤버 추가"
+	},
+	"Members": {
+		"message": "멤버"
+	},
+	"Activity": {
+		"message": "활동"
+	},
+	"Click_here_to_see_more_board_options_": {
+		"message": "보드 옵션 더 보기"
+	},
+	"Power_Ups": {
+		"message": "파워업"
+	},
+	"Stickers": {
+		"message": "스티커"
+	},
+	"Filter_Cards": {
+		"message": "필터 카드"
+	},
+	"Archived_Items": {
+		"message": "보관된 아이템"
+	},
+	"Change_Background_": {
+		"message": "배경화면 바꾸기..."
+	},
+	"Email_to_board_Settings_": {
+		"message": "보드로 이메일 보내기 설정..."
+	},
+	"Copy_Board_": {
+		"message": "보드 복사..."
+	},
+	"Share__Print__and_Export_": {
+		"message": "공유, 인쇄, 내보내기..."
+	},
+	"Additional_Settings_": {
+		"message": "부가 설정..."
+	},
+	"Close_Board_": {
+		"message": "보드 닫기..."
+	},
+	"Leave_Board_": {
+		"message": "보드 떠나기..."
+	},
+	"List_Actions": {
+		"message": "작업"
+	},
+	"Add_Card_": {
+		"message": "카드 추가..."
+	},
+	"Copy_List_": {
+		"message": "리스트 복사..."
+	},
+	"Move_List_": {
+		"message": "리스트 이동..."
+	},
+	"Subscribe": {
+		"message": "구독하기"
+	},
+	"Move_All_Cards_in_This_List_": {
+		"message": "이 리스트에 있는 모든 카드 이동..."
+	},
+	"Archive_All_Cards_in_This_List_": {
+		"message": "이 리스트에 있는 모든 카드 보관..."
+	},
+	"Archive_This_List": {
+		"message": "이 리스트 보관"
+	},
+	"Edit_Labels": {
+		"message": "라벨 편집"
+	},
+	"Change_Members": {
+		"message": "멤버 바꾸기"
+	},
+	"Copy": {
+		"message": "복사"
+	},
+	"Change_Due_Date": {
+		"message": "기한 변경"
+	},
+	"Archive": {
+		"message": "보관"
+	},
+	"Add": {
+		"message": "추가"
+	},
+	"Change_Notification_Email_Frequency": {
+		"message": "이메일 알림 주기 변경"
+	},
+	"See_All_Notifications": {
+		"message": "모든 알림 보기"
+	},
+	"added": {
+		"message": "멤버가 다음을 추가함 :"
+	},
+	"to": {
+		"message": ", 대상 :"
+	},
+	"and": {
+		"message": ", 그리고"
+	},
+	"joined": {
+		"message": "멤버가 참가함 :"
+	},
+	"moved": {
+		"message": "멤버가 카드를 이동함 :"
+	},
+	"from": {
+		"message": ", 이전 위치 :"
+	},
+	"archived": {
+		"message": "멤버가 카드를 보관함 :"
+	},
+	"renamed": {
+		"message": "멤버가 카드 이름을 바꿈 :"
+	},
+	"this_board": {
+		"message": "이 보드"
+	},
+	"attached": {
+		"message": "멤버가 다음을 첨부함 :"
+	},
+	"sent": {
+		"message": "멤버가 다음을 전송함 :"
+	},
+	"to_the_board": {
+		"message": "대상 보드 :"
+	},
+	"This_card_is_past_due_": {
+		"message": "이 카드의 기한이 지났습니다."
+	},
+	"You_are_subscribed_to_this_card_": {
+		"message": "이 카드를 구독중입니다."
+	},
+	"Edit_the_description_": {
+		"message": "설명 편집..."
+	},
+	"Write_a_comment_": {
+		"message": "댓글 작성..."
+	},
+	"Formatting_help": {
+		"message": "서식 도움말"
+	},
+	"Save": {
+		"message": "저장"
+	},
+	"Actions": {
+		"message": "작업"
+	},
+	"Labels": {
+		"message": "라벨"
+	},
+	"Checklist": {
+		"message": "체크리스트"
+	},
+	"Due_date": {
+		"message": "작업 기한"
+	},
+	"Attachment": {
+		"message": "첨부"
+	},
+	"Move": {
+		"message": "이동"
+	},
+	"Delete": {
+		"message": "삭제"
+	},
+	"Share_and_more_": {
+		"message": "공유 및 기타..."
+	},
+	"Send_to_board": {
+		"message": "보드로 전송"
+	},
+	"Drop_files_to_upload_": {
+		"message": "업로드 하려면 파일을 끌어다 놓으세요."
+	},
+	"Add_or_remove_members_of_the_board_from_the_card_": {
+		"message": "이 카드에 보드에 있는 멤버를 지정하거나 해제하세요."
+	},
+	"Change_the_labels_for_the_card_": {
+		"message": "카드에 적힌 라벨을 변경합니다."
+	},
+	"Add_a_checklist_and_divide_the_card_into_subtasks_": {
+		"message": "체크리스트를 추가하고, 카드의 작업 항목을 세분화합니다."
+	},
+	"Add_a_due_date_for_the_card_and_get_notifications_when_it_is_almost_due_": {
+		"message": "카드에 작업 기한을 추가하고, 작업 기한이 다가올 때 알림을 받습니다."
+	},
+	"Attach_files_from_your_computer_or_from_Google_Drive_": {
+		"message": "컴퓨터 상의 파일이나 Google Drive 에서 파일을 첨부합니다. 드래그 앤 드롭 방식으로 파일을 첨부할 수도 있습니다."
+	},
+	"Move_the_card_to_another_board__another_list__or_a_new_position_in_a_list": {
+		"message": "이 카드를 다른 보드, 다른 리스트 또는 리스트 내의 다른 위치로 이동합니다."
+	},
+	"Make_a_copy_of_this_card__optionally_include_checklist__labels__members__attachments__etc_": {
+		"message": "이 카드를 복사합니다. 체크리스트, 라벨, 포함 멤버, 첨부 파일 등도 복사할 수 있습니다."
+	},
+	"Subscribe_to_the_card_to_get_notifications_when_something_changes_": {
+		"message": "카드를 구독하여 변경 사항을 추적합니다."
+	},
+	"Remove_the_card_from_the_board_": {
+		"message": "카드를 보드에서 제거합니다."
+	},
+	"Send_the_card_back_to_the_board_": {
+		"message": "카드를 다시 보드에 올립니다."
+	},
+	"Delete_the_card_and_all_history_associated_with_it__It_can_t_be_retrieved_": {
+		"message": "카드를 삭제하고 모든 변경 사항을 제거합니다. 이 작업은 되돌릴 수 없습니다."
+	},
+	"More_options_share__print__export__and_delete_": {
+		"message": "공유하기, 인쇄하기, 내보내기, 삭제하기와 같은 추가 작업을 선택합니다."
+	},
+	"in_list": {
+		"message": "소속 리스트 :"
+	}
+}

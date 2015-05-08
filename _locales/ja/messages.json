@@ -1,6 +1,42 @@
 {
+	"New_Organization_": {
+		"message": "新しい組織..."
+	},
+	"New_Board_": {
+		"message": "新しいボード..."
+	},
+	"A_board_is_a_collection_of_cards_ordered_in_a_list_of_lists__": {
+		"message": "ボードは順序のあるカードのリストのリストです。プロジェクトの管理、収集の追跡、何でもまとめるために使用してください。"
+	},
+	"An_organization_is_a_group_of_boards_and_people__": {
+		"message": "組織はボードと人々のグループです。会社、チーム、家族のボードのグループ化に使用してください。"
+	},
+	"Reload_page": {
+		"message": "ページを再読み込み"
+	},
+	"Could_not_connect_to_Trello_": {
+		"message": "Trelloに接続できませんでした。"
+	},
+	"Page_not_found_": {
+		"message": "ページがありません。"
+	},
+	"This_page_may_be_private__If_someone_gave_you_this_link__": {
+		"message": "ページは非公開かもしれません。誰かに示して貰ったリンクの場合は、その人たちのボードや組織に招待してもらう必要があるかもしれません。"
+	},
+	"View_all_activity_": {
+		"message": "すべての活動を表示..."
+	},
+	"Board_Activity": {
+		"message": "ボードの活動"
+	},
+	"Load_More_Activity": {
+		"message": "さらに活動を読み込む"
+	},
 	"Change_Organization": {
 		"message": "組織を変更"
+	},
+	"Change": {
+		"message": "変更"
 	},
 	"Change_Organization_": {
 		"message": "組織を変更..."
@@ -17,6 +53,75 @@
 	"Close_Board_question_mark": {
 		"message": "ボードを閉じる?"
 	},
+	"You_can_re_open_the_board_by_clicking_the___Boards___menu_from_the_header_": {
+		"message": "ボードを再開できます。ヘッダーの「ボード」のメニューをクリックして「閉じたボード」を選択し、再度開きたいボードを見つけて「再開」をクリックしてください。"
+	},
+	"Close": {
+		"message": "閉じる"
+	},
+	"Click_here_to_re_open_it_": {
+		"message": "ここをクリックすると再開します。"
+	},
+	"is_closed_": {
+		"message": "は閉じています。"
+	},
+	"Create_Organization": {
+		"message": "組織を作成"
+	},
+	"An_organization_is_a_group_of_boards_and_members_": {
+		"message": "組織はボードとメンバーのグループです。"
+	},
+	"Name": {
+		"message": "名前"
+	},
+	"Description": {
+		"message": "説明"
+	},
+	"Add_an_Organization": {
+		"message": "組織に追加"
+	},
+	"Create_an_Organization": {
+		"message": "組織を作成"
+	},
+	"An_organizations_is_a_collection_of_members_and_boards_": {
+		"message": "組織はメンバーとボードを集めたものです。グループ内での共有や作業を容易にできます。"
+	},
+	"What_are_you_organizing_": {
+		"message": "何を組織化しますか?"
+	},
+	"What_are_you_planning_": {
+		"message": "何を計画していますか?"
+	},
+	"Like__Vacation_Planning__for_example_": {
+		"message": "例えば「休暇の予定」のような..."
+	},
+	"Like__House_Stuff__for_example_": {
+		"message": "例えば「家事」のような..."
+	},
+	"Like__Bucket_List__for_example_": {
+		"message": "例えば「やりたいリスト」のような..."
+	},
+	"Like__Game_Development_Roadmap__": {
+		"message": "「ゲームの開発のロードマップ」のような..."
+	},
+	"Like__Calvinball_Meetup_Schedule__": {
+		"message": "「Calvinball Meetupの予定」のような..."
+	},
+	"Like__Weekly_Meal_Planning__for_example_": {
+		"message": "例えば「週間の食事の予定」のような..."
+	},
+	"Like__School_Research__for_example_": {
+		"message": "例えば「学校研究」のような..."
+	},
+	"Like__Team_Product_Sprint__for_example_": {
+		"message": "例えば「チーム製品のスプリント」のような..."
+	},
+	"Like__Publishing_Calendar__for_example_": {
+		"message": "例えば「スケジュールの公開」のような..."
+	},
+	"Like__New_Hire_Onboarding__for_example_": {
+		"message": "例えば「新人研修」のような..."
+	},
 	"Create_new_board_": {
 		"message": "新しいボードを作成..."
 	},
@@ -26,14 +131,23 @@
 	"Title": {
 		"message": "題名"
 	},
+	"Organization": {
+		"message": "組織"
+	},
 	"Create": {
 		"message": "作成"
 	},
 	"This_board_will_be": {
 		"message": "このボードの状態:"
 	},
+	"private": {
+		"message": "非公開"
+	},
 	"Change_": {
 		"message": "変更する。"
+	},
+	"Private": {
+		"message": "非公開"
 	},
 	"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_": {
 		"message": "このボードは組織のメンバーにだけ表示します。ボードに追加された人だけが編集できます。"
@@ -185,6 +299,9 @@
 	"Save_this_Search": {
 		"message": "この検索を保存"
 	},
+	"Did_you_mean_": {
+		"message": "次のような意味ですか..."
+	},
 	"Only_include_cards_that_have_stickers_": {
 		"message": "ステッカーのあるカードだけを含めます。"
 	},
@@ -207,7 +324,7 @@
 		"message": "メニューを表示続けません。"
 	},
 	"See_closed_boards_": {
-		"message": "終了したボードを表示..."
+		"message": "閉じたボードを表示..."
 	},
 	"Find_boards_by_name_": {
 		"message": "ボードを名前で探す..."
@@ -222,10 +339,16 @@
 		"message": "セクションを展開する。"
 	},
 	"Closed_Boards": {
-		"message": "終了したボード"
+		"message": "閉じたボード"
 	},
 	"Re_open": {
 		"message": "再開"
+	},
+	"You_have_to_have_been_a_board_admin_to_re_open_a_closed_board_": {
+		"message": "閉じたボードを再開するには、そのボードの管理者でなければなりません。"
+	},
+	"Close_this_dialog_window_": {
+		"message": "ダイアログ・ウィンドウを閉じる。"
 	},
 	"No_Boards_Found": {
 		"message": "ボードがありません"
@@ -242,6 +365,9 @@
 	"Calendar": {
 		"message": "カレンダー"
 	},
+	"Subscribed": {
+		"message": "登録済み"
+	},
 	"Filtering_is_on_": {
 		"message": "絞り込みが有効です。"
 	},
@@ -253,6 +379,9 @@
 	},
 	"Notifications": {
 		"message": "通知"
+	},
+	"This_board_is_public__It_s_visible_to_anyone_with_the_link_": {
+		"message": "このボードは公開されています。リンクを知る誰でも見ることができますし、Googleのような検索エンジンにも表示されるでしょう。ボードに追加した人々だけが編集できます。"
 	},
 	"Go_back_to_your_boards_page_": {
 		"message": "ボードのページに戻ります。"
@@ -266,6 +395,9 @@
 	"You_are_filtering_cards_on_this_board__Click_here_to_edit_filter_": {
 		"message": "このボードのカードを絞り込んでいます。ここをクリックするとフィルターを編集します。"
 	},
+	"You_are_subscribed_to_this_board__You_ll_get_notifications_about_changes_": {
+		"message": "ボードに登録しました。変更があると通知を受けます。"
+	},
 	"Click_to_star_or_unstar_this_board__Starred_boards_show_up_at_the_top_of_your_boards_list_": {
 		"message": "クリックすると星印をこのボードに付けるか外します。星印のあるボードは上部に一覧します。"
 	},
@@ -274,6 +406,21 @@
 	},
 	"Add_a_new_board_or_organization_": {
 		"message": "新しいボードや組織を追加します。"
+	},
+	"You_are_seeing_an_early__experimental_version_of_Trello__We_would_love_your_feedback_": {
+		"message": "Trelloの早期の、試験的なバージョンを見ています。フィードバックは大歓迎です~"
+	},
+	"Get_access_to_your_profile__help__and_log_out_": {
+		"message": "あなたのプロファイル、ヘルプ、ログアウトにアクセスします。"
+	},
+	"This_member_has_Trello_Gold_": {
+		"message": "このメンバーはTrello Goldです。"
+	},
+	"Click_to_star_this_board__It_will_show_up_at_top_of_your_boards_list_": {
+		"message": "クリックするとボードに星印を付けます。ボードのリストの先頭に表示するようになります。"
+	},
+	"Search_for_boards__cards__members__and_organizations_": {
+		"message": "ボード、カード、メンバー、組織を検索します。"
 	},
 	"Menu": {
 		"message": "メニュー"
@@ -286,6 +433,12 @@
 	},
 	"Activity": {
 		"message": "活動状況"
+	},
+	"Click_here_to_see_more_board_options_": {
+		"message": "クリックするとボードのオプションをさらに表示します。"
+	},
+	"Power_Ups": {
+		"message": "Power-Ups"
 	},
 	"Stickers": {
 		"message": "ステッカー"
@@ -312,7 +465,13 @@
 		"message": "追加の設定..."
 	},
 	"Close_Board_": {
-		"message": "ボードを終了..."
+		"message": "ボードを閉じる..."
+	},
+	"Leave_Board_": {
+		"message": "ボードを去る..."
+	},
+	"List_Actions": {
+		"message": "活動を一覧"
 	},
 	"Add_Card_": {
 		"message": "カードを追加..."
@@ -322,6 +481,15 @@
 	},
 	"Move_List_": {
 		"message": "リストを移動..."
+	},
+	"Subscribe": {
+		"message": "登録"
+	},
+	"Move_All_Cards_in_This_List_": {
+		"message": "このリストのすべてのカードを移動..."
+	},
+	"Archive_All_Cards_in_This_List_": {
+		"message": "このリストのすべてのカードをアーカイブ..."
 	},
 	"Archive_This_List": {
 		"message": "このリストをアーカイブ"
@@ -344,8 +512,53 @@
 	"Add": {
 		"message": "追加"
 	},
+	"Change_Notification_Email_Frequency": {
+		"message": "通知の電子メールの頻度を変更"
+	},
 	"See_All_Notifications": {
 		"message": "すべての通知を表示"
+	},
+	"added": {
+		"message": "追加した:"
+	},
+	"to": {
+		"message": "こちらに:"
+	},
+	"and": {
+		"message": "と"
+	},
+	"joined": {
+		"message": "参加した:"
+	},
+	"moved": {
+		"message": "移動した:"
+	},
+	"from": {
+		"message": "こちらから:"
+	},
+	"archived": {
+		"message": "アーカイブした:"
+	},
+	"renamed": {
+		"message": "名前を変更した:"
+	},
+	"this_board": {
+		"message": "このボード"
+	},
+	"attached": {
+		"message": "添付した:"
+	},
+	"sent": {
+		"message": "送信した:"
+	},
+	"to_the_board": {
+		"message": "このボード"
+	},
+	"This_card_is_past_due_": {
+		"message": "このカードは期日を過ぎています。"
+	},
+	"You_are_subscribed_to_this_card_": {
+		"message": "このカードに登録しています。"
 	},
 	"Edit_the_description_": {
 		"message": "説明を編集..."
@@ -353,14 +566,23 @@
 	"Write_a_comment_": {
 		"message": "コメントを書く..."
 	},
+	"Formatting_help": {
+		"message": "ヘルプを準備中"
+	},
 	"Save": {
 		"message": "保存"
+	},
+	"Actions": {
+		"message": "活動"
 	},
 	"Labels": {
 		"message": "ラベル"
 	},
 	"Checklist": {
 		"message": "チェックリスト"
+	},
+	"Due_date": {
+		"message": "期日"
 	},
 	"Attachment": {
 		"message": "添付ファイル"
@@ -371,13 +593,52 @@
 	"Delete": {
 		"message": "削除"
 	},
+	"Share_and_more_": {
+		"message": "共有とその他..."
+	},
 	"Send_to_board": {
 		"message": "ボードに送信"
 	},
 	"Drop_files_to_upload_": {
 		"message": "アップロードするファイルをドロップします。"
 	},
+	"Add_or_remove_members_of_the_board_from_the_card_": {
+		"message": "カードからボードのメンバーの追加や削除をします。"
+	},
 	"Change_the_labels_for_the_card_": {
 		"message": "カードのラベルを変更します。"
+	},
+	"Add_a_checklist_and_divide_the_card_into_subtasks_": {
+		"message": "チェックリストを追加して、カードをサブタスクに分割します。"
+	},
+	"Add_a_due_date_for_the_card_and_get_notifications_when_it_is_almost_due_": {
+		"message": "カードに期日を追加して、期日が近づくと通知するようにします。"
+	},
+	"Attach_files_from_your_computer_or_from_Google_Drive_": {
+		"message": "コンピューターかGoogle Driveからファイルを添付します。デスクトップからドラッグ・アンド・ドロップでアップロードもできます。"
+	},
+	"Move_the_card_to_another_board__another_list__or_a_new_position_in_a_list": {
+		"message": "カードを他のボード、他のリスト、リストの新しい位置に移動します。"
+	},
+	"Make_a_copy_of_this_card__optionally_include_checklist__labels__members__attachments__etc_": {
+		"message": "このカードのコピーを作成します。チェックリスト、ラベル、メンバー、添付ファイル等を含めることもできます。"
+	},
+	"Subscribe_to_the_card_to_get_notifications_when_something_changes_": {
+		"message": "何か変更されたときに通知を得るにはカードに登録してください。"
+	},
+	"Remove_the_card_from_the_board_": {
+		"message": "ボードからカードを削除します。"
+	},
+	"Send_the_card_back_to_the_board_": {
+		"message": "カードをボードに送り返します。"
+	},
+	"Delete_the_card_and_all_history_associated_with_it__It_can_t_be_retrieved_": {
+		"message": "カードと関連した履歴を削除します。これは取り消せません。"
+	},
+	"More_options_share__print__export__and_delete_": {
+		"message": "さらに共有、印刷、エクスポート、削除のオプション。"
+	},
+	"in_list": {
+		"message": "リスト中"
 	}
 }

@@ -1,0 +1,491 @@
+{
+	"New_Organization_": {
+		"message": "...ארגון חדש"
+	},
+	"New_Board_": {
+		"message": "לוח חדש..."
+	},
+	"A_board_is_a_collection_of_cards_ordered_in_a_list_of_lists__": {
+		"message": "לוח הוא אוסף של כרטיסים המסודרים כרשימה של רשימות. השתמשו בו כדי לנהל פרוייקט, לעקוב אחרי אוסף או כדי לארגן כל דבר"
+	},
+	"An_organization_is_a_group_of_boards_and_people__": {
+		"message": "ארגון הוא אוסף של לוחות ואנשים. השתמשו בו כדי לאגד לוחות של חברתכם, הצוות שלכם או משפחתכם"
+	},
+	"Reload_page": {
+		"message": "רענן את הדף"
+	},
+	"Could_not_connect_to_Trello_": {
+		"message": "לא הצליח להתחבר לTrello."
+	},
+	"Page_not_found_": {
+		"message": "דף לא נמצא."
+	},
+	"This_page_may_be_private__If_someone_gave_you_this_link__": {
+		"message": "דף זה עשוי להיות פרטי. אם מישהו שלח לך קישור זה, יתכן שהוא צריך להזמין אותך ללוחות או לאירגונים שלו."
+	},
+	"View_all_activity_": {
+		"message": "הצג את כל הפעילות ..."
+	},
+	"Board_Activity": {
+		"message": "פעילות הלוח"
+	},
+	"Load_More_Activity": {
+		"message": "לטעון יותר פעילות"
+	},
+	"Change_Organization": {
+		"message": "שינוי ארגון"
+	},
+	"Change": {
+		"message": "שינוי"
+	},
+	"Change_Organization_": {
+		"message": "שינוי ארגון..."
+	},
+	"View_Organization_Page": {
+		"message": "צפה בדף של הארגון"
+	},
+	"Rename_Board": {
+		"message": "שינוי שם הלוח"
+	},
+	"Rename": {
+		"message": "שינוי שם"
+	},
+	"Close_Board_question_mark": {
+		"message": "לסגור לוח?"
+	},
+	"Close": {
+		"message": "לסגור"
+	},
+	"Click_here_to_re_open_it_": {
+		"message": "לחץ כאן כדי לפתוח אותה מחדש."
+	},
+	"is_closed_": {
+		"message": "סגור."
+	},
+	"Create_Organization": {
+		"message": "צור ארגון"
+	},
+	"An_organization_is_a_group_of_boards_and_members_": {
+		"message": "ארגון הוא קבוצה של לוחות ושל חברים"
+	},
+	"Name": {
+		"message": "שם"
+	},
+	"Description": {
+		"message": "תיאור"
+	},
+	"Add_an_Organization": {
+		"message": "הוסף ארגון"
+	},
+	"Create_an_Organization": {
+		"message": "צור ארגון"
+	},
+	"An_organizations_is_a_collection_of_members_and_boards_": {
+		"message": "ארגון הוא אוסף של חברים ולוחות. באמצעותו קל יותר לשתף מידע ולעבוד בקבוצות"
+	},
+	"What_are_you_organizing_": {
+		"message": "מה אתם מארגנים?"
+	},
+	"What_are_you_planning_": {
+		"message": "מה אתם מתכננים?"
+	},
+	"Like__Vacation_Planning__for_example_": {
+		"message": "כמו \"תכנון חופשה\", למשל ..."
+	},
+	"Like__House_Stuff__for_example_": {
+		"message": "כמו \"דברים בבית\", למשל ..."
+	},
+	"Like__Bucket_List__for_example_": {
+		"message": "כמו ״רשימת חלומות״ למשל..."
+	},
+	"Like__Game_Development_Roadmap__": {
+		"message": "כמו \"מפת דרכים פיתוח משחק\" ..."
+	},
+	"Like__Weekly_Meal_Planning__for_example_": {
+		"message": "כמו \"תכנון ארוחת שבועי\", למשל ..."
+	},
+	"Like__School_Research__for_example_": {
+		"message": "כמו \"מחקר בית הספר\" לדוגמא ..."
+	},
+	"Like__Team_Product_Sprint__for_example_": {
+		"message": "כמו \"ספרינט צוות המוצר\", למשל ..."
+	},
+	"Like__Publishing_Calendar__for_example_": {
+		"message": "כמו \"לוח זמנים להוצאה לאור\" לדוגמא ..."
+	},
+	"Create_new_board_": {
+		"message": "צור לוח חדש..."
+	},
+	"Create_Board": {
+		"message": "צור לוח"
+	},
+	"Title": {
+		"message": "שם"
+	},
+	"Organization": {
+		"message": "ארגון"
+	},
+	"Create": {
+		"message": "צור"
+	},
+	"This_board_will_be": {
+		"message": "לוח זה יהיה"
+	},
+	"private": {
+		"message": "פרטי"
+	},
+	"Change_": {
+		"message": "לשנות."
+	},
+	"Private": {
+		"message": "פרטי"
+	},
+	"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_": {
+		"message": "לוח זה זמין לחברים בארגון. רק אנשים שנוספו ללוח יכולים לערוך."
+	},
+	"This_board_is_private___Only_people_added_to_the_board_can_view_and_edit_it_": {
+		"message": "לוח זה פרטי. רק אנשים שנוספו ללוח יכולים לצפות בו ולערוך אותו."
+	},
+	"The_board_must_be_added_to_an_org_to_enable_this_": {
+		"message": "הלוח חייב להיות מצורף לאירגון כדי לאפשר זאת."
+	},
+	"Today": {
+		"message": "היום"
+	},
+	"Week": {
+		"message": "שבוע"
+	},
+	"Month": {
+		"message": "חודש"
+	},
+	"Sun": {
+		"message": "א׳"
+	},
+	"Mon": {
+		"message": "ב׳"
+	},
+	"Tue": {
+		"message": "ג׳"
+	},
+	"Wed": {
+		"message": "ד׳"
+	},
+	"Thu": {
+		"message": "ה׳"
+	},
+	"Fri": {
+		"message": "ו׳"
+	},
+	"Sat": {
+		"message": "ז׳"
+	},
+	"January": {
+		"message": "ינואר"
+	},
+	"February": {
+		"message": "פבואר"
+	},
+	"March": {
+		"message": "מרץ"
+	},
+	"April": {
+		"message": "אפריל"
+	},
+	"June": {
+		"message": "יוני"
+	},
+	"July": {
+		"message": "יולי"
+	},
+	"August": {
+		"message": "אוגוסט"
+	},
+	"September": {
+		"message": "ספטמבר"
+	},
+	"October": {
+		"message": "אוקטובר"
+	},
+	"November": {
+		"message": "נובמבר"
+	},
+	"December": {
+		"message": "דצמבר"
+	},
+	"Jan": {
+		"message": "ינואר"
+	},
+	"Feb": {
+		"message": "פבואר"
+	},
+	"Mar": {
+		"message": "מרץ"
+	},
+	"Apr": {
+		"message": "אפריל"
+	},
+	"May": {
+		"message": "מאי"
+	},
+	"Jun": {
+		"message": "יוני"
+	},
+	"Jul": {
+		"message": "יולי"
+	},
+	"Aug": {
+		"message": "אוגוסט"
+	},
+	"Sep": {
+		"message": "ספטמבר"
+	},
+	"Oct": {
+		"message": "אוקטובר"
+	},
+	"Nov": {
+		"message": "נובמבר"
+	},
+	"Dec": {
+		"message": "דצמבר"
+	},
+	"Saved_Searches": {
+		"message": "חיפושים שמורים"
+	},
+	"Your_search_produced_an_error_": {
+		"message": "החיפוש הסתיים בטעות"
+	},
+	"Searching_": {
+		"message": "מחפש..."
+	},
+	"No_results_": {
+		"message": "אין תוצאות."
+	},
+	"Learn_more_": {
+		"message": "למד עוד..."
+	},
+	"Cards": {
+		"message": "כרטיסים"
+	},
+	"Loading_": {
+		"message": "טוען..."
+	},
+	"Show_more_boards_": {
+		"message": "הראה עוד לוחות..."
+	},
+	"Show_more_members_": {
+		"message": "הראה עוד מנויים..."
+	},
+	"Organizations": {
+		"message": "ארגונים"
+	},
+	"Show_more_organizations_": {
+		"message": "הראה עוד ארגונים..."
+	},
+	"Back_to_Saved_Searches": {
+		"message": "בחזרה לחיפושים שמורים"
+	},
+	"Save_this_Search": {
+		"message": "שמור חיפוש זה"
+	},
+	"Did_you_mean_": {
+		"message": "האם התכוונת..."
+	},
+	"Only_include_cards_that_have_stickers_": {
+		"message": "כלול רק כרטיסים שיש בהם מדבקות."
+	},
+	"Starred_Boards": {
+		"message": "לוחות מכוכבים"
+	},
+	"My_Boards": {
+		"message": "הלוחות שלי"
+	},
+	"Overview": {
+		"message": "סקירה"
+	},
+	"Always_keep_this_menu_open_": {
+		"message": "תמיד לשמור תפריט זה פתוח."
+	},
+	"Don_t_keep_this_menu_open_": {
+		"message": "אל תשמור תפריט זה פתוח."
+	},
+	"See_closed_boards_": {
+		"message": "ראה לוחות סגורים..."
+	},
+	"Collapse_section_": {
+		"message": "תקטין קטע."
+	},
+	"Expand_section_": {
+		"message": "הרחיב קטע."
+	},
+	"Closed_Boards": {
+		"message": "לוחות סגורים"
+	},
+	"Re_open": {
+		"message": "הפתוחות מחדש"
+	},
+	"No_Boards_Found": {
+		"message": "לא נמצאו לוחות"
+	},
+	"Boards": {
+		"message": "לוחות"
+	},
+	"Public": {
+		"message": "ציבורי"
+	},
+	"Add_a_list_": {
+		"message": "הוסף רשימה..."
+	},
+	"Calendar": {
+		"message": "לוח שנה"
+	},
+	"Subscribed": {
+		"message": "מנוי"
+	},
+	"Filtering_is_on_": {
+		"message": "סינון מופעל."
+	},
+	"Add_a_card_": {
+		"message": "הוסף כרטיס..."
+	},
+	"Notifications": {
+		"message": "הודעות"
+	},
+	"Go_back_to_your_boards_page_": {
+		"message": "חזור לדף לוחות שלך."
+	},
+	"View_list_of_boards": {
+		"message": "צפה ברשימה של לוחות"
+	},
+	"Rename_the_board_": {
+		"message": "שנה שם לוח."
+	},
+	"Add_a_new_board_or_organization_": {
+		"message": "הוסף לוח או ארגון חדש."
+	},
+	"This_member_has_Trello_Gold_": {
+		"message": "למשתמש זה יש Trello Gold."
+	},
+	"Menu": {
+		"message": "תפריט"
+	},
+	"Add_Members": {
+		"message": "הוספת משתמשים"
+	},
+	"Members": {
+		"message": "משתמשים"
+	},
+	"Activity": {
+		"message": "פעילות"
+	},
+	"Stickers": {
+		"message": "מדבקות"
+	},
+	"Filter_Cards": {
+		"message": "סנן כרטיסים"
+	},
+	"Change_Background_": {
+		"message": "שינוי רקע..."
+	},
+	"Copy_Board_": {
+		"message": "העתק לוח..."
+	},
+	"Share__Print__and_Export_": {
+		"message": "שתף, הדפסה, יצוא..."
+	},
+	"Additional_Settings_": {
+		"message": "הגדרות נוספות..."
+	},
+	"Close_Board_": {
+		"message": "סגור לוח..."
+	},
+	"List_Actions": {
+		"message": "רשימת פעולות"
+	},
+	"Copy_List_": {
+		"message": "העתק רשימה..."
+	},
+	"Move_List_": {
+		"message": "העבר רשימה..."
+	},
+	"Subscribe": {
+		"message": "הירשם"
+	},
+	"Archive_This_List": {
+		"message": "ארכיון רשימה זו"
+	},
+	"Edit_Labels": {
+		"message": "ערוך תוויות"
+	},
+	"Change_Members": {
+		"message": "שינוי משתמשים"
+	},
+	"Copy": {
+		"message": "העתק"
+	},
+	"Change_Due_Date": {
+		"message": "לשנות תאריך יעד"
+	},
+	"Archive": {
+		"message": "ארכיון"
+	},
+	"Add": {
+		"message": "הוסף"
+	},
+	"Change_Notification_Email_Frequency": {
+		"message": "שינוי תדרות של הודעות בדוא\"ל"
+	},
+	"See_All_Notifications": {
+		"message": "ראה את כל ההודעות"
+	},
+	"added": {
+		"message": "הוסף"
+	},
+	"to": {
+		"message": "ל"
+	},
+	"and": {
+		"message": "ו"
+	},
+	"joined": {
+		"message": "הצטרף"
+	},
+	"moved": {
+		"message": "עבר"
+	},
+	"from": {
+		"message": "מ"
+	},
+	"archived": {
+		"message": "ארכיון"
+	},
+	"this_board": {
+		"message": "לוח זה"
+	},
+	"attached": {
+		"message": "מצורף"
+	},
+	"sent": {
+		"message": "נשלח"
+	},
+	"to_the_board": {
+		"message": "ללוח"
+	},
+	"This_card_is_past_due_": {
+		"message": "כרטיס זה בפיגור."
+	},
+	"You_are_subscribed_to_this_card_": {
+		"message": "אתה מנוי לכרטיס זה."
+	},
+	"Edit_the_description_": {
+		"message": "ערוך את התיאור..."
+	},
+	"Write_a_comment_": {
+		"message": "הוסף תגובה..."
+	},
+	"Formatting_help": {
+		"message": "עזרה בעיצוב"
+	},
+	"Save": {
+		"message": "שמור"
+	}
+}

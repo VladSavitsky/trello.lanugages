@@ -1,0 +1,245 @@
+{
+	"New_Organization_": {
+		"message": "Yeni Takım"
+	},
+	"New_Board_": {
+		"message": "Yeni Tahta"
+	},
+	"A_board_is_a_collection_of_cards_ordered_in_a_list_of_lists__": {
+		"message": "Tahta"
+	},
+	"An_organization_is_a_group_of_boards_and_people__": {
+		"message": "tahtalar ve insanlari içeren grup bir takım oluşturur."
+	},
+	"Reload_page": {
+		"message": "Sayfayı yenile"
+	},
+	"Could_not_connect_to_Trello_": {
+		"message": "Trello'ya bağlanılamadı"
+	},
+	"Page_not_found_": {
+		"message": "Sayfa bulunamadı"
+	},
+	"View_all_activity_": {
+		"message": "Tüm işlemleri görüntüle"
+	},
+	"Board_Activity": {
+		"message": "Tahta hareketleri"
+	},
+	"Load_More_Activity": {
+		"message": "Daha fazla hareketi yükle"
+	},
+	"Change_Organization": {
+		"message": "Takım Değiştir"
+	},
+	"Change": {
+		"message": "Değiştir"
+	},
+	"View_Organization_Page": {
+		"message": "Takım sayfasını görüntüle"
+	},
+	"Rename_Board": {
+		"message": "tahtayı ismini değiştir"
+	},
+	"Rename": {
+		"message": "isim değiştir"
+	},
+	"Close_Board_question_mark": {
+		"message": "tahtayı kapat"
+	},
+	"Close": {
+		"message": "kapat"
+	},
+	"Click_here_to_re_open_it_": {
+		"message": "tekrar açmak için tırkla"
+	},
+	"is_closed_": {
+		"message": "kapatıldı"
+	},
+	"Create_Organization": {
+		"message": "takım oluştur"
+	},
+	"An_organization_is_a_group_of_boards_and_members_": {
+		"message": "Takım - tahtaların ve üyelerin grubu"
+	},
+	"Name": {
+		"message": "İsim"
+	},
+	"Description": {
+		"message": "Açıklama"
+	},
+	"Add_an_Organization": {
+		"message": "Takım ekle"
+	},
+	"Create_an_Organization": {
+		"message": "Takım yarat"
+	},
+	"What_are_you_planning_": {
+		"message": "Ne planlıyorsunuz?"
+	},
+	"Like__Vacation_Planning__for_example_": {
+		"message": "Örnek: \"Tatil planlaması\""
+	},
+	"Like__House_Stuff__for_example_": {
+		"message": "Örnek: \"Ev gereçleri\""
+	},
+	"Like__Bucket_List__for_example_": {
+		"message": "Örnek: \"Hayat planlaması\""
+	},
+	"Like__Game_Development_Roadmap__": {
+		"message": "Örnek: \"Oyun geliştirme\""
+	},
+	"Like__Calvinball_Meetup_Schedule__": {
+		"message": "Örnek: \"Parti buluşması planlanması\""
+	},
+	"Like__Weekly_Meal_Planning__for_example_": {
+		"message": "Örnek: \"Haftalık alışveriş listesi\""
+	},
+	"Today": {
+		"message": "Bugün"
+	},
+	"Week": {
+		"message": "Hafta"
+	},
+	"Month": {
+		"message": "Ay"
+	},
+	"Sun": {
+		"message": "Paz"
+	},
+	"Mon": {
+		"message": "Prt"
+	},
+	"Tue": {
+		"message": "Sal"
+	},
+	"Wed": {
+		"message": "Çar"
+	},
+	"Thu": {
+		"message": "Per"
+	},
+	"Fri": {
+		"message": "Cum"
+	},
+	"Sat": {
+		"message": "Crt"
+	},
+	"January": {
+		"message": "Ocak"
+	},
+	"February": {
+		"message": "Şubat"
+	},
+	"March": {
+		"message": "Mart"
+	},
+	"April": {
+		"message": "Nisan"
+	},
+	"June": {
+		"message": "Haziran"
+	},
+	"July": {
+		"message": "Temmuz"
+	},
+	"August": {
+		"message": "Ağustos"
+	},
+	"September": {
+		"message": "Eylül"
+	},
+	"October": {
+		"message": "Ekim"
+	},
+	"November": {
+		"message": "Kasım"
+	},
+	"December": {
+		"message": "Aralık"
+	},
+	"Jan": {
+		"message": "Oca"
+	},
+	"Feb": {
+		"message": "Şub"
+	},
+	"Mar": {
+		"message": "Mar"
+	},
+	"Apr": {
+		"message": "Nis"
+	},
+	"May": {
+		"message": "May"
+	},
+	"Jun": {
+		"message": "Haz"
+	},
+	"Jul": {
+		"message": "Tem"
+	},
+	"Aug": {
+		"message": "Ağu"
+	},
+	"Sep": {
+		"message": "Eyl"
+	},
+	"Oct": {
+		"message": "Eki"
+	},
+	"Nov": {
+		"message": "Kas"
+	},
+	"Dec": {
+		"message": "Ara"
+	},
+	"Saved_Searches": {
+		"message": "Kayıtlı arama"
+	},
+	"Your_search_produced_an_error_": {
+		"message": "Arama hatası."
+	},
+	"Searching_": {
+		"message": "Arıyor..."
+	},
+	"No_results_": {
+		"message": "Sonuç yok."
+	},
+	"Refine_your_search_with_operators_like__member___label__is_archived__and_has_attachments_": {
+		"message": "@üye, #etiket, is:arşivlenen, ve has:ekler kullanarak aramanızı daraltın"
+	},
+	"Learn_more_": {
+		"message": "Daha fazla öğrenin..."
+	},
+	"Cards": {
+		"message": "Kartlar"
+	},
+	"Loading_": {
+		"message": "Yükleniyor..."
+	},
+	"Show_more_boards_": {
+		"message": "Daha fazla tahta göster..."
+	},
+	"Show_more_members_": {
+		"message": "Daha fazla üye göster..."
+	},
+	"Subscribe_to_the_card_to_get_notifications_when_something_changes_": {
+		"message": "Karta katılarak işlem olduğunda bildirim olarak alın."
+	},
+	"Remove_the_card_from_the_board_": {
+		"message": "Kartı tahtadan kaldır."
+	},
+	"Send_the_card_back_to_the_board_": {
+		"message": "Kartı tahtaya geri gönder."
+	},
+	"Delete_the_card_and_all_history_associated_with_it__It_can_t_be_retrieved_": {
+		"message": "Kart ve kartla ilgili tüm hareketleri sil. Geri getirilemez."
+	},
+	"More_options_share__print__export__and_delete_": {
+		"message": "Daha fazla seçenek paylaş, baskı, dışarı aktar ve sil."
+	},
+	"in_list": {
+		"message": "liste içinde"
+	}
+}

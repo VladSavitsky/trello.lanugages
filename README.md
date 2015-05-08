@@ -19,15 +19,7 @@ There are two steps: install extension and configure browser's default language 
 
 ## Set language in Chrome browser.
 
-If you set default language before you could safely skip this step. Here's how to change the locale using the UI on Google Chrome for Windows:
-
-1. Wrench icon > Options
-2. Choose the Under the Hood tab
-3. Scroll down to Web Content
-4. Click Change font and language settings
-5. Choose the Languages tab
-6. Use the drop down to set the Google Chrome language
-7. Restart Chrome
+See https://developer.chrome.com/extensions/i18n#locales-testing
 
 # How it works
 

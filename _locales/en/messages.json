@@ -1,911 +1,862 @@
 {
-
-
-
-"New_Organization_" : {
-  "message" : "New Organization…",
-  "description" : "Add new Organization or Board window."
-},
-"New_Board_" : {
-  "message" : "New Board…",
-  "description" : "Add new Organization or Board window."
-},
-"A_board_is_a_collection_of_cards_ordered_in_a_list_of_lists__" : {
-  "message" : "A board is a collection of cards ordered in a list of lists. Use it to manage a project, track a collection, or organize anything.",
-  "description" : "Add new Organization or Board window."
-},
-"An_organization_is_a_group_of_boards_and_people__" : {
-  "message" : "An organization is a group of boards and people. Use it to group boards in your company, team, or family.",
-  "description" : "Add new Organization or Board window."
-},
-
-
-"Reload_page" : {
-  "message" : "Reload page",
-  "description" : "Connection Error Window."
-},
-"Could_not_connect_to_Trello_" : {
-  "message" : "Could not connect to Trello.",
-  "description" : "Connection Error Window."
-},
-
-
-"Page_not_found_" : {
-  "message" : "Page not found.",
-  "description" : "Page Not Found message."
-},
-"This_page_may_be_private__If_someone_gave_you_this_link__" : {
-  "message" : "This page may be private. If someone gave you this link, they may need to invite you to one of their boards or organizations.",
-  "description" : "Page Not Found message."
-},
-"View_all_activity_" : {
-  "message" : "View all activity…",
-  "description" : "Activity under Menu Sidebar."
-},
-
-"Board_Activity" : {
-  "message" : "Board Activity",
-  "description" : "Board Activity Window."
-},
-"Load_More_Activity" : {
-  "message" : "Load More Activity",
-  "description" : "Board Activity Window."
-},
-
-"Change_Organization" : {
-  "message" : "Change Organization",
-  "description" : "Change Organization window."
-},
-"Change" : {
-  "message" : "Change",
-  "description" : "Change Organization window."
-},
-
-
-
-"Change_Organization_" : {
-  "message" : "Change Organization…",
-  "description" : "Board Organization window."
-},
-"View_Organization_Page" : {
-  "message" : "View Organization Page",
-  "description" : "Board Organization window."
-},
-
-
-
-"Rename_Board" : {
-  "message" : "Rename Board",
-  "description" : "Window title at Rename Board window."
-},
-"Rename" : {
-  "message" : "Rename",
-  "description" : "Button at Rename Board window."
-},
-
-
-
-"Close_Board_question_mark" : {
-  "message" : "Close Board?",
-  "description" : "Close Board window."
-},
-"You_can_re_open_the_board_by_clicking_the___Boards___menu_from_the_header_" : {
-  "message" :  "You can re-open the board by clicking the “Boards” menu from the header, selecting “View Closed Boards”, finding the board and clicking “Re-open”.",
-  "description" : "Close Board window."
-},
-"Close" : {
-  "message" : "Close",
-  "description" : "Close Board window."
-},
-
-
-
-"Click_here_to_re_open_it_" : {
-  "message" : "Click here to re-open it.",
-  "description" : "Big message that Board was closed."
-},
-"is_closed_" : {
-  "message" : "is closed.",
-  "description" : "Big message that Board was closed."
-},
-
-
-"Create_Organization" : {
-  "message" : "Create Organization",
-  "description" : "Create Organization_window"
-},
-"An_organization_is_a_group_of_boards_and_members_" : {
-  "message" : "An organization is a group of boards and members.",
-  "description" : "Create Organization_window"
-},
-"Name" : {
-  "message" : "Name",
-  "description" : "Name of organization at 'Create Organization' window; Name of  oard at 'Rename Board' window."
-},
-"Description" : {
-  "message" : "Description",
-  "description" : "Create Organization_window"
-},
-
-
-
-"Add_an_Organization" : {
-  "message" : "Add an Organization",
-  "description" : "Create an Organization window"
-},
-"Create_an_Organization" : {
-  "message" : "Create an Organization",
-  "description" : "Create an Organization window"
-},
-"An_organizations_is_a_collection_of_members_and_boards_" : {
-  "message" : "An organizations is a collection of members and boards. They make sharing and working within a group even easier.",
-  "description" : "Create an Organization window"
-},
-
-
-
-"What_are_you_organizing_" : {
-  "message" : "What are you organizing?",
-  "description" : "Board creation popup"
-},
-"What_are_you_planning_" : {
-  "message" : "What are you planning?",
-  "description" : "Board creation popup"
-},
-"Like__Vacation_Planning__for_example_" : {
-  "message" : "Like “Vacation Planning” for example…",
-  "description" : "Board creation popup"
-},
-"Like__House_Stuff__for_example_" : {
-  "message" : "Like “House Stuff” for example…",
-  "description" : "Board creation popup"
-},
-"Like__Bucket_List__for_example_" : {
-  "message" : "Like “Bucket List” for example…",
-  "description" : "Board creation popup"
-},
-"Like__Game_Development_Roadmap__" : {
-  "message" : "Like “Game Development Roadmap”…",
-  "description" : "Board creation popup"
-},
-"Like__Calvinball_Meetup_Schedule__" : {
-  "message" : "Like “Calvinball Meetup Schedule”…",
-  "description" : "Board creation popup"
-},
-"Like__Weekly_Meal_Planning__for_example_" : {
-  "message" : "Like “Weekly Meal Planning” for example…",
-  "description" : "Board creation popup"
-},
-"Like__School_Research__for_example_" : {
-  "message" : "Like “School Research” for example…",
-  "description" : "Board creation popup"
-},
-"Like__Team_Product_Sprint__for_example_" : {
-  "message" : "Like “Team Product Sprint” for example…",
-  "description" : "Board creation popup"
-},
-"Like__Publishing_Calendar__for_example_" : {
-  "message" : "Like “Publishing Calendar” for example…",
-  "description" : "Board creation popup"
-},
-"Like__New_Hire_Onboarding__for_example_" : {
-  "message" : "Like “New Hire Onboarding” for example…",
-  "description" : "Board creation popup"
-},
-"Like__Reading_Collection__for_example_" : {
-  "message" : "Like “Reading Collection” for example…",
-  "description" : "Board creation popup"
-},
-
-
-"Create_new_board_" : {
-  "message" : "Create new board…",
-  "description" : "Home page."
-},
-"Create_Board" : {
-  "message" : "Create Board",
-  "description" : "Board creation popup"
-},
-"Title" : {
-  "message" : "Title",
-  "description" : "Board creation popup"
-},
-"Organization" : {
-  "message" : "Organization",
-  "description" : "At Board creation popup; Label of dropdown list at 'Change Organization' window."
-},
-"Create" : {
-  "message" : "Create",
-  "description" : "Board creation popup; Create Organization window."
-},
-"This_board_will_be" : {
-  "message" : "This board will be",
-  "description" : "Board creation popup"
-},
-"private" : {
-  "message" : "private",
-  "description" : "Board creation popup"
-},
-"Change_" : {
-  "message" : "Change.",
-  "description" : "Board creation popup"
-},
-"Private" : {
-  "message" : "Private",
-  "description" : "Board creation popup"
-},
-"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_" : {
-  "message" : "This board is visible to members of the organization.  Only people added to the board can edit.",
-  "description" : "Board creation popup"
-},
-"This_board_is_private___Only_people_added_to_the_board_can_view_and_edit_it_" : {
-  "message" : "This board is private.  Only people added to the board can view and edit it.",
-  "description" : "Board creation popup"
-},
-"The_board_must_be_added_to_an_org_to_enable_this_" : {
-  "message" : "The board must be added to an org to enable this.",
-  "description" : "Board creation popup"
-},
-
-
-
-"Today"  : {
-  "message" : "Today",
-  "description" : "Calendar view"
-},
-"Week"  : {
-  "message" : "Week",
-  "description" : "Calendar view"
-},
-"Month"  : {
-  "message" : "Month",
-  "description" : "Calendar view"
-},
-"Sun"  : {
-  "message" : "Sun",
-  "description" : "Calendar view"
-},
-"Mon"  : {
-  "message" : "Mon",
-  "description" : "Calendar view"
-},
-"Tue"  : {
-  "message" : "Tue",
-  "description" : "Calendar view"
-},
-"Wed"  : {
-  "message" : "Wed",
-  "description" : "Calendar view"
-},
-"Thu"  : {
-  "message" : "Thu",
-  "description" : "Calendar view"
-},
-"Fri"  : {
-  "message" : "Fri",
-  "description" : "Calendar view"
-},
-"Sat"  : {
-  "message" : "Sat",
-  "description" : "Calendar view"
-},
-
-"January"  : {
-  "message" : "January",
-  "description" : "Calendar view"
-},
-"February"  : {
-  "message" : "February",
-  "description" : "Calendar view"
-},
-"March"  : {
-  "message" : "March",
-  "description" : "Calendar view"
-},
-"April"  : {
-  "message" : "April",
-  "description" : "Calendar view"
-},
-"June"  : {
-  "message" : "June",
-  "description" : "Calendar view"
-},
-"July"  : {
-  "message" : "July",
-  "description" : "Calendar view"
-},
-"August"  : {
-  "message" : "August",
-  "description" : "Calendar view"
-},
-"September"  : {
-  "message" : "September",
-  "description" : "Calendar view"
-},
-"October"  : {
-  "message" : "October",
-  "description" : "Calendar view"
-},
-"November"  : {
-  "message" : "November",
-  "description" : "Calendar view"
-},
-"December"  : {
-  "message" : "December",
-  "description" : "Calendar view"
-},
-
-"Jan" : {
-  "message" : "Jan",
-  "description" : "Calendar view"
-},
-"Feb" : {
-  "message" : "Feb",
-  "description" : "Calendar view"
-},
-"Mar" : {
-  "message" : "Mar",
-  "description" : "Calendar view"
-},
-"Apr" : {
-  "message" : "Apr",
-  "description" : "Calendar view"
-},
-"May" : {
-  "message" : "May",
-  "description" : "Calendar view"
-},
-"Jun" : {
-  "message" : "Jun",
-  "description" : "Calendar view"
-},
-"Jul" : {
-  "message" : "Jul",
-  "description" : "Calendar view"
-},
-"Aug" : {
-  "message" : "Aug",
-  "description" : "Calendar view"
-},
-"Sep" : {
-  "message" : "Sep",
-  "description" : "Calendar view"
-},
-"Oct" : {
-  "message" : "Oct",
-  "description" : "Calendar view"
-},
-"Nov" : {
-  "message" : "Nov",
-  "description" : "Calendar view"
-},
-"Dec" : {
-  "message" : "Dec",
-  "description" : "Calendar view"
-},
-
-"Saved_Searches" : {
-  "message" : "Saved Searches",
-  "description" : "Search popup window"
-},
-"Your_search_produced_an_error_" : {
-  "message" : "Your search produced an error.",
-  "description" : "Search popup window"
-},
-"Searching_" : {
-  "message" : "Searching…",
-  "description" : "Search popup window"
-},
-"No_results_" : {
-  "message" : "No results.",
-  "description" : "Search popup window"
-},
-"Refine_your_search_with_operators_like__member___label__is_archived__and_has_attachments_" : {
-  "message" : "Refine your search with operators like @member, #label, is:archived, and has:attachments.",
-  "description" : "Search popup window"
-},
-"Learn_more_" : {
-  "message" : "Learn more…",
-  "description" : "Search popup window"
-},
-"Cards"  : {
-  "message" : "Cards",
-  "description" : "Search popup window"
-},
-"Loading_" : {
-  "message" : "Loading…",
-  "description" : "Search popup window"
-},
-"Show_more_boards_" : {
-  "message" : "Show more boards…",
-  "description" : "Search popup window"
-},
-"Show_more_members_" : {
-  "message" : "Show more members…",
-  "description" : "Search popup window"
-},
-"Organizations"  : {
-  "message" : "Organizations",
-  "description" : "Search popup window"
-},
-"Show_more_organizations_" : {
-  "message" : "Show more organizations…",
-  "description" : "Search popup window"
-},
-"Back_to_Saved_Searches" : {
-  "message" : "Back to Saved Searches",
-  "description" : "Search popup window"
-},
-"Save_this_Search" : {
-  "message" : "Save this Search",
-  "description" : "Search popup window"
-},
-"Did_you_mean_" : {
-  "message" : "Did you mean…",
-  "description" : "Search popup window"
-},
-"Only_include_cards_that_have_stickers_" : {
-  "message" : "Only include cards that have stickers.",
-  "description" : "Search popup window"
-},
-
-"Starred_Boards" : {
-  "message" : "Starred Boards",
-  "description" : "Main interface"
-},
-"My_Boards" : {
-  "message" : "My Boards",
-  "description" : "Board's List"
-},
-"Overview"  : {
-  "message" : "Overview",
-  "description" : "Main interface"
-},
-"Recent_Boards" : {
-  "message" : "Recent Boards",
-  "description" : "Main interface"
-},
-
-"Always_keep_this_menu_open_" : {
-  "message" : "Always keep this menu open.",
-  "description" : "Main interface"
-},
-"Don_t_keep_this_menu_open_" : {
-  "message" : "Don’t keep this menu open.",
-  "description" : "Main interface"
-},
-"See_closed_boards_" : {
-  "message" : "See closed boards…",
-  "description" : "Main interface"
-},
-"Find_boards_by_name_" : {
-  "message" : "Find boards by name…",
-  "description" : "Main interface"
-},
-"There_is_new_activity_on_this_board_" : {
-  "message" : "There is new activity on this board.",
-  "description" : "Main interface"
-},
-"Collapse_section_" : {
-  "message" : "Collapse section.",
-  "description" : "Main interface"
-},
-"Expand_section_" : {
-  "message" : "Expand section.",
-  "description" : "Main interface"
-},
-
-
-"Closed_Boards" : {
-  "message" : "Closed Boards",
-  "description" : "Closed boards window"
-},
-"Re_open" : {
-  "message" : "Re-open",
-  "description" : "Closed boards window"
-},
-"You_have_to_have_been_a_board_admin_to_re_open_a_closed_board_" : {
-  "message" : "You have to have been a board admin to re-open a closed board.",
-  "description" : "Closed boards window"
-},
-"Close_this_dialog_window_" : {
-  "message" : "Close this dialog window.",
-  "description" : "Closed boards window; Board Activity Window."
-},
-
-"Boards"            : {
-  "message" : "Boards",
-  "description" : "Main interface"
-},
-"Public"            : {
-  "message" : "Public",
-  "description" : "Main interface and Board creation popup"
-},
-"Add_a_list_" : {
-  "message" : "Add a list…",
-  "description" : "Main interface"
-},
-"Calendar"          : {
-  "message" : "Calendar",
-  "description" : "Main interface"
-},
-"Subscribed"        : {
-  "message" : "Subscribed",
-  "description" : "Card Edit Window; Board page."
-},
-"Filtering_is_on_" : {
-  "message" : "Filtering is on.",
-  "description" : "Main interface"
-},
-
-"Show_sidebar" : {
-  "message" : "Show sidebar",
-  "description" : "Main interface"
-},
-"Add_a_card_" : {
-  "message" : "Add a card…",
-  "description" : "Main interface"
-},
-"Notifications" : {
-  "message" : "Notifications",
-  "description" : "Main interface"
-},
-"This_board_is_public__It_s_visible_to_anyone_with_the_link_" : {
-  "message" : "This board is public. It's visible to anyone with the link and will show up in search engines like Google.  Only people added to the board can edit.",
-  "description" : "Main interface and Board creation popup"
-},
-"Go_back_to_your_boards_page_" : {
-  "message" : "Go back to your boards page.",
-  "description" : "Main interface"
-},
-"View_list_of_boards" : {
-  "message" : "View list of boards",
-  "description" : "Main interface"
-},
-"Rename_the_board_" : {
-  "message" : "Rename the board.",
-  "description" : "Main interface"
-},
-"You_are_filtering_cards_on_this_board__Click_here_to_edit_filter_" : {
-  "message" : "You are filtering cards on this board. Click here to edit filter.",
-  "description" : "Main interface"
-},
-"You_are_subscribed_to_this_board__You_ll_get_notifications_about_changes_" : {
-  "message" : "You are subscribed to this board. You'll get notifications about changes.",
-  "description" : "Main interface"
-},
-"Click_to_star_or_unstar_this_board__Starred_boards_show_up_at_the_top_of_your_boards_list_" : {
-  "message" : "Click to star or unstar this board. Starred boards show up at the top of your boards list.",
-  "description" : "Main interface"
-},
-"Close_the_board_sidebar_" : {
-  "message" : "Close the board sidebar.",
-  "description" : "Main interface"
-},
-"Add_a_new_board_or_organization_" : {
-  "message" : "Add a new board or organization.",
-  "description" : "Main interface"
-},
-"You_are_seeing_an_early__experimental_version_of_Trello__We_would_love_your_feedback_" : {
-  "message" : "You are seeing an early, experimental version of Trello. We would love your feedback!",
-  "description" : "Main interface"
-},
-"Get_access_to_your_profile__help__and_log_out_" : {
-  "message" : "Get access to your profile, help, and log out.",
-  "description" : "Main interface"
-},
-"This_member_has_Trello_Gold_" : {
-  "message" : "This member has Trello Gold.",
-  "description" : "Main interface"
-},
-"Click_to_star_this_board__It_will_show_up_at_top_of_your_boards_list_" : {
-  "message" : "Click to star this board. It will show up at top of your boards list.",
-  "description" : "Main interface"
-},
-"Search_for_boards__cards__members__and_organizations_" : {
-  "message" : "Search for boards, cards, members, and organizations.",
-  "description" : "Main interface"
-},
-
-"Menu"             : {
-  "message" : "Menu",
-  "description" : "Sidebar"
-},
-"Add_Members" : {
-  "message" : "Add Members",
-  "description" : "Sidebar"
-},
-"Members"          : {
-  "message" : "Members",
-  "description" : "Sidebar"
-},
-"Activity"         : {
-  "message" : "Activity",
-  "description" : "Sidebar"
-},
-"Click_here_to_see_more_board_options_" : {
-  "message" : "Click here to see more board options.",
-  "description" : "Sidebar"
-},
-
-"Power_Ups" : {
-  "message" : "Power-Ups",
-  "description" : "Sidebar"
-},
-"Stickers"  : {
-  "message" : "Stickers",
-  "description" : "Sidebar"
-},
-"Filter_Cards" : {
-  "message" : "Filter Cards",
-  "description" : "Sidebar"
-},
-"Archived_Items" : {
-  "message" : "Archived Items",
-  "description" : "Sidebar"
-},
-"Change_Background_" : {
-  "message" : "Change Background…",
-  "description" : "Sidebar"
-},
-"Email_to_board_Settings_" : {
-  "message" : "Email-to-board Settings…",
-  "description" : "Sidebar"
-},
-"Copy_Board_" : {
-  "message" : "Copy Board…",
-  "description" : "Sidebar"
-},
-"Share__Print__and_Export_" : {
-  "message" : "Share, Print, and Export…",
-  "description" : "Sidebar"
-},
-"Additional_Settings_" : {
-  "message" : "Additional Settings…",
-  "description" : "Sidebar"
-},
-"Close_Board_" : {
-  "message" : "Close Board…",
-  "description" : "Sidebar"
-},
-"Leave_Board_" : {
-  "message" : "Leave Board…",
-  "description" : "Sidebar"
-},
-
-"List_Actions" : {
-  "message" : "List Actions",
-  "description" : "List actions pop-up"
-},
-"Add_Card_" : {
-  "message" : "Add Card…",
-  "description" : "List actions pop-up"
-},
-"Copy_List_" : {
-  "message" : "Copy List…",
-  "description" : "List actions pop-up"
-},
-"Move_List_" : {
-  "message" : "Move List…",
-  "description" : "List actions pop-up"
-},
-"Subscribe" : {
-  "message" : "Subscribe",
-  "description" : "List actions pop-up; Card Edit Window."
-},
-"Move_All_Cards_in_This_List_" : {
-  "message" : "Move All Cards in This List…",
-  "description" : "List actions pop-up"
-},
-"Archive_All_Cards_in_This_List_" : {
-  "message" : "Archive All Cards in This List…",
-  "description" : "List actions pop-up"
-},
-"Archive_This_List" : {
-  "message" : "Archive This List",
-  "description" : "List actions pop-up"
-},
-
-"Edit_Labels": {
-  "message": "Edit Labels",
-  "description": "Card's context menu"
-},
-"Change_Members": {
-  "message": "Change Members",
-  "description": "Card's context menu"
-},
-"Copy": {
-  "message": "Copy",
-  "description": "Card's context menu"
-},
-"Change_Due_Date" : {
-  "message" : "Change Due Date",
-  "description" : "Card's context menu"
-},
-"Archive": {
-  "message" : "Archive",
-  "description" : "Card's context menu"
-},
-"Add": {
-  "message": "Add",
-  "description" : "Form elements; Title of 'Add new board or organization window."
-},
-"Change_Notification_Email_Frequency" : {
-  "message" : "Change Notification Email Frequency",
-  "description" : "Activity Substrings"
-},
-"See_All_Notifications" : {
-  "message" : "See All Notifications",
-  "description" : "Activity Substrings"
-},
-"added" : {
-  "message" : "added",
-  "description" : "Activity Substrings"
-},
-"to" : {
-  "message" : "to",
-  "description" : "Activity Substrings"
-},
-"and" : {
-  "message" : "and",
-  "description" : "Activity Substrings"
-},
-"joined" : {
-  "message" : "joined",
-  "description" : "Activity Substrings"
-},
-"moved" : {
-  "message" : "moved",
-  "description" : "Activity Substrings"
-},
-"from" : {
-  "message" : "from",
-  "description" : "Activity Substrings"
-},
-"archived" : {
-  "message" : "archived",
-  "description" : "Activity Substrings"
-},
-"renamed" : {
-  "message" : "renamed",
-  "description" : "Activity Substrings"
-},
-"this_board" : {
-  "message" : "this board",
-  "description" : "Activity Substrings"
-},
-"attached" : {
-  "message" : "attached",
-  "description" : "Activity Substrings"
-},
-"sent" : {
-  "message" : "sent",
-  "description" : "Activity Substrings"
-},
-"to_the_board" : {
-  "message" : "to the board",
-  "description" : "Activity Substrings"
-},
-
-
-"This_card_is_past_due_" : {
-  "message" : "This card is past due.",
-  "description" : "Edit card popup"
-},
-"You_are_subscribed_to_this_card_" : {
-  "message" : "You are subscribed to this card.",
-  "description" : "Edit card popup"
-},
-"Edit_the_description_" : {
-  "message" : "Edit the description…",
-  "description" : "Edit card popup"
-},
-"Write_a_comment_" : {
-  "message" : "Write a comment…",
-  "description" : "Edit card popup"
-},
-
-"Formatting_help" : {
-  "message" : "Formatting help",
-  "description" : "Click any card at board. Click 'Edit description'."
-},
-"Save"  : {
-  "message" : "Save",
-  "description" : "Click any card at board. Click 'Edit description'."
-},
-"Actions"  : {
-  "message" : "Actions",
-  "description" : "Edit card popup"
-},
-"Labels" : {
-  "message" : "Labels",
-  "description" : "Edit card popup"
-},
-"Checklist"  : {
-  "message" : "Checklist",
-  "description" : "Edit card popup"
-},
-"Due_date" : {
-  "message" : "Due date",
-  "description" : "Edit card popup"
-},
-"Attachment" : {
-  "message" : "Attachment",
-  "description" : "Edit card popup"
-},
-"Move" : {
-  "message" : "Move",
-  "description" : "Edit card popup"
-},
-"Delete" : {
-  "message" : "Delete",
-  "description" : "Edit card popup"
-},
-"Share_and_more_" : {
-  "message" : "Share and more…",
-  "description" : "Edit card popup"
-},
-"Send_to_board" : {
-  "message" : "Send to board",
-  "description" : "Edit card popup"
-},
-"Drop_files_to_upload_" : {
-  "message" : "Drop files to upload.",
-  "description" : "Edit card popup"
-},
-"Add_or_remove_members_of_the_board_from_the_card_" : {
-  "message" : "Add or remove members of the board from the card.",
-  "description" : "Edit card popup"
-},
-"Change_the_labels_for_the_card_" : {
-  "message" : "Change the labels for the card.",
-  "description" : "Edit card popup"
-},
-"Add_a_checklist_and_divide_the_card_into_subtasks_" : {
-  "message" : "Add a checklist and divide the card into subtasks.",
-  "description" : "Edit card popup"
-},
-"Add_a_due_date_for_the_card_and_get_notifications_when_it_is_almost_due_" : {
-  "message" : "Add a due date for the card and get notifications when it is almost due.",
-  "description" : "Edit card popup"
-},
-"Attach_files_from_your_computer_or_from_Google_Drive_" : {
-  "message" : "Attach files from your computer or from Google Drive. You can also drag'n'drop files from your desktop to upload them.",
-  "description" : "Edit card popup"
-},
-"Move_the_card_to_another_board__another_list__or_a_new_position_in_a_list" : {
-  "message" : "Move the card to another board, another list, or a new position in a list",
-  "description" : "Edit card popup"
-},
-"Make_a_copy_of_this_card__optionally_include_checklist__labels__members__attachments__etc_" : {
-  "message" : "Make a copy of this card, optionally include checklist, labels, members, attachments, etc.",
-  "description" : "Edit card popup"
-},
-"Subscribe_to_the_card_to_get_notifications_when_something_changes_" : {
-  "message" : "Subscribe to the card to get notifications when something changes.",
-  "description" : "Edit card popup"
-},
-"Remove_the_card_from_the_board_" : {
-  "message" : "Remove the card from the board.",
-  "description" : "Edit card popup"
-},
-"Send_the_card_back_to_the_board_" : {
-  "message" : "Send the card back to the board.",
-  "description" : "Edit card popup"
-},
-"Delete_the_card_and_all_history_associated_with_it__It_can_t_be_retrieved_" : {
-  "message" : "Delete the card and all history associated with it. It can’t be retrieved.",
-  "description" : "Edit card popup"
-},
-"More_options_share__print__export__and_delete_" : {
-  "message" : "More options share, print, export, and delete.",
-  "description" : "Edit card popup"
-},
-"in_list" : {
-  "message" : "in list",
-  "description" : "Edit card popup. For example, 'Use chrome.i18n API in list In Progress'"
-}
-
-
-
+	"New_Organization_": {
+		"message": "New Organization…",
+		"description": "Add new Organization or Board window."
+	},
+	"New_Board_": {
+		"message": "New Board…",
+		"description": "Add new Organization or Board window."
+	},
+	"A_board_is_a_collection_of_cards_ordered_in_a_list_of_lists__": {
+		"message": "A board is a collection of cards ordered in a list of lists. Use it to manage a project, track a collection, or organize anything.",
+		"description": "Add new Organization or Board window."
+	},
+	"An_organization_is_a_group_of_boards_and_people__": {
+		"message": "An organization is a group of boards and people. Use it to group boards in your company, team, or family.",
+		"description": "Add new Organization or Board window."
+	},
+	"Reload_page": {
+		"message": "Reload page",
+		"description": "Connection Error Window."
+	},
+	"Could_not_connect_to_Trello_": {
+		"message": "Could not connect to Trello.",
+		"description": "Connection Error Window."
+	},
+	"Page_not_found_": {
+		"message": "Page not found.",
+		"description": "Page Not Found message."
+	},
+	"This_page_may_be_private__If_someone_gave_you_this_link__": {
+		"message": "This page may be private. If someone gave you this link, they may need to invite you to one of their boards or organizations.",
+		"description": "Page Not Found message."
+	},
+	"View_all_activity_": {
+		"message": "View all activity…",
+		"description": "Activity under Menu Sidebar."
+	},
+	"Board_Activity": {
+		"message": "Board Activity",
+		"description": "Board Activity Window."
+	},
+	"Load_More_Activity": {
+		"message": "Load More Activity",
+		"description": "Board Activity Window."
+	},
+	"Change_Organization": {
+		"message": "Change Organization",
+		"description": "Change Organization window."
+	},
+	"Change": {
+		"message": "Change",
+		"description": "Change Organization window."
+	},
+	"Change_Organization_": {
+		"message": "Change Organization…",
+		"description": "Board Organization window."
+	},
+	"View_Organization_Page": {
+		"message": "View Organization Page",
+		"description": "Board Organization window."
+	},
+	"Rename_Board": {
+		"message": "Rename Board",
+		"description": "Window title at Rename Board window."
+	},
+	"Rename": {
+		"message": "Rename",
+		"description": "Button at Rename Board window."
+	},
+	"Close_Board_question_mark": {
+		"message": "Close Board?",
+		"description": "Close Board window."
+	},
+	"You_can_re_open_the_board_by_clicking_the___Boards___menu_from_the_header_": {
+		"message": "You can re-open the board by clicking the “Boards” menu from the header, selecting “View Closed Boards”, finding the board and clicking “Re-open”.",
+		"description": "Close Board window."
+	},
+	"Close": {
+		"message": "Close",
+		"description": "Close Board window."
+	},
+	"Click_here_to_re_open_it_": {
+		"message": "Click here to re-open it.",
+		"description": "Big message that Board was closed."
+	},
+	"is_closed_": {
+		"message": "is closed.",
+		"description": "Big message that Board was closed."
+	},
+	"Create_Organization": {
+		"message": "Create Organization",
+		"description": "Create Organization_window"
+	},
+	"An_organization_is_a_group_of_boards_and_members_": {
+		"message": "An organization is a group of boards and members.",
+		"description": "Create Organization_window"
+	},
+	"Name": {
+		"message": "Name",
+		"description": "Name of organization at 'Create Organization' window; Name of  oard at 'Rename Board' window."
+	},
+	"Description": {
+		"message": "Description",
+		"description": "Create Organization_window"
+	},
+	"Add_an_Organization": {
+		"message": "Add an Organization",
+		"description": "Create an Organization window"
+	},
+	"Create_an_Organization": {
+		"message": "Create an Organization",
+		"description": "Create an Organization window"
+	},
+	"An_organizations_is_a_collection_of_members_and_boards_": {
+		"message": "An organizations is a collection of members and boards. They make sharing and working within a group even easier.",
+		"description": "Create an Organization window"
+	},
+	"What_are_you_organizing_": {
+		"message": "What are you organizing?",
+		"description": "Board creation popup"
+	},
+	"What_are_you_planning_": {
+		"message": "What are you planning?",
+		"description": "Board creation popup"
+	},
+	"Like__Vacation_Planning__for_example_": {
+		"message": "Like “Vacation Planning” for example…",
+		"description": "Board creation popup"
+	},
+	"Like__House_Stuff__for_example_": {
+		"message": "Like “House Stuff” for example…",
+		"description": "Board creation popup"
+	},
+	"Like__Bucket_List__for_example_": {
+		"message": "Like “Bucket List” for example…",
+		"description": "Board creation popup"
+	},
+	"Like__Game_Development_Roadmap__": {
+		"message": "Like “Game Development Roadmap”…",
+		"description": "Board creation popup"
+	},
+	"Like__Calvinball_Meetup_Schedule__": {
+		"message": "Like “Calvinball Meetup Schedule”…",
+		"description": "Board creation popup"
+	},
+	"Like__Weekly_Meal_Planning__for_example_": {
+		"message": "Like “Weekly Meal Planning” for example…",
+		"description": "Board creation popup"
+	},
+	"Like__School_Research__for_example_": {
+		"message": "Like “School Research” for example…",
+		"description": "Board creation popup"
+	},
+	"Like__Team_Product_Sprint__for_example_": {
+		"message": "Like “Team Product Sprint” for example…",
+		"description": "Board creation popup"
+	},
+	"Like__Publishing_Calendar__for_example_": {
+		"message": "Like “Publishing Calendar” for example…",
+		"description": "Board creation popup"
+	},
+	"Like__New_Hire_Onboarding__for_example_": {
+		"message": "Like “New Hire Onboarding” for example…",
+		"description": "Board creation popup"
+	},
+	"Like__Reading_Collection__for_example_": {
+		"message": "Like “Reading Collection” for example…",
+		"description": "Board creation popup"
+	},
+	"Create_new_board_": {
+		"message": "Create new board…",
+		"description": "Home page."
+	},
+	"Create_Board": {
+		"message": "Create Board",
+		"description": "Board creation popup"
+	},
+	"Title": {
+		"message": "Title",
+		"description": "Board creation popup"
+	},
+	"Organization": {
+		"message": "Organization",
+		"description": "At Board creation popup; Label of dropdown list at 'Change Organization' window."
+	},
+	"Create": {
+		"message": "Create",
+		"description": "Board creation popup; Create Organization window."
+	},
+	"This_board_will_be": {
+		"message": "This board will be",
+		"description": "Board creation popup"
+	},
+	"private": {
+		"message": "private",
+		"description": "Board creation popup"
+	},
+	"Change_": {
+		"message": "Change.",
+		"description": "Board creation popup"
+	},
+	"Private": {
+		"message": "Private",
+		"description": "Board creation popup"
+	},
+	"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_": {
+		"message": "This board is visible to members of the organization.  Only people added to the board can edit.",
+		"description": "Board creation popup"
+	},
+	"This_board_is_private___Only_people_added_to_the_board_can_view_and_edit_it_": {
+		"message": "This board is private.  Only people added to the board can view and edit it.",
+		"description": "Board creation popup"
+	},
+	"The_board_must_be_added_to_an_org_to_enable_this_": {
+		"message": "The board must be added to an org to enable this.",
+		"description": "Board creation popup"
+	},
+	"Today": {
+		"message": "Today",
+		"description": "Calendar view"
+	},
+	"Week": {
+		"message": "Week",
+		"description": "Calendar view"
+	},
+	"Month": {
+		"message": "Month",
+		"description": "Calendar view"
+	},
+	"Sun": {
+		"message": "Sun",
+		"description": "Calendar view"
+	},
+	"Mon": {
+		"message": "Mon",
+		"description": "Calendar view"
+	},
+	"Tue": {
+		"message": "Tue",
+		"description": "Calendar view"
+	},
+	"Wed": {
+		"message": "Wed",
+		"description": "Calendar view"
+	},
+	"Thu": {
+		"message": "Thu",
+		"description": "Calendar view"
+	},
+	"Fri": {
+		"message": "Fri",
+		"description": "Calendar view"
+	},
+	"Sat": {
+		"message": "Sat",
+		"description": "Calendar view"
+	},
+	"January": {
+		"message": "January",
+		"description": "Calendar view"
+	},
+	"February": {
+		"message": "February",
+		"description": "Calendar view"
+	},
+	"March": {
+		"message": "March",
+		"description": "Calendar view"
+	},
+	"April": {
+		"message": "April",
+		"description": "Calendar view"
+	},
+	"June": {
+		"message": "June",
+		"description": "Calendar view"
+	},
+	"July": {
+		"message": "July",
+		"description": "Calendar view"
+	},
+	"August": {
+		"message": "August",
+		"description": "Calendar view"
+	},
+	"September": {
+		"message": "September",
+		"description": "Calendar view"
+	},
+	"October": {
+		"message": "October",
+		"description": "Calendar view"
+	},
+	"November": {
+		"message": "November",
+		"description": "Calendar view"
+	},
+	"December": {
+		"message": "December",
+		"description": "Calendar view"
+	},
+	"Jan": {
+		"message": "Jan",
+		"description": "Calendar view"
+	},
+	"Feb": {
+		"message": "Feb",
+		"description": "Calendar view"
+	},
+	"Mar": {
+		"message": "Mar",
+		"description": "Calendar view"
+	},
+	"Apr": {
+		"message": "Apr",
+		"description": "Calendar view"
+	},
+	"May": {
+		"message": "May",
+		"description": "Calendar view"
+	},
+	"Jun": {
+		"message": "Jun",
+		"description": "Calendar view"
+	},
+	"Jul": {
+		"message": "Jul",
+		"description": "Calendar view"
+	},
+	"Aug": {
+		"message": "Aug",
+		"description": "Calendar view"
+	},
+	"Sep": {
+		"message": "Sep",
+		"description": "Calendar view"
+	},
+	"Oct": {
+		"message": "Oct",
+		"description": "Calendar view"
+	},
+	"Nov": {
+		"message": "Nov",
+		"description": "Calendar view"
+	},
+	"Dec": {
+		"message": "Dec",
+		"description": "Calendar view"
+	},
+	"Saved_Searches": {
+		"message": "Saved Searches",
+		"description": "Search popup window"
+	},
+	"Your_search_produced_an_error_": {
+		"message": "Your search produced an error.",
+		"description": "Search popup window"
+	},
+	"Searching_": {
+		"message": "Searching…",
+		"description": "Search popup window"
+	},
+	"No_results_": {
+		"message": "No results.",
+		"description": "Search popup window"
+	},
+	"Refine_your_search_with_operators_like__member___label__is_archived__and_has_attachments_": {
+		"message": "Refine your search with operators like @member, #label, is:archived, and has:attachments.",
+		"description": "Search popup window"
+	},
+	"Learn_more_": {
+		"message": "Learn more…",
+		"description": "Search popup window"
+	},
+	"Cards": {
+		"message": "Cards",
+		"description": "Search popup window"
+	},
+	"Loading_": {
+		"message": "Loading…",
+		"description": "Search popup window"
+	},
+	"Show_more_boards_": {
+		"message": "Show more boards…",
+		"description": "Search popup window"
+	},
+	"Show_more_members_": {
+		"message": "Show more members…",
+		"description": "Search popup window"
+	},
+	"Organizations": {
+		"message": "Organizations",
+		"description": "Search popup window"
+	},
+	"Show_more_organizations_": {
+		"message": "Show more organizations…",
+		"description": "Search popup window"
+	},
+	"Back_to_Saved_Searches": {
+		"message": "Back to Saved Searches",
+		"description": "Search popup window"
+	},
+	"Save_this_Search": {
+		"message": "Save this Search",
+		"description": "Search popup window"
+	},
+	"Did_you_mean_": {
+		"message": "Did you mean…",
+		"description": "Search popup window"
+	},
+	"Only_include_cards_that_have_stickers_": {
+		"message": "Only include cards that have stickers.",
+		"description": "Search popup window"
+	},
+	"Starred_Boards": {
+		"message": "Starred Boards",
+		"description": "Main interface"
+	},
+	"My_Boards": {
+		"message": "My Boards",
+		"description": "Board's List"
+	},
+	"Overview": {
+		"message": "Overview",
+		"description": "Main interface"
+	},
+	"Recent_Boards": {
+		"message": "Recent Boards",
+		"description": "Main interface"
+	},
+	"Always_keep_this_menu_open_": {
+		"message": "Always keep this menu open.",
+		"description": "Main interface"
+	},
+	"Don_t_keep_this_menu_open_": {
+		"message": "Don’t keep this menu open.",
+		"description": "Main interface"
+	},
+	"See_closed_boards_": {
+		"message": "See closed boards…",
+		"description": "Main interface"
+	},
+	"Find_boards_by_name_": {
+		"message": "Find boards by name…",
+		"description": "Main interface"
+	},
+	"There_is_new_activity_on_this_board_": {
+		"message": "There is new activity on this board.",
+		"description": "Main interface"
+	},
+	"Collapse_section_": {
+		"message": "Collapse section.",
+		"description": "Main interface"
+	},
+	"Expand_section_": {
+		"message": "Expand section.",
+		"description": "Main interface"
+	},
+	"Closed_Boards": {
+		"message": "Closed Boards",
+		"description": "Closed boards window"
+	},
+	"Re_open": {
+		"message": "Re-open",
+		"description": "Closed boards window"
+	},
+	"You_have_to_have_been_a_board_admin_to_re_open_a_closed_board_": {
+		"message": "You have to have been a board admin to re-open a closed board.",
+		"description": "Closed boards window"
+	},
+	"Close_this_dialog_window_": {
+		"message": "Close this dialog window.",
+		"description": "Closed boards window; Board Activity Window."
+	},
+	"No_Boards_Found": {
+		"message": "No Boards Found",
+		"description": "Main interface"
+	},
+	"Boards": {
+		"message": "Boards",
+		"description": "Main interface"
+	},
+	"Public": {
+		"message": "Public",
+		"description": "Main interface and Board creation popup"
+	},
+	"Add_a_list_": {
+		"message": "Add a list…",
+		"description": "Main interface"
+	},
+	"Calendar": {
+		"message": "Calendar",
+		"description": "Main interface"
+	},
+	"Subscribed": {
+		"message": "Subscribed",
+		"description": "Card Edit Window; Board page."
+	},
+	"Filtering_is_on_": {
+		"message": "Filtering is on.",
+		"description": "Main interface"
+	},
+	"Show_sidebar": {
+		"message": "Show sidebar",
+		"description": "Main interface"
+	},
+	"Add_a_card_": {
+		"message": "Add a card…",
+		"description": "Main interface"
+	},
+	"Notifications": {
+		"message": "Notifications",
+		"description": "Main interface"
+	},
+	"This_board_is_public__It_s_visible_to_anyone_with_the_link_": {
+		"message": "This board is public. It's visible to anyone with the link and will show up in search engines like Google.  Only people added to the board can edit.",
+		"description": "Main interface and Board creation popup"
+	},
+	"Go_back_to_your_boards_page_": {
+		"message": "Go back to your boards page.",
+		"description": "Main interface"
+	},
+	"View_list_of_boards": {
+		"message": "View list of boards",
+		"description": "Main interface"
+	},
+	"Rename_the_board_": {
+		"message": "Rename the board.",
+		"description": "Main interface"
+	},
+	"You_are_filtering_cards_on_this_board__Click_here_to_edit_filter_": {
+		"message": "You are filtering cards on this board. Click here to edit filter.",
+		"description": "Main interface"
+	},
+	"You_are_subscribed_to_this_board__You_ll_get_notifications_about_changes_": {
+		"message": "You are subscribed to this board. You'll get notifications about changes.",
+		"description": "Main interface"
+	},
+	"Click_to_star_or_unstar_this_board__Starred_boards_show_up_at_the_top_of_your_boards_list_": {
+		"message": "Click to star or unstar this board. Starred boards show up at the top of your boards list.",
+		"description": "Main interface"
+	},
+	"Close_the_board_sidebar_": {
+		"message": "Close the board sidebar.",
+		"description": "Main interface"
+	},
+	"Add_a_new_board_or_organization_": {
+		"message": "Add a new board or organization.",
+		"description": "Main interface"
+	},
+	"You_are_seeing_an_early__experimental_version_of_Trello__We_would_love_your_feedback_": {
+		"message": "You are seeing an early, experimental version of Trello. We would love your feedback!",
+		"description": "Main interface"
+	},
+	"Get_access_to_your_profile__help__and_log_out_": {
+		"message": "Get access to your profile, help, and log out.",
+		"description": "Main interface"
+	},
+	"This_member_has_Trello_Gold_": {
+		"message": "This member has Trello Gold.",
+		"description": "Main interface"
+	},
+	"Click_to_star_this_board__It_will_show_up_at_top_of_your_boards_list_": {
+		"message": "Click to star this board. It will show up at top of your boards list.",
+		"description": "Main interface"
+	},
+	"Search_for_boards__cards__members__and_organizations_": {
+		"message": "Search for boards, cards, members, and organizations.",
+		"description": "Main interface"
+	},
+	"Menu": {
+		"message": "Menu",
+		"description": "Sidebar"
+	},
+	"Add_Members": {
+		"message": "Add Members",
+		"description": "Sidebar"
+	},
+	"Members": {
+		"message": "Members",
+		"description": "Sidebar"
+	},
+	"Activity": {
+		"message": "Activity",
+		"description": "Sidebar"
+	},
+	"Click_here_to_see_more_board_options_": {
+		"message": "Click here to see more board options.",
+		"description": "Sidebar"
+	},
+	"Power_Ups": {
+		"message": "Power-Ups",
+		"description": "Sidebar"
+	},
+	"Stickers": {
+		"message": "Stickers",
+		"description": "Sidebar"
+	},
+	"Filter_Cards": {
+		"message": "Filter Cards",
+		"description": "Sidebar"
+	},
+	"Archived_Items": {
+		"message": "Archived Items",
+		"description": "Sidebar"
+	},
+	"Change_Background_": {
+		"message": "Change Background…",
+		"description": "Sidebar"
+	},
+	"Email_to_board_Settings_": {
+		"message": "Email-to-board Settings…",
+		"description": "Sidebar"
+	},
+	"Copy_Board_": {
+		"message": "Copy Board…",
+		"description": "Sidebar"
+	},
+	"Share__Print__and_Export_": {
+		"message": "Share, Print, and Export…",
+		"description": "Sidebar"
+	},
+	"Additional_Settings_": {
+		"message": "Additional Settings…",
+		"description": "Sidebar"
+	},
+	"Close_Board_": {
+		"message": "Close Board…",
+		"description": "Sidebar"
+	},
+	"Leave_Board_": {
+		"message": "Leave Board…",
+		"description": "Sidebar"
+	},
+	"List_Actions": {
+		"message": "List Actions",
+		"description": "List actions pop-up"
+	},
+	"Add_Card_": {
+		"message": "Add Card…",
+		"description": "List actions pop-up"
+	},
+	"Copy_List_": {
+		"message": "Copy List…",
+		"description": "List actions pop-up"
+	},
+	"Move_List_": {
+		"message": "Move List…",
+		"description": "List actions pop-up"
+	},
+	"Subscribe": {
+		"message": "Subscribe",
+		"description": "List actions pop-up; Card Edit Window."
+	},
+	"Move_All_Cards_in_This_List_": {
+		"message": "Move All Cards in This List…",
+		"description": "List actions pop-up"
+	},
+	"Archive_All_Cards_in_This_List_": {
+		"message": "Archive All Cards in This List…",
+		"description": "List actions pop-up"
+	},
+	"Archive_This_List": {
+		"message": "Archive This List",
+		"description": "List actions pop-up"
+	},
+	"Edit_Labels": {
+		"message": "Edit Labels",
+		"description": "Card's context menu"
+	},
+	"Change_Members": {
+		"message": "Change Members",
+		"description": "Card's context menu"
+	},
+	"Copy": {
+		"message": "Copy",
+		"description": "Card's context menu"
+	},
+	"Change_Due_Date": {
+		"message": "Change Due Date",
+		"description": "Card's context menu"
+	},
+	"Archive": {
+		"message": "Archive",
+		"description": "Card's context menu"
+	},
+	"Add": {
+		"message": "Add",
+		"description": "Form elements; Title of 'Add new board or organization window."
+	},
+	"Change_Notification_Email_Frequency": {
+		"message": "Change Notification Email Frequency",
+		"description": "Activity Substrings"
+	},
+	"See_All_Notifications": {
+		"message": "See All Notifications",
+		"description": "Activity Substrings"
+	},
+	"added": {
+		"message": "added",
+		"description": "Activity Substrings"
+	},
+	"to": {
+		"message": "to",
+		"description": "Activity Substrings"
+	},
+	"and": {
+		"message": "and",
+		"description": "Activity Substrings"
+	},
+	"joined": {
+		"message": "joined",
+		"description": "Activity Substrings"
+	},
+	"moved": {
+		"message": "moved",
+		"description": "Activity Substrings"
+	},
+	"from": {
+		"message": "from",
+		"description": "Activity Substrings"
+	},
+	"archived": {
+		"message": "archived",
+		"description": "Activity Substrings"
+	},
+	"renamed": {
+		"message": "renamed",
+		"description": "Activity Substrings"
+	},
+	"this_board": {
+		"message": "this board",
+		"description": "Activity Substrings"
+	},
+	"attached": {
+		"message": "attached",
+		"description": "Activity Substrings"
+	},
+	"sent": {
+		"message": "sent",
+		"description": "Activity Substrings"
+	},
+	"to_the_board": {
+		"message": "to the board",
+		"description": "Activity Substrings"
+	},
+	"This_card_is_past_due_": {
+		"message": "This card is past due.",
+		"description": "Edit card popup"
+	},
+	"You_are_subscribed_to_this_card_": {
+		"message": "You are subscribed to this card.",
+		"description": "Edit card popup"
+	},
+	"Edit_the_description_": {
+		"message": "Edit the description…",
+		"description": "Edit card popup"
+	},
+	"Write_a_comment_": {
+		"message": "Write a comment…",
+		"description": "Edit card popup"
+	},
+	"Formatting_help": {
+		"message": "Formatting help",
+		"description": "Click any card at board. Click 'Edit description'."
+	},
+	"Save": {
+		"message": "Save",
+		"description": "Click any card at board. Click 'Edit description'."
+	},
+	"Actions": {
+		"message": "Actions",
+		"description": "Edit card popup"
+	},
+	"Labels": {
+		"message": "Labels",
+		"description": "Edit card popup"
+	},
+	"Checklist": {
+		"message": "Checklist",
+		"description": "Edit card popup"
+	},
+	"Due_date": {
+		"message": "Due date",
+		"description": "Edit card popup"
+	},
+	"Attachment": {
+		"message": "Attachment",
+		"description": "Edit card popup"
+	},
+	"Move": {
+		"message": "Move",
+		"description": "Edit card popup"
+	},
+	"Delete": {
+		"message": "Delete",
+		"description": "Edit card popup"
+	},
+	"Share_and_more_": {
+		"message": "Share and more…",
+		"description": "Edit card popup"
+	},
+	"Send_to_board": {
+		"message": "Send to board",
+		"description": "Edit card popup"
+	},
+	"Drop_files_to_upload_": {
+		"message": "Drop files to upload.",
+		"description": "Edit card popup"
+	},
+	"Add_or_remove_members_of_the_board_from_the_card_": {
+		"message": "Add or remove members of the board from the card.",
+		"description": "Edit card popup"
+	},
+	"Change_the_labels_for_the_card_": {
+		"message": "Change the labels for the card.",
+		"description": "Edit card popup"
+	},
+	"Add_a_checklist_and_divide_the_card_into_subtasks_": {
+		"message": "Add a checklist and divide the card into subtasks.",
+		"description": "Edit card popup"
+	},
+	"Add_a_due_date_for_the_card_and_get_notifications_when_it_is_almost_due_": {
+		"message": "Add a due date for the card and get notifications when it is almost due.",
+		"description": "Edit card popup"
+	},
+	"Attach_files_from_your_computer_or_from_Google_Drive_": {
+		"message": "Attach files from your computer or from Google Drive. You can also drag'n'drop files from your desktop to upload them.",
+		"description": "Edit card popup"
+	},
+	"Move_the_card_to_another_board__another_list__or_a_new_position_in_a_list": {
+		"message": "Move the card to another board, another list, or a new position in a list",
+		"description": "Edit card popup"
+	},
+	"Make_a_copy_of_this_card__optionally_include_checklist__labels__members__attachments__etc_": {
+		"message": "Make a copy of this card, optionally include checklist, labels, members, attachments, etc.",
+		"description": "Edit card popup"
+	},
+	"Subscribe_to_the_card_to_get_notifications_when_something_changes_": {
+		"message": "Subscribe to the card to get notifications when something changes.",
+		"description": "Edit card popup"
+	},
+	"Remove_the_card_from_the_board_": {
+		"message": "Remove the card from the board.",
+		"description": "Edit card popup"
+	},
+	"Send_the_card_back_to_the_board_": {
+		"message": "Send the card back to the board.",
+		"description": "Edit card popup"
+	},
+	"Delete_the_card_and_all_history_associated_with_it__It_can_t_be_retrieved_": {
+		"message": "Delete the card and all history associated with it. It can’t be retrieved.",
+		"description": "Edit card popup"
+	},
+	"More_options_share__print__export__and_delete_": {
+		"message": "More options share, print, export, and delete.",
+		"description": "Edit card popup"
+	},
+	"in_list": {
+		"message": "in list",
+		"description": "Edit card popup. For example, 'Use chrome.i18n API in list In Progress'"
+	}
 }

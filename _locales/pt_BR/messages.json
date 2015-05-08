@@ -8,6 +8,30 @@
 	"A_board_is_a_collection_of_cards_ordered_in_a_list_of_lists__": {
 		"message": "Um quadro é um conjunto de cartões organizados em uma série de listas. Use-o para gerenciar um projeto, rastrear uma"
 	},
+	"An_organization_is_a_group_of_boards_and_people__": {
+		"message": "Uma organização é um grupo de quadros e pessoas. Use esses grupos de quadros em sua companhia, time, ou família."
+	},
+	"Reload_page": {
+		"message": "Recarregar página"
+	},
+	"Could_not_connect_to_Trello_": {
+		"message": "Não conectado ao Trello."
+	},
+	"Page_not_found_": {
+		"message": "Página não existe."
+	},
+	"This_page_may_be_private__If_someone_gave_you_this_link__": {
+		"message": "Esta página pode estar privada. Se alguém lhe deu esse link, é preciso que lhe enviem um convite para os quadro ou organizações."
+	},
+	"View_all_activity_": {
+		"message": "Ver toda a atividade..."
+	},
+	"Board_Activity": {
+		"message": "Atividade do quadro..."
+	},
+	"Load_More_Activity": {
+		"message": "Carregar mais atividades."
+	},
 	"Change_Organization": {
 		"message": "Alterar Organização"
 	},
@@ -110,14 +134,23 @@
 	"Title": {
 		"message": "Título"
 	},
+	"Organization": {
+		"message": "Organização"
+	},
 	"Create": {
 		"message": "Criar"
 	},
 	"This_board_will_be": {
 		"message": "Este quadro será"
 	},
+	"private": {
+		"message": "privado"
+	},
 	"Change_": {
 		"message": "Mudar."
+	},
+	"Private": {
+		"message": "Privado"
 	},
 	"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_": {
 		"message": "Este quadro está visível para membros da organização. Somente pessoas adicionadas ao quadro podem editar."
@@ -535,6 +568,9 @@
 	},
 	"Write_a_comment_": {
 		"message": "Escreva um comentário..."
+	},
+	"Formatting_help": {
+		"message": "Formatando ajuda"
 	},
 	"Save": {
 		"message": "Salvar"

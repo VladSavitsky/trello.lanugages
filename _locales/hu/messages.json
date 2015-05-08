@@ -1,0 +1,647 @@
+{
+	"New_Organization_": {
+		"message": "Új szervezet..."
+	},
+	"New_Board_": {
+		"message": "Új tábla..."
+	},
+	"A_board_is_a_collection_of_cards_ordered_in_a_list_of_lists__": {
+		"message": "A tábla listák listájába rendezett kártyák gyűjteménye. Használhatod projektek irányítására, gyűjtemények nyomon követésére, vagy bármi rendszerezésére."
+	},
+	"An_organization_is_a_group_of_boards_and_people__": {
+		"message": "A szervezet táblák és emberek egy csoportja. Használatával táblákat csoportosíthatsz a céghez, csapathoz, családhoz."
+	},
+	"Reload_page": {
+		"message": "Oldal újratöltése"
+	},
+	"Could_not_connect_to_Trello_": {
+		"message": "Nem tudott csatlakozni a Trello-hoz!"
+	},
+	"Page_not_found_": {
+		"message": "Az oldal nem található"
+	},
+	"This_page_may_be_private__If_someone_gave_you_this_link__": {
+		"message": "Ez a lap talán privát. Ha valakitől kaptad ezt a linket, meg kell hogy hívjanak az egyik táblájukhoz vagy szervezetükhöz."
+	},
+	"View_all_activity_": {
+		"message": "Minden tevékenység mutatása"
+	},
+	"Board_Activity": {
+		"message": "Tevékenységek a táblán"
+	},
+	"Load_More_Activity": {
+		"message": "Több tevékenység betöltése"
+	},
+	"Change_Organization": {
+		"message": "Szervezet cseréje"
+	},
+	"Change": {
+		"message": "Csere"
+	},
+	"Change_Organization_": {
+		"message": "Szervezet cseréje..."
+	},
+	"View_Organization_Page": {
+		"message": "Szervezet oldalának megtekintése"
+	},
+	"Rename_Board": {
+		"message": "Tábla átnevezése"
+	},
+	"Rename": {
+		"message": "Átnevezés"
+	},
+	"Close_Board_question_mark": {
+		"message": "Tábla bezárása?"
+	},
+	"You_can_re_open_the_board_by_clicking_the___Boards___menu_from_the_header_": {
+		"message": "Újranyithatod a táblát a fejlécen található \"Táblák\" menüre kattintva, majd a \"Lezárt táblák megtekintését\" kiválasztva. Keresd meg a táblát, és kattints az \"Újranyitásra\""
+	},
+	"Close": {
+		"message": "Bezár"
+	},
+	"Click_here_to_re_open_it_": {
+		"message": "Kattints ide az újra nyitáshoz"
+	},
+	"is_closed_": {
+		"message": "Bezárva"
+	},
+	"Create_Organization": {
+		"message": "Szervezet létrehozása"
+	},
+	"An_organization_is_a_group_of_boards_and_members_": {
+		"message": "A szervezet táblák és tagok csoportja."
+	},
+	"Name": {
+		"message": "Név"
+	},
+	"Description": {
+		"message": "Leírás"
+	},
+	"Add_an_Organization": {
+		"message": "Szervezet hozzáadása"
+	},
+	"Create_an_Organization": {
+		"message": "Szervezet létrehozása"
+	},
+	"An_organizations_is_a_collection_of_members_and_boards_": {
+		"message": "A szervezet táblák és tagok csoportja. még könnyebbé teszik a megosztást és a csapatmunkát."
+	},
+	"What_are_you_organizing_": {
+		"message": "Mit rendszerezel?"
+	},
+	"What_are_you_planning_": {
+		"message": "Mit tervezel?"
+	},
+	"Like__Vacation_Planning__for_example_": {
+		"message": "Mint például \"Vakáció tervezése\" ..."
+	},
+	"Like__House_Stuff__for_example_": {
+		"message": "Mint például \"Ház körüli holmik\" ..."
+	},
+	"Like__Bucket_List__for_example_": {
+		"message": "Mint például \"Bakancslista\" ..."
+	},
+	"Like__Game_Development_Roadmap__": {
+		"message": "Például \"Játék fejlesztés ütemterve\" ..."
+	},
+	"Like__Calvinball_Meetup_Schedule__": {
+		"message": "Például \"Kázmérlabda találkozó\" ..."
+	},
+	"Like__Weekly_Meal_Planning__for_example_": {
+		"message": "Mint például \"Heti fogások tervezése\" ..."
+	},
+	"Like__School_Research__for_example_": {
+		"message": "Mint például \"Iskolai kutatómunka\" ..."
+	},
+	"Like__Team_Product_Sprint__for_example_": {
+		"message": "Mint például \"Állás keresés\""
+	},
+	"Like__Publishing_Calendar__for_example_": {
+		"message": "Mint például \"Naptár kiadása\" ..."
+	},
+	"Like__New_Hire_Onboarding__for_example_": {
+		"message": "Mint például \"Állás keresés\""
+	},
+	"Like__Reading_Collection__for_example_": {
+		"message": "Mint például \"Olvasmány Gyűjtemény\""
+	},
+	"Create_new_board_": {
+		"message": "Új tábla létrehozása"
+	},
+	"Create_Board": {
+		"message": "Tábla létrehozása"
+	},
+	"Title": {
+		"message": "Cím"
+	},
+	"Organization": {
+		"message": "Szervezet"
+	},
+	"Create": {
+		"message": "Létrehozás"
+	},
+	"This_board_will_be": {
+		"message": "Ez a tábla:"
+	},
+	"private": {
+		"message": "privát"
+	},
+	"Change_": {
+		"message": "Változtat"
+	},
+	"Private": {
+		"message": "Privát"
+	},
+	"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_": {
+		"message": "Ezt a táblát a szervezet tagjai láthatják. Csak a táblához adott személyek tudják szerkeszteni."
+	},
+	"This_board_is_private___Only_people_added_to_the_board_can_view_and_edit_it_": {
+		"message": "Ez a tábla privát. Csak a táblához adott személyek tudják szerkeszteni."
+	},
+	"The_board_must_be_added_to_an_org_to_enable_this_": {
+		"message": "Ezt a táblát hozzá kell adni egy szervezethez, hogy ez elérhetővé váljon."
+	},
+	"Today": {
+		"message": "Ma"
+	},
+	"Week": {
+		"message": "Hét"
+	},
+	"Month": {
+		"message": "Hónap"
+	},
+	"Sun": {
+		"message": "V"
+	},
+	"Mon": {
+		"message": "H"
+	},
+	"Tue": {
+		"message": "K"
+	},
+	"Wed": {
+		"message": "Sze"
+	},
+	"Thu": {
+		"message": "Cs"
+	},
+	"Fri": {
+		"message": "P"
+	},
+	"Sat": {
+		"message": "Szo"
+	},
+	"January": {
+		"message": "január"
+	},
+	"February": {
+		"message": "február"
+	},
+	"March": {
+		"message": "március"
+	},
+	"April": {
+		"message": "április"
+	},
+	"June": {
+		"message": "június"
+	},
+	"July": {
+		"message": "július"
+	},
+	"August": {
+		"message": "augusztus"
+	},
+	"September": {
+		"message": "szeptember"
+	},
+	"October": {
+		"message": "október"
+	},
+	"November": {
+		"message": "november"
+	},
+	"December": {
+		"message": "december"
+	},
+	"Jan": {
+		"message": "jan"
+	},
+	"Feb": {
+		"message": "feb"
+	},
+	"Mar": {
+		"message": "már"
+	},
+	"Apr": {
+		"message": "ápr"
+	},
+	"May": {
+		"message": "május"
+	},
+	"Jun": {
+		"message": "jún"
+	},
+	"Jul": {
+		"message": "júl"
+	},
+	"Aug": {
+		"message": "aug"
+	},
+	"Sep": {
+		"message": "szept"
+	},
+	"Oct": {
+		"message": "okt"
+	},
+	"Nov": {
+		"message": "nov"
+	},
+	"Dec": {
+		"message": "dec"
+	},
+	"Saved_Searches": {
+		"message": "Mentett keresések"
+	},
+	"Your_search_produced_an_error_": {
+		"message": "A keresés hibát okozott"
+	},
+	"Searching_": {
+		"message": "Keresés..."
+	},
+	"No_results_": {
+		"message": "Nincs találat."
+	},
+	"Refine_your_search_with_operators_like__member___label__is_archived__and_has_attachments_": {
+		"message": "Pontosítsd a keresést operátorokkal, mint a @tag, #címke, is:archived and has:attachments."
+	},
+	"Learn_more_": {
+		"message": "Tudj meg többet..."
+	},
+	"Cards": {
+		"message": "Kártyák"
+	},
+	"Loading_": {
+		"message": "Betöltés..."
+	},
+	"Show_more_boards_": {
+		"message": "Mutass több táblát"
+	},
+	"Show_more_members_": {
+		"message": "Mutass több tagot"
+	},
+	"Organizations": {
+		"message": "Szervezetek"
+	},
+	"Show_more_organizations_": {
+		"message": "Mutass több szervezetet"
+	},
+	"Back_to_Saved_Searches": {
+		"message": "Vissza a mentett keresésekhez"
+	},
+	"Save_this_Search": {
+		"message": "Ezen keresés mentése"
+	},
+	"Did_you_mean_": {
+		"message": "Úgy érted:"
+	},
+	"Only_include_cards_that_have_stickers_": {
+		"message": "Csak a matricával rendelkező kártyák"
+	},
+	"Starred_Boards": {
+		"message": "Csillagozott táblák"
+	},
+	"My_Boards": {
+		"message": "Tábláim"
+	},
+	"Overview": {
+		"message": "Áttekintés"
+	},
+	"Recent_Boards": {
+		"message": "Legutóbbi táblák"
+	},
+	"Always_keep_this_menu_open_": {
+		"message": "Maradjon nyitva ez a menü"
+	},
+	"Don_t_keep_this_menu_open_": {
+		"message": "Ne maradjon nyitva ez a menü"
+	},
+	"See_closed_boards_": {
+		"message": "Bezárt táblák megtekintése"
+	},
+	"Find_boards_by_name_": {
+		"message": "Táblák keresése név alapján"
+	},
+	"There_is_new_activity_on_this_board_": {
+		"message": "Új tevékenység történt ezen a táblán"
+	},
+	"Collapse_section_": {
+		"message": "Szakasz összecsukása"
+	},
+	"Expand_section_": {
+		"message": "Szakasz kinyitása"
+	},
+	"Closed_Boards": {
+		"message": "Lezárt táblák"
+	},
+	"Re_open": {
+		"message": "Újranyitás"
+	},
+	"You_have_to_have_been_a_board_admin_to_re_open_a_closed_board_": {
+		"message": "Tábla adminisztrátornak kell lenned, hogy újranyithasd a bezárt táblát"
+	},
+	"Close_this_dialog_window_": {
+		"message": "Párbeszéd ablak bezárása"
+	},
+	"No_Boards_Found": {
+		"message": "Nem található tábla"
+	},
+	"Boards": {
+		"message": "Táblák"
+	},
+	"Public": {
+		"message": "Publikus"
+	},
+	"Add_a_list_": {
+		"message": "Lista hozzáadása"
+	},
+	"Calendar": {
+		"message": "Naptár"
+	},
+	"Subscribed": {
+		"message": "Feliratkozva"
+	},
+	"Filtering_is_on_": {
+		"message": "Szűrés bekapcsolva"
+	},
+	"Show_sidebar": {
+		"message": "Oldalsáv megjelenítése"
+	},
+	"Add_a_card_": {
+		"message": "Kártya hozzáadása"
+	},
+	"Notifications": {
+		"message": "Értesítések"
+	},
+	"This_board_is_public__It_s_visible_to_anyone_with_the_link_": {
+		"message": "Ez a tábla publikus. Bárki számára látható, aki rendelkezik az elérési linkkel, és megjelenik kereső motorokban, mint a Google. Csak a táblához adott személyek tudják szerkeszteni."
+	},
+	"Go_back_to_your_boards_page_": {
+		"message": "Vissza a tábláidhoz."
+	},
+	"View_list_of_boards": {
+		"message": "Táblák listájának megtekintése"
+	},
+	"Rename_the_board_": {
+		"message": "Tábla átnevezése"
+	},
+	"You_are_filtering_cards_on_this_board__Click_here_to_edit_filter_": {
+		"message": "Szűröd a kártyákat ezen a táblán. Kattints ide a szűrő szerkesztéséhez."
+	},
+	"You_are_subscribed_to_this_board__You_ll_get_notifications_about_changes_": {
+		"message": "Feliratkoztál erre a táblára. Értesítéseket fogsz kapni a változásokról."
+	},
+	"Click_to_star_or_unstar_this_board__Starred_boards_show_up_at_the_top_of_your_boards_list_": {
+		"message": "Kattintva csillagozhatod, vagy leveheted a csillagot a tábláról. A csillagozott táblák a tábla listád tetején jelennek meg."
+	},
+	"Close_the_board_sidebar_": {
+		"message": "Tábla oldalsáv bezárása."
+	},
+	"Add_a_new_board_or_organization_": {
+		"message": "Új tábla vagy szervezet hozzáadása"
+	},
+	"You_are_seeing_an_early__experimental_version_of_Trello__We_would_love_your_feedback_": {
+		"message": "A Trello egy korai, kísérleti változatát látod. Örülünk a visszajelzésednek!"
+	},
+	"Get_access_to_your_profile__help__and_log_out_": {
+		"message": "Hozzáférés a profilodhoz, segítség és kijelentkezés."
+	},
+	"This_member_has_Trello_Gold_": {
+		"message": "Ez a tag Trello Gold-al rendelkezik."
+	},
+	"Click_to_star_this_board__It_will_show_up_at_top_of_your_boards_list_": {
+		"message": "Idekattintva csillagozhatod ezt a táblát. Így a táblalistád tetején fog megjelenni."
+	},
+	"Search_for_boards__cards__members__and_organizations_": {
+		"message": "Táblák, kártyák és szervezetek keresése"
+	},
+	"Menu": {
+		"message": "Menü"
+	},
+	"Add_Members": {
+		"message": "Tagok hozzáadása"
+	},
+	"Members": {
+		"message": "Tagok"
+	},
+	"Activity": {
+		"message": "Tevékenység"
+	},
+	"Click_here_to_see_more_board_options_": {
+		"message": "Kattints ide a további tábla beállítások megtekintéséhez."
+	},
+	"Power_Ups": {
+		"message": "Extra szolgáltatások"
+	},
+	"Stickers": {
+		"message": "Matricák"
+	},
+	"Filter_Cards": {
+		"message": "Kártyák szűrése"
+	},
+	"Archived_Items": {
+		"message": "Archivált kártyák"
+	},
+	"Change_Background_": {
+		"message": "Háttér változtatása"
+	},
+	"Email_to_board_Settings_": {
+		"message": "\"Emailből táblára\" beállítások"
+	},
+	"Copy_Board_": {
+		"message": "Tábla másolása"
+	},
+	"Share__Print__and_Export_": {
+		"message": "Megosztás, nyomtatás, exportálás"
+	},
+	"Additional_Settings_": {
+		"message": "További beállítások"
+	},
+	"Close_Board_": {
+		"message": "Tábla bezárása"
+	},
+	"Leave_Board_": {
+		"message": "Tábla elhagyása"
+	},
+	"List_Actions": {
+		"message": "Lista tevékenységek"
+	},
+	"Add_Card_": {
+		"message": "Kártya hozzáadása"
+	},
+	"Copy_List_": {
+		"message": "Lista másolása"
+	},
+	"Move_List_": {
+		"message": "Lista mozgatása"
+	},
+	"Subscribe": {
+		"message": "Feliratkozás"
+	},
+	"Move_All_Cards_in_This_List_": {
+		"message": "A listában lévő összes kártya mozgatása"
+	},
+	"Archive_All_Cards_in_This_List_": {
+		"message": "A listában lévő összes kártya archiválása"
+	},
+	"Archive_This_List": {
+		"message": "Lista archiválása"
+	},
+	"Edit_Labels": {
+		"message": "Címkék szerkesztése"
+	},
+	"Change_Members": {
+		"message": "Tagok változtatása"
+	},
+	"Copy": {
+		"message": "Másolás"
+	},
+	"Change_Due_Date": {
+		"message": "Határidő változtatása"
+	},
+	"Archive": {
+		"message": "Archiválás"
+	},
+	"Add": {
+		"message": "Hozzáadás"
+	},
+	"Change_Notification_Email_Frequency": {
+		"message": "Értesítési email gyakoriságának beállítása"
+	},
+	"See_All_Notifications": {
+		"message": "Minden értesítés megjelenítése"
+	},
+	"added": {
+		"message": "hozzáadta"
+	},
+	"to": {
+		"message": "ide:"
+	},
+	"and": {
+		"message": "és"
+	},
+	"joined": {
+		"message": "csatlakozott"
+	},
+	"moved": {
+		"message": "átmozgatta"
+	},
+	"from": {
+		"message": "innen:"
+	},
+	"archived": {
+		"message": "archiválta"
+	},
+	"renamed": {
+		"message": "átnevezte"
+	},
+	"this_board": {
+		"message": "ezt a táblát"
+	},
+	"attached": {
+		"message": "hozzácsatolta"
+	},
+	"sent": {
+		"message": "elküldte"
+	},
+	"to_the_board": {
+		"message": "a táblán"
+	},
+	"This_card_is_past_due_": {
+		"message": "Ezen kártya határideje lejárt."
+	},
+	"You_are_subscribed_to_this_card_": {
+		"message": "Feliratkoztál erre a kártyára."
+	},
+	"Edit_the_description_": {
+		"message": "Leírás szerkesztése"
+	},
+	"Write_a_comment_": {
+		"message": "Hozzászólás írása"
+	},
+	"Formatting_help": {
+		"message": "Formátum segítség"
+	},
+	"Save": {
+		"message": "Mentés"
+	},
+	"Actions": {
+		"message": "Műveletek"
+	},
+	"Labels": {
+		"message": "Címkék"
+	},
+	"Checklist": {
+		"message": "Ellenőrzőlista"
+	},
+	"Due_date": {
+		"message": "Határidő"
+	},
+	"Attachment": {
+		"message": "Csatolmány"
+	},
+	"Move": {
+		"message": "Mozgatás"
+	},
+	"Delete": {
+		"message": "Törlés"
+	},
+	"Share_and_more_": {
+		"message": "Megosztás és egyebek"
+	},
+	"Send_to_board": {
+		"message": "Táblára küldés"
+	},
+	"Drop_files_to_upload_": {
+		"message": "Húzd ide a fájlokat a feltöltéshez"
+	},
+	"Add_or_remove_members_of_the_board_from_the_card_": {
+		"message": "A tábla tagjainak hozzáadása, vagy eltávolítása a kártyáról."
+	},
+	"Change_the_labels_for_the_card_": {
+		"message": "Kártya címkéinek változtatása"
+	},
+	"Add_a_checklist_and_divide_the_card_into_subtasks_": {
+		"message": "Adj hozzá ellenőrzőlistát a kártyához, és bontsd alteendőkre"
+	},
+	"Add_a_due_date_for_the_card_and_get_notifications_when_it_is_almost_due_": {
+		"message": "Adj határidőt a kártyához, és értesítést kapsz, ha hamarosan lejár."
+	},
+	"Attach_files_from_your_computer_or_from_Google_Drive_": {
+		"message": "Csatolj fájlokat a számítógépedről vagy a Google Drive-ról. Be is húzhatod a fájlokat az asztalodról, hogy feltöltsd őket."
+	},
+	"Move_the_card_to_another_board__another_list__or_a_new_position_in_a_list": {
+		"message": "Mozgasd át a kártyát egy másik táblára, másik listához, vagy új pozícióba a listán belül."
+	},
+	"Make_a_copy_of_this_card__optionally_include_checklist__labels__members__attachments__etc_": {
+		"message": "Készíts másolatot erről a kártyáról, opcionálisan magába foglalva az ellenőrző listákat, címkéket, tagokat, csatolmányokat, stb."
+	},
+	"Subscribe_to_the_card_to_get_notifications_when_something_changes_": {
+		"message": "Iratkozz fel a kártyára ahhoz, hogy értesítéseket kapj a változásokról."
+	},
+	"Remove_the_card_from_the_board_": {
+		"message": "Kártya törlése a tábláról."
+	},
+	"Send_the_card_back_to_the_board_": {
+		"message": "Kártya visszaküldése a táblára."
+	},
+	"Delete_the_card_and_all_history_associated_with_it__It_can_t_be_retrieved_": {
+		"message": "Kártya törlése minden kapcsolódó előzménnyel együtt. Nem visszaállítható."
+	},
+	"More_options_share__print__export__and_delete_": {
+		"message": "További beállítások - megosztás, nyomtatás, exportálás és törlés."
+	},
+	"in_list": {
+		"message": "listában"
+	}
+}

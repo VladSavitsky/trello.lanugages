@@ -1,6 +1,129 @@
 {
+	"New_Organization_": {
+		"message": "Uusi organisaatio..."
+	},
+	"New_Board_": {
+		"message": "Uusi taulu..."
+	},
+	"A_board_is_a_collection_of_cards_ordered_in_a_list_of_lists__": {
+		"message": "Taulu on kokoelma kortteja järjestettyinä listoittain. Käytä sitä projektinhallintaan, kokoelman seurantaan tai minkä tahansa asian järjestämiseen."
+	},
+	"An_organization_is_a_group_of_boards_and_people__": {
+		"message": "Organisaatio on ryhmä tauluja ja ihmisiä. Käytä sitä firmasi, tiimisi tai vaikka perheesi taulujen ryhmittelyyn."
+	},
+	"Reload_page": {
+		"message": "Lataa sivu uudelleen"
+	},
+	"Could_not_connect_to_Trello_": {
+		"message": "Ei voida yhdistää Trelloon."
+	},
+	"Page_not_found_": {
+		"message": "Sivua ei löydy."
+	},
+	"This_page_may_be_private__If_someone_gave_you_this_link__": {
+		"message": "Tämä sivu saattaa olla yksityinen. Jos sait tämän linkin joltain, hänen pitää ehkä kutsua sinut osaksi taulua tai organisaatiota."
+	},
+	"View_all_activity_": {
+		"message": "Näytä kaikki tapahtumat..."
+	},
+	"Board_Activity": {
+		"message": "Taulun tapahtumat"
+	},
+	"Load_More_Activity": {
+		"message": "Lataa lisää tapahtumia"
+	},
+	"Change_Organization": {
+		"message": "Vaihda organisaatiota"
+	},
+	"Change": {
+		"message": "Vaihda"
+	},
+	"Change_Organization_": {
+		"message": "Vaihda organisaatiota..."
+	},
+	"View_Organization_Page": {
+		"message": "Näytä organisaation sivu"
+	},
+	"Rename_Board": {
+		"message": "Nimeä taulu uudelleen"
+	},
+	"Rename": {
+		"message": "Nimeä uudelleen"
+	},
+	"Close_Board_question_mark": {
+		"message": "Sulje taulu?"
+	},
+	"You_can_re_open_the_board_by_clicking_the___Boards___menu_from_the_header_": {
+		"message": "Voit aukaista taulun uudelleen klikkaamalla ylhäältä \"Taulut\", valitsemalla \"Näytä suljetut taulut\", etsimällä oikean ja klikkaamalla \"Avaa uudelleen\"."
+	},
+	"Close": {
+		"message": "Sulje"
+	},
+	"Click_here_to_re_open_it_": {
+		"message": "Klikkaa tästä avataksesi se uudelleen."
+	},
+	"is_closed_": {
+		"message": "on suljettu."
+	},
+	"Create_Organization": {
+		"message": "Luo organisaatio"
+	},
+	"An_organization_is_a_group_of_boards_and_members_": {
+		"message": "Organisaatio on ryhmä tauluja ja jäseniä."
+	},
+	"Name": {
+		"message": "Nimi"
+	},
+	"Description": {
+		"message": "Kuvaus"
+	},
+	"Add_an_Organization": {
+		"message": "Lisää organisaatio"
+	},
+	"Create_an_Organization": {
+		"message": "Luo organisaatio"
+	},
+	"An_organizations_is_a_collection_of_members_and_boards_": {
+		"message": "Organisaatio on kokoelma jäseniä ja tauluja. Niiden avulla on helpompi työskennellä ja jakaa ryhmässä."
+	},
+	"What_are_you_organizing_": {
+		"message": "Mitä sinä järjestät?"
+	},
+	"What_are_you_planning_": {
+		"message": "Mitä suunnittelet?"
+	},
+	"Like__Vacation_Planning__for_example_": {
+		"message": "Vaikkapa lomamatkaa..."
+	},
+	"Like__House_Stuff__for_example_": {
+		"message": "Kenties kotiasioita..."
+	},
 	"Like__Bucket_List__for_example_": {
 		"message": "Esimerkiksi \"Ostoslista\""
+	},
+	"Like__Game_Development_Roadmap__": {
+		"message": "Ehkä pelin suunnittelua..."
+	},
+	"Like__Calvinball_Meetup_Schedule__": {
+		"message": "Kuten tapaamisen aikataulu..."
+	},
+	"Like__Weekly_Meal_Planning__for_example_": {
+		"message": "Kuten viikottaisen ruokalistan suunnittelu..."
+	},
+	"Like__School_Research__for_example_": {
+		"message": "Kuten koulussa tehtävä tutkmus...k"
+	},
+	"Like__Team_Product_Sprint__for_example_": {
+		"message": "Kuten tiimin tuotekehitysvaihe..."
+	},
+	"Like__Publishing_Calendar__for_example_": {
+		"message": "Kuten julkaisukalenteri"
+	},
+	"Like__New_Hire_Onboarding__for_example_": {
+		"message": "Kuten uusien työntekiöiden perehdyttäminen..."
+	},
+	"Like__Reading_Collection__for_example_": {
+		"message": "Kuten lista luettavista kirjoista..."
 	},
 	"Create_new_board_": {
 		"message": "Luo uusi taulu..."
@@ -11,8 +134,32 @@
 	"Title": {
 		"message": "Otsikko"
 	},
+	"Organization": {
+		"message": "Organisaatio"
+	},
 	"Create": {
 		"message": "Luo"
+	},
+	"This_board_will_be": {
+		"message": "Tämä taulu tulee olemaan"
+	},
+	"private": {
+		"message": "yksityinen"
+	},
+	"Change_": {
+		"message": "Muuta."
+	},
+	"Private": {
+		"message": "Yksityinen"
+	},
+	"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_": {
+		"message": "Tämä taulu näkyy organisaation jäsenille. Vain tauluun lisätyt ihmiset voivat muokata."
+	},
+	"This_board_is_private___Only_people_added_to_the_board_can_view_and_edit_it_": {
+		"message": "Tämä taulu on yksityinen. Vain tauluun lisätyt ihmiset voivat katsella ja muokata sitä."
+	},
+	"The_board_must_be_added_to_an_org_to_enable_this_": {
+		"message": "Taulu täytyy lisätä organisaatioon tämän mahdollistamiseksi."
 	},
 	"Today": {
 		"message": "Tänään"
@@ -112,5 +259,389 @@
 	},
 	"Dec": {
 		"message": "Joulu"
+	},
+	"Saved_Searches": {
+		"message": "Tallennetut haut"
+	},
+	"Your_search_produced_an_error_": {
+		"message": "Haussasi tapahtui virhe."
+	},
+	"Searching_": {
+		"message": "Etsii..."
+	},
+	"No_results_": {
+		"message": "Ei tuloksia."
+	},
+	"Refine_your_search_with_operators_like__member___label__is_archived__and_has_attachments_": {
+		"message": "Muuta hakua parametreillä kuten @jäsen, #nimike, on:arkistoitu tai sisältää:liitteitä"
+	},
+	"Learn_more_": {
+		"message": "Opi lisää..."
+	},
+	"Cards": {
+		"message": "Kortit"
+	},
+	"Loading_": {
+		"message": "Lataa..."
+	},
+	"Show_more_boards_": {
+		"message": "Näytä lisää tauluja..."
+	},
+	"Show_more_members_": {
+		"message": "Näytä lisää jäseniä..."
+	},
+	"Organizations": {
+		"message": "Organisaatiot"
+	},
+	"Show_more_organizations_": {
+		"message": "Näytä lisää organisaatioita..."
+	},
+	"Back_to_Saved_Searches": {
+		"message": "Takaisin tallennettuihin hakuihin"
+	},
+	"Save_this_Search": {
+		"message": "Tallenna tämä haku"
+	},
+	"Did_you_mean_": {
+		"message": "Tarkoititko..."
+	},
+	"Only_include_cards_that_have_stickers_": {
+		"message": "Sisällytä vain kortit, joissa on tarroja."
+	},
+	"Starred_Boards": {
+		"message": "Tähtimerkityt taulut"
+	},
+	"My_Boards": {
+		"message": "Omat taulut"
+	},
+	"Overview": {
+		"message": "Yleiskuva"
+	},
+	"Recent_Boards": {
+		"message": "Viimeisimmät taulut"
+	},
+	"Always_keep_this_menu_open_": {
+		"message": "Pidä tämä luettelo aina auki."
+	},
+	"Don_t_keep_this_menu_open_": {
+		"message": "Älä pidä tätä luetteloa auki."
+	},
+	"See_closed_boards_": {
+		"message": "Näytä suljetut taulut..."
+	},
+	"Find_boards_by_name_": {
+		"message": "Etsi tauluja nimellä..."
+	},
+	"There_is_new_activity_on_this_board_": {
+		"message": "Tässä taulussa on uusia tapahtumia."
+	},
+	"Collapse_section_": {
+		"message": "Supista osiota."
+	},
+	"Expand_section_": {
+		"message": "Laajenna osiota."
+	},
+	"Closed_Boards": {
+		"message": "Suljetut taulut"
+	},
+	"Re_open": {
+		"message": "Avaa uudelleen"
+	},
+	"You_have_to_have_been_a_board_admin_to_re_open_a_closed_board_": {
+		"message": "Sinun on täytynyt olla taulun ylläpitäjä aukaistaksesi suljetun taulun uudelleen."
+	},
+	"Close_this_dialog_window_": {
+		"message": "Sulje tämä valintaikkuna."
+	},
+	"No_Boards_Found": {
+		"message": "Ei löydettyjä tauluja"
+	},
+	"Boards": {
+		"message": "Taulut"
+	},
+	"Public": {
+		"message": "Julkinen"
+	},
+	"Add_a_list_": {
+		"message": "Lisää lista..."
+	},
+	"Calendar": {
+		"message": "Kalenteri"
+	},
+	"Subscribed": {
+		"message": "Seurattu"
+	},
+	"Filtering_is_on_": {
+		"message": "Suodatus päällä."
+	},
+	"Show_sidebar": {
+		"message": "Näytä sivupalkki"
+	},
+	"Add_a_card_": {
+		"message": "Lisää kortti..."
+	},
+	"Notifications": {
+		"message": "Ilmoitukset"
+	},
+	"This_board_is_public__It_s_visible_to_anyone_with_the_link_": {
+		"message": "Tämä taulu on julkinen. Se näkyy kaikille linkin haltijoille ja Googlen kaltaisille hakukoneille. Vain tauluun lisätyt ihmiset voivat muokata."
+	},
+	"Go_back_to_your_boards_page_": {
+		"message": "Siirry takaisin tauluihin."
+	},
+	"View_list_of_boards": {
+		"message": "Näytä taululista"
+	},
+	"Rename_the_board_": {
+		"message": "Nimeä taulu uudelleen."
+	},
+	"You_are_filtering_cards_on_this_board__Click_here_to_edit_filter_": {
+		"message": "Suodatat kortteja tällä taululla. Klikkaa tästä muokataksesi suodatinta."
+	},
+	"You_are_subscribed_to_this_board__You_ll_get_notifications_about_changes_": {
+		"message": "Seuraat tätä taulua. Saat ilmoituksia muutoksista."
+	},
+	"Click_to_star_or_unstar_this_board__Starred_boards_show_up_at_the_top_of_your_boards_list_": {
+		"message": "Klikkaa merkitäksesi tähdellä tai poistaaksesi tähden. Tähdellä merkityt taulut näkyvät taululistasi yläpäässä."
+	},
+	"Close_the_board_sidebar_": {
+		"message": "Sulje taulun sivuvalikko."
+	},
+	"Add_a_new_board_or_organization_": {
+		"message": "Lisää uusi taulu tai organisaatio."
+	},
+	"You_are_seeing_an_early__experimental_version_of_Trello__We_would_love_your_feedback_": {
+		"message": "Tämä on Trellon kehitysversio. Arvostaisimme palautettasi!"
+	},
+	"Get_access_to_your_profile__help__and_log_out_": {
+		"message": "Luo pääsy profiilisi, ohjeeseen ja uloskirjautumiseen."
+	},
+	"This_member_has_Trello_Gold_": {
+		"message": "Tällä jäsenellä on Trello Gold."
+	},
+	"Click_to_star_this_board__It_will_show_up_at_top_of_your_boards_list_": {
+		"message": "Klikkaa merkitäksesi tähdlelä. Se näkyy taululistasi yläpäässä."
+	},
+	"Search_for_boards__cards__members__and_organizations_": {
+		"message": "Etsi tauluja, kortteja, jäseniä ja organisaatioita."
+	},
+	"Menu": {
+		"message": "Valikko"
+	},
+	"Add_Members": {
+		"message": "Lisää jäseniä"
+	},
+	"Members": {
+		"message": "Jäsenet"
+	},
+	"Activity": {
+		"message": "Tapahtumat"
+	},
+	"Click_here_to_see_more_board_options_": {
+		"message": "Klikkaa tästä nähdäksesi lisää tauluvalintoja."
+	},
+	"Power_Ups": {
+		"message": "Laajennukset"
+	},
+	"Stickers": {
+		"message": "Tarrat"
+	},
+	"Filter_Cards": {
+		"message": "Suodata kortit"
+	},
+	"Archived_Items": {
+		"message": "Arkisto"
+	},
+	"Change_Background_": {
+		"message": "Vaihda taustakuvaa..."
+	},
+	"Email_to_board_Settings_": {
+		"message": "Lähetä tauluun sähköpostilla..."
+	},
+	"Copy_Board_": {
+		"message": "Kopioi taulu..."
+	},
+	"Share__Print__and_Export_": {
+		"message": "Jaa, Tulosta ja Vie..."
+	},
+	"Additional_Settings_": {
+		"message": "Lisäasetukset..."
+	},
+	"Close_Board_": {
+		"message": "Sulje taulu..."
+	},
+	"Leave_Board_": {
+		"message": "Poistu taulusta..."
+	},
+	"List_Actions": {
+		"message": "Listatapahtumat"
+	},
+	"Add_Card_": {
+		"message": "Lisää kortti..."
+	},
+	"Copy_List_": {
+		"message": "Kopioi lista..."
+	},
+	"Move_List_": {
+		"message": "Siirrä lista..."
+	},
+	"Subscribe": {
+		"message": "Seuraa"
+	},
+	"Move_All_Cards_in_This_List_": {
+		"message": "Sirrä listan kaikki kortit..."
+	},
+	"Archive_All_Cards_in_This_List_": {
+		"message": "Arkistoi listan kaikki kortit..."
+	},
+	"Archive_This_List": {
+		"message": "Arkistoi tämä lista"
+	},
+	"Edit_Labels": {
+		"message": "Muokkaa nimikkeitä"
+	},
+	"Change_Members": {
+		"message": "Muuta jäseniä"
+	},
+	"Copy": {
+		"message": "Kopioi"
+	},
+	"Change_Due_Date": {
+		"message": "Muuta päivämäärää"
+	},
+	"Archive": {
+		"message": "Arkistoi"
+	},
+	"Add": {
+		"message": "Lisää"
+	},
+	"Change_Notification_Email_Frequency": {
+		"message": "Vaihda sähköpostimuistutusten tiheyttä"
+	},
+	"See_All_Notifications": {
+		"message": "Näytä kaikki ilmoitukset"
+	},
+	"added": {
+		"message": "lisätty"
+	},
+	"to": {
+		"message": "kenelle"
+	},
+	"and": {
+		"message": "ja"
+	},
+	"joined": {
+		"message": "liittynyt"
+	},
+	"moved": {
+		"message": "siirretty"
+	},
+	"from": {
+		"message": "keneltä"
+	},
+	"archived": {
+		"message": "arkistoitu"
+	},
+	"renamed": {
+		"message": "nimetty uudelleen"
+	},
+	"this_board": {
+		"message": "tämä taulu"
+	},
+	"attached": {
+		"message": "liitetty"
+	},
+	"sent": {
+		"message": "lähetetty"
+	},
+	"to_the_board": {
+		"message": "taululle"
+	},
+	"This_card_is_past_due_": {
+		"message": "Tämä kortti on myöhässä."
+	},
+	"You_are_subscribed_to_this_card_": {
+		"message": "Seuraat tätä korttia."
+	},
+	"Edit_the_description_": {
+		"message": "Muokkaa kuvausta..."
+	},
+	"Write_a_comment_": {
+		"message": "Lisää kommentti..."
+	},
+	"Formatting_help": {
+		"message": "Muokkausohje"
+	},
+	"Save": {
+		"message": "Tallenna"
+	},
+	"Actions": {
+		"message": "Toiminnot"
+	},
+	"Labels": {
+		"message": "Nimikkeett"
+	},
+	"Checklist": {
+		"message": "Tehtävälista"
+	},
+	"Due_date": {
+		"message": "Määräpäivä"
+	},
+	"Attachment": {
+		"message": "Liite"
+	},
+	"Move": {
+		"message": "Siirrä"
+	},
+	"Delete": {
+		"message": "Poista"
+	},
+	"Share_and_more_": {
+		"message": "Jaa..."
+	},
+	"Send_to_board": {
+		"message": "Lähetä tauluun"
+	},
+	"Drop_files_to_upload_": {
+		"message": "Raahaa tähän ja uppaa."
+	},
+	"Add_or_remove_members_of_the_board_from_the_card_": {
+		"message": "Lisää tai poista kortin jäseniä."
+	},
+	"Change_the_labels_for_the_card_": {
+		"message": "Vaihda kortin nimikkeet"
+	},
+	"Add_a_checklist_and_divide_the_card_into_subtasks_": {
+		"message": "Lisää muistilista ja jaa kortti pienempiin tehtäviin."
+	},
+	"Add_a_due_date_for_the_card_and_get_notifications_when_it_is_almost_due_": {
+		"message": "Lisää määräpäivä korttiin ja saat ilmoituksia kun se on umpeutumassa."
+	},
+	"Attach_files_from_your_computer_or_from_Google_Drive_": {
+		"message": "Lisää tiedostoja koneeltasi tai Google Drivesta. Voit myös raahata tiedostoja koneeltasi upataksesi ne."
+	},
+	"Move_the_card_to_another_board__another_list__or_a_new_position_in_a_list": {
+		"message": "Siirrä kortti toiselle taululle, toiseen listaan tai uuteen sijaintiin listalla"
+	},
+	"Make_a_copy_of_this_card__optionally_include_checklist__labels__members__attachments__etc_": {
+		"message": "Tee kortista kopio. Voit halutessasi sisällyttää muistilistan, nimikkeet, jäsenet, liitteet jne."
+	},
+	"Subscribe_to_the_card_to_get_notifications_when_something_changes_": {
+		"message": "Seuraa korttia saadaksesi ilmoituksia silloin kun jokin muttuu."
+	},
+	"Remove_the_card_from_the_board_": {
+		"message": "Poista kortti taululta."
+	},
+	"Send_the_card_back_to_the_board_": {
+		"message": "Nosta kortti takaisin taululle."
+	},
+	"Delete_the_card_and_all_history_associated_with_it__It_can_t_be_retrieved_": {
+		"message": "Poista kortti ja sen kaikki historia. Ei voida palauttaa."
+	},
+	"More_options_share__print__export__and_delete_": {
+		"message": "Lisää vaihtoehtoja: jaa, tulosta, lataa ja poista."
+	},
+	"in_list": {
+		"message": "listalla"
 	}
 }

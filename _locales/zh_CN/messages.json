@@ -5,11 +5,35 @@
 	"New_Board_": {
 		"message": "添加看板"
 	},
+	"An_organization_is_a_group_of_boards_and_people__": {
+		"message": "“组织”由看板和参加者组成，利用“组织”集成相关的（公司，团队或者家庭）看板。"
+	},
 	"Reload_page": {
 		"message": "刷新页面"
 	},
+	"Could_not_connect_to_Trello_": {
+		"message": "无法连接Trello。"
+	},
+	"Page_not_found_": {
+		"message": "无法找到网页。"
+	},
+	"This_page_may_be_private__If_someone_gave_you_this_link__": {
+		"message": "这个网页有可能是私人网页，如果某人给你这个链接，他需要邀请你加入他的看板或相关组织。"
+	},
+	"View_all_activity_": {
+		"message": "查看所有活动"
+	},
+	"Board_Activity": {
+		"message": "看板的活动"
+	},
+	"Load_More_Activity": {
+		"message": "加载更多的活动"
+	},
 	"Change_Organization": {
 		"message": "更改组织"
+	},
+	"Change": {
+		"message": "更改"
 	},
 	"Change_Organization_": {
 		"message": "更改组织"
@@ -56,6 +80,9 @@
 	"Create_an_Organization": {
 		"message": "创建组织"
 	},
+	"An_organizations_is_a_collection_of_members_and_boards_": {
+		"message": "组织是的成员和看板的集成，他可以使小组内的分享和工作更简单。"
+	},
 	"What_are_you_organizing_": {
 		"message": "您准备组织什么东西？"
 	},
@@ -95,8 +122,14 @@
 	"Create": {
 		"message": "创建"
 	},
+	"private": {
+		"message": "私有"
+	},
 	"Change_": {
 		"message": "更改"
+	},
+	"Private": {
+		"message": "私有"
 	},
 	"Today": {
 		"message": "今天"
@@ -161,8 +194,41 @@
 	"December": {
 		"message": "十二月"
 	},
+	"Jan": {
+		"message": "1月"
+	},
+	"Feb": {
+		"message": "2月"
+	},
+	"Mar": {
+		"message": "3月"
+	},
+	"Apr": {
+		"message": "4月"
+	},
 	"May": {
 		"message": "五月"
+	},
+	"Jun": {
+		"message": "6月"
+	},
+	"Jul": {
+		"message": "7月"
+	},
+	"Aug": {
+		"message": "8月"
+	},
+	"Sep": {
+		"message": "9月"
+	},
+	"Oct": {
+		"message": "10月"
+	},
+	"Nov": {
+		"message": "11月"
+	},
+	"Dec": {
+		"message": "12月"
 	},
 	"Saved_Searches": {
 		"message": "已保存搜索"

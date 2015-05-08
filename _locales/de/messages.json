@@ -6,7 +6,7 @@
 		"message": "Neues Board"
 	},
 	"A_board_is_a_collection_of_cards_ordered_in_a_list_of_lists__": {
-		"message": "Ein Board besteht aus in Listen zusammengefasste Karten. Benutze es um Projekte zu verwalten, um Änderungen zu verfolgen oder einfach alles mögliche zu organisieren."
+		"message": "Ein Board besteht aus in Listen zusammengefassten Karten. Benutze es um Projekte zu verwalten, um Änderungen zu verfolgen oder einfach alles mögliche zu organisieren."
 	},
 	"An_organization_is_a_group_of_boards_and_people__": {
 		"message": "Benutzer und Boards können in einer Organisation zusammengefasst werden. Benutze sie um Boards gemeinsam in einem Unternehmen, Team oder der Familie zu benutzen."
@@ -21,7 +21,7 @@
 		"message": "Seite nicht gefunden."
 	},
 	"This_page_may_be_private__If_someone_gave_you_this_link__": {
-		"message": "Diese Seite ist Privat. Um diese Seite sehen zu können, müssen Sie zunächst als Mitglied zu diesem Boards oder der Organisation hinzugefügt werden."
+		"message": "Diese Seite ist privat. Um diese Seite sehen zu können, müssen Sie zunächst als Mitglied zu diesem Board oder der Organisation hinzugefügt werden."
 	},
 	"View_all_activity_": {
 		"message": "Alle Aktivitäten..."
@@ -33,13 +33,13 @@
 		"message": "Mehr Aktivitäten"
 	},
 	"Change_Organization": {
-		"message": "Organisation ändern"
+		"message": "Organisation wechseln"
 	},
 	"Change": {
 		"message": "ändern"
 	},
 	"Change_Organization_": {
-		"message": "Organisation ändern..."
+		"message": "Organisation wechseln..."
 	},
 	"View_Organization_Page": {
 		"message": "Organisations-Seite öffnen"
@@ -54,7 +54,7 @@
 		"message": "Board schließen?"
 	},
 	"You_can_re_open_the_board_by_clicking_the___Boards___menu_from_the_header_": {
-		"message": "Sie können dieses Board wiederherstellen indem Sie auf oben im \"Board\"-Menü \"Geschlossene Boards ansehen\" und dort beim gewünschten Board \"erneut öffnen\" wählen."
+		"message": "Sie können dieses Board wiederherstellen, indem Sie oben im \"Board\"-Menü \"Geschlossene Boards ansehen\" und dort beim gewünschten Board \"erneut öffnen\" wählen."
 	},
 	"Close": {
 		"message": "Schließen"

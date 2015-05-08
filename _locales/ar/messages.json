@@ -1,8 +1,647 @@
 {
+	"New_Organization_": {
+		"message": "منظمة جديدة"
+	},
+	"New_Board_": {
+		"message": "لوحة جديدة"
+	},
+	"A_board_is_a_collection_of_cards_ordered_in_a_list_of_lists__": {
+		"message": "الوحة هي عبارة عن مجموعة من البطاقات مرتبة في قائمة من القوائم. استخدمه لإدارة مشروع، تتبع مجموعة، أو تنظيم أي شيء."
+	},
+	"An_organization_is_a_group_of_boards_and_people__": {
+		"message": "المنظمة هي مجموعة من اللوحات و الناس . استخدمه لجمع وتنسيق اللوحات في الشركة ، الفريق ، أو العائلة."
+	},
+	"Reload_page": {
+		"message": "اعادة تحميل الصفحة"
+	},
+	"Could_not_connect_to_Trello_": {
+		"message": "تعذر الاتصال بـ Trello."
+	},
+	"Page_not_found_": {
+		"message": "لم يتم العثور على الصفحة."
+	},
+	"This_page_may_be_private__If_someone_gave_you_this_link__": {
+		"message": "هذه الصفحة قد تكون خاصة. اذا كان شخص ما أعطاك هذا الرابط ، فربما قد تحتاج دعوة إلى واحدة من لوحاتهم أو منظماتهم."
+	},
+	"View_all_activity_": {
+		"message": "عرض جميع الأنشطة ..."
+	},
+	"Board_Activity": {
+		"message": "أنشطة اللوحة"
+	},
+	"Load_More_Activity": {
+		"message": "تحميل أنشطة أكثر"
+	},
+	"Change_Organization": {
+		"message": "تغيير المنظمة"
+	},
+	"Change": {
+		"message": "تغيير"
+	},
+	"Change_Organization_": {
+		"message": "تغيير المنظمة..."
+	},
+	"View_Organization_Page": {
+		"message": "الاطلاع على صفحة المنظمة"
+	},
+	"Rename_Board": {
+		"message": "إعادة تسمية اللوحة"
+	},
+	"Rename": {
+		"message": "إعادة تسمية"
+	},
+	"Close_Board_question_mark": {
+		"message": "إغلاق اللوحة؟"
+	},
+	"You_can_re_open_the_board_by_clicking_the___Boards___menu_from_the_header_": {
+		"message": "يمكنك إعادة فتح اللوحة من خلال النقر على قائمة \" لوحات \" من الجزء العلوي، واختيار \"عرض اللوحات المغلقة\" ، والعثور على اللوحة والنقر على \" إعادة فتح\" ."
+	},
+	"Close": {
+		"message": "إغلاق"
+	},
+	"Click_here_to_re_open_it_": {
+		"message": "اضغط هنا لاعادة الفتح."
+	},
+	"is_closed_": {
+		"message": "مغلق."
+	},
+	"Create_Organization": {
+		"message": "إنشاء منظمة"
+	},
+	"An_organization_is_a_group_of_boards_and_members_": {
+		"message": "المنظمة هي مجموعة من اللوحات والأعضاء."
+	},
+	"Name": {
+		"message": "اسم"
+	},
+	"Description": {
+		"message": "وصف"
+	},
+	"Add_an_Organization": {
+		"message": "إضافة منظمة"
+	},
+	"Create_an_Organization": {
+		"message": "إنشاء منظمة"
+	},
+	"An_organizations_is_a_collection_of_members_and_boards_": {
+		"message": "المنظمات هي عبارة عن مجموعة من الأعضاء والمجالس وتجعل المشاركة والعمل ضمن مجموعة أكثر سهولة."
+	},
+	"What_are_you_organizing_": {
+		"message": "ماذا تنظم؟"
+	},
+	"What_are_you_planning_": {
+		"message": "ماذا تخطط؟"
+	},
+	"Like__Vacation_Planning__for_example_": {
+		"message": "مثل \"التخطيط للعطلات\" على سبيل المثال ..."
+	},
+	"Like__House_Stuff__for_example_": {
+		"message": "مثل \"تخزين الاغراض\" على سبيل المثال ..."
+	},
+	"Like__Bucket_List__for_example_": {
+		"message": "مثل \"قائمة الامنيات\" على سبيل المثال ..."
+	},
+	"Like__Game_Development_Roadmap__": {
+		"message": "مثل \"خارطة تطوير لعبة\"ء ..."
+	},
+	"Like__Calvinball_Meetup_Schedule__": {
+		"message": "مثل \"جدول مقابلة المساء\"ء ..."
+	},
+	"Like__Weekly_Meal_Planning__for_example_": {
+		"message": "مثل \"تخطيط وجبة اسبوعي\" على سبيل المثال ..."
+	},
+	"Like__School_Research__for_example_": {
+		"message": "مثل \"بحوث مدرسة\" على سبيل المثال ..."
+	},
+	"Like__Team_Product_Sprint__for_example_": {
+		"message": "مثل \" سباق منتج الفريق \" على سبيل المثال ..."
+	},
+	"Like__Publishing_Calendar__for_example_": {
+		"message": "مثل \" نشر التقويم \" على سبيل المثال ..."
+	},
+	"Like__New_Hire_Onboarding__for_example_": {
+		"message": "مثل \" توظيف جديد تحت التنفيذ\" على سبيل المثال ..."
+	},
+	"Like__Reading_Collection__for_example_": {
+		"message": "مثل \"مجموعة القراءة\" على سبيل المثال ..."
+	},
+	"Create_new_board_": {
+		"message": "إنشاء لوحة جديدة..."
+	},
+	"Create_Board": {
+		"message": "إنشاء لوحة"
+	},
+	"Title": {
+		"message": "عنوان"
+	},
+	"Organization": {
+		"message": "منظمة"
+	},
+	"Create": {
+		"message": "إنشاء"
+	},
+	"This_board_will_be": {
+		"message": "هذه اللوحة سوف"
+	},
+	"private": {
+		"message": "خاص"
+	},
+	"Change_": {
+		"message": "تغيير."
+	},
+	"Private": {
+		"message": "خاص"
+	},
+	"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_": {
+		"message": "هذه اللوحة مرئية لأعضاء المنظمة. الأشخاص المضافيين إلى اللوحة فقط يمكنهم تحريرها."
+	},
+	"This_board_is_private___Only_people_added_to_the_board_can_view_and_edit_it_": {
+		"message": "هذه اللوحة خاصة. الأشخاص الوحيدون المضافون إلى اللوحة يمكنهم المشاهدة والتحرير."
+	},
+	"The_board_must_be_added_to_an_org_to_enable_this_": {
+		"message": "يجب إضافة اللوحة إلى منظمة لتمكين هذا."
+	},
+	"Today": {
+		"message": "اليوم"
+	},
+	"Week": {
+		"message": "أسبوع"
+	},
+	"Month": {
+		"message": "شهر"
+	},
+	"Sun": {
+		"message": "أحد"
+	},
+	"Mon": {
+		"message": "إثنين"
+	},
+	"Tue": {
+		"message": "ثلاثاء"
+	},
+	"Wed": {
+		"message": "اربعاء"
+	},
+	"Thu": {
+		"message": "خميس"
+	},
+	"Fri": {
+		"message": "جمعة"
+	},
+	"Sat": {
+		"message": "سبت"
+	},
+	"January": {
+		"message": "يناير"
+	},
+	"February": {
+		"message": "فبراير"
+	},
+	"March": {
+		"message": "مارس"
+	},
+	"April": {
+		"message": "أبريل"
+	},
+	"June": {
+		"message": "يونيو"
+	},
+	"July": {
+		"message": "يوليو"
+	},
+	"August": {
+		"message": "أغسطس"
+	},
+	"September": {
+		"message": "سبتمبر"
+	},
+	"October": {
+		"message": "اوكتوبر"
+	},
+	"November": {
+		"message": "نوفمبر"
+	},
+	"December": {
+		"message": "ديسمبر"
+	},
+	"Jan": {
+		"message": "يناير"
+	},
+	"Feb": {
+		"message": "فبراير"
+	},
+	"Mar": {
+		"message": "مارس"
+	},
+	"Apr": {
+		"message": "أبريل"
+	},
+	"May": {
+		"message": "مايو"
+	},
+	"Jun": {
+		"message": "يونيو"
+	},
+	"Jul": {
+		"message": "يوليو"
+	},
+	"Aug": {
+		"message": "أغسطس"
+	},
+	"Sep": {
+		"message": "سبتمبر"
+	},
+	"Oct": {
+		"message": "اوكتوبر"
+	},
+	"Nov": {
+		"message": "نوفمبر"
+	},
+	"Dec": {
+		"message": "ديسمبر"
+	},
+	"Saved_Searches": {
+		"message": "عمليات البحث المحفوظة"
+	},
+	"Your_search_produced_an_error_": {
+		"message": "بحثك أتى خطأ."
+	},
+	"Searching_": {
+		"message": "بحث..."
+	},
+	"No_results_": {
+		"message": "لا توجد نتائج ."
+	},
+	"Refine_your_search_with_operators_like__member___label__is_archived__and_has_attachments_": {
+		"message": "نقح بحثك باستخدام @عضو, #علامة, هو:مؤرشف, وله:ملحقات."
+	},
+	"Learn_more_": {
+		"message": "تفاصيل أكثر..."
+	},
+	"Cards": {
+		"message": "بطاقات"
+	},
+	"Loading_": {
+		"message": "تحميل..."
+	},
+	"Show_more_boards_": {
+		"message": "إظهار لوحات أكثر..."
+	},
+	"Show_more_members_": {
+		"message": "إظهار أعضاء أكثر..."
+	},
+	"Organizations": {
+		"message": "منظمات"
+	},
+	"Show_more_organizations_": {
+		"message": "إظهار منظمات أكثر..."
+	},
+	"Back_to_Saved_Searches": {
+		"message": "الرجوع إلى عمليات البحث المحفوظة"
+	},
+	"Save_this_Search": {
+		"message": "احفظ هذا البحث"
+	},
+	"Did_you_mean_": {
+		"message": "هل تقصد..."
+	},
+	"Only_include_cards_that_have_stickers_": {
+		"message": "اضف فقط البطاقات التي لديها الملصقات."
+	},
+	"Starred_Boards": {
+		"message": "اللوحات المعلمة"
+	},
+	"My_Boards": {
+		"message": "لوحاتي"
+	},
+	"Overview": {
+		"message": "نظرة عامة"
+	},
+	"Recent_Boards": {
+		"message": "اللوحات الحديثة"
+	},
+	"Always_keep_this_menu_open_": {
+		"message": "دائما ابق هذه القائمة مفتوحة."
+	},
+	"Don_t_keep_this_menu_open_": {
+		"message": "لا تجعل هذه القائمة مفتوحة."
+	},
+	"See_closed_boards_": {
+		"message": "الاطلاع على اللوحات المغلقة ..."
+	},
+	"Find_boards_by_name_": {
+		"message": "ابحث عن اللوحات بالاسم ..."
+	},
+	"There_is_new_activity_on_this_board_": {
+		"message": "هناك نشاط جديد في هذه اللوحة."
+	},
+	"Collapse_section_": {
+		"message": "تضييق القسم."
+	},
+	"Expand_section_": {
+		"message": "توسيع القسم."
+	},
+	"Closed_Boards": {
+		"message": "اللوحات المغلقة"
+	},
+	"Re_open": {
+		"message": "إعادة فتح"
+	},
+	"You_have_to_have_been_a_board_admin_to_re_open_a_closed_board_": {
+		"message": "يجب أن تملك صلاحيات المدير في هذه اللوحة المغلقة لإعادة فتحها."
+	},
+	"Close_this_dialog_window_": {
+		"message": "اغلاق نافذة الحوار."
+	},
+	"No_Boards_Found": {
+		"message": "لم يتم العثور على لوحات"
+	},
 	"Boards": {
 		"message": "لوحات"
 	},
 	"Public": {
 		"message": "عام"
+	},
+	"Add_a_list_": {
+		"message": "إضافة قائمة..."
+	},
+	"Calendar": {
+		"message": "تقويم"
+	},
+	"Subscribed": {
+		"message": "اشتراك"
+	},
+	"Filtering_is_on_": {
+		"message": "التصفية مفعلة."
+	},
+	"Show_sidebar": {
+		"message": "إظهار الإطار الجانبي"
+	},
+	"Add_a_card_": {
+		"message": "إضافة بطاقة..."
+	},
+	"Notifications": {
+		"message": "تنبيهات"
+	},
+	"This_board_is_public__It_s_visible_to_anyone_with_the_link_": {
+		"message": "هذه اللوحة عامه. انها مرئية لأي شخص لديه الرابط وسوف تظهر في محركات البحث مثل جوجل. الأشخاص المضافين لهذه اللوحة فقط يمكنهم تحريرها."
+	},
+	"Go_back_to_your_boards_page_": {
+		"message": "الرجوع إلى صفحة لوحاتي."
+	},
+	"View_list_of_boards": {
+		"message": "عرض قائمة اللوحات."
+	},
+	"Rename_the_board_": {
+		"message": "إعادة تسمية اللوحة."
+	},
+	"You_are_filtering_cards_on_this_board__Click_here_to_edit_filter_": {
+		"message": "أنت تقوم بتصفية بطاقات هذه اللوحة. انقر هنا لتعديل التصفية."
+	},
+	"You_are_subscribed_to_this_board__You_ll_get_notifications_about_changes_": {
+		"message": "أنت مشترك في هذه اللوحة. ستحصل على إشعارات حول التغييرات."
+	},
+	"Click_to_star_or_unstar_this_board__Starred_boards_show_up_at_the_top_of_your_boards_list_": {
+		"message": "انقر لتمييز أو إلغاء تمييز هذه اللوحة. اللوحات المميزة تظهر في أعلى قائمة اللوحات."
+	},
+	"Close_the_board_sidebar_": {
+		"message": "اغلاق القائمة الجانبية للوحة."
+	},
+	"Add_a_new_board_or_organization_": {
+		"message": "إضافة لوحة أو منظمة جديدة."
+	},
+	"You_are_seeing_an_early__experimental_version_of_Trello__We_would_love_your_feedback_": {
+		"message": "أنت تشاهد نسخة أولية,تجريبية من تريللو. نحن نأمل الحصول على آرائكم."
+	},
+	"Get_access_to_your_profile__help__and_log_out_": {
+		"message": "احصل على صلاحية دخول إلى حسابك, مساعده, وتسجيل الخروج."
+	},
+	"This_member_has_Trello_Gold_": {
+		"message": "هذا العضو لديه عضوية ذهبية."
+	},
+	"Click_to_star_this_board__It_will_show_up_at_top_of_your_boards_list_": {
+		"message": "انقر لوضع إشارة على هذه اللوحة. سوف تظهر في أعلى قائمة اللوحات الخاصة بك."
+	},
+	"Search_for_boards__cards__members__and_organizations_": {
+		"message": "بحث عن لوحات, بطاقات, أعضاء, ومنظمات."
+	},
+	"Menu": {
+		"message": "قائمة"
+	},
+	"Add_Members": {
+		"message": "إضافة أعضاء"
+	},
+	"Members": {
+		"message": "أعضاء"
+	},
+	"Activity": {
+		"message": "نشاط"
+	},
+	"Click_here_to_see_more_board_options_": {
+		"message": "انقر هنا لرؤية المزيد من خيارات اللوحة."
+	},
+	"Power_Ups": {
+		"message": "خصائص إضافية"
+	},
+	"Stickers": {
+		"message": "ملصقات"
+	},
+	"Filter_Cards": {
+		"message": "تصفية البطاقات"
+	},
+	"Archived_Items": {
+		"message": "العناصر المؤرشفة"
+	},
+	"Change_Background_": {
+		"message": "تغيير اللخلفية..."
+	},
+	"Email_to_board_Settings_": {
+		"message": "إيميل إلى اعدادات اللوحة..."
+	},
+	"Copy_Board_": {
+		"message": "نسخ اللوحة..."
+	},
+	"Share__Print__and_Export_": {
+		"message": "مشاركة، طباعة وتصدير..."
+	},
+	"Additional_Settings_": {
+		"message": "إعدادات إضافية ..."
+	},
+	"Close_Board_": {
+		"message": "اغلاق اللوحة..."
+	},
+	"Leave_Board_": {
+		"message": "مغادرة مجلس ..."
+	},
+	"List_Actions": {
+		"message": "قائمة الإجراءات"
+	},
+	"Add_Card_": {
+		"message": "إضافة بطاقة..."
+	},
+	"Copy_List_": {
+		"message": "نسخ القائمة..."
+	},
+	"Move_List_": {
+		"message": "نقل القائمة"
+	},
+	"Subscribe": {
+		"message": "اشتراك"
+	},
+	"Move_All_Cards_in_This_List_": {
+		"message": "نقل جميع البطاقات في هذه القائمة ..."
+	},
+	"Archive_All_Cards_in_This_List_": {
+		"message": "أرشفة جميع البطاقات في هذه القائمة ..."
+	},
+	"Archive_This_List": {
+		"message": "أرشفة هذه القائمة"
+	},
+	"Edit_Labels": {
+		"message": "تعديل الأوصاف"
+	},
+	"Change_Members": {
+		"message": "تغيير الأعضاء"
+	},
+	"Copy": {
+		"message": "نسخ"
+	},
+	"Change_Due_Date": {
+		"message": "تغير موعد"
+	},
+	"Archive": {
+		"message": "أرشيف"
+	},
+	"Add": {
+		"message": "إضافة"
+	},
+	"Change_Notification_Email_Frequency": {
+		"message": "تغيير فترات إشعار البريد الإلكتروني"
+	},
+	"See_All_Notifications": {
+		"message": "الاطلاع على جميع التنبيهات"
+	},
+	"added": {
+		"message": "مضاف"
+	},
+	"to": {
+		"message": "إلى"
+	},
+	"and": {
+		"message": "و"
+	},
+	"joined": {
+		"message": "انضم"
+	},
+	"moved": {
+		"message": "نقل"
+	},
+	"from": {
+		"message": "من"
+	},
+	"archived": {
+		"message": "أرشف"
+	},
+	"renamed": {
+		"message": "تم إعادة التسمية"
+	},
+	"this_board": {
+		"message": "هذه اللوحة"
+	},
+	"attached": {
+		"message": "ملحق"
+	},
+	"sent": {
+		"message": "أرسل"
+	},
+	"to_the_board": {
+		"message": "إلى اللوحة"
+	},
+	"This_card_is_past_due_": {
+		"message": "هذه البطاقة هي تجاوزت الموعد المحدد."
+	},
+	"You_are_subscribed_to_this_card_": {
+		"message": "أنت مشارك في هذه البطاقة."
+	},
+	"Edit_the_description_": {
+		"message": "تعديل الوصف..."
+	},
+	"Write_a_comment_": {
+		"message": "اكتب تعليق..."
+	},
+	"Formatting_help": {
+		"message": "مساعد التنسيق"
+	},
+	"Save": {
+		"message": "حفظ"
+	},
+	"Actions": {
+		"message": "أفعال"
+	},
+	"Labels": {
+		"message": "أوصاف"
+	},
+	"Checklist": {
+		"message": "قائمة"
+	},
+	"Due_date": {
+		"message": "الموعد المحدد"
+	},
+	"Attachment": {
+		"message": "ملحق"
+	},
+	"Move": {
+		"message": "انقل"
+	},
+	"Delete": {
+		"message": "احذف"
+	},
+	"Share_and_more_": {
+		"message": "المشاركة وأكثر..."
+	},
+	"Send_to_board": {
+		"message": "أرسل إلى اللوحة"
+	},
+	"Drop_files_to_upload_": {
+		"message": "اسقط الملفات للتحميل."
+	},
+	"Add_or_remove_members_of_the_board_from_the_card_": {
+		"message": "إضافة أو إزالة أعضاء اللوحة من البطاقة."
+	},
+	"Change_the_labels_for_the_card_": {
+		"message": "تغيير الأوصاف للبطاقة."
+	},
+	"Add_a_checklist_and_divide_the_card_into_subtasks_": {
+		"message": "إضافة قائمة وتقسيم البطاقة في مهام الفرعية."
+	},
+	"Add_a_due_date_for_the_card_and_get_notifications_when_it_is_almost_due_": {
+		"message": "إضافة الموعد المحدد للحصول على بطاقة واحصل على إشعارات عند اقتراب الموعد."
+	},
+	"Attach_files_from_your_computer_or_from_Google_Drive_": {
+		"message": "إرفاق الملفات من جهاز الكمبيوتر الخاص بك أو من محرك جوجل. يمكنك أيضا سحب وافلات الملفات من سطح المكتب الخاص بك لتحميلها."
+	},
+	"Move_the_card_to_another_board__another_list__or_a_new_position_in_a_list": {
+		"message": "نقل البطاقة إلى لوحة أخرى قائمة أخرى، أو موضع جديد في قائمة"
+	},
+	"Make_a_copy_of_this_card__optionally_include_checklist__labels__members__attachments__etc_": {
+		"message": "تقديم نسخة من هذه البطاقة، وتشمل اختياريا قوائم، وعلامات، وأعضاءومرفقات الخ"
+	},
+	"Subscribe_to_the_card_to_get_notifications_when_something_changes_": {
+		"message": "اشترك في البطاقة للحصول على تنبيهات عندما يتغير شيء."
+	},
+	"Remove_the_card_from_the_board_": {
+		"message": "أزل البطاقة من اللوحة."
+	},
+	"Send_the_card_back_to_the_board_": {
+		"message": "إرجاع إرسال البطاقة إلى اللوحة."
+	},
+	"Delete_the_card_and_all_history_associated_with_it__It_can_t_be_retrieved_": {
+		"message": "حذف البطاقة وكافة المحفوظات المرتبطة بها. لا يمكن استردادها."
+	},
+	"More_options_share__print__export__and_delete_": {
+		"message": "خيارات أكثر، مشاركة، طباعة، تصدير، وحذف."
+	},
+	"in_list": {
+		"message": "في القائمة"
 	}
 }

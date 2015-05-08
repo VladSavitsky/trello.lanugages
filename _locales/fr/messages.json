@@ -6,10 +6,10 @@
 		"message": "Nouveau tableau..."
 	},
 	"A_board_is_a_collection_of_cards_ordered_in_a_list_of_lists__": {
-		"message": "Un tableau est une collection de cartes (fiches) ordonnées dans une liste de listes. Utilisez-le pour gérer un projet, suivre une collection, ou organiser tout autre chose."
+		"message": "Un tableau est une collection de cartes (fiches) organisées en liste de listes. Utilisez-le pour gérer un projet, assurer le suivi d'une collection, ou organiser tout autre chose."
 	},
 	"An_organization_is_a_group_of_boards_and_people__": {
-		"message": "Une organisation est un groupe de tableaux et de personnes. Utilisez la pour grouper les tableaux de votre société, équipe ou famille."
+		"message": "Une organisation est un groupe de tableaux et de personnes. Utilisez la pour regrouper les tableaux de votre société, de votre équipe ou de votre famille."
 	},
 	"Reload_page": {
 		"message": "Recharger la page"
@@ -30,7 +30,7 @@
 		"message": "Activité du tableau"
 	},
 	"Load_More_Activity": {
-		"message": "Charger davantage d'activités"
+		"message": "Charger plus d'activité"
 	},
 	"Change_Organization": {
 		"message": "Changer d'organisation"
@@ -84,16 +84,16 @@
 		"message": "Créer une organisation"
 	},
 	"An_organizations_is_a_collection_of_members_and_boards_": {
-		"message": "Une organisation est un ensemble de membres et de tableaux. Elles favorisent le partage et le travail au sein d'un groupe plus facilement."
+		"message": "Les organisation sont des ensembles de membres et de tableaux. Elles favorisent le partage et le travail au sein d'un groupe plus facilement."
 	},
 	"What_are_you_organizing_": {
 		"message": "Qu'est ce que vous organisez ?"
 	},
 	"What_are_you_planning_": {
-		"message": "Quel est le planning ?"
+		"message": "Que planifiez-vous ?"
 	},
 	"Like__Vacation_Planning__for_example_": {
-		"message": "Comme « Organisation des vacances » par exemple..."
+		"message": "Comme « Planification des vacances » par exemple..."
 	},
 	"Like__House_Stuff__for_example_": {
 		"message": "Comme « Objets de la maison » par exemple..."
@@ -102,13 +102,13 @@
 		"message": "Comme « Liste des choses à faire avant de partir » par exemple..."
 	},
 	"Like__Game_Development_Roadmap__": {
-		"message": "Comme « Plan de route du développement du jeu »..."
+		"message": "Comme « Feuille de route du développement du jeu »..."
 	},
 	"Like__Calvinball_Meetup_Schedule__": {
-		"message": "Comme « Horaire de la réunion de mise en marche de Calvinball »"
+		"message": "Comme « Programme de la rencontre de Calvinball »..."
 	},
 	"Like__Weekly_Meal_Planning__for_example_": {
-		"message": "Comme « Planning hebdomadaire des repas » par exemple."
+		"message": "Comme « Planning hebdomadaire des repas » par exemple..."
 	},
 	"Like__School_Research__for_example_": {
 		"message": "Comme « Recherche d'écoles » par exemple..."
@@ -348,7 +348,7 @@
 		"message": "Rouvrir"
 	},
 	"You_have_to_have_been_a_board_admin_to_re_open_a_closed_board_": {
-		"message": "Seul un administrateur peut rouvrir une carte fermée."
+		"message": "Vous devez avoir été administrateur d'un tableau pour rouvrir un tableau fermé."
 	},
 	"Close_this_dialog_window_": {
 		"message": "Fermer cette fenêtre."
@@ -414,7 +414,7 @@
 		"message": "Vous voyez une version précoce et expérimentale de Trello. Nous aimerions avoir votre avis !"
 	},
 	"Get_access_to_your_profile__help__and_log_out_": {
-		"message": "Accédez à votre profil, à l'aide, ou à la déconnexion."
+		"message": "Accédez à votre profil, à l'aide et à la déconnexion."
 	},
 	"This_member_has_Trello_Gold_": {
 		"message": "Ce membre a Trello Gold."
@@ -549,10 +549,10 @@
 		"message": "ce tableau"
 	},
 	"attached": {
-		"message": "à joint"
+		"message": "a joint"
 	},
 	"sent": {
-		"message": "à expédié"
+		"message": "a expédié"
 	},
 	"to_the_board": {
 		"message": "au tableau"
@@ -561,7 +561,7 @@
 		"message": "Cette carte est expirée."
 	},
 	"You_are_subscribed_to_this_card_": {
-		"message": "Vous êtes inscrit à cette carte."
+		"message": "Vous êtes abonné à cette carte."
 	},
 	"Edit_the_description_": {
 		"message": "Modifier la description..."
@@ -582,7 +582,7 @@
 		"message": "Étiquettes"
 	},
 	"Checklist": {
-		"message": "« Check-list »"
+		"message": "Check-list"
 	},
 	"Due_date": {
 		"message": "Date d'échéance"
@@ -606,7 +606,7 @@
 		"message": "Déposer les fichiers à télécharger."
 	},
 	"Add_or_remove_members_of_the_board_from_the_card_": {
-		"message": "Ajouter ou supprimer des membres du tableau de la carte."
+		"message": "Ajouter ou supprimer de cette carte des membres du tableau."
 	},
 	"Change_the_labels_for_the_card_": {
 		"message": "Changer les étiquettes de la carte."
@@ -615,10 +615,10 @@
 		"message": "Ajouter une check-list et diviser la carte en sous-tâches."
 	},
 	"Add_a_due_date_for_the_card_and_get_notifications_when_it_is_almost_due_": {
-		"message": "Ajouter une date à cette carte et recevez des notifications quand on est proche de l'échéance."
+		"message": "Ajouter une date d'échéance à cette carte et recevez des notifications lorsqu'elle est presque échue."
 	},
 	"Attach_files_from_your_computer_or_from_Google_Drive_": {
-		"message": "Ajoutez des fichiers à partir de votre ordinateur ou de Google Drive. Vous pouvez aussi déplacer et lâcher les fichiers à partir de votre bureau pour les charger."
+		"message": "Ajoutez des fichiers depuis votre ordinateur ou Google Drive. Vous pouvez aussi glisser et déposer les fichiers à partir de votre bureau pour les charger."
 	},
 	"Move_the_card_to_another_board__another_list__or_a_new_position_in_a_list": {
 		"message": "Déplacez la carte vers un autre tableau, une autre liste, ou une nouvelle position dans la liste"
@@ -630,13 +630,13 @@
 		"message": "Abonnez-vous à cette carte pour obtenir des notifications quand quelque chose change."
 	},
 	"Remove_the_card_from_the_board_": {
-		"message": "Retirez la carte du tableau."
+		"message": "Retirez cette carte du tableau."
 	},
 	"Send_the_card_back_to_the_board_": {
-		"message": "Envoyer la carte de nouveau vers le tableau."
+		"message": "Renvoyer cette carte sur le tableau."
 	},
 	"Delete_the_card_and_all_history_associated_with_it__It_can_t_be_retrieved_": {
-		"message": "Supprimer la carte et tout l'historique qui lui est associé. Il ne peut pas être récupéré."
+		"message": "Supprimer la carte et tout l'historique qui lui est associé. Elle ne pourra pas être récupérée."
 	},
 	"More_options_share__print__export__and_delete_": {
 		"message": "Plus d'options : partager, imprimer, exporter et supprimer."

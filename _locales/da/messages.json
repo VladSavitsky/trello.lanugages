@@ -1,9 +1,9 @@
 {
 	"New_Organization_": {
-		"message": "Ny organisation"
+		"message": "Ny organisation..."
 	},
 	"New_Board_": {
-		"message": "Ny opslagstavle"
+		"message": "Ny opslagstavle..."
 	},
 	"A_board_is_a_collection_of_cards_ordered_in_a_list_of_lists__": {
 		"message": "En opslagstavle er en samling af kort (opgaver), der er er ordnet i lister på opslagstavlen. Brug en opslagstavle til at håndtere et projekt, opspore noget, eller til at organisere ting og sager."
@@ -15,10 +15,10 @@
 		"message": "Genhent siden"
 	},
 	"Could_not_connect_to_Trello_": {
-		"message": "Kunne ikke få forbindelse til Trello"
+		"message": "Kunne ikke få forbindelse til Trello."
 	},
 	"Page_not_found_": {
-		"message": "Siden blev ikke fundet"
+		"message": "Siden blev ikke fundet."
 	},
 	"This_page_may_be_private__If_someone_gave_you_this_link__": {
 		"message": "Denne side kan være privat. Hvis nogen gave dig dette link, skal de måske også invitere dig til en af deres opslagstavler eller organisationer."
@@ -51,25 +51,25 @@
 		"message": "Ændre navn"
 	},
 	"Close_Board_question_mark": {
-		"message": "Nedluk opslagstavlen"
+		"message": "Arkiver opslagstavlen?"
 	},
 	"You_can_re_open_the_board_by_clicking_the___Boards___menu_from_the_header_": {
-		"message": "Du kan genåbne opslagstavlen ved at klikke på Opslagstavler-menuen for sidehovedet og så vælge \"Se nedlukkede opslagstavler\". Find så opslagstavlen og klik på \"Genåbne\""
+		"message": "Du kan genåbne opslagstavlen ved at klikke på Opslagstavler-menuen for sidehovedet og så vælge \"Se arkiverede opslagstavler\". Find så opslagstavlen og klik på \"Genåbne\""
 	},
 	"Close": {
-		"message": "Luk"
+		"message": "Arkiver"
 	},
 	"Click_here_to_re_open_it_": {
 		"message": "Klik her for at genåbne."
 	},
 	"is_closed_": {
-		"message": "er lukket"
+		"message": "er arkiveret."
 	},
 	"Create_Organization": {
 		"message": "Opret organisation"
 	},
 	"An_organization_is_a_group_of_boards_and_members_": {
-		"message": "En organisation er en gruppe af opslagtavler og medlemmer"
+		"message": "En organisation er en gruppe af opslagtavler og medlemmer."
 	},
 	"Name": {
 		"message": "Navn"
@@ -126,7 +126,7 @@
 		"message": "Synes godt om \"Raading Collection\" for eksempel..."
 	},
 	"Create_new_board_": {
-		"message": "Dan en ny opslagstavle"
+		"message": "Dan en ny opslagstavle..."
 	},
 	"Create_Board": {
 		"message": "Dan opslagstavle"
@@ -303,16 +303,16 @@
 		"message": "Gem denne søgning"
 	},
 	"Did_you_mean_": {
-		"message": "Mente du"
+		"message": "Mente du..."
 	},
 	"Only_include_cards_that_have_stickers_": {
-		"message": "Kun inkluderede kort, der har stickers."
+		"message": "Indkludere kun kort, der har stickers."
 	},
 	"Starred_Boards": {
 		"message": "Sjernemarkede opslagstavler"
 	},
 	"My_Boards": {
-		"message": "Min opslagstavler"
+		"message": "Mine opslagstavler"
 	},
 	"Overview": {
 		"message": "Oversigt"
@@ -327,7 +327,7 @@
 		"message": "Hold ikke denne menu åben."
 	},
 	"See_closed_boards_": {
-		"message": "Se de nedlukkede opslagstavler"
+		"message": "Se de arkiverede opslagstavler..."
 	},
 	"Find_boards_by_name_": {
 		"message": "Find opslagstavler på navn..."
@@ -342,13 +342,13 @@
 		"message": "Udvid sektion."
 	},
 	"Closed_Boards": {
-		"message": "Nedlukkede opslagstavler"
+		"message": "Arkiverede opslagstavler"
 	},
 	"Re_open": {
 		"message": "Genåbne"
 	},
 	"You_have_to_have_been_a_board_admin_to_re_open_a_closed_board_": {
-		"message": "Du må være administrator af opslagstavlen for at genåbne en nedlukket opslagstavle."
+		"message": "Du må være administrator af opslagstavlen for at genåbne en arkiveret opslagstavle."
 	},
 	"Close_this_dialog_window_": {
 		"message": "Luk dette dialog vindue."
@@ -369,7 +369,7 @@
 		"message": "Kalender"
 	},
 	"Subscribed": {
-		"message": "Tilmeldt"
+		"message": "Abonnerer"
 	},
 	"Filtering_is_on_": {
 		"message": "Filtrering er sat til"
@@ -381,7 +381,7 @@
 		"message": "Tilføj et kort"
 	},
 	"Notifications": {
-		"message": "Notifikatoner"
+		"message": "Notifikationer"
 	},
 	"This_board_is_public__It_s_visible_to_anyone_with_the_link_": {
 		"message": "Denne opslagstavle er offentlig. Den er synlig for alle med link til den og den vil også komme frem i søgemaskiner som f.eks. Google. Kun personer, der er knyttet til opslagstavlen kan redigere i den."
@@ -450,25 +450,25 @@
 		"message": "Filtrer kort"
 	},
 	"Archived_Items": {
-		"message": "Gemte dele"
+		"message": "Arkiverede kort m.m."
 	},
 	"Change_Background_": {
-		"message": "Ændre baggrund"
+		"message": "Ændre baggrund..."
 	},
 	"Email_to_board_Settings_": {
-		"message": "Send email til opslagstavlens indstillinger..."
+		"message": "Indstillinger for email til opslagstavlen..."
 	},
 	"Copy_Board_": {
-		"message": "Kopier opslagstavlen"
+		"message": "Kopier opslagstavlen..."
 	},
 	"Share__Print__and_Export_": {
 		"message": "Del, print og eksporter..."
 	},
 	"Additional_Settings_": {
-		"message": "Yderligere indstillinger"
+		"message": "Yderligere indstillinger..."
 	},
 	"Close_Board_": {
-		"message": "Luk opslagstavlen"
+		"message": "Arkiver opslagstavlen..."
 	},
 	"Leave_Board_": {
 		"message": "Forlad opslagstavlen"
@@ -477,7 +477,7 @@
 		"message": "Liste af handlinger"
 	},
 	"Add_Card_": {
-		"message": "Tilføj et kort"
+		"message": "Tilføj et kort..."
 	},
 	"Copy_List_": {
 		"message": "Kopier liste..."
@@ -522,7 +522,7 @@
 		"message": "Se alle notifikationer"
 	},
 	"added": {
-		"message": "tilføjet"
+		"message": "tilføjede"
 	},
 	"to": {
 		"message": "til"
@@ -531,7 +531,7 @@
 		"message": "og"
 	},
 	"joined": {
-		"message": "forbundet"
+		"message": "er tilknyttet"
 	},
 	"moved": {
 		"message": "flyttet"
@@ -543,7 +543,7 @@
 		"message": "arkiveret"
 	},
 	"renamed": {
-		"message": "omdøb"
+		"message": "omdøbte"
 	},
 	"this_board": {
 		"message": "denne opslagstavle"
@@ -564,10 +564,10 @@
 		"message": "Du er nu tilmeldt dette kort."
 	},
 	"Edit_the_description_": {
-		"message": "Redigere beskrivelsen"
+		"message": "Redigere beskrivelsen..."
 	},
 	"Write_a_comment_": {
-		"message": "Skriv en kommentar"
+		"message": "Skriv en kommentar..."
 	},
 	"Formatting_help": {
 		"message": "Formateringshjælp"
@@ -588,7 +588,7 @@
 		"message": "Slut dato"
 	},
 	"Attachment": {
-		"message": "Vedhæftet"
+		"message": "Vedhæft"
 	},
 	"Move": {
 		"message": "Flyt"
@@ -609,7 +609,7 @@
 		"message": "Tilføj og fjern medlemmer til opslagstavlen fra kortet."
 	},
 	"Change_the_labels_for_the_card_": {
-		"message": "Ændre mærkaterne for kortet"
+		"message": "Ændre mærkaterne for kortet."
 	},
 	"Add_a_checklist_and_divide_the_card_into_subtasks_": {
 		"message": "Tilføj en tjekliste og opdel kortet i underopgaver"
@@ -624,13 +624,13 @@
 		"message": "Flyt kortet til en anden opslagstavle, anden liste eller en ny position i en liste"
 	},
 	"Make_a_copy_of_this_card__optionally_include_checklist__labels__members__attachments__etc_": {
-		"message": "Lave en kopi af dette kort. Du kan inkludere tjekliste, mærkater, medlemmer og vedhæng,  etc."
+		"message": "Lave en kopi af dette kort. Du kan inkludere tjekliste, mærkater, medlemmer og vedhæng, etc."
 	},
 	"Subscribe_to_the_card_to_get_notifications_when_something_changes_": {
-		"message": "Abonner på kortet for at få noti"
+		"message": "Abonner på kortet for at få notifikationer, når noget ændres."
 	},
 	"Remove_the_card_from_the_board_": {
-		"message": "Fjern kortet fra opslagstavlen"
+		"message": "Fjern kortet fra opslagstavlen."
 	},
 	"Send_the_card_back_to_the_board_": {
 		"message": "Send et kort tilbage til opslagsdtavlen"
@@ -639,7 +639,7 @@
 		"message": "Slet kortet og al historie, der er knyttet til det. Det kan ikke fortrydes."
 	},
 	"More_options_share__print__export__and_delete_": {
-		"message": "Flere delemuligheder, print, eksport og slet"
+		"message": "Flere delemuligheder, print, eksport og slet."
 	},
 	"in_list": {
 		"message": "i liste"

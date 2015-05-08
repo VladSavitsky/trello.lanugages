@@ -1,42 +1,165 @@
 {
+	"New_Organization_": {
+		"message": "Nuova organizzazione..."
+	},
+	"New_Board_": {
+		"message": "Nuovo pannello..."
+	},
+	"A_board_is_a_collection_of_cards_ordered_in_a_list_of_lists__": {
+		"message": "Un pannello è una raccolta di schede ordinato in una lista di liste. Usalo per gestire un progetto, controllare una collezione, o organizzare qualsiasi cosa."
+	},
+	"An_organization_is_a_group_of_boards_and_people__": {
+		"message": "Un organizzazione è un gruppo di pannelli e persone. Usalo per raggruppare i pannelli nella tua società, squadra o famiglia."
+	},
+	"Reload_page": {
+		"message": "Ricarica pagina"
+	},
+	"Could_not_connect_to_Trello_": {
+		"message": "Impossibile connettersi a Trello."
+	},
+	"Page_not_found_": {
+		"message": "Pagina non trovata."
+	},
+	"This_page_may_be_private__If_someone_gave_you_this_link__": {
+		"message": "Questa pagina potrebbe essere privata. Se qualcuno ti ha dato questo link, dovrebbe invitarti ad uno dei suoi pannelli o organizzazioni."
+	},
+	"View_all_activity_": {
+		"message": "Vedi tutte le attività..."
+	},
+	"Board_Activity": {
+		"message": "Attività del pannello"
+	},
+	"Load_More_Activity": {
+		"message": "Carica più attività"
+	},
+	"Change_Organization": {
+		"message": "Cambia organizzazione"
+	},
+	"Change": {
+		"message": "Cambia"
+	},
+	"Change_Organization_": {
+		"message": "Cambia organizzazione..."
+	},
+	"View_Organization_Page": {
+		"message": "Vedi la pagina dell'organizzazione"
+	},
+	"Rename_Board": {
+		"message": "Rinomina il pannello"
+	},
+	"Rename": {
+		"message": "Rinomina"
+	},
+	"Close_Board_question_mark": {
+		"message": "Chiudere il pannello?"
+	},
+	"You_can_re_open_the_board_by_clicking_the___Boards___menu_from_the_header_": {
+		"message": "Puoi riaprire il pannello cliccando il menu \"Pannelli\" nella parte superiore, selezionando \"Visualizza i pannelli chiusi\", trovando il pannello e cliccando \"Riapri\""
+	},
 	"Close": {
 		"message": "Chiudi"
 	},
 	"Click_here_to_re_open_it_": {
-		"message": "Click per riaprire"
+		"message": "Clicca qui per riaprire."
 	},
 	"is_closed_": {
 		"message": "è chiuso"
 	},
 	"Create_Organization": {
-		"message": "Creare una Organizzazione"
+		"message": "Creare una organizzazione"
 	},
 	"An_organization_is_a_group_of_boards_and_members_": {
-		"message": "Una Organizzazione è un grupo di schede e di utenti"
+		"message": "Una organizzazione è un grupo di pannelli e di membri."
 	},
 	"Name": {
 		"message": "Nome"
 	},
 	"Description": {
-		"message": "Decrizzione"
+		"message": "Descrizione"
 	},
 	"Add_an_Organization": {
-		"message": "Aggiungere una Organizazzione"
+		"message": "Aggiungi una organizazzione"
 	},
 	"Create_an_Organization": {
-		"message": "Creare una organizzazione"
+		"message": "Crea una organizzazione"
+	},
+	"An_organizations_is_a_collection_of_members_and_boards_": {
+		"message": "Una organizzazione è una raccolta di membri e pannelli. Semplifica la condivisione e il lavoro all'interno di un gruppo."
 	},
 	"What_are_you_organizing_": {
-		"message": "Cosà sta organizzando?"
+		"message": "Cosa stai organizzando?"
 	},
 	"What_are_you_planning_": {
-		"message": "Cosà prevede?"
+		"message": "Cosa stai pianificando?"
 	},
 	"Like__Vacation_Planning__for_example_": {
-		"message": "Come \"Previsione di Vacanze"
+		"message": "Ad esempio \"Pianificazione della vacanza\"..."
 	},
 	"Like__House_Stuff__for_example_": {
-		"message": "Come \"Cose di Casa\" per esempio..."
+		"message": "Ad esempio \"Cose per la casa\"..."
+	},
+	"Like__Bucket_List__for_example_": {
+		"message": "Ad esempio \"Cose da fare prima di morire\"..."
+	},
+	"Like__Game_Development_Roadmap__": {
+		"message": "Ad esempio \"Tabella di marcia per lo sviluppo di un gioco\"..."
+	},
+	"Like__Calvinball_Meetup_Schedule__": {
+		"message": "Ad esempio \"Agenda per l'incontro di calcetto\"..."
+	},
+	"Like__Weekly_Meal_Planning__for_example_": {
+		"message": "Ad esempio \"Pianificazione pranzo domenicale\"..."
+	},
+	"Like__School_Research__for_example_": {
+		"message": "Ad esempio \"Ricerca scolastica\"..."
+	},
+	"Like__Team_Product_Sprint__for_example_": {
+		"message": "Ad esempio \"Squadra prodotto Sprint\"..."
+	},
+	"Like__Publishing_Calendar__for_example_": {
+		"message": "Ad esempio \"Pubblicazione calendario\"..."
+	},
+	"Like__New_Hire_Onboarding__for_example_": {
+		"message": "Ad esempio \"Guida accoglienza neo-assunti\"..."
+	},
+	"Like__Reading_Collection__for_example_": {
+		"message": "Ad esempio \"Collezione di pubblicazioni\"..."
+	},
+	"Create_new_board_": {
+		"message": "Crea nuovo pannello..."
+	},
+	"Create_Board": {
+		"message": "Crea pannello"
+	},
+	"Title": {
+		"message": "Titolo"
+	},
+	"Organization": {
+		"message": "Organizzazione"
+	},
+	"Create": {
+		"message": "Crea"
+	},
+	"This_board_will_be": {
+		"message": "Questo pannello sarà"
+	},
+	"private": {
+		"message": "privato"
+	},
+	"Change_": {
+		"message": "Cambia."
+	},
+	"Private": {
+		"message": "Privato"
+	},
+	"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_": {
+		"message": "Questo pannello è visibile ai membri dell'organizzazione. Solo le persone aggiunte al pannello possono modificare."
+	},
+	"This_board_is_private___Only_people_added_to_the_board_can_view_and_edit_it_": {
+		"message": "Questo pannello è privato. Solo le persone aggiunte al pannello possono visualizzarlo e modificarlo."
+	},
+	"The_board_must_be_added_to_an_org_to_enable_this_": {
+		"message": "Il pannello dev'essere aggiunto ad un'organizzazione per abilitare questo."
 	},
 	"Today": {
 		"message": "Oggi"
@@ -48,25 +171,25 @@
 		"message": "Mese"
 	},
 	"Sun": {
-		"message": "Lun"
+		"message": "Dom"
 	},
 	"Mon": {
-		"message": "Mar"
+		"message": "Lun"
 	},
 	"Tue": {
-		"message": "Mer"
+		"message": "Mar"
 	},
 	"Wed": {
-		"message": "Gio"
+		"message": "Mer"
 	},
 	"Thu": {
-		"message": "Ven"
+		"message": "Gio"
 	},
 	"Fri": {
-		"message": "Sab"
+		"message": "Ven"
 	},
 	"Sat": {
-		"message": "Dom"
+		"message": "Sab"
 	},
 	"January": {
 		"message": "Gennaio"
@@ -150,7 +273,7 @@
 		"message": "Nessun risultato."
 	},
 	"Refine_your_search_with_operators_like__member___label__is_archived__and_has_attachments_": {
-		"message": "Raffina la tua ricerca usando ad esempio @utente, #etichetta, is:archiviato, e has:allegato."
+		"message": "Raffina la tua ricerca usando ad esempio @membro, #etichetta, is:archived, e has:attachments."
 	},
 	"Learn_more_": {
 		"message": "Scopri di più…"
@@ -159,19 +282,19 @@
 		"message": "Schede"
 	},
 	"Loading_": {
-		"message": "Carico…"
+		"message": "Caricamento…"
 	},
 	"Show_more_boards_": {
-		"message": "Mostrami altre schede…"
+		"message": "Mostra altri pannelli…"
 	},
 	"Show_more_members_": {
-		"message": "Mostrami altri utenti…"
+		"message": "Mostra altri utenti…"
 	},
 	"Organizations": {
 		"message": "Organizzazioni"
 	},
 	"Show_more_organizations_": {
-		"message": "Mostrami altre organizzazioni…"
+		"message": "Mostra altre organizzazioni…"
 	},
 	"Back_to_Saved_Searches": {
 		"message": "Torna alle ricerche salvate"
@@ -186,31 +309,31 @@
 		"message": "Includi solo le schede che hanno adesivi."
 	},
 	"Starred_Boards": {
-		"message": "Tavole Preferite"
+		"message": "Pannelli preferiti"
 	},
 	"My_Boards": {
-		"message": "Mie Tavole"
+		"message": "Miei pannelli"
 	},
 	"Overview": {
 		"message": "Panoramica"
 	},
 	"Recent_Boards": {
-		"message": "Tavole recenti"
+		"message": "Pannelli recenti"
 	},
 	"Always_keep_this_menu_open_": {
-		"message": "Tieni sempre aperto questo menu'."
+		"message": "Tieni sempre aperto questo menu."
 	},
 	"Don_t_keep_this_menu_open_": {
-		"message": "Non tenere questo menu' aperto."
+		"message": "Non tenere questo menu aperto."
 	},
 	"See_closed_boards_": {
-		"message": "Guarda le tavole chiuse…"
+		"message": "Guarda i pannelli chiusi…"
 	},
 	"Find_boards_by_name_": {
-		"message": "Trova tavole dal nome…"
+		"message": "Trova i pannelli per nome…"
 	},
 	"There_is_new_activity_on_this_board_": {
-		"message": "Ci sono nuove attivita' su questa tavola."
+		"message": "Ci sono nuove attività su questo pannello."
 	},
 	"Collapse_section_": {
 		"message": "Nascondi sezione."
@@ -219,31 +342,34 @@
 		"message": "Mostra sezione."
 	},
 	"Closed_Boards": {
-		"message": "Chiudi le Tavole"
+		"message": "Chiudi i pannelli"
 	},
 	"Re_open": {
-		"message": "Ri-apri"
+		"message": "Riapri"
 	},
 	"You_have_to_have_been_a_board_admin_to_re_open_a_closed_board_": {
-		"message": "Devi essere un Amministratore per ri-aprire una tavola chiusa"
+		"message": "Devi essere un amministratore per ri-aprire un pannello chiuso"
+	},
+	"Close_this_dialog_window_": {
+		"message": "Chiudi la finestra di dialogo."
 	},
 	"No_Boards_Found": {
-		"message": "Nessuna Tavola trovata"
+		"message": "Nessun pannello trovato"
 	},
 	"Boards": {
-		"message": "Tavola"
+		"message": "Pannelli"
 	},
 	"Public": {
 		"message": "Pubblico"
 	},
 	"Add_a_list_": {
-		"message": "Aggiungi a un elenco…"
+		"message": "Aggiungi un elenco…"
 	},
 	"Calendar": {
 		"message": "Calendario"
 	},
 	"Subscribed": {
-		"message": "Iscriviti"
+		"message": "Iscritto"
 	},
 	"Filtering_is_on_": {
 		"message": "Filtro attivato"
@@ -257,32 +383,35 @@
 	"Notifications": {
 		"message": "Notifiche"
 	},
+	"This_board_is_public__It_s_visible_to_anyone_with_the_link_": {
+		"message": "Questo pannello è pubblico. E' visibile a chiunque possieda il link e comparirà sui motori di ricerca come Google. Solo le persone aggiunte al pannello possono fare modifiche."
+	},
 	"Go_back_to_your_boards_page_": {
-		"message": "Torna alla pagina delle Tavole."
+		"message": "Torna alla pagina dei pannelli."
 	},
 	"View_list_of_boards": {
-		"message": "Vedi la lista delle tavole"
+		"message": "Vedi la lista dei pannelli"
 	},
 	"Rename_the_board_": {
-		"message": "Rinomina la tavola"
+		"message": "Rinomina il pannello"
 	},
 	"You_are_filtering_cards_on_this_board__Click_here_to_edit_filter_": {
-		"message": "Stai filtrando le schede su questa tavola. Clicca qui per cambiare i filtri."
+		"message": "Stai filtrando le schede su questo pannello. Clicca qui per modificare i filtri."
 	},
 	"You_are_subscribed_to_this_board__You_ll_get_notifications_about_changes_": {
-		"message": "Sei iscritto a questa tavola. Riceverai delle notifiche sui cambiamenti."
+		"message": "Sei iscritto a questo pannello. Riceverai le notifiche sui cambiamenti."
 	},
 	"Click_to_star_or_unstar_this_board__Starred_boards_show_up_at_the_top_of_your_boards_list_": {
-		"message": "Clicca per aggiungere o rimuovere ai Preferiti questa tavola. Le tavole preferite saranno in cima alla lista."
+		"message": "Clicca per aggiungere o rimuovere il pannello dai preferiti. I pannelli preferiti compaiono in cima alla lista."
 	},
 	"Close_the_board_sidebar_": {
 		"message": "Chiudi la barra laterale."
 	},
 	"Add_a_new_board_or_organization_": {
-		"message": "Aggiungi una nuova tavola o un'organizzazione."
+		"message": "Aggiungi un nuovo pannello o un'organizzazione."
 	},
 	"You_are_seeing_an_early__experimental_version_of_Trello__We_would_love_your_feedback_": {
-		"message": "Stai usando una prima versione, sperimentale di Trello.Noi amiamo ricevere i vostri feedback!."
+		"message": "Stai usando una prima versione, sperimentale di Trello. Ameremmo ricevere i vostri commenti!."
 	},
 	"Get_access_to_your_profile__help__and_log_out_": {
 		"message": "Accedi al tuo profilo, alla guida o esci."
@@ -291,25 +420,25 @@
 		"message": "Questo membro ha la versione Trello Gold."
 	},
 	"Click_to_star_this_board__It_will_show_up_at_top_of_your_boards_list_": {
-		"message": "Clicca per mettere la Stella a questa tavola.Sarà sempre in cima alla lista."
+		"message": "Clicca per mettere questo pannello tra i preferiti.Sarà sempre in cima alla lista."
 	},
 	"Search_for_boards__cards__members__and_organizations_": {
-		"message": "Cerca per tavole, schede, utenti, e organizzazioni."
+		"message": "Cerca pannelli, schede, utenti, ed organizzazioni."
 	},
 	"Menu": {
 		"message": "Menu"
 	},
 	"Add_Members": {
-		"message": "Aggiungi Utenti"
+		"message": "Aggiungi membri"
 	},
 	"Members": {
-		"message": "Utenti"
+		"message": "Membri"
 	},
 	"Activity": {
 		"message": "Attivita'"
 	},
 	"Click_here_to_see_more_board_options_": {
-		"message": "Clicca qui per vedere maggiori opzioni sulla tavola."
+		"message": "Clicca qui per vedere maggiori opzioni del pannello."
 	},
 	"Power_Ups": {
 		"message": "Funzioni Speciali"
@@ -321,16 +450,16 @@
 		"message": "Filtra le schede"
 	},
 	"Archived_Items": {
-		"message": "Elementi Archiviati"
+		"message": "Elementi archiviati"
 	},
 	"Change_Background_": {
 		"message": "Cambia sfondo…"
 	},
 	"Email_to_board_Settings_": {
-		"message": "Impostazioni invia-via-Email…"
+		"message": "Impostazioni Email al pannello…"
 	},
 	"Copy_Board_": {
-		"message": "Copia Tavola…"
+		"message": "Copia pannello…"
 	},
 	"Share__Print__and_Export_": {
 		"message": "Condividi, Stampa, Esporta…"
@@ -339,13 +468,13 @@
 		"message": "Ulteriori Impostazioni..."
 	},
 	"Close_Board_": {
-		"message": "Chiudi Schede..."
+		"message": "Chiudi il pannello..."
 	},
 	"Leave_Board_": {
-		"message": "Abbandona Tavola…"
+		"message": "Abbandona il pannello…"
 	},
 	"List_Actions": {
-		"message": "Elenco Attivita'"
+		"message": "Azioni sull'Elenco"
 	},
 	"Add_Card_": {
 		"message": "Aggiungi Scheda…"
@@ -369,16 +498,16 @@
 		"message": "Archivia questo elenco"
 	},
 	"Edit_Labels": {
-		"message": "Modifica Etichetta"
+		"message": "Modifica Etichette"
 	},
 	"Change_Members": {
-		"message": "Cambia Utenti"
+		"message": "Cambia Membri"
 	},
 	"Copy": {
 		"message": "Copia"
 	},
 	"Change_Due_Date": {
-		"message": "Cambia Data di Scadenza"
+		"message": "Cambia data di scadenza"
 	},
 	"Archive": {
 		"message": "Archivia"
@@ -386,8 +515,14 @@
 	"Add": {
 		"message": "Aggiungi"
 	},
+	"Change_Notification_Email_Frequency": {
+		"message": "Modifica la frequenza delle notifiche tramite Email"
+	},
+	"See_All_Notifications": {
+		"message": "Guarda tutte le notifiche"
+	},
 	"added": {
-		"message": "aggiungi"
+		"message": "aggiunto"
 	},
 	"to": {
 		"message": "a"
@@ -399,7 +534,7 @@
 		"message": "si è unito"
 	},
 	"moved": {
-		"message": "ha spostato"
+		"message": "spostato"
 	},
 	"from": {
 		"message": "da"
@@ -411,7 +546,7 @@
 		"message": "rinominato"
 	},
 	"this_board": {
-		"message": "questa tavola"
+		"message": "questo pannello"
 	},
 	"attached": {
 		"message": "allegato"
@@ -420,13 +555,22 @@
 		"message": "spedito"
 	},
 	"to_the_board": {
-		"message": "verso la tavola"
+		"message": "verso il pannello"
+	},
+	"This_card_is_past_due_": {
+		"message": "Questa scheda è scaduta."
+	},
+	"You_are_subscribed_to_this_card_": {
+		"message": "Sei iscritto a questa scheda."
 	},
 	"Edit_the_description_": {
 		"message": "Modifica la descrizione…"
 	},
 	"Write_a_comment_": {
 		"message": "Scrivi un commento…"
+	},
+	"Formatting_help": {
+		"message": "Aiuto alla formattazione"
 	},
 	"Save": {
 		"message": "Salva"
@@ -438,7 +582,10 @@
 		"message": "Etichette"
 	},
 	"Checklist": {
-		"message": "Check list"
+		"message": "Lista di controllo"
+	},
+	"Due_date": {
+		"message": "Data scadenza"
 	},
 	"Attachment": {
 		"message": "Allegato"
@@ -453,40 +600,43 @@
 		"message": "Condividi e altro…"
 	},
 	"Send_to_board": {
-		"message": "Invia alla tavola"
+		"message": "Invia al pannello"
 	},
 	"Drop_files_to_upload_": {
-		"message": "Trascina i files per l'upload."
+		"message": "Trascina i files per caricarli."
 	},
 	"Add_or_remove_members_of_the_board_from_the_card_": {
-		"message": "Aggiungi o rimuovi utenti alla tavola dalla scheda."
+		"message": "Aggiungi o rimuovi membri del pannello dalla scheda."
 	},
 	"Change_the_labels_for_the_card_": {
 		"message": "Cambia l'etichetta per la scheda."
 	},
 	"Add_a_checklist_and_divide_the_card_into_subtasks_": {
-		"message": "Aggiungi la checklist e dividi la scheda in sotto-compiti."
+		"message": "Aggiungi una lista di controllo e dividi la scheda in sotto-compiti."
 	},
 	"Add_a_due_date_for_the_card_and_get_notifications_when_it_is_almost_due_": {
 		"message": "Aggiungi una data di scadenza per la scheda e ricevi le notifiche quando si avvicina la scadenza."
 	},
+	"Attach_files_from_your_computer_or_from_Google_Drive_": {
+		"message": "Allega file dal tuo computer o da Google Drive. Puoi anche trascinare i file dal desktop per caricarli."
+	},
 	"Move_the_card_to_another_board__another_list__or_a_new_position_in_a_list": {
-		"message": "Sposta la scheda su un'altra Tavola, un altro elenco, o una nuova posizione sull'elenco"
+		"message": "Sposta la scheda su un altro pannello, un altro elenco, o una nuova posizione nell'elenco"
 	},
 	"Make_a_copy_of_this_card__optionally_include_checklist__labels__members__attachments__etc_": {
-		"message": "Fai una copia di questa scheda, puoi includere la checklist, le etichette, gli utenti, gli allegati, ecc."
+		"message": "Fai una copia di questa scheda, puoi includere le liste di controllo, le etichette, i membri, gli allegati, ecc."
 	},
 	"Subscribe_to_the_card_to_get_notifications_when_something_changes_": {
 		"message": "Iscriviti alla scheda e ricevi le notifiche quando ci sono cambiamenti."
 	},
 	"Remove_the_card_from_the_board_": {
-		"message": "Rimuovi la scheda dalla tavola."
+		"message": "Rimuovi la scheda dal pannello."
 	},
 	"Send_the_card_back_to_the_board_": {
-		"message": "Invia la scheda alla tavola."
+		"message": "Rimetti la scheda sul pannello."
 	},
 	"Delete_the_card_and_all_history_associated_with_it__It_can_t_be_retrieved_": {
-		"message": "Cancella la scheda e tutta la cronologia relativa. Puo' essere comunque recuperata."
+		"message": "Cancella la scheda e tutta la cronologia relativa. Non potrà più essere recuperata."
 	},
 	"More_options_share__print__export__and_delete_": {
 		"message": "Altre opzioni: condividi, stampa, esporta, e cancella."

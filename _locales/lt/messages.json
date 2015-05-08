@@ -1,0 +1,647 @@
+{
+	"New_Organization_": {
+		"message": "Nauja organizacija..."
+	},
+	"New_Board_": {
+		"message": "Nauja lenta..."
+	},
+	"A_board_is_a_collection_of_cards_ordered_in_a_list_of_lists__": {
+		"message": "Lenta yra surūšiuotų kortelių rinkinys. Jo pagalba galima valdyti projektus, stebėti rinkinius ar viską organizuoti."
+	},
+	"An_organization_is_a_group_of_boards_and_people__": {
+		"message": "Organizacija yra lentų ir žmonių grupė. Jos pagalba galima sugrupuoti kompaniją, komandą ar šeimą."
+	},
+	"Reload_page": {
+		"message": "Atnaujinti lapą"
+	},
+	"Could_not_connect_to_Trello_": {
+		"message": "Nepavyko prisijungti prie Trello."
+	},
+	"Page_not_found_": {
+		"message": "Lapas nerastas."
+	},
+	"This_page_may_be_private__If_someone_gave_you_this_link__": {
+		"message": "Šis lapas gali būti privatus. Jei kas nors davė jums šią nuorodą, jie turėtų jus pakviesti į vieną iš jų lentų ar organizacijų."
+	},
+	"View_all_activity_": {
+		"message": "Rodyti visą veiklą..."
+	},
+	"Board_Activity": {
+		"message": "Lentos veikla"
+	},
+	"Load_More_Activity": {
+		"message": "Įkelti daugiau įrašų"
+	},
+	"Change_Organization": {
+		"message": "Keisti organizaciją"
+	},
+	"Change": {
+		"message": "Keisti"
+	},
+	"Change_Organization_": {
+		"message": "Keisti organizaciją..."
+	},
+	"View_Organization_Page": {
+		"message": "Rodyti organizacijos lapą"
+	},
+	"Rename_Board": {
+		"message": "Pervadinti lentą"
+	},
+	"Rename": {
+		"message": "Pervadinti"
+	},
+	"Close_Board_question_mark": {
+		"message": "Uždaryti lentą?"
+	},
+	"You_can_re_open_the_board_by_clicking_the___Boards___menu_from_the_header_": {
+		"message": "Jūs galite iš naujo atidaryti lentą paspausdami meniu \"Lentos\" antraštėje, pasirinkti \"Rodyti uždarytas lentas\" ir suradę lentą paspausti \"Atidaryti iš naujo\"."
+	},
+	"Close": {
+		"message": "Uždaryti"
+	},
+	"Click_here_to_re_open_it_": {
+		"message": "Paspauskite čia, norėdami atidaryti iš naujo."
+	},
+	"is_closed_": {
+		"message": "uždaryta."
+	},
+	"Create_Organization": {
+		"message": "Sukurti organizaciją"
+	},
+	"An_organization_is_a_group_of_boards_and_members_": {
+		"message": "Organizacija yra lentų ar narių grupė."
+	},
+	"Name": {
+		"message": "Pavadinimas"
+	},
+	"Description": {
+		"message": "Aprašymas"
+	},
+	"Add_an_Organization": {
+		"message": "Pridėti organizaciją"
+	},
+	"Create_an_Organization": {
+		"message": "Sukurti organizaciją"
+	},
+	"An_organizations_is_a_collection_of_members_and_boards_": {
+		"message": "Organizacija yra narių ar lentų rinkinys. Tai leidžia lengviau dalintis ir dirbti grupėje."
+	},
+	"What_are_you_organizing_": {
+		"message": "Ką jūs rengiate?"
+	},
+	"What_are_you_planning_": {
+		"message": "Ką jūs planuojate?"
+	},
+	"Like__Vacation_Planning__for_example_": {
+		"message": "Kas nors panašaus į \"Atostogų planas\"..."
+	},
+	"Like__House_Stuff__for_example_": {
+		"message": "Kas nors panašaus į \"Namų rakandai\"..."
+	},
+	"Like__Bucket_List__for_example_": {
+		"message": "Kažkas panašaus į \"Norų sąrašas\"..."
+	},
+	"Like__Game_Development_Roadmap__": {
+		"message": "Kažkas panašaus į \"Žaidimo kūrimo gairės\"..."
+	},
+	"Like__Calvinball_Meetup_Schedule__": {
+		"message": "Kažkas panašaus į \"Susirinkimo tvarkaraštis\"..."
+	},
+	"Like__Weekly_Meal_Planning__for_example_": {
+		"message": "Kaip pavyzdys \"Savaitinis maitinimo planavimas\"..."
+	},
+	"Like__School_Research__for_example_": {
+		"message": "Kaip pavyzdys \"Mokyklos tyrimas\"..."
+	},
+	"Like__Team_Product_Sprint__for_example_": {
+		"message": "Kaip pavyzdys \"Produkto išleidimas\"..."
+	},
+	"Like__Publishing_Calendar__for_example_": {
+		"message": "Kaip pavyzdys \"Kalendoriaus leidyba\"..."
+	},
+	"Like__New_Hire_Onboarding__for_example_": {
+		"message": "Kaip pavyzdys \"Darbo susitikimai\"..."
+	},
+	"Like__Reading_Collection__for_example_": {
+		"message": "Kaip pavyzdys \"Knygų kolekcija\"..."
+	},
+	"Create_new_board_": {
+		"message": "Sukurti naują lentą..."
+	},
+	"Create_Board": {
+		"message": "Sukurti lentą"
+	},
+	"Title": {
+		"message": "Pavadinimas"
+	},
+	"Organization": {
+		"message": "Organizacija"
+	},
+	"Create": {
+		"message": "Sukurti"
+	},
+	"This_board_will_be": {
+		"message": "Ši lenta bus"
+	},
+	"private": {
+		"message": "privati"
+	},
+	"Change_": {
+		"message": "Keisti."
+	},
+	"Private": {
+		"message": "Privati"
+	},
+	"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_": {
+		"message": "Ši lenta yra matoma organizacijos nariams. Tik įtraukti žmonės gali ją keisti."
+	},
+	"This_board_is_private___Only_people_added_to_the_board_can_view_and_edit_it_": {
+		"message": "Ši lenta yra privati. Tik įtraukti žmonės gali ją keisti."
+	},
+	"The_board_must_be_added_to_an_org_to_enable_this_": {
+		"message": "Lenta turi būti įtraukta į organizaciją, norint ją aktyvuoti."
+	},
+	"Today": {
+		"message": "Šiandien"
+	},
+	"Week": {
+		"message": "Savaitė"
+	},
+	"Month": {
+		"message": "Mėnuo"
+	},
+	"Sun": {
+		"message": "Sek"
+	},
+	"Mon": {
+		"message": "Pir"
+	},
+	"Tue": {
+		"message": "Ant"
+	},
+	"Wed": {
+		"message": "Tre"
+	},
+	"Thu": {
+		"message": "Ket"
+	},
+	"Fri": {
+		"message": "Pen"
+	},
+	"Sat": {
+		"message": "Šeš"
+	},
+	"January": {
+		"message": "Sausis"
+	},
+	"February": {
+		"message": "Vasaris"
+	},
+	"March": {
+		"message": "Kovas"
+	},
+	"April": {
+		"message": "Balandis"
+	},
+	"June": {
+		"message": "Birželis"
+	},
+	"July": {
+		"message": "Liepa"
+	},
+	"August": {
+		"message": "Rugpjūtis"
+	},
+	"September": {
+		"message": "Rugsėjis"
+	},
+	"October": {
+		"message": "Spalis"
+	},
+	"November": {
+		"message": "Lapkritis"
+	},
+	"December": {
+		"message": "Gruodis"
+	},
+	"Jan": {
+		"message": "Sau"
+	},
+	"Feb": {
+		"message": "Vas"
+	},
+	"Mar": {
+		"message": "Kov"
+	},
+	"Apr": {
+		"message": "Bal"
+	},
+	"May": {
+		"message": "Geg"
+	},
+	"Jun": {
+		"message": "Bir"
+	},
+	"Jul": {
+		"message": "Lie"
+	},
+	"Aug": {
+		"message": "Rugp"
+	},
+	"Sep": {
+		"message": "Rugs"
+	},
+	"Oct": {
+		"message": "Spa"
+	},
+	"Nov": {
+		"message": "Lap"
+	},
+	"Dec": {
+		"message": "Gru"
+	},
+	"Saved_Searches": {
+		"message": "Išsaugotos paieškos"
+	},
+	"Your_search_produced_an_error_": {
+		"message": "Jūsų paieška klaidinga."
+	},
+	"Searching_": {
+		"message": "Ieškoma..."
+	},
+	"No_results_": {
+		"message": "Be rezultatų."
+	},
+	"Refine_your_search_with_operators_like__member___label__is_archived__and_has_attachments_": {
+		"message": "Papildykite paiešką tokiais valdikliais kaip @narys, #etiketė, yra:archyvuota ir turi:prisegtukus."
+	},
+	"Learn_more_": {
+		"message": "Sužinoti daugiau..."
+	},
+	"Cards": {
+		"message": "Kortelės"
+	},
+	"Loading_": {
+		"message": "Įkeliama..."
+	},
+	"Show_more_boards_": {
+		"message": "Rodyti daugiau lentų..."
+	},
+	"Show_more_members_": {
+		"message": "Rodyti daugiau narių..."
+	},
+	"Organizations": {
+		"message": "Organizacijos"
+	},
+	"Show_more_organizations_": {
+		"message": "Rodyti daugiau organizacijų..."
+	},
+	"Back_to_Saved_Searches": {
+		"message": "Atgal į išsaugotas paieškas"
+	},
+	"Save_this_Search": {
+		"message": "Išsaugoti šią paiešką"
+	},
+	"Did_you_mean_": {
+		"message": "Turite minty..."
+	},
+	"Only_include_cards_that_have_stickers_": {
+		"message": "Įtraukti tik lentas su lipdukais."
+	},
+	"Starred_Boards": {
+		"message": "Išskirtos lentos"
+	},
+	"My_Boards": {
+		"message": "Mano lentos"
+	},
+	"Overview": {
+		"message": "Apžvalga"
+	},
+	"Recent_Boards": {
+		"message": "Paskutinės lentos"
+	},
+	"Always_keep_this_menu_open_": {
+		"message": "Visada rodyti šį meniu atidarytą."
+	},
+	"Don_t_keep_this_menu_open_": {
+		"message": "Nerodyti šio menių atidaryto."
+	},
+	"See_closed_boards_": {
+		"message": "Rodyti uždarytas lentas..."
+	},
+	"Find_boards_by_name_": {
+		"message": "Rasti lentą pagal pavadinimą..."
+	},
+	"There_is_new_activity_on_this_board_": {
+		"message": "Šioje lentoje buvo atlikti veiksmai."
+	},
+	"Collapse_section_": {
+		"message": "Suskleisti skyrių."
+	},
+	"Expand_section_": {
+		"message": "Išskleisti skyrių."
+	},
+	"Closed_Boards": {
+		"message": "Uždarytos lentos"
+	},
+	"Re_open": {
+		"message": "Atidaryti iš naujo"
+	},
+	"You_have_to_have_been_a_board_admin_to_re_open_a_closed_board_": {
+		"message": "Jūs turi būti lentos administratorius kad ją atidarytumėte iš naujo."
+	},
+	"Close_this_dialog_window_": {
+		"message": "Uždaryti dialoginį langą."
+	},
+	"No_Boards_Found": {
+		"message": "Jokių lentų nerasta"
+	},
+	"Boards": {
+		"message": "Lentos"
+	},
+	"Public": {
+		"message": "Vieša"
+	},
+	"Add_a_list_": {
+		"message": "Pridėti sąrašą..."
+	},
+	"Calendar": {
+		"message": "Kalendorius"
+	},
+	"Subscribed": {
+		"message": "Prenumeruotas"
+	},
+	"Filtering_is_on_": {
+		"message": "Filtravimas įjungtas."
+	},
+	"Show_sidebar": {
+		"message": "Rodyti šoninę juostą"
+	},
+	"Add_a_card_": {
+		"message": "Pridėti kortelę..."
+	},
+	"Notifications": {
+		"message": "Pranešimai"
+	},
+	"This_board_is_public__It_s_visible_to_anyone_with_the_link_": {
+		"message": "Ši lenta yra vieša. Ji matoma visų per nuorodą ir bus parodyta paieškų portaluose, tokiuose kaip Google. Tik įtraukti į lentą žmonės gali ją keisti."
+	},
+	"Go_back_to_your_boards_page_": {
+		"message": "Grįžti į savo lentų lapą."
+	},
+	"View_list_of_boards": {
+		"message": "Rodyti lentų sąrašą"
+	},
+	"Rename_the_board_": {
+		"message": "Pervadinti lentą."
+	},
+	"You_are_filtering_cards_on_this_board__Click_here_to_edit_filter_": {
+		"message": "Jūs filtruojate korteles šioje lentoje. Spauskite čia norėdami keisti filtro nustatymus."
+	},
+	"You_are_subscribed_to_this_board__You_ll_get_notifications_about_changes_": {
+		"message": "Jūs prenumeruojate šią lentą. Jūs gausite pranešimus apie pasikeitimus."
+	},
+	"Click_to_star_or_unstar_this_board__Starred_boards_show_up_at_the_top_of_your_boards_list_": {
+		"message": "Paspauskite norėdami išskirti lentą. Išskirtos lentos rodomos lentų sąrašo viršuje."
+	},
+	"Close_the_board_sidebar_": {
+		"message": "Uždaryti lentos šoninę juostą."
+	},
+	"Add_a_new_board_or_organization_": {
+		"message": "Įtraukti naują lentą į organizaciją."
+	},
+	"You_are_seeing_an_early__experimental_version_of_Trello__We_would_love_your_feedback_": {
+		"message": "Jūs matotte ankstyvą, eksperimentinę Trello versiją. Tikimės jūsų atsiliepimų!"
+	},
+	"Get_access_to_your_profile__help__and_log_out_": {
+		"message": "Gauti prieigą prie profilio, pagalbos ir išsiregistravimo."
+	},
+	"This_member_has_Trello_Gold_": {
+		"message": "Šis narys turi Trello aukso."
+	},
+	"Click_to_star_this_board__It_will_show_up_at_top_of_your_boards_list_": {
+		"message": "Paspauskite norėdami išskirti lentą. Ji bus rodoma lentų sąrašo viršuje."
+	},
+	"Search_for_boards__cards__members__and_organizations_": {
+		"message": "Ieškoti lentų, kortelių, narių ir organizacijų."
+	},
+	"Menu": {
+		"message": "Meniu"
+	},
+	"Add_Members": {
+		"message": "Pridėti narį"
+	},
+	"Members": {
+		"message": "Nariai"
+	},
+	"Activity": {
+		"message": "Veikla"
+	},
+	"Click_here_to_see_more_board_options_": {
+		"message": "Spauskite čia norėdami pamatyti daugiau lentos parinkčių."
+	},
+	"Power_Ups": {
+		"message": "Papildiniai"
+	},
+	"Stickers": {
+		"message": "Lipdukai"
+	},
+	"Filter_Cards": {
+		"message": "Filtruoti korteles"
+	},
+	"Archived_Items": {
+		"message": "Archyvuota"
+	},
+	"Change_Background_": {
+		"message": "Keisti foną..."
+	},
+	"Email_to_board_Settings_": {
+		"message": "Lentos el. pašto nustatymai"
+	},
+	"Copy_Board_": {
+		"message": "Kopijuoti lentą..."
+	},
+	"Share__Print__and_Export_": {
+		"message": "Dalintis, spausdinti ir eksportuoti..."
+	},
+	"Additional_Settings_": {
+		"message": "Papildomi nustatymai..."
+	},
+	"Close_Board_": {
+		"message": "Uždaryti lentą..."
+	},
+	"Leave_Board_": {
+		"message": "Išeiti iš lentos..."
+	},
+	"List_Actions": {
+		"message": "Sąrašo veiksmai"
+	},
+	"Add_Card_": {
+		"message": "Pridėti kortelę..."
+	},
+	"Copy_List_": {
+		"message": "Kopijuoti sąrašą..."
+	},
+	"Move_List_": {
+		"message": "Perkelti sąrašą..."
+	},
+	"Subscribe": {
+		"message": "Prenumeruoti"
+	},
+	"Move_All_Cards_in_This_List_": {
+		"message": "Perkelti visas korteles į šį sąrašą..."
+	},
+	"Archive_All_Cards_in_This_List_": {
+		"message": "Archyvuoti visas korteles šiame sąraše..."
+	},
+	"Archive_This_List": {
+		"message": "Archyvuoti šį sąrašą"
+	},
+	"Edit_Labels": {
+		"message": "Keisti etiketes"
+	},
+	"Change_Members": {
+		"message": "Keisti narius"
+	},
+	"Copy": {
+		"message": "Kopijuoti"
+	},
+	"Change_Due_Date": {
+		"message": "Keisti datą iki"
+	},
+	"Archive": {
+		"message": "Archyvas"
+	},
+	"Add": {
+		"message": "Pridėti"
+	},
+	"Change_Notification_Email_Frequency": {
+		"message": "Keisti pranešimų el. pašto dažnumą"
+	},
+	"See_All_Notifications": {
+		"message": "Rodyti visus pranešimus"
+	},
+	"added": {
+		"message": "pridėta"
+	},
+	"to": {
+		"message": "iki"
+	},
+	"and": {
+		"message": "ir"
+	},
+	"joined": {
+		"message": "prisijungta"
+	},
+	"moved": {
+		"message": "perkelta"
+	},
+	"from": {
+		"message": "nuo"
+	},
+	"archived": {
+		"message": "arcgyvuota"
+	},
+	"renamed": {
+		"message": "pervadinta"
+	},
+	"this_board": {
+		"message": "šį lenta"
+	},
+	"attached": {
+		"message": "prikabinta"
+	},
+	"sent": {
+		"message": "išsiųsta"
+	},
+	"to_the_board": {
+		"message": "į lentą"
+	},
+	"This_card_is_past_due_": {
+		"message": "Ši kortelę nebegalioja."
+	},
+	"You_are_subscribed_to_this_card_": {
+		"message": "Jūs prenumeruojate šią kortelę."
+	},
+	"Edit_the_description_": {
+		"message": "Keisti aprašymą..."
+	},
+	"Write_a_comment_": {
+		"message": "Rašyti komentarą..."
+	},
+	"Formatting_help": {
+		"message": "Formatavimo pagalba"
+	},
+	"Save": {
+		"message": "Išsaugoti"
+	},
+	"Actions": {
+		"message": "Veiksmai"
+	},
+	"Labels": {
+		"message": "Etiketės"
+	},
+	"Checklist": {
+		"message": "Kontrolinis sąrašas"
+	},
+	"Due_date": {
+		"message": "Iki datos"
+	},
+	"Attachment": {
+		"message": "Prikabintukas"
+	},
+	"Move": {
+		"message": "Perkelti"
+	},
+	"Delete": {
+		"message": "Naikinti"
+	},
+	"Share_and_more_": {
+		"message": "Dalintis ir daugiau..."
+	},
+	"Send_to_board": {
+		"message": "Siųsti į lentą"
+	},
+	"Drop_files_to_upload_": {
+		"message": "Meskite failus norėdami įkelti."
+	},
+	"Add_or_remove_members_of_the_board_from_the_card_": {
+		"message": "Pridėti ir išimti lentos narius iš kortelės."
+	},
+	"Change_the_labels_for_the_card_": {
+		"message": "Keisti kortelės etiketes."
+	},
+	"Add_a_checklist_and_divide_the_card_into_subtasks_": {
+		"message": "Pridėti kontrolinį sąrašą ir padalinti kortelę į mažesnes užduotis."
+	},
+	"Add_a_due_date_for_the_card_and_get_notifications_when_it_is_almost_due_": {
+		"message": "Pridėti kortelei galiojimo datą ir pranešti kai ji baigsis."
+	},
+	"Attach_files_from_your_computer_or_from_Google_Drive_": {
+		"message": "Prikabinti failus iš kopiuterio ar Google Drive. Galite nutempti ir mesti failus iš darbalaukio norėdami juos įkelti."
+	},
+	"Move_the_card_to_another_board__another_list__or_a_new_position_in_a_list": {
+		"message": "Perkelti kortelę iš kitos lentos, kito sąrašo ar naujos sąrašo pozicijos"
+	},
+	"Make_a_copy_of_this_card__optionally_include_checklist__labels__members__attachments__etc_": {
+		"message": "Padaryti kortelės kopiją, papildomai įtraukiant kontrolinius sąrašus, etiketes, narius ir t.t."
+	},
+	"Subscribe_to_the_card_to_get_notifications_when_something_changes_": {
+		"message": "Prenumeruoti kortelę ir gauti pranešimus apie pakeitimus joje."
+	},
+	"Remove_the_card_from_the_board_": {
+		"message": "Pašalinti kortelę ir lentos."
+	},
+	"Send_the_card_back_to_the_board_": {
+		"message": "Siųsti kortelę atgal į lentą."
+	},
+	"Delete_the_card_and_all_history_associated_with_it__It_can_t_be_retrieved_": {
+		"message": "Naikinti kortelę ir visą jos istoriją. Nebus galima atstatyti."
+	},
+	"More_options_share__print__export__and_delete_": {
+		"message": "Daugiau pasirinkimų dalintis, spausdinti, eksportuoti ir naikinti."
+	},
+	"in_list": {
+		"message": "sąraše"
+	}
+}

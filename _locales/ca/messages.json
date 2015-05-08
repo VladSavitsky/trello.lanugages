@@ -1,0 +1,86 @@
+{
+	"New_Organization_": {
+		"message": "Nova organització..."
+	},
+	"New_Board_": {
+		"message": "Nou Tauler..."
+	},
+	"A_board_is_a_collection_of_cards_ordered_in_a_list_of_lists__": {
+		"message": "Un tauler es una col·lecció de fitxes ordenades en una llista amb diverses llistes. Utilitza-la per gestionar un projecte, controlar una col·lecció o organitzar quelcom."
+	},
+	"An_organization_is_a_group_of_boards_and_people__": {
+		"message": "Una organització es un conjunt de taulers i gent. Utilitza-la per agrupar taulers a la teva empresa, equip o família."
+	},
+	"Reload_page": {
+		"message": "Recarrega la pàgina"
+	},
+	"Could_not_connect_to_Trello_": {
+		"message": "No es pot connectar a Trello."
+	},
+	"Page_not_found_": {
+		"message": "Pàgina no trobada."
+	},
+	"This_page_may_be_private__If_someone_gave_you_this_link__": {
+		"message": "Aquesta pàgina pot ser privada. Si algú t'ha lliurat aquest enllaç, pot ser que necessiti invitar-te a un dels seus taulers o organitzacions."
+	},
+	"View_all_activity_": {
+		"message": "Veure tota l'activitat..."
+	},
+	"Board_Activity": {
+		"message": "Activitat al Tauler"
+	},
+	"Load_More_Activity": {
+		"message": "Carregar Més Activitat"
+	},
+	"Change_Organization": {
+		"message": "Canviar Organització"
+	},
+	"Change": {
+		"message": "Canviar"
+	},
+	"Change_Organization_": {
+		"message": "Canviar Organització..."
+	},
+	"View_Organization_Page": {
+		"message": "Veure Pàgina de la Organització"
+	},
+	"Rename_Board": {
+		"message": "Reanomenar Tauler"
+	},
+	"Rename": {
+		"message": "Reanomenar"
+	},
+	"Close_Board_question_mark": {
+		"message": "Tancar Tauler?"
+	},
+	"You_can_re_open_the_board_by_clicking_the___Boards___menu_from_the_header_": {
+		"message": "Pots reobrir el tauler fent clic al menú \"Taulers\" de la capçalera, seleccionant \"Veure Taulers Tancats\", buscant el tauler i fent clic a \"Reobrir\"."
+	},
+	"Close": {
+		"message": "Tancar"
+	},
+	"Click_here_to_re_open_it_": {
+		"message": "Fes clic aquí per reobrir-lo."
+	},
+	"is_closed_": {
+		"message": "està tancat."
+	},
+	"Create_Organization": {
+		"message": "Crear Organització."
+	},
+	"An_organization_is_a_group_of_boards_and_members_": {
+		"message": "Una organització es un conjunt de taulers i usuaris."
+	},
+	"Name": {
+		"message": "Nom"
+	},
+	"Description": {
+		"message": "Descripció"
+	},
+	"Add_an_Organization": {
+		"message": "Afegir una Organització"
+	},
+	"Create_an_Organization": {
+		"message": "Crear una Organització"
+	}
+}

@@ -1,0 +1,647 @@
+{
+	"New_Organization_": {
+		"message": "Nieuwe organisatie..."
+	},
+	"New_Board_": {
+		"message": "Nieuw board..."
+	},
+	"A_board_is_a_collection_of_cards_ordered_in_a_list_of_lists__": {
+		"message": "Een board is een verzameling van kaarten gesorteerd als een collectie van lijsten. Gebruik ze voor het beheren van een project, het bijhouden van een collectie of het organiseren van iets anders."
+	},
+	"An_organization_is_a_group_of_boards_and_people__": {
+		"message": "Een organisatie is een groep van boards en personen. Gebruik ze voor het groeperen van boards binnen jouw bedrijf, team of familie."
+	},
+	"Reload_page": {
+		"message": "Pagina opnieuw laden"
+	},
+	"Could_not_connect_to_Trello_": {
+		"message": "Kan geen verbinding maken met Trello."
+	},
+	"Page_not_found_": {
+		"message": "Pagina niet gevonden."
+	},
+	"This_page_may_be_private__If_someone_gave_you_this_link__": {
+		"message": "Deze pagina kan gemarkeerd zijn als privé. Indien iemand je deze link heeft gegeven, kan het nodig zijn dat je nog een uitnodiging moet ontvangen voor het board of organisatie."
+	},
+	"View_all_activity_": {
+		"message": "Bekijk alle activiteiten..."
+	},
+	"Board_Activity": {
+		"message": "Boardactiviteit"
+	},
+	"Load_More_Activity": {
+		"message": "Meer activiteiten laden"
+	},
+	"Change_Organization": {
+		"message": "Organisatie Aanpassen"
+	},
+	"Change": {
+		"message": "Aanpassen"
+	},
+	"Change_Organization_": {
+		"message": "Organisatie Aanpassen..."
+	},
+	"View_Organization_Page": {
+		"message": "Bekijk organisatiepagina"
+	},
+	"Rename_Board": {
+		"message": "Board hernoemen"
+	},
+	"Rename": {
+		"message": "Hernoemen"
+	},
+	"Close_Board_question_mark": {
+		"message": "Board sluiten?"
+	},
+	"You_can_re_open_the_board_by_clicking_the___Boards___menu_from_the_header_": {
+		"message": "Je kan een board heropenen vanaf het boardmenu in de header"
+	},
+	"Close": {
+		"message": "Sluiten"
+	},
+	"Click_here_to_re_open_it_": {
+		"message": "Klik hier om te heropenen."
+	},
+	"is_closed_": {
+		"message": "Gesloten."
+	},
+	"Create_Organization": {
+		"message": "Maak een nieuwe organisatie"
+	},
+	"An_organization_is_a_group_of_boards_and_members_": {
+		"message": "Een organisatie is een groep van"
+	},
+	"Name": {
+		"message": "Naam"
+	},
+	"Description": {
+		"message": "Omscrhijving"
+	},
+	"Add_an_Organization": {
+		"message": "Voeg een organisatie toe"
+	},
+	"Create_an_Organization": {
+		"message": "Maak een organisatie aan"
+	},
+	"An_organizations_is_a_collection_of_members_and_boards_": {
+		"message": "Een organisatie is een verzameling van leden en boards"
+	},
+	"What_are_you_organizing_": {
+		"message": "Wat ben je aan het organiseren?"
+	},
+	"What_are_you_planning_": {
+		"message": "Wat ben je aan het plannen?"
+	},
+	"Like__Vacation_Planning__for_example_": {
+		"message": "Zoals bijvoorbeeld \"Vakantie planning\""
+	},
+	"Like__House_Stuff__for_example_": {
+		"message": "Zoals bijvoorbeeld \"Huishouden\""
+	},
+	"Like__Bucket_List__for_example_": {
+		"message": "Zoals bijvoorbeeld \"Nog te doen lijstje\""
+	},
+	"Like__Game_Development_Roadmap__": {
+		"message": "Zoals bijvoorbeeld \"Spelontwikkeling\""
+	},
+	"Like__Calvinball_Meetup_Schedule__": {
+		"message": "Zoals bijvoorbeeld \"Meeting Calvinball agenda\""
+	},
+	"Like__Weekly_Meal_Planning__for_example_": {
+		"message": "Zoals bijvoorbeeld \"Wekelijks avondeten\""
+	},
+	"Like__School_Research__for_example_": {
+		"message": "Zoals bijvoorbeeld \"Schoolonderzoek\""
+	},
+	"Like__Team_Product_Sprint__for_example_": {
+		"message": "Zoals bijvoorbeeld \"Team product-sprint"
+	},
+	"Like__Publishing_Calendar__for_example_": {
+		"message": "Zoals \"Publiceer Agenda\""
+	},
+	"Like__New_Hire_Onboarding__for_example_": {
+		"message": "Zoals bijvoorbeeld \"Nieuwe Solicitaties\""
+	},
+	"Like__Reading_Collection__for_example_": {
+		"message": "Zoals bijvoorbeeld \"Gelezen boeken\""
+	},
+	"Create_new_board_": {
+		"message": "Maak een nieuw board"
+	},
+	"Create_Board": {
+		"message": "Maak een board"
+	},
+	"Title": {
+		"message": "Titel"
+	},
+	"Organization": {
+		"message": "Organisatie"
+	},
+	"Create": {
+		"message": "Maak"
+	},
+	"This_board_will_be": {
+		"message": "Dit board zal"
+	},
+	"private": {
+		"message": "privé"
+	},
+	"Change_": {
+		"message": "Wijzig"
+	},
+	"Private": {
+		"message": "Privé"
+	},
+	"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_": {
+		"message": "Dit board is alleen zichtbaar voor leden van de organisatie. Alleen toegevoegde personen kunnen wijzigingen doorvoeren."
+	},
+	"This_board_is_private___Only_people_added_to_the_board_can_view_and_edit_it_": {
+		"message": "Dit board is privé. Alleen toegevoegde personen kunnen de inhoud zien en wijzigingen doorvoeren\/"
+	},
+	"The_board_must_be_added_to_an_org_to_enable_this_": {
+		"message": "Het board moet toegevoegd worden aan een organisatie voordat het geactiveerd wordt."
+	},
+	"Today": {
+		"message": "Vandaag"
+	},
+	"Week": {
+		"message": "Week"
+	},
+	"Month": {
+		"message": "Maand"
+	},
+	"Sun": {
+		"message": "Zo"
+	},
+	"Mon": {
+		"message": "Ma"
+	},
+	"Tue": {
+		"message": "Di"
+	},
+	"Wed": {
+		"message": "Wo"
+	},
+	"Thu": {
+		"message": "Do"
+	},
+	"Fri": {
+		"message": "Vr"
+	},
+	"Sat": {
+		"message": "Za"
+	},
+	"January": {
+		"message": "januarie"
+	},
+	"February": {
+		"message": "februari"
+	},
+	"March": {
+		"message": "maart"
+	},
+	"April": {
+		"message": "april"
+	},
+	"June": {
+		"message": "juni"
+	},
+	"July": {
+		"message": "juli"
+	},
+	"August": {
+		"message": "augustus"
+	},
+	"September": {
+		"message": "september"
+	},
+	"October": {
+		"message": "oktober"
+	},
+	"November": {
+		"message": "november"
+	},
+	"December": {
+		"message": "december"
+	},
+	"Jan": {
+		"message": "jan"
+	},
+	"Feb": {
+		"message": "feb"
+	},
+	"Mar": {
+		"message": "mrt"
+	},
+	"Apr": {
+		"message": "apr"
+	},
+	"May": {
+		"message": "mei"
+	},
+	"Jun": {
+		"message": "jun"
+	},
+	"Jul": {
+		"message": "jul"
+	},
+	"Aug": {
+		"message": "aug"
+	},
+	"Sep": {
+		"message": "sept"
+	},
+	"Oct": {
+		"message": "okt"
+	},
+	"Nov": {
+		"message": "nov"
+	},
+	"Dec": {
+		"message": "dec"
+	},
+	"Saved_Searches": {
+		"message": "Opgeslagen zoekopdrachten"
+	},
+	"Your_search_produced_an_error_": {
+		"message": "Je zoekopdracht gaf een foutmelding"
+	},
+	"Searching_": {
+		"message": "Zoeken..."
+	},
+	"No_results_": {
+		"message": "Geen resultaten."
+	},
+	"Refine_your_search_with_operators_like__member___label__is_archived__and_has_attachments_": {
+		"message": "Verfijn je zoekopdracht zoals @lid, #label, is:archived en has:attachments."
+	},
+	"Learn_more_": {
+		"message": "Leer verder..."
+	},
+	"Cards": {
+		"message": "Kaarten"
+	},
+	"Loading_": {
+		"message": "Laden..."
+	},
+	"Show_more_boards_": {
+		"message": "Toon meer boards..."
+	},
+	"Show_more_members_": {
+		"message": "Toon meer leden"
+	},
+	"Organizations": {
+		"message": "Organisaties..."
+	},
+	"Show_more_organizations_": {
+		"message": "Toon meer organisaties..."
+	},
+	"Back_to_Saved_Searches": {
+		"message": "Terug naar opgeslagen zoekopdrachten"
+	},
+	"Save_this_Search": {
+		"message": "Sla deze zoekopdracht op"
+	},
+	"Did_you_mean_": {
+		"message": "Bedoelde je..."
+	},
+	"Only_include_cards_that_have_stickers_": {
+		"message": "Neem alleen kaarten welke stickers bevatten."
+	},
+	"Starred_Boards": {
+		"message": "Boards met ster"
+	},
+	"My_Boards": {
+		"message": "Mijn boards"
+	},
+	"Overview": {
+		"message": "Overzicht"
+	},
+	"Recent_Boards": {
+		"message": "Recente boards"
+	},
+	"Always_keep_this_menu_open_": {
+		"message": "Houd dit menu altijd open."
+	},
+	"Don_t_keep_this_menu_open_": {
+		"message": "Houd dit menu niet altijd open."
+	},
+	"See_closed_boards_": {
+		"message": "Toon gesloten boards..."
+	},
+	"Find_boards_by_name_": {
+		"message": "Vind boards op naam..."
+	},
+	"There_is_new_activity_on_this_board_": {
+		"message": "Er is nieuwe activiteit op dit board."
+	},
+	"Collapse_section_": {
+		"message": "Verberg deel"
+	},
+	"Expand_section_": {
+		"message": "Toon deel"
+	},
+	"Closed_Boards": {
+		"message": "Gesloten boards"
+	},
+	"Re_open": {
+		"message": "Heropen"
+	},
+	"You_have_to_have_been_a_board_admin_to_re_open_a_closed_board_": {
+		"message": "Je moet een admin van het board zijn geweest om het te kunnen heropenen."
+	},
+	"Close_this_dialog_window_": {
+		"message": "Sluit dialoog"
+	},
+	"No_Boards_Found": {
+		"message": "Geen boards gevonden"
+	},
+	"Boards": {
+		"message": "Boards"
+	},
+	"Public": {
+		"message": "Publiek"
+	},
+	"Add_a_list_": {
+		"message": "Voeg een lijst toe..."
+	},
+	"Calendar": {
+		"message": "Calender"
+	},
+	"Subscribed": {
+		"message": "Geabonneerd"
+	},
+	"Filtering_is_on_": {
+		"message": "Filter staat aan."
+	},
+	"Show_sidebar": {
+		"message": "Toon zijbalk"
+	},
+	"Add_a_card_": {
+		"message": "Voeg een kaart toe..."
+	},
+	"Notifications": {
+		"message": "Notificaties"
+	},
+	"This_board_is_public__It_s_visible_to_anyone_with_the_link_": {
+		"message": "Dit board is publiek. Het is zichtbaar voor iedereen met de link en is zichtbaar in zoekmachines zoals Google. Alleen toegevoegde personen kunnen wijzigingen doorvoeren."
+	},
+	"Go_back_to_your_boards_page_": {
+		"message": "Ga terug naar je boardsoverzicht."
+	},
+	"View_list_of_boards": {
+		"message": "Toon lijst met boards"
+	},
+	"Rename_the_board_": {
+		"message": "Hernoem het board."
+	},
+	"You_are_filtering_cards_on_this_board__Click_here_to_edit_filter_": {
+		"message": "Je filtert kaarten op dit board. Klik hier om het filter te bewerken."
+	},
+	"You_are_subscribed_to_this_board__You_ll_get_notifications_about_changes_": {
+		"message": "Je bent geabonneerd op dit board. Je krijgt notificaties bij wijzigingen."
+	},
+	"Click_to_star_or_unstar_this_board__Starred_boards_show_up_at_the_top_of_your_boards_list_": {
+		"message": "Klik om dit boardeen ster te geven of juist weg te halen. Boards met een ster worden bovenaan de lijst met boards getoond."
+	},
+	"Close_the_board_sidebar_": {
+		"message": "Sluit de zijbalk."
+	},
+	"Add_a_new_board_or_organization_": {
+		"message": "Voeg een nieuw board of organisatie toe."
+	},
+	"You_are_seeing_an_early__experimental_version_of_Trello__We_would_love_your_feedback_": {
+		"message": "Je ziet een vroege, experimentele versie van Trello. We zouden graag jou mening erover horen!"
+	},
+	"Get_access_to_your_profile__help__and_log_out_": {
+		"message": "Profielinformatie, hulp en uitloggen."
+	},
+	"This_member_has_Trello_Gold_": {
+		"message": "Dit lid heeft Trello Gold"
+	},
+	"Click_to_star_this_board__It_will_show_up_at_top_of_your_boards_list_": {
+		"message": "Klik om dit board een ster te geven. Het zal dan bovenaan de lijst met boards getoond worden."
+	},
+	"Search_for_boards__cards__members__and_organizations_": {
+		"message": "Zoek boards, kaarten, leden en organisaties."
+	},
+	"Menu": {
+		"message": "Menu"
+	},
+	"Add_Members": {
+		"message": "Voeg leden toe"
+	},
+	"Members": {
+		"message": "Leden"
+	},
+	"Activity": {
+		"message": "Activiteit"
+	},
+	"Click_here_to_see_more_board_options_": {
+		"message": "Klik hier voor meer boardopties."
+	},
+	"Power_Ups": {
+		"message": "Power-Ups"
+	},
+	"Stickers": {
+		"message": "Stickers"
+	},
+	"Filter_Cards": {
+		"message": "Filter kaarten"
+	},
+	"Archived_Items": {
+		"message": "Archief"
+	},
+	"Change_Background_": {
+		"message": "Verander achtergrond..."
+	},
+	"Email_to_board_Settings_": {
+		"message": "Email-aan-board instellingen"
+	},
+	"Copy_Board_": {
+		"message": "Kopieer board..."
+	},
+	"Share__Print__and_Export_": {
+		"message": "Deel, Print en Exporteer..."
+	},
+	"Additional_Settings_": {
+		"message": "Overige instellingen..."
+	},
+	"Close_Board_": {
+		"message": "Sluit board..."
+	},
+	"Leave_Board_": {
+		"message": "Verlaat board..."
+	},
+	"List_Actions": {
+		"message": "Actielijst"
+	},
+	"Add_Card_": {
+		"message": "Voeg een kaart toe..."
+	},
+	"Copy_List_": {
+		"message": "Kopieer lijst..."
+	},
+	"Move_List_": {
+		"message": "Verplaats lijst"
+	},
+	"Subscribe": {
+		"message": "Abonneer"
+	},
+	"Move_All_Cards_in_This_List_": {
+		"message": "Verplaats alle Kaarten in Deze Lijst"
+	},
+	"Archive_All_Cards_in_This_List_": {
+		"message": "Archiveer Alle Kaarten in Deze Lijst..."
+	},
+	"Archive_This_List": {
+		"message": "Archiveer Deze Lijst"
+	},
+	"Edit_Labels": {
+		"message": "Wijzig Label"
+	},
+	"Change_Members": {
+		"message": "Wijzig Leden"
+	},
+	"Copy": {
+		"message": "Kopieer"
+	},
+	"Change_Due_Date": {
+		"message": "Verandert de uiterste datum"
+	},
+	"Archive": {
+		"message": "Archiveer"
+	},
+	"Add": {
+		"message": "Voeg toe"
+	},
+	"Change_Notification_Email_Frequency": {
+		"message": "Wijzig Emailnotificatie Frequentie"
+	},
+	"See_All_Notifications": {
+		"message": "Toon Alle Notificaties"
+	},
+	"added": {
+		"message": "toegevoegd"
+	},
+	"to": {
+		"message": "aan"
+	},
+	"and": {
+		"message": "en"
+	},
+	"joined": {
+		"message": "toegevoegd"
+	},
+	"moved": {
+		"message": "verplaatst"
+	},
+	"from": {
+		"message": "van"
+	},
+	"archived": {
+		"message": "gearchiveerd"
+	},
+	"renamed": {
+		"message": "hernoemd"
+	},
+	"this_board": {
+		"message": "dit board"
+	},
+	"attached": {
+		"message": "toegevoegd"
+	},
+	"sent": {
+		"message": "verzonden"
+	},
+	"to_the_board": {
+		"message": "aan het board"
+	},
+	"This_card_is_past_due_": {
+		"message": "Deze kaart is overtijd"
+	},
+	"You_are_subscribed_to_this_card_": {
+		"message": "Je bent geabonneerd op deze kaart."
+	},
+	"Edit_the_description_": {
+		"message": "Wijzig de omschrijving"
+	},
+	"Write_a_comment_": {
+		"message": "Schrijf commentaar..."
+	},
+	"Formatting_help": {
+		"message": "Help bij opstellen"
+	},
+	"Save": {
+		"message": "Opslaan"
+	},
+	"Actions": {
+		"message": "Acties"
+	},
+	"Labels": {
+		"message": "Labels"
+	},
+	"Checklist": {
+		"message": "Checklist"
+	},
+	"Due_date": {
+		"message": "Uiterste datum"
+	},
+	"Attachment": {
+		"message": "Bijlage"
+	},
+	"Move": {
+		"message": "Verplaats"
+	},
+	"Delete": {
+		"message": "Verwijder"
+	},
+	"Share_and_more_": {
+		"message": "Deel en meer..."
+	},
+	"Send_to_board": {
+		"message": "Verplaats naar board"
+	},
+	"Drop_files_to_upload_": {
+		"message": "Drag & Drop bestanden om ze toe te voegen."
+	},
+	"Add_or_remove_members_of_the_board_from_the_card_": {
+		"message": "Voeg leden toe of verwijder leden van deze kaart."
+	},
+	"Change_the_labels_for_the_card_": {
+		"message": "Verander kaart-labels"
+	},
+	"Add_a_checklist_and_divide_the_card_into_subtasks_": {
+		"message": "Voeg een checklist toe en verdeel de kaart in deeltaken."
+	},
+	"Add_a_due_date_for_the_card_and_get_notifications_when_it_is_almost_due_": {
+		"message": "Voeg een uiterste datum toe aan de kaart en ontvang notificaties wanneer de kaart bijna overtijd is."
+	},
+	"Attach_files_from_your_computer_or_from_Google_Drive_": {
+		"message": "Voeg bestanden toe vanaf je computer of Google Drive. Je kan ook bestanden drag & droppen vanaf je bureaublad om ze toe te voegen."
+	},
+	"Move_the_card_to_another_board__another_list__or_a_new_position_in_a_list": {
+		"message": "Verplaats de kaart naar een ander board, een andere lijst of een andere positie in een lijst"
+	},
+	"Make_a_copy_of_this_card__optionally_include_checklist__labels__members__attachments__etc_": {
+		"message": "Maak een kopie van deze kaart, optioneel kun je ook de checklists, labels, leden en bijlagen mee-kopiëren."
+	},
+	"Subscribe_to_the_card_to_get_notifications_when_something_changes_": {
+		"message": "Abonneer je op de kaart en ontvang notificaties wanneer er iets wijzigt."
+	},
+	"Remove_the_card_from_the_board_": {
+		"message": "Verwijder de kaart van het board."
+	},
+	"Send_the_card_back_to_the_board_": {
+		"message": "Verplaats de kaart terug naar het board."
+	},
+	"Delete_the_card_and_all_history_associated_with_it__It_can_t_be_retrieved_": {
+		"message": "Verwijder de kaart en al zijn geschiedenis. Dit kan niet ongedaan gemaakt worden."
+	},
+	"More_options_share__print__export__and_delete_": {
+		"message": "Meer opties: delen, printen, exporten en verwijderen."
+	},
+	"in_list": {
+		"message": "in lijst"
+	}
+}

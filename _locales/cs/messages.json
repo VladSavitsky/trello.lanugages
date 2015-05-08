@@ -1,0 +1,647 @@
+{
+	"New_Organization_": {
+		"message": "Nová organizace"
+	},
+	"New_Board_": {
+		"message": "Nová tabule"
+	},
+	"A_board_is_a_collection_of_cards_ordered_in_a_list_of_lists__": {
+		"message": "Tabule je soubor karet zařazených v seznamu seznamů. Použijte ji ke správě projektu, sledování kolekce či organizování čehokoliv."
+	},
+	"An_organization_is_a_group_of_boards_and_people__": {
+		"message": "Organizace je skupina tabulí a lidí. Použijte ji k seskupení tabulí ve vaší společnosti, týmu nebo rodině."
+	},
+	"Reload_page": {
+		"message": "Znovu načíst stránku"
+	},
+	"Could_not_connect_to_Trello_": {
+		"message": "Nemohu se připojit k Trello"
+	},
+	"Page_not_found_": {
+		"message": "Stránka nenalezena"
+	},
+	"This_page_may_be_private__If_someone_gave_you_this_link__": {
+		"message": "Tato stránka může být soukromá. Pokud vám někdo dal tento odkaz, měli by vám zaslat pozvánku na jednu z jejich tabulí či organizací."
+	},
+	"View_all_activity_": {
+		"message": "Zobrazit veškerou aktivitu..."
+	},
+	"Board_Activity": {
+		"message": "Aktivita na tabuli"
+	},
+	"Load_More_Activity": {
+		"message": "Načíst více aktivit"
+	},
+	"Change_Organization": {
+		"message": "Změnit organizaci"
+	},
+	"Change": {
+		"message": "Změnit"
+	},
+	"Change_Organization_": {
+		"message": "Změnit organizaci"
+	},
+	"View_Organization_Page": {
+		"message": "Zobrazit stránku organizace"
+	},
+	"Rename_Board": {
+		"message": "Přejmenovat tabuli"
+	},
+	"Rename": {
+		"message": "Přejmenovat"
+	},
+	"Close_Board_question_mark": {
+		"message": "Zavřít tabuli?"
+	},
+	"You_can_re_open_the_board_by_clicking_the___Boards___menu_from_the_header_": {
+		"message": "Můžete znovu otevřít tabuli kliknutím na \"Tabule\" menu v hlavičce stránky, vybráním \"Zobrazit zavřené tabule\", vyhledáním žádané tabule a klinutím na \"Znovu otevřít\"."
+	},
+	"Close": {
+		"message": "Zavřít"
+	},
+	"Click_here_to_re_open_it_": {
+		"message": "Klikněte zde pro znovuotevření."
+	},
+	"is_closed_": {
+		"message": "je zavřená."
+	},
+	"Create_Organization": {
+		"message": "Vytvořit organizaci"
+	},
+	"An_organization_is_a_group_of_boards_and_members_": {
+		"message": "Organizace je soubor tabulí a členů."
+	},
+	"Name": {
+		"message": "Jméno"
+	},
+	"Description": {
+		"message": "Popis"
+	},
+	"Add_an_Organization": {
+		"message": "Přidat organizaci"
+	},
+	"Create_an_Organization": {
+		"message": "Vytvořit organizaci"
+	},
+	"An_organizations_is_a_collection_of_members_and_boards_": {
+		"message": "Organizace je soubor členů a tabulí. Ti tak pracují a sdílí ve skupině mnohem snadněji."
+	},
+	"What_are_you_organizing_": {
+		"message": "Co organizujete?"
+	},
+	"What_are_you_planning_": {
+		"message": "Co plánujete?"
+	},
+	"Like__Vacation_Planning__for_example_": {
+		"message": "Jako například \"Plánování dovolené\"..."
+	},
+	"Like__House_Stuff__for_example_": {
+		"message": "Jako například \"Věci kolem domu\"..."
+	},
+	"Like__Bucket_List__for_example_": {
+		"message": "Jako například \"Seznam věcí, co chci v životě udělat\"..."
+	},
+	"Like__Game_Development_Roadmap__": {
+		"message": "Jako třeba \"Vývoj herní mapy\"..."
+	},
+	"Like__Calvinball_Meetup_Schedule__": {
+		"message": "Jako třeba \"Program setkání hráčů stolních her\"..."
+	},
+	"Like__Weekly_Meal_Planning__for_example_": {
+		"message": "Jako třeba \"Plán vaření na týden\"..."
+	},
+	"Like__School_Research__for_example_": {
+		"message": "Jako třeba \"Výzkum do školy\"..."
+	},
+	"Like__Team_Product_Sprint__for_example_": {
+		"message": "Jako třeba \"Vývoj produktu\"..."
+	},
+	"Like__Publishing_Calendar__for_example_": {
+		"message": "Jako například \"Vydání kalendáře\"..."
+	},
+	"Like__New_Hire_Onboarding__for_example_": {
+		"message": "Jako například \"Stěhování do nového\"..."
+	},
+	"Like__Reading_Collection__for_example_": {
+		"message": "Jako třeba \"Sbírka čtení\"..."
+	},
+	"Create_new_board_": {
+		"message": "Vytvořit novou tabuli..."
+	},
+	"Create_Board": {
+		"message": "Vytvořit tabuli"
+	},
+	"Title": {
+		"message": "Název"
+	},
+	"Organization": {
+		"message": "Organizace"
+	},
+	"Create": {
+		"message": "Vytvořit"
+	},
+	"This_board_will_be": {
+		"message": "Tato tabule bude"
+	},
+	"private": {
+		"message": "soukromá"
+	},
+	"Change_": {
+		"message": "Změnit."
+	},
+	"Private": {
+		"message": "Soukromá"
+	},
+	"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_": {
+		"message": "Tuto tabuli vidí pouze členové organizace. Jen lidé, kteří jsou k tabuli přidání ji mohou editovat."
+	},
+	"This_board_is_private___Only_people_added_to_the_board_can_view_and_edit_it_": {
+		"message": "Tato tabule je soukromá. Jen lidé přidáni k této tabuli ji smí prohlížet a editovat."
+	},
+	"The_board_must_be_added_to_an_org_to_enable_this_": {
+		"message": "Tabuli musíte přidat k organizaci, aby to bylo možné."
+	},
+	"Today": {
+		"message": "Dnes"
+	},
+	"Week": {
+		"message": "Týden"
+	},
+	"Month": {
+		"message": "Měsíc"
+	},
+	"Sun": {
+		"message": "Ne"
+	},
+	"Mon": {
+		"message": "Po"
+	},
+	"Tue": {
+		"message": "Út"
+	},
+	"Wed": {
+		"message": "St"
+	},
+	"Thu": {
+		"message": "Čt"
+	},
+	"Fri": {
+		"message": "Pá"
+	},
+	"Sat": {
+		"message": "So"
+	},
+	"January": {
+		"message": "Leden"
+	},
+	"February": {
+		"message": "Únor"
+	},
+	"March": {
+		"message": "Březen"
+	},
+	"April": {
+		"message": "Duben"
+	},
+	"June": {
+		"message": "Červen"
+	},
+	"July": {
+		"message": "Červenec"
+	},
+	"August": {
+		"message": "Srpen"
+	},
+	"September": {
+		"message": "Září"
+	},
+	"October": {
+		"message": "Řijen"
+	},
+	"November": {
+		"message": "Listopad"
+	},
+	"December": {
+		"message": "Prosinec"
+	},
+	"Jan": {
+		"message": "Led"
+	},
+	"Feb": {
+		"message": "Úno"
+	},
+	"Mar": {
+		"message": "Bře"
+	},
+	"Apr": {
+		"message": "Dub"
+	},
+	"May": {
+		"message": "Kvě"
+	},
+	"Jun": {
+		"message": "Červ"
+	},
+	"Jul": {
+		"message": "Črvc"
+	},
+	"Aug": {
+		"message": "Srp"
+	},
+	"Sep": {
+		"message": "Zář"
+	},
+	"Oct": {
+		"message": "Říj"
+	},
+	"Nov": {
+		"message": "Lis"
+	},
+	"Dec": {
+		"message": "Pro"
+	},
+	"Saved_Searches": {
+		"message": "Uložená hledání"
+	},
+	"Your_search_produced_an_error_": {
+		"message": "Během hledání došlo k chybě"
+	},
+	"Searching_": {
+		"message": "Hledám..."
+	},
+	"No_results_": {
+		"message": "Žádné výsledky."
+	},
+	"Refine_your_search_with_operators_like__member___label__is_archived__and_has_attachments_": {
+		"message": "Vylepšete své vyhledávání s operátory jako třeba @člen, #štítek, is:archived (je archivováno), a has:attachments (má přílohy)."
+	},
+	"Learn_more_": {
+		"message": "Zjistit více..."
+	},
+	"Cards": {
+		"message": "Karty"
+	},
+	"Loading_": {
+		"message": "Načítání..."
+	},
+	"Show_more_boards_": {
+		"message": "Ukázat více tabulí..."
+	},
+	"Show_more_members_": {
+		"message": "Ukázat více členů"
+	},
+	"Organizations": {
+		"message": "Organizace"
+	},
+	"Show_more_organizations_": {
+		"message": "Ukázat více organizací"
+	},
+	"Back_to_Saved_Searches": {
+		"message": "Zpět k uloženým vyhledáváním"
+	},
+	"Save_this_Search": {
+		"message": "Uložit toto vyhledávání"
+	},
+	"Did_you_mean_": {
+		"message": "Mysleli jste..."
+	},
+	"Only_include_cards_that_have_stickers_": {
+		"message": "Zahrnout pouze karty s nálepkou."
+	},
+	"Starred_Boards": {
+		"message": "Tabule s hvězdičkou"
+	},
+	"My_Boards": {
+		"message": "Moje tabule"
+	},
+	"Overview": {
+		"message": "Přehled"
+	},
+	"Recent_Boards": {
+		"message": "Nedávno otevřené tabule"
+	},
+	"Always_keep_this_menu_open_": {
+		"message": "Ponechat tuto nabídku vždy otevřenou."
+	},
+	"Don_t_keep_this_menu_open_": {
+		"message": "Nenechat tuto nabídku otevřenou."
+	},
+	"See_closed_boards_": {
+		"message": "Zobrazit zavřené tabule..."
+	},
+	"Find_boards_by_name_": {
+		"message": "Najít tabule podle jména..."
+	},
+	"There_is_new_activity_on_this_board_": {
+		"message": "Na této tabuli je nová aktivita."
+	},
+	"Collapse_section_": {
+		"message": "Zavřít sekci."
+	},
+	"Expand_section_": {
+		"message": "Otevřít sekci."
+	},
+	"Closed_Boards": {
+		"message": "Zavřené tabule"
+	},
+	"Re_open": {
+		"message": "Znovu otevřít"
+	},
+	"You_have_to_have_been_a_board_admin_to_re_open_a_closed_board_": {
+		"message": "Pouze admin smí znovu otevřít zavřenou tabuli."
+	},
+	"Close_this_dialog_window_": {
+		"message": "Zavřít toto okno."
+	},
+	"No_Boards_Found": {
+		"message": "Nenalezeny žádné tabule"
+	},
+	"Boards": {
+		"message": "Tabule"
+	},
+	"Public": {
+		"message": "Veřejná"
+	},
+	"Add_a_list_": {
+		"message": "Přidat seznam..."
+	},
+	"Calendar": {
+		"message": "Kalendář"
+	},
+	"Subscribed": {
+		"message": "Odebírám"
+	},
+	"Filtering_is_on_": {
+		"message": "Filtrování je zapnuté."
+	},
+	"Show_sidebar": {
+		"message": "Zobrazit postranní panel"
+	},
+	"Add_a_card_": {
+		"message": "Přidat kartu..."
+	},
+	"Notifications": {
+		"message": "Oznámení"
+	},
+	"This_board_is_public__It_s_visible_to_anyone_with_the_link_": {
+		"message": "Tato tabule je veřejná. Je viditelná pro každého s odkazem a zobrazí se ve vyhledávačích (např. Google). Jen lidé přidaní k této tabuli ji mohou editovat."
+	},
+	"Go_back_to_your_boards_page_": {
+		"message": "Zpět k přehledu tabulí."
+	},
+	"View_list_of_boards": {
+		"message": "Zobrazit seznam tabulí"
+	},
+	"Rename_the_board_": {
+		"message": "Přejmenovat tabuli."
+	},
+	"You_are_filtering_cards_on_this_board__Click_here_to_edit_filter_": {
+		"message": "Filtrujete karty na této tabuli. Klikněte zde pro úpravu filtru."
+	},
+	"You_are_subscribed_to_this_board__You_ll_get_notifications_about_changes_": {
+		"message": "Odebíráte novinky z této tabule. Při změnách obdržíte oznámení."
+	},
+	"Click_to_star_or_unstar_this_board__Starred_boards_show_up_at_the_top_of_your_boards_list_": {
+		"message": "Klikněte k přidání nebo odebrání hvězdičky této tabuli. Tabule s hvězdičkou jsou zařazeny na začátku seznamu vašich tabulí."
+	},
+	"Close_the_board_sidebar_": {
+		"message": "Zavřít postranní panel tabule."
+	},
+	"Add_a_new_board_or_organization_": {
+		"message": "Přidat novou tabuli nebo organizaci."
+	},
+	"You_are_seeing_an_early__experimental_version_of_Trello__We_would_love_your_feedback_": {
+		"message": "Právě se nacházíte na první, experimentální verzi služby Trello. Budeme rádi za vaše názory!"
+	},
+	"Get_access_to_your_profile__help__and_log_out_": {
+		"message": "Získejt přístup k vašemu profilu, nápovědě a odhlášení."
+	},
+	"This_member_has_Trello_Gold_": {
+		"message": "Tento člen má účet Trello Gold."
+	},
+	"Click_to_star_this_board__It_will_show_up_at_top_of_your_boards_list_": {
+		"message": "Klikněte k přidání hvězdičky k této tabuli. Zobrazí se na začátku seznamu vašich tabulí."
+	},
+	"Search_for_boards__cards__members__and_organizations_": {
+		"message": "Vyhledávejte tabule, karty, členy a organizace."
+	},
+	"Menu": {
+		"message": "Menu"
+	},
+	"Add_Members": {
+		"message": "Přidat členy"
+	},
+	"Members": {
+		"message": "Členové"
+	},
+	"Activity": {
+		"message": "Aktivita"
+	},
+	"Click_here_to_see_more_board_options_": {
+		"message": "Klikněte zde pro více možností tabule."
+	},
+	"Power_Ups": {
+		"message": "Vylepšení"
+	},
+	"Stickers": {
+		"message": "Nálepky"
+	},
+	"Filter_Cards": {
+		"message": "Filtrovat karty"
+	},
+	"Archived_Items": {
+		"message": "Archivované položky"
+	},
+	"Change_Background_": {
+		"message": "Změnit pozadí..."
+	},
+	"Email_to_board_Settings_": {
+		"message": "Natavení pro publikování e-mailem...."
+	},
+	"Copy_Board_": {
+		"message": "Kopírovat tabuli..."
+	},
+	"Share__Print__and_Export_": {
+		"message": "Sdílet, tisk a export..."
+	},
+	"Additional_Settings_": {
+		"message": "Další nastavení..."
+	},
+	"Close_Board_": {
+		"message": "Zavřít tabuli..."
+	},
+	"Leave_Board_": {
+		"message": "Opustit tabuli..."
+	},
+	"List_Actions": {
+		"message": "Možnosti seznamu"
+	},
+	"Add_Card_": {
+		"message": "Přidat kartu..."
+	},
+	"Copy_List_": {
+		"message": "Kopírovat seznam..."
+	},
+	"Move_List_": {
+		"message": "Přesunout seznam..."
+	},
+	"Subscribe": {
+		"message": "Odebírat"
+	},
+	"Move_All_Cards_in_This_List_": {
+		"message": "Přesunout všechny karty v tomto seznamu..."
+	},
+	"Archive_All_Cards_in_This_List_": {
+		"message": "Archivovat všechny karty v tomto seznamu..."
+	},
+	"Archive_This_List": {
+		"message": "Archivovat tento seznam"
+	},
+	"Edit_Labels": {
+		"message": "Upravit štítky"
+	},
+	"Change_Members": {
+		"message": "Změnit členy"
+	},
+	"Copy": {
+		"message": "Kopírovat"
+	},
+	"Change_Due_Date": {
+		"message": "Změnit termín"
+	},
+	"Archive": {
+		"message": "Archivovat"
+	},
+	"Add": {
+		"message": "Přidat"
+	},
+	"Change_Notification_Email_Frequency": {
+		"message": "Změnit frekvenci e-mailů s oznámením"
+	},
+	"See_All_Notifications": {
+		"message": "Zobrazit všechna oznámení"
+	},
+	"added": {
+		"message": "přidáno"
+	},
+	"to": {
+		"message": "do"
+	},
+	"and": {
+		"message": "a"
+	},
+	"joined": {
+		"message": "spojeno"
+	},
+	"moved": {
+		"message": "přesunuto"
+	},
+	"from": {
+		"message": "z"
+	},
+	"archived": {
+		"message": "archivováno"
+	},
+	"renamed": {
+		"message": "přejmenováno"
+	},
+	"this_board": {
+		"message": "tato tabule"
+	},
+	"attached": {
+		"message": "přiloženo"
+	},
+	"sent": {
+		"message": "posláno"
+	},
+	"to_the_board": {
+		"message": "k tabuli"
+	},
+	"This_card_is_past_due_": {
+		"message": "Tato karta je po termínu."
+	},
+	"You_are_subscribed_to_this_card_": {
+		"message": "Odebíráte novinky z této karty."
+	},
+	"Edit_the_description_": {
+		"message": "Upravit popis..."
+	},
+	"Write_a_comment_": {
+		"message": "Napsat komentář..."
+	},
+	"Formatting_help": {
+		"message": "Formátování..."
+	},
+	"Save": {
+		"message": "Uložit"
+	},
+	"Actions": {
+		"message": "Akce"
+	},
+	"Labels": {
+		"message": "Štítky"
+	},
+	"Checklist": {
+		"message": "Seznam úkolů"
+	},
+	"Due_date": {
+		"message": "Termín"
+	},
+	"Attachment": {
+		"message": "Příloha"
+	},
+	"Move": {
+		"message": "Přesunout"
+	},
+	"Delete": {
+		"message": "Smazat"
+	},
+	"Share_and_more_": {
+		"message": "Sdílet a více..."
+	},
+	"Send_to_board": {
+		"message": "Odeslat k tabuli"
+	},
+	"Drop_files_to_upload_": {
+		"message": "Přetáhněte sem soubory pro nahrání."
+	},
+	"Add_or_remove_members_of_the_board_from_the_card_": {
+		"message": "Přidat nebo odebrat členy tabule z karty."
+	},
+	"Change_the_labels_for_the_card_": {
+		"message": "Změnit štítky karty."
+	},
+	"Add_a_checklist_and_divide_the_card_into_subtasks_": {
+		"message": "Přidat seznam úkolů a rozdělit kartu na podúkoly."
+	},
+	"Add_a_due_date_for_the_card_and_get_notifications_when_it_is_almost_due_": {
+		"message": "Přidat termín ke kartě a zaslat oznámení, když se termín přiblíží."
+	},
+	"Attach_files_from_your_computer_or_from_Google_Drive_": {
+		"message": "Přiložte soubory z vašeho počítače nebo uložiště Google Disk. Můžete sem také přetáhnout soubory z vaší plochy."
+	},
+	"Move_the_card_to_another_board__another_list__or_a_new_position_in_a_list": {
+		"message": "Přesunout kartu na jinou tabuli, jiný seznam nebo novou pozici na seznamu"
+	},
+	"Make_a_copy_of_this_card__optionally_include_checklist__labels__members__attachments__etc_": {
+		"message": "Vytvořit kopii této karty, může obsahovat seznam úkolů, štítky, členy, přílohy atd."
+	},
+	"Subscribe_to_the_card_to_get_notifications_when_something_changes_": {
+		"message": "Odebírejte novinky z karty a obdržíte oznámení, pokud dojde ke změně."
+	},
+	"Remove_the_card_from_the_board_": {
+		"message": "Odebrat kartu z tabule."
+	},
+	"Send_the_card_back_to_the_board_": {
+		"message": "Poslat kartu zpět na tabuli."
+	},
+	"Delete_the_card_and_all_history_associated_with_it__It_can_t_be_retrieved_": {
+		"message": "Smazat kartu s celou historií. Tento krok nelze vrátit."
+	},
+	"More_options_share__print__export__and_delete_": {
+		"message": "Více možností sdíení, tisk, export a smazání."
+	},
+	"in_list": {
+		"message": "v seznamu"
+	}
+}

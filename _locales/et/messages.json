@@ -1,0 +1,50 @@
+{
+	"New_Organization_": {
+		"message": "Uus organisatsioon..."
+	},
+	"New_Board_": {
+		"message": "Uus tahvel..."
+	},
+	"Reload_page": {
+		"message": "Värskenda lekte"
+	},
+	"Could_not_connect_to_Trello_": {
+		"message": "Ei saanud Trelloga ühendust."
+	},
+	"Page_not_found_": {
+		"message": "Lehte ei leitud."
+	},
+	"View_all_activity_": {
+		"message": "Vaata kõiki sündmusi..."
+	},
+	"Board_Activity": {
+		"message": "Tahvli sündmused"
+	},
+	"Load_More_Activity": {
+		"message": "Laadi rohkem sündmusi"
+	},
+	"Change_Organization": {
+		"message": "Muuda organisatsiooni"
+	},
+	"Change": {
+		"message": "Muuda"
+	},
+	"Change_Organization_": {
+		"message": "Muuda organisatsiooni..."
+	},
+	"View_Organization_Page": {
+		"message": "Vaata organisatsiooni lehte"
+	},
+	"Rename_Board": {
+		"message": "Nimeta tahvel ümber"
+	},
+	"Rename": {
+		"message": "Nimeta ümber"
+	},
+	"Close_Board_question_mark": {
+		"message": "Sulgeda tahvel?"
+	},
+	"Close": {
+		"message": "Sulge"
+	}
+}

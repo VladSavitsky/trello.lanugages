@@ -101,6 +101,9 @@
 	"Like__Bucket_List__for_example_": {
 		"message": "Np. \"Moja lista\"..."
 	},
+	"Like__Game_Development_Roadmap__": {
+		"message": "Np. \"Plan wydań gry\"..."
+	},
 	"Like__Calvinball_Meetup_Schedule__": {
 		"message": "Np \"Plan spotkania\"..."
 	},
@@ -115,6 +118,12 @@
 	},
 	"Like__Publishing_Calendar__for_example_": {
 		"message": "Np \"Publikacja kalendarza\"..."
+	},
+	"Like__New_Hire_Onboarding__for_example_": {
+		"message": "Np. \"Nowe zatrudnienia\"..."
+	},
+	"Like__Reading_Collection__for_example_": {
+		"message": "Np. \"Kolekcja do czytania\"..."
 	},
 	"Create_new_board_": {
 		"message": "Stwórz nową tablicę..."
@@ -559,6 +568,9 @@
 	},
 	"Write_a_comment_": {
 		"message": "Napisz komentarz..."
+	},
+	"Formatting_help": {
+		"message": "Pomoc odnośnie formatowania"
 	},
 	"Save": {
 		"message": "Zapisz"

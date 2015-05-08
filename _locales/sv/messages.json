@@ -1,6 +1,6 @@
 {
 	"New_Organization_": {
-		"message": "Ny organisering..."
+		"message": "Ny organisation..."
 	},
 	"New_Board_": {
 		"message": "Ny tavla..."
@@ -9,7 +9,7 @@
 		"message": "En tavla är en samling med kort ordnade i listor, som används för att hantera ett projekt, hålla koll på en samling eller för att organisera olika saker."
 	},
 	"An_organization_is_a_group_of_boards_and_people__": {
-		"message": "En organisering är en grupp av tavlor samt folk, som används för att gruppera tavlor ämnade för ditt företag, ditt team eller din familj."
+		"message": "En organisation är en grupp av tavlor och personer, som används för att gruppera tavlor för ditt företag, ditt team eller din familj."
 	},
 	"Reload_page": {
 		"message": "Ladda om sidan"
@@ -21,7 +21,7 @@
 		"message": "Sidan hittades inte."
 	},
 	"This_page_may_be_private__If_someone_gave_you_this_link__": {
-		"message": "Denna sida kan vara privat, personen som gav dig denna länk kan behöva bjuda in dig till en av hans tavlor eller organiseringar."
+		"message": "Denna sida kan vara privat, personen som gav dig denna länk kan behöva bjuda in dig till en av hans tavlor eller organisationer."
 	},
 	"View_all_activity_": {
 		"message": "Visa all aktivitet..."
@@ -33,16 +33,16 @@
 		"message": "Visa fler aktiviteter"
 	},
 	"Change_Organization": {
-		"message": "Ändra organisering"
+		"message": "Ändra organisation"
 	},
 	"Change": {
 		"message": "Ändra"
 	},
 	"Change_Organization_": {
-		"message": "Ändra organisering..."
+		"message": "Ändra organisation..."
 	},
 	"View_Organization_Page": {
-		"message": "Visa organiseringssidan"
+		"message": "Visa organisationssidan"
 	},
 	"Rename_Board": {
 		"message": "Ändra tavelnamn"
@@ -66,10 +66,10 @@
 		"message": "är stängd."
 	},
 	"Create_Organization": {
-		"message": "Skapa organisering"
+		"message": "Skapa organisation"
 	},
 	"An_organization_is_a_group_of_boards_and_members_": {
-		"message": "En organisering är en grupp av tavlor samt medlemmar."
+		"message": "En organisation är en grupp av tavlor samt medlemmar."
 	},
 	"Name": {
 		"message": "Namn"
@@ -78,13 +78,13 @@
 		"message": "Beskrivning"
 	},
 	"Add_an_Organization": {
-		"message": "Lägg till en organisering"
+		"message": "Lägg till en organisation"
 	},
 	"Create_an_Organization": {
-		"message": "Skapa en organisering"
+		"message": "Skapa en organisation"
 	},
 	"An_organizations_is_a_collection_of_members_and_boards_": {
-		"message": "En organisering är en samling av medlemmar samt tavlor, vilket gör det ännu enklare att dela med sig och att samarbeta inom en grupp."
+		"message": "En organisation är en samling av medlemmar samt tavlor, vilket gör det ännu enklare att dela med sig och att samarbeta inom en grupp."
 	},
 	"What_are_you_organizing_": {
 		"message": "Vad organiserar du?"
@@ -93,31 +93,31 @@
 		"message": "Vad planerar du?"
 	},
 	"Like__Vacation_Planning__for_example_": {
-		"message": "Likt \"Semesterplanering\" som exempel..."
+		"message": "Som t.ex. \"Semesterplanering\"..."
 	},
 	"Like__House_Stuff__for_example_": {
-		"message": "Likt \"Husgöromål\" som exempel..."
+		"message": "Som t.ex. \"Husgöromål\"..."
 	},
 	"Like__Bucket_List__for_example_": {
-		"message": "Likt \"Pricklista\" som exempel..."
+		"message": "Som t.ex. \"Pricklista\"..."
 	},
 	"Like__Game_Development_Roadmap__": {
-		"message": "Likt \"Spelutvecklingsfärdplan\"..."
+		"message": "Som t.ex. \"Spelutvecklingsfärdplan\"..."
 	},
 	"Like__Calvinball_Meetup_Schedule__": {
-		"message": "Likt \"Turnering för Kvantlogikfotboll\"..."
+		"message": "Som t.ex. \"Turnering för Kvantlogikfotboll\"..."
 	},
 	"Like__Weekly_Meal_Planning__for_example_": {
-		"message": "Likt \"Veckans matlista\" som exempel..."
+		"message": "Som t.ex. \"Veckans matlista\"..."
 	},
 	"Like__School_Research__for_example_": {
-		"message": "Likt \"Skolfördjupning\" som exempel..."
+		"message": "Som t.ex. \"Skolarbete\"..."
 	},
 	"Like__Team_Product_Sprint__for_example_": {
-		"message": "Likt \"Grupp Produktrusch\" som exempel..."
+		"message": "Som t.ex. \"Team-produktsprint\"..."
 	},
 	"Like__Publishing_Calendar__for_example_": {
-		"message": "Likt \"Publiceringskalender\" som exempel..."
+		"message": "Som t.ex. \"Publiceringskalender\"..."
 	},
 	"Like__New_Hire_Onboarding__for_example_": {
 		"message": "Likt \"Nyrekrytering Lärling\" som exempel..."
@@ -135,7 +135,7 @@
 		"message": "Titel"
 	},
 	"Organization": {
-		"message": "Organisering"
+		"message": "Organisation"
 	},
 	"Create": {
 		"message": "Skapa"
@@ -153,13 +153,13 @@
 		"message": "Privat"
 	},
 	"This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_": {
-		"message": "Denna tavla är endast åtkomlig för organiseringens medlemmar. Endast personer som inkluderats till denna tavla kan redigera den."
+		"message": "Denna tavla är endast åtkomlig för organisationens medlemmar. Endast personer som inkluderats till denna tavla kan redigera den."
 	},
 	"This_board_is_private___Only_people_added_to_the_board_can_view_and_edit_it_": {
 		"message": "Denna tavla är privat. Endast personer som inkluderats till tavlan kan se samt ändra den."
 	},
 	"The_board_must_be_added_to_an_org_to_enable_this_": {
-		"message": "Tavlan måste tilldelas en organisering för att kunna tillåtas detta."
+		"message": "Tavlan måste tilldelas en organisation för att kunna tillåtas detta."
 	},
 	"Today": {
 		"message": "I dag"
@@ -291,10 +291,10 @@
 		"message": "Visa fler medlemmar..."
 	},
 	"Organizations": {
-		"message": "Organiseringar"
+		"message": "Organisationer"
 	},
 	"Show_more_organizations_": {
-		"message": "Visa fler organiseringar..."
+		"message": "Visa fler organisationer..."
 	},
 	"Back_to_Saved_Searches": {
 		"message": "Tillbaka till sparade sökningar"
@@ -369,7 +369,7 @@
 		"message": "Kalender"
 	},
 	"Subscribed": {
-		"message": "Abonnerad"
+		"message": "Prenumererar"
 	},
 	"Filtering_is_on_": {
 		"message": "Filtrering är på."
@@ -399,7 +399,7 @@
 		"message": "Du filtrerar kort på denna tavla, klicka här för att redigera filter."
 	},
 	"You_are_subscribed_to_this_board__You_ll_get_notifications_about_changes_": {
-		"message": "Du abonnerar på denna tavlas uppdateringar, du får notifieringar om ändringar."
+		"message": "Du prenumererar på denna tavlas uppdateringar, du får notifieringar om ändringar."
 	},
 	"Click_to_star_or_unstar_this_board__Starred_boards_show_up_at_the_top_of_your_boards_list_": {
 		"message": "Klicka för att stjärna eller ostjärna denna tavla. Stjärnade tavlor visas högst upp på din tavellista."
@@ -408,7 +408,7 @@
 		"message": "Stäng tavlans sidomeny."
 	},
 	"Add_a_new_board_or_organization_": {
-		"message": "Lägg till en ny tavla eller organisering."
+		"message": "Lägg till en ny tavla eller organisation."
 	},
 	"You_are_seeing_an_early__experimental_version_of_Trello__We_would_love_your_feedback_": {
 		"message": "Du besöker en tidig och experimentell version av Trello, vi skulle väldigt gärna vilja ta del av dina synpunkter!"
@@ -423,7 +423,7 @@
 		"message": "Klicka för att stjärna denna tavla. Den kommer att visas högst upp i din tavellista."
 	},
 	"Search_for_boards__cards__members__and_organizations_": {
-		"message": "Sök efter tavlor, kort, medlemmar och organiseringar."
+		"message": "Sök efter tavlor, kort, medlemmar och organisationer."
 	},
 	"Menu": {
 		"message": "Meny"
@@ -486,7 +486,7 @@
 		"message": "Flytta lista..."
 	},
 	"Subscribe": {
-		"message": "Abonnera"
+		"message": "Prenumerera"
 	},
 	"Move_All_Cards_in_This_List_": {
 		"message": "Flytta alla korten i denna lista..."
@@ -549,7 +549,7 @@
 		"message": "denna tavla"
 	},
 	"attached": {
-		"message": "knuten"
+		"message": "bifogad"
 	},
 	"sent": {
 		"message": "skickad"
@@ -561,13 +561,16 @@
 		"message": "Detta kort har utgått."
 	},
 	"You_are_subscribed_to_this_card_": {
-		"message": "Du abonnerar på dessa kort."
+		"message": "Du prenumererar  på dessa kort."
 	},
 	"Edit_the_description_": {
 		"message": "Redigera beskrivningen..."
 	},
 	"Write_a_comment_": {
 		"message": "Skriv en kommentar..."
+	},
+	"Formatting_help": {
+		"message": "Formatteringshjälp"
 	},
 	"Save": {
 		"message": "Spara"
@@ -582,10 +585,10 @@
 		"message": "Checklista"
 	},
 	"Due_date": {
-		"message": "Utgångsdatum"
+		"message": "Förfallodatum"
 	},
 	"Attachment": {
-		"message": "Tillfogning"
+		"message": "Bilaga"
 	},
 	"Move": {
 		"message": "Flytta"
@@ -594,7 +597,7 @@
 		"message": "Radera"
 	},
 	"Share_and_more_": {
-		"message": "Dela samt mer..."
+		"message": "Dela mm..."
 	},
 	"Send_to_board": {
 		"message": "Skicka till tavla"
@@ -603,7 +606,7 @@
 		"message": "Droppa filer för uppladdning."
 	},
 	"Add_or_remove_members_of_the_board_from_the_card_": {
-		"message": "Lägg till eller avlägsna tavelmedlemmar för detta kort."
+		"message": "Lägg till eller ta bort tavelmedlemmar för detta kort."
 	},
 	"Change_the_labels_for_the_card_": {
 		"message": "Ändra etiketterna för detta kort."
@@ -612,22 +615,22 @@
 		"message": "Lägg till en checklista och dela upp kortet till deluppgifter."
 	},
 	"Add_a_due_date_for_the_card_and_get_notifications_when_it_is_almost_due_": {
-		"message": "Lägg till ett utgångsdatum för kortet och få notifieringar när tiden är nära."
+		"message": "Lägg till ett förfallodatum för kortet och få notifieringar när tiden är nära."
 	},
 	"Attach_files_from_your_computer_or_from_Google_Drive_": {
-		"message": "Tillfoga filer från din dator eller från Google Drive. Du kan även ladda upp filer från ditt skrivbord genom att dra dom hit med musen."
+		"message": "Bifoga filer från din dator eller från Google Drive. Du kan även ladda upp filer från ditt skrivbord genom att dra dom hit med musen."
 	},
 	"Move_the_card_to_another_board__another_list__or_a_new_position_in_a_list": {
 		"message": "Flytta kortet till en annan tavla, annan lista eller till en annan position i en lista"
 	},
 	"Make_a_copy_of_this_card__optionally_include_checklist__labels__members__attachments__etc_": {
-		"message": "Skapa en kopia av detta kort, alternativt inkludera en checklista, etiketter, medlemmar, tillfogningar och så vidare."
+		"message": "Skapa en kopia av detta kort, alternativt inkludera en checklista, etiketter, medlemmar, bilagor och så vidare."
 	},
 	"Subscribe_to_the_card_to_get_notifications_when_something_changes_": {
-		"message": "Abonnera på detta kort för att får notifieringar när någonting ändrats."
+		"message": "Prenumerera på detta kort för att få notifieringar när något har ändrats."
 	},
 	"Remove_the_card_from_the_board_": {
-		"message": "Avlägsna detta kort från tavlan."
+		"message": "Ta bort detta kort från tavlan."
 	},
 	"Send_the_card_back_to_the_board_": {
 		"message": "Skicka detta kort tillbaka till tavlan."
