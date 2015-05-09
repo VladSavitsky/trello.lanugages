@@ -1,0 +1,19 @@
+{
+  "meta" : {
+    "howToGet" : "Open any board. Click any card. Click 'Edit description'. Click 'Formatting help'.",
+    "basePath" : "body",
+    "flag" : "body > div.pop-over.is-shown > div.pop-over-content.js-fill-pop-over-content.js-tab-parent > div > code:nth-child(25)",
+  },
+  "html" : {
+    "Formatting Help" :
+      "> div.pop-over.is-shown > div.pop-over-header.js-pop-over-header > span.pop-over-header-title",
+  },
+  "inputs" : {
+  },
+  "title" : {
+  },
+  "placeholder" : {
+  },
+  "substrings" : {
+  }
+}

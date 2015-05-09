@@ -14,7 +14,10 @@
     "\u003Call_urls>",
     "https://www.google-analytics.com/"
   ],
-  "web_accessible_resources": [ "mapping.json", "flags/*" ] ,
+  "web_accessible_resources": [
+    "mapping/*",
+    "flags.json"
+  ],
   "manifest_version": 2,
   "name": "Languages for Trello.com",
   "short_name": "Languages for Trello.com",

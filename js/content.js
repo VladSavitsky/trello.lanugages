@@ -17,43 +17,21 @@
   // Set Development Environment Flag which allows to show various messages in console.
   var debug = chrome.extension.getURL('/manifest.json').indexOf('alhoallabckfhacphbkkideohcgbchhl') <= 0;
 
-
-
   // Replace strings at page using mapping from translation object.
   function l10n(contextName) {
-    if (isEmpty('mapping', mapping)) return;
-    if (debug) console.log(contextName);
-
-    // TODO: remove this code becasue it's a temporary solution.
-    $context = $(mapping[contextName]["meta"]['basePath']);
-    if (!contextName) {
-      contextName = 'body';
-      $context = $(contextName);
-    }
-    // Mark the flag element of this context as translated. If we started translation we will do it.
-    $(mapping[contextName]["meta"]["basePath"] + ' ' + mapping[contextName]["meta"]["flag"]).addClass('translated');
-    // Set mapping for this context only.
-    var contextMapping = mapping;
-    if (contextName != 'body') contextMapping = mapping[contextName];
-
+    var mapping = getMapping(contextName);
     // DO the translation!
-    $.each(contextMapping, function(type, data) {
+    $.each(mapping, function(type, data) {
       if (type == 'meta') return;
       $.each(data, function(code, selectors) {
 //        if (!chrome.i18n.getMessage(code)) return;
         if ($.type(selectors) === 'string') selectors = selectors.split();
         $.each(selectors, function(index, cssPath) {
-          var $element = $context.find(cssPath);
+          var $element = getElement(mapping["meta"]['basePath'] + cssPath);
           if (!$element.length) {
-            if (debug) console.log(
-              contextName + ' (' +type, ")\n",
-              chrome.i18n.getMessage(code), "\n",
-              mapping[contextName]["meta"]["basePath"] + ' ' + cssPath, "\n",
-              'Message: element exists in mapping.json but wasn\'t found at page: ', "\n"
-            );
             return;
           }
-          // Store original string just for fun.
+          // Store original string.
           $element.prop('data-translation-code-' + type, code);
 
           // Do the magic: replace original string with translation.
@@ -110,17 +88,15 @@
   };
 
   // Load mapping data.
-  var mapping = getFile(chrome.extension.getURL('/mapping.json'));
-  $.each(mapping, function(contextName, data) {
-    $.each(data, function(name, value) {
-      if (name == 'meta' && value['basePath']) {
-        $(value['basePath'] + ' ' + value['flag'] + ':not(.translated)').waitUntilExists(function() {
-          l10n(contextName);
-        });
-      }
-    });
+  var flags = getFile(chrome.extension.getURL('/flags.json'));
+  $.each(flags, function(contextName, cssPath) {
+    if (cssPath != "") {
+      $(cssPath + ':not(.translated)').waitUntilExists(function() {
+        console.log(contextName);
+        l10n(contextName);
+      }).addClass('translated');
+    }
   });
-
 
 /*
 
@@ -178,16 +154,24 @@
 
   /**
    * Check if JSON file was loaded and given object not empty.
-   * @param filename string Filename which stores JSON data.
-   * @param entity Object An Object which should be checked.
-   * @return Returns TRUE if entity is an empty object and FALSE otherwise.
+   *
+   * @param contextName string Filename which stores JSON data and context name.
+   *
+   * @return Returns mapping object and FALSE otherwise.
    */
-  function isEmpty(filename, entity) {
-    if (jQuery.isEmptyObject(entity)) {
-      if (debug) {console.log(filename + '.json file is missing or broken.')};
-      return true;
+  function getMapping(contextName) {
+    var filename = '/mapping/' + contextName + '.json';
+    var mapping = getFile(chrome.extension.getURL(filename));
+    if (jQuery.isEmptyObject(mapping)) {
+      if (debug) {
+        console.log(filename + ' is missing or broken.')
+      };
+      return false;
     }
-    return false;
+    if (debug) {
+      console.log(filename + ' was loaded.');
+    }
+    return mapping;
   }
 
   /**
@@ -197,6 +181,18 @@
    */
   function escapeString(string) {
     return newstring = string.replace(new RegExp("[ …“”.,@’:;#-'\"!?-]", 'g'), "_");
+  }
+
+
+  function getElement(cssPath) {
+    var $element = $(cssPath);
+    if (!$element.length) {
+      if (debug) {
+        console.log(cssPath, "\n", 'Message: element exists in [mapping].json but wasn\'t found at page.');
+      }
+      return false;
+    }
+    return $element;
   }
 
 }) ();

@@ -1,0 +1,17 @@
+{
+  "meta" : {
+    "howtoget" : "Open Card Edit window and click 'Subscribe'.",
+    "basepath" : "body > div.window-overlay > div > div > div > div.window-sidebar > div.window-module.other-actions > div > div.js-subscribe-sidebar-button",
+    "flag" : "> a.button-link"
+  },
+  "html" : {},
+  "inputs" : {},
+  "title" : {
+    "Subscribe_to_the_card_to_get_notifications_when_something_changes_" :
+      "> a.button-link"
+  },
+  "placeholder" : {},
+  "substrings" : {
+    "Subscribe" : "> a.button-link"
+  }
+}

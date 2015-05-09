@@ -1,0 +1,21 @@
+{
+  "meta" : {
+    "howToGet" : "Open trello.com or click Trello logo in header.",
+    "basePath" : "#content > div",
+    "flag" : "> div > div > a.js-view-org-profile"
+  },
+  "html" : {
+    "Starred_Boards" :
+      "> div:nth-child(2) > div > h3",
+    "My_Boards" :
+      "> div:nth-child(3) > div > h3",
+    "Overview" :
+      "> div > div > a.js-view-org-profile",
+    "Create_new_board_" :
+      "> div > ul > li > a.board-list-item--add-board.js-add-board"
+  },
+  "inputs" : {},
+  "title" : {},
+  "placeholder" : {},
+  "substrings" : {}
+}

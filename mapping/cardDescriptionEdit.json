@@ -1,0 +1,17 @@
+{
+  "meta" : {
+    "howToGet" : "Click any card at board. Click 'Edit description'.",
+    "basePath" : "body > div.window-overlay > div > div > div > div.window-main-col > div.card-detail-data > div.card-detail-item.card-detail-item-block > div.card-detail-edit.edit",
+    "flag" :
+    "> a.js-format-help"
+  },
+  "html" : {
+    "Formatting_help" : "> a.js-format-help"
+  },
+  "inputs" : {
+    "Save" : "> div > input.js-save-edit"
+  },
+  "title" : {},
+  "placeholder" : {},
+  "substrings" : {}
+}

@@ -1,0 +1,865 @@
+{
+
+"cardComposer" : {
+  "meta" : {
+    "howToGet" : "Open any board and create a list.",
+    "basePath" : "body",
+    "flag" : "#board .list form .js-open-card-composer"
+  },
+  "html" : {
+    "Add_a_card_" :
+      "#board div.list a.open-card-composer"
+  },
+  "inputs" : {
+    "Add" :
+      "#board div.list-cards > div.card-composer > div.cc-controls > input"
+  },
+  "title" : {},
+  "placeholder" : {},
+  "substrings" : {}
+},
+
+
+
+"listCreationWindow" : {
+  "meta" : {
+    "howtoget" : "",
+    "basepath" : "#board > div.list.add-list > form",
+    "flag" : "> div > input.js-save-edit"
+  },
+  "html" : {
+    "Add_a_list_" :
+      "#board > div.list.add-list.idle > form > span"
+  },
+  "inputs" : {
+    "Save" : "> div > input.js-save-edit"
+  },
+  "title" : {
+  },
+  "placeholder" : {
+    "Add a list…" : "> input"
+  },
+  "substrings" : {
+  }
+},
+
+
+
+
+
+
+
+"cardEditWindow" : {
+  "meta" : {
+    "howToGet" : "Click any card on board.",
+    "basePath" : "body > div.window-overlay",
+    "flag" : "> div > div > div > div.window-sidebar > div > p > a.quiet-button.js-more-menu"
+
+  },
+  "html" : {
+    "Members" :
+      "> div > div > div > div.window-main-col > div.card-detail-data > div.card-detail-item.card-detail-item-members.js-card-detail-members > h3.card-detail-item-header",
+    "Activity" :
+      "> div > div > div > div.window-main-col > div > div.window-module-title.window-module-title-no-divider > h3",
+    "Members" :
+      "> div > div > div > div.window-sidebar > div > div > a.js-change-card-members",
+    "Move" :
+      "> div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-move-card",
+    "Copy" :
+      "> div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-copy-card",
+    "Archive" :
+      "> div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-archive-card",
+    "Due_Date" :
+      "> div > div > div > div.window-main-col > div.card-detail-data > div.card-detail-item.card-detail-item-due-date.js-card-detail-due-date > h3.card-detail-item-header",
+    "Labels" :
+      "> div > div > div > div.window-main-col > div.card-detail-data > div.card-detail-item.card-detail-item-labels.js-card-detail-labels > h3",
+    "Add" :
+      "> div > div > div > div.window-sidebar > div.window-module > h3",
+    "Actions" :
+      "> div > div > div > div.window-sidebar > div.window-module.other-actions > h3",
+    "Edit_the_description_" :
+      "> div > div > div > div.window-main-col > div.card-detail-data > div.card-detail-item.card-detail-item-block.editable > p.bottom > a.js-hide-with-desc",
+    "Labels" :
+      "> div > div > div > div.window-sidebar > div > div > a.js-edit-labels",
+    "Checklist" :
+      "> div > div > div > div.window-sidebar > div > div > a.js-add-checklist-menu",
+    "Due_date" :
+      "> div > div > div > div.window-sidebar > div > div > a.js-add-due-date",
+    "Attachment" :
+      "> div > div > div > div.window-sidebar > div > div > a.button-link.js-attach",
+    "Delete" :
+      "> div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-delete-card",
+    "Share_and_more_" :
+      "> div > div > div > div.window-sidebar > div:nth-child(3) > p > a.quiet-button.js-more-menu",
+    "Send_to_board" :
+      "> div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-unarchive-card",
+    "Drop_files_to_upload_" :
+      "> div > div > div > p.dropzone"
+  },
+  "inputs" : {},
+  "title" : {
+    "Add_or_remove_members_of_the_board_from_the_card_" :
+      "> div > div > div > div.window-sidebar > div:nth-child(1) > div > a.button-link.js-change-card-members",
+    "Change_the_labels_for_the_card_" :
+      "> div > div > div > div.window-sidebar > div:nth-child(1) > div > a.button-link.js-edit-labels",
+    "Add_a_checklist_and_divide_the_card_into_subtasks_" :
+      "> div > div > div > div.window-sidebar > div:nth-child(1) > div > a.button-link.js-add-checklist-menu",
+    "Add_a_due_date_for_the_card_and_get_notifications_when_it_is_almost_due_" :
+      "> div > div > div > div.window-sidebar > div > div > a.js-add-due-date",
+    "Attach_files_from_your_computer_or_from_Google_Drive_" :
+      "> div > div > div > div.window-sidebar > div:nth-child(1) > div > a.button-link.js-attach",
+    "Move_the_card_to_another_board__another_list__or_a_new_position_in_a_list" :
+      "> div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-move-card",
+    "Make_a_copy_of_this_card__optionally_include_checklist__labels__members__attachments__etc_" :
+      "> div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-copy-card",
+    "Remove_the_card_from_the_board_" :
+      "> div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-archive-card",
+    "Send_the_card_back_to_the_board_" :
+      "> div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-unarchive-card",
+    "Delete_the_card_and_all_history_associated_with_it__It_can_t_be_retrieved_" :
+      "> div > div > div > div.window-sidebar > div.window-module.other-actions.clearfix > div > a.button-link.js-delete-card",
+    "More_options_share__print__export__and_delete_" :
+      "> div > div > div > div.window-sidebar > div:nth-child(3) > p > a.quiet-button.js-more-menu",
+    "Click_to_star_this_board__It_will_show_up_at_top_of_your_boards_list_" :
+      "#content > div > div > ul > li > a > span > span.icon-sm.icon-star.js-star-board",
+    "You_are_subscribed_to_this_card_" :
+      "> div > div.list-card.list-card-quick-edit.js-stop > div.list-card-details.clearfix > div.badges > div",
+    "This_card_is_past_due_" :
+      "> div > div.list-card.list-card-quick-edit.js-stop > div.list-card-details.clearfix > div.badges > div.badge-state-due-past.badge"
+  },
+  "placeholder" : {
+    "Write_a_comment_" :
+      "> div > div > div > div.window-main-col > div > div.new-comment.js-new-comment > textarea.js-new-comment-input"
+  },
+  "substrings" : {
+    "in_list" :
+      "> div > div > div > div.window-header > div > div.window-header-inline-content.js-current-list > p.inline-block"
+  }
+},
+
+
+
+
+
+
+
+
+"boardHeader" : {
+  "meta" : {
+    "howToGet" : "Open any board. Also visible at Calendar view.",
+    "basePath" : "#content > div > div.board-header.js-board-header",
+    "flag" : "> div.board-header-btns.right > a.board-header-btn.calendar-btn.js-calendar > span.board-header-btn-text"
+  },
+  "html" : {
+    "Subscribed" :
+      "> div.board-header-btns > div > span.board-header-btn-text",
+    "Filtering_is_on_" :
+      "> div.board-header-btns > a.board-header-btn.board-header-btn-filter-indicator.js-filter-cards-indicator > span.board-header-btn-text"
+  },
+  "inputs" : {},
+  "title" : {
+    "You_are_filtering_cards_on_this_board__Click_here_to_edit_filter_" :
+      "> div.board-header-btns.right > a.board-header-btn.board-header-btn-filter-indicator.js-filter-cards-indicator",
+    "You_are_subscribed_to_this_board__You_ll_get_notifications_about_changes_" :
+      "> div.board-header-btns.right > div.board-header-btn.sub-btn.js-board-header-subscribed",
+    "Click_to_star_or_unstar_this_board__Starred_boards_show_up_at_the_top_of_your_boards_list_" :
+      "> div.board-header-btns.left > a.board-header-btn.js-star-board",
+    "Rename_the_board_" :
+      "> a.board-header-btn.board-header-btn-name.js-rename-board",
+    "This_board_is_private___Only_people_added_to_the_board_can_view_and_edit_it_" :
+      "#permission-level",
+    "This_board_is_public__It_s_visible_to_anyone_with_the_link_" :
+      "#permission-level"
+  },
+  "placeholder" : {},
+  "substrings" : {
+    "Public" :
+      "#permission-level > span.board-header-btn-text",
+    "Private" :
+      "#permission-level > span.board-header-btn-text"
+  }
+},
+
+
+
+"boardActivityWindow" : {
+  "meta" : {
+    "howToGet" : "Open sidebar Menu. Scroll down and click 'View all activity'.",
+    "basePath" : "body > div.window-overlay",
+    "flag" : "> div > div > div > div.window-main-col.window-main-col-full > a.show-more.js-more-actions"
+  },
+  "html" : {
+    "Board_Activity" :
+       "> div > div > div > div.window-header.clearfix > div > h2.window-title-text",
+     "Load_More_Activity" :
+       "> div > div > div > div.window-main-col.window-main-col-full > a.show-more.js-more-actions"
+  },
+  "inputs" : {},
+  "title" : {
+    "Close_this_dialog_window_" :
+      "> div > div > a.dialog-close-button.js-close-window"
+  },
+  "placeholder" : {},
+  "substrings" : {
+    "added" :
+      "> div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc",
+    "to" :
+      "> div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc",
+    "and" :
+      "> div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc",
+    "joined" :
+      "> div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc",
+    "moved" :
+      "> div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc",
+    "from" :
+      "> div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc",
+    "archived" :
+      "> div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc",
+    "renamed" :
+      "> div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc",
+    "this_board" :
+      "> div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc",
+    "attached" :
+      "> div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc",
+    "sent" :
+      "> div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc",
+    "to_the_board" :
+      "> div > div > div > div.window-main-col.window-main-col-full > div > div > div.phenom-desc"
+  }
+},
+
+
+
+"activityMenuSidebar" : {
+  "meta" : {
+    "howToGet" : "Open sidebar Menu and scroll down.",
+    "basePath" : "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-activity",
+    "flag" :
+      "> div.board-widget-content > div.board-actions-list.fancy-scrollbar > div > div:nth-child(10) > div.phenom-desc"
+  },
+  "html" : {
+    "View_all_activity_" :
+    "> div.board-widget-content > div.board-actions-list.fancy-scrollbar > a.show-more.js-view-all-activity-list"
+  },
+  "inputs" : {},
+  "title" : {},
+  "placeholder" : {},
+  "substrings" : {
+    "added" :
+      "> div.board-widget-content > div.board-actions-list > div > div > div.phenom-desc",
+    "to" :
+      "> div.board-widget-content > div.board-actions-list > div > div > div.phenom-desc",
+    "and" :
+      "> div.board-widget-content > div.board-actions-list > div > div > div.phenom-desc",
+    "joined" :
+      "> div.board-widget-content > div.board-actions-list > div > div > div.phenom-desc",
+    "moved" :
+      "> div.board-widget-content > div.board-actions-list > div > div > div.phenom-desc",
+    "from" :
+      "> div.board-widget-content > div.board-actions-list > div > div > div.phenom-desc",
+    "archived" :
+      "> div.board-widget-content > div.board-actions-list > div > div > div.phenom-desc",
+    "renamed" :
+      "> div.board-widget-content > div.board-actions-list > div > div > div.phenom-desc",
+    "this_board" :
+      "> div.board-widget-content > div.board-actions-list > div > div > div.phenom-desc",
+    "attached" :
+      "> div.board-widget-content > div.board-actions-list > div > div > div.phenom-desc",
+    "sent" :
+      "> div.board-widget-content > div.board-actions-list > div > div > div.phenom-desc",
+    "to_the_board" :
+      "> div.board-widget-content > div.board-actions-list > div > div > div.phenom-desc"
+  }
+},
+
+
+
+
+
+
+"Menu_sidebar" : {
+  "meta" : {
+    "howToGet" : "Open Sidebar menu.",
+    "basePath" : "#content > div > div.board-widgets",
+    "flag" : "> div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.js-close-board"
+  },
+  "html" : {
+    "Menu" :
+      ".board-widget-nav > h3",
+    "Add_Members" :
+      ".board-widget-members .board-widget-content > a",
+    "Members" :
+      ".board-widget-members > div.board-widget-title > h3",
+    "Power_Ups" :
+      "> div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.js-open-power-ups",
+    "Stickers" :
+      "> div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.js-open-stickers",
+    "Filter_Cards" :
+      "> div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.js-open-card-filter",
+    "Archived_Items" :
+      "> div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.js-open-archive",
+    "Change_Background_" :
+      "> div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.board-settings-background.js-change-background",
+    "Email_to_board_Settings_" :
+      "> div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.js-email",
+    "Copy_Board_" :
+      "> div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.js-copy-board",
+    "Share__Print__and_Export_" :
+      "> div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.js-share",
+    "Additional_Settings_" :
+      "> div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.js-open-settings",
+    "Close_Board_" :
+      "> div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.js-close-board",
+    "Leave_Board_" :
+      "> div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.js-leave-board",
+    "Activity" :
+      "> div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-activity > div.board-widget-title > h3"
+  },
+  "inputs" : {},
+  "title" : {
+    "Close_the_board_sidebar_" :
+      "> div > a.js-hide-sidebar",
+    "Click_here_to_see_more_board_options_" :
+      "> div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > h3"
+  },
+  "placeholder" : {},
+  "substrings" : {}
+},
+
+
+
+
+
+
+
+
+"Search_window" : {
+  "meta" : {
+    "basePath" : "body > div.pop-over.clearfix.search-over",
+    "flag" : "> div.content.js-tab-parent > div > div.search-tips.js-no-input > p > a.js-show-search-tips"
+  },
+  "html" : {
+    "Boards" :
+      "> div.content.js-tab-parent > div > div.js-search-results > div.search-results-section.js-board-results > div > h4",
+    "Members" :
+      "> div.content.js-tab-parent > div > div.js-search-results > div.search-results-section.js-member-results > div > h4",
+    "Saved_Searches" :
+      "> div.content.js-tab-parent > div > div.search-results-section.js-saved-searches > div.search-results-section-header > h4",
+    "Your_search_produced_an_error_" :
+      "> div.content.js-tab-parent > div > p.search-warning.js-err",
+    "Searching_" :
+      "> div.content.js-tab-parent > div > p.search-warning.js-searching",
+    "No_results_" :
+      "> div.content.js-tab-parent > div > p.search-warning.js-no-results",
+    "Refine_your_search_with_operators_like__member___label__is_archived__and_has_attachments_" :
+      "> div.content.js-tab-parent > div > div.search-tips.js-no-input > p.js-search-tips-helper",
+    "Learn_more_" :
+      "> div.content.js-tab-parent > div > div.search-tips.js-no-input > p > a.js-show-search-tips",
+    "Cards" :
+      "> div.content.js-tab-parent > div > div.js-search-results > div.search-results-section.js-card-results > div.search-results-section-header.clearfix > h4",
+    "Loading_" :
+      "> div.content.js-tab-parent > div > div.js-search-results.clearfix > div.search-results-section.js-card-results > span.search-loading.js-loading-cards",
+    "Show_more_boards_" :
+      "> div.content.js-tab-parent > div > div.js-search-results > div.search-results-section.js-board-results > a.quiet-button.quiet-button-large.js-show-more-boards",
+    "Show_more_members_" :
+      "> div.content.js-tab-parent > div > div.js-search-results > div.search-results-section.js-member-results > a.quiet-button.quiet-button-large.js-show-more-members",
+    "Organizations" :
+      "> div.content.js-tab-parent > div > div.js-search-results > div.search-results-section.js-org-results > div > h4",
+    "Show_more_organizations_" :
+      "> div.content.js-tab-parent > div > div.js-search-results > div.search-results-section.js-org-results > a.quiet-button.quiet-button-large.js-show-more-orgs",
+    "Back_to_Saved_Searches" :
+      "> div.content.clearfix.fancy-scrollbar.js-tab-parent > div > div.search-results-section-header-options > div > a.quiet.dark-hover.search-results-section-header-see-all-saved-searches.js-see-all-saved-searches",
+    "Save_this_Search" :
+      "> div.content.clearfix.fancy-scrollbar.js-tab-parent > div > div.search-results-section-header-options > div > a.quiet.dark-hover.search-results-section-header-save-this-search.js-save-this-search",
+    "Did_you_mean_" :
+      "> div.content.clearfix.fancy-scrollbar.js-tab-parent > div > div.search-results-section.js-search-suggestions.clearfix > div.search-results-section-header > h4",
+    "Only_include_cards_that_have_stickers_" :
+      ">div.content.clearfix.fancy-scrollbar.js-tab-parent > div > div.search-results-section.js-search-suggestions.clearfix > div.js-search-suggestions-list > a > span.search-suggestion-desc"
+  },
+  "inputs" : {},
+  "title" : {},
+  "placeholder" : {},
+  "substrings" : {}
+},
+
+
+
+
+
+"Notifications_window" : {
+  "meta" : {
+    "basePath" : "body > div.popover-notifications ",
+    "flag" : "> div.content > div > ul > li > a.js-change-email-frequency"
+  },
+  "html" : {
+    "Notifications" :
+      "> .header > span.header-title",
+    "Change_Notification_Email_Frequency" :
+      "> div.content > div > ul > li > a.js-change-email-frequency",
+    "See_All_Notifications" :
+      "> div.content > div > ul > li > a.js-view-all-notifications"
+  },
+  "inputs" : {},
+  "title" : {},
+  "placeholder" : {},
+  "substrings" : {}
+},
+
+
+
+
+
+"Create_new_board_window" : {
+  "meta" : {
+    "basePath" : "body > div.pop-over",
+    "flag" : "div.content.js-tab-parent > div > form > input.js-submit[value='Create']"
+  },
+  "html" : {
+    "This_board_is_private___Only_people_added_to_the_board_can_view_and_edit_it_" :
+      "div.content > div > form > ul > li > a[name='private'] > span.sub-name",
+    "This_board_is_public__It_s_visible_to_anyone_with_the_link_" :
+      "div.content > div > form > ul > li > a[name='public'] > span.sub-name",
+    "The_board_must_be_added_to_an_org_to_enable_this_" :
+      "div.content > div > form > ul > li > a[name='org'] > span.sub-name span.error",
+    "Create_Board":
+      "div.header > span.header-title",
+    "Title" :
+      "div.content > div > form > label",
+    "Organization" :
+      "div.content > div > form > div > div > label",
+    "Change_" :
+      "div.content > div > form > p.quiet.js-vis-display > a.js-change-vis"
+  },
+  "inputs" : {
+    "Create" : "div.content > div > form > input.js-submit"
+  },
+  "title" : {},
+  "placeholder" : {
+    "What_are_you_organizing_" : "#boardNewTitle",
+    "What_are_you_planning_" : "#boardNewTitle",
+    "Like__Vacation_Planning__for_example_" : "#boardNewTitle",
+    "Like__House_Stuff__for_example_" : "#boardNewTitle",
+    "Like__Bucket_List__for_example_" : "#boardNewTitle",
+    "Like__Game_Development_Roadmap__" : "#boardNewTitle",
+    "Like__Calvinball_Meetup_Schedule__" : "#boardNewTitle",
+    "Like__Weekly_Meal_Planning__for_example_" : "#boardNewTitle",
+    "Like__School_Research__for_example_" : "#boardNewTitle",
+    "Like__Team_Product_Sprint__for_example_" : "#boardNewTitle",
+    "Like__Publishing_Calendar__for_example_" : "#boardNewTitle",
+    "Like__New_Hire_Onboarding__for_example_" : "#boardNewTitle",
+    "Like__Reading_Collection__for_example_" : "#boardNewTitle"
+  },
+  "substrings" : {
+    "This_board_will_be" :
+      "content.js-tab-parent > div > form > p.quiet.js-vis-display",
+    "private" :
+      "div.content > div > form > p.quiet.js-vis-display > strong",
+    "Private" :
+      "div.content > div > form > ul > li > a.js-select[name='private']",
+    "Organization" :
+      "div.content > div > form > ul > li > a.js-select[name='org']",
+    "Public" :
+      "div.content > div > form > ul > li > a.js-select[name='public']",
+    "This_board_is_visible_to_members_of_the_organization___Only_people_added_to_the_board_can_edit_" :
+      "div.content > div > form > ul > li > a[name='org'] > span.sub-name"
+  }
+},
+
+
+
+
+
+
+
+
+
+"List_context_menu" : {
+  "meta" : {
+    "basePath" : "body > div.pop-over",
+    "flag" : "> div.content.js-tab-parent > div > ul > li > a.js-close-list"
+  },
+  "html" : {
+    "List_Actions" :
+      ".header span.header-title",
+    "Add_Card_" :
+      "> div.content > div > ul > li > a.js-add-card",
+    "Copy_List_" :
+      "> div.content > div > ul > li > a.js-copy-list",
+    "Move_List_" :
+      "> div.content > div > ul > li > a.js-move-list",
+    "Subscribe" :
+      "> div.content > div > ul > li > a.js-list-subscribe",
+    "Move_All_Cards_in_This_List_" :
+      "> div.content > div > ul > li > a.js-move-cards",
+    "Archive_All_Cards_in_This_List_" :
+      "> div.content > div > ul > li > a.js-archive-cards",
+    "Archive_This_List" :
+      "> div.content > div > ul > li > a.js-close-list"
+  },
+  "inputs" : {},
+  "title" : {},
+  "placeholder" : {},
+  "substrings" : {}
+},
+"cardContextMenu" : {
+  "meta" : {
+    "basePath" : "body > div.quick-card-editor",
+    "flag" : "> div > div.quick-card-editor-buttons.fade-in > a.quick-card-editor-buttons-item.js-archive > span.quick-card-editor-buttons-item-text"
+  },
+  "html" : {
+    "Edit_Labels" :
+      "> div > div.quick-card-editor-buttons > a.quick-card-editor-buttons-item.js-edit-labels > span.quick-card-editor-buttons-item-text",
+    "Change_Members" :
+      "> div > div.quick-card-editor-buttons > a.quick-card-editor-buttons-item.js-edit-members > span.quick-card-editor-buttons-item-text",
+    "Move" :
+      "> div > div.quick-card-editor-buttons > a.quick-card-editor-buttons-item.js-move-card > span.quick-card-editor-buttons-item-text",
+    "Copy" :
+      "> div > div.quick-card-editor-buttons > a.quick-card-editor-buttons-item.js-copy-card > span.quick-card-editor-buttons-item-text",
+    "Change_Due_Date" :
+      "> div > div.quick-card-editor-buttons > a.quick-card-editor-buttons-item.js-edit-due-date > span.quick-card-editor-buttons-item-text",
+    "Archive" :
+      "> div > div.quick-card-editor-buttons > a.quick-card-editor-buttons-item.js-archive > span.quick-card-editor-buttons-item-text"
+  },
+  "inputs" : {
+    "Save" : "> div > input.js-save-edits"
+  },
+  "title" : {
+  },
+  "placeholder" : {},
+  "substrings" : {}
+},
+"Create_Organization_window" : {
+  "meta" : {
+    "basePath" : "body > div.pop-over",
+    "flag" : "#org-display-name"
+  },
+  "html" : {
+    "Create_Organi`zation" :
+      "> div.header > span",
+    "An_organization_is_a_group_of_boards_and_members_" :
+      "> div.content.js-tab-parent > div > p",
+    "Name" :
+      "> div.content.js-tab-parent > div > form > label[for='org-display-name']",
+    "Description" :
+      "> div.content.js-tab-parent > div > form > label[for='org-desc']"
+  },
+  "inputs" : {
+    "Create" :
+      "> div.content.js-tab-parent > div > form > input.primary.wide.js-save"
+  },
+  "title" : {},
+  "placeholder" : {},
+  "substrings" : {}
+},
+"Create_an_Organization_window" : {
+  "meta" : {
+    "basePath" : "body > div.pop-over",
+    "flag" : "> div.content.js-tab-parent > div > a.button.js-create-org"
+  },
+  "html" : {
+    "Add_an_Organization" :
+      "> div.header > span",
+    "Create_an_Organization" :
+      "> div.content.js-tab-parent > div > a.button.js-create-org",
+    "An_organizations_is_a_collection_of_members_and_boards_" :
+      "> div.content.js-tab-parent > div > p"
+  },
+  "inputs" : {},
+  "title" : {},
+  "placeholder" : {},
+  "substrings" : {}
+},
+
+
+"Star_and_Unstar_buttons_at_Boards_List" : {
+  "meta" : {
+    "basePath" : "#boards-drawer",
+    "flag" :
+    "> div > div.board-drawer-content > div.js-boards-list-container > div > div > ul > li > a > span.details > span.icon-sm.icon-star.js-star-board"
+  },
+  "html" : {},
+  "inputs" : {},
+  "title" : {
+    "Click_to_star_this_board__It_will_show_up_at_top_of_your_boards_list_" :
+      "> div > div.board-drawer-content > div.js-boards-list-container > div > div > ul > li > a > span.details > span.icon-sm.icon-star.js-star-board",
+    "There_is_new_activity_on_this_board_" :
+      "> div > div.board-drawer-content > div.js-boards-list-container > div > div > ul > li > a > span.details > span.unread-indicator.js-unread.any"
+  },
+  "placeholder" : {},
+  "substrings" : {}
+},
+"Boards_List" : {
+  "meta" : {
+    "basePath" : "#boards-drawer",
+    "flag" : "> div > div.board-drawer-content > div.js-boards-list-container > a.quiet-button.js-open-closed-boards"
+  },
+  "html" : {
+    "Boards" :
+      "div > div.boards-drawer-header.js-drawer-header > h3",
+    "Starred_Boards" :
+      "div > div.board-drawer-content > div.js-boards-list-container > div.starred-sidebar-boards-list.js-starred-boards > div > p > span.sidebar-section-header-title",
+    "Create_new_board_" :
+      "> div > div.board-drawer-content.fancy-scrollbar > div.js-boards-list-container > a.quiet-button.js-add-board",
+    "Always_keep_this_menu_open_" :
+      "div > div.board-drawer-content.fancy-scrollbar > div.js-boards-list-container > a.quiet-button.js-pin",
+    "Don_t_keep_this_menu_open_" :
+      "div > div.board-drawer-content.fancy-scrollbar > div.js-boards-list-container > a.quiet-button.js-unpin",
+    "See_closed_boards_" :
+      "div > div.board-drawer-content.fancy-scrollbar > div.js-boards-list-container > a.quiet-button.js-open-closed-boards"
+  },
+  "inputs" : {},
+  "title" : {
+    "Collapse_section_" :
+      "div > div.board-drawer-content > div.js-boards-list-container > div > div > p > span.js-collapse-section",
+    "Expand_section_" :
+      "div > div.board-drawer-content > div.js-boards-list-container > div > div > p > span.js-expand-section"
+  },
+  "placeholder" : {
+    "Find_boards_by_name_" :
+      "div > div.board-drawer-content.fancy-scrollbar > input.js-search-boards"
+  },
+  "substrings" : {}
+},
+"My_Boards_at_Boards_List" : {
+  "meta" : {
+    "basePath" : "#boards-drawer",
+    "flag" : "> div > div.board-drawer-content > div.js-boards-list-container > div.js-all-boards > div > p > span.icon-sm.icon-board"
+  },
+  "html" : {
+    "My_Boards" :
+      "> div > div.board-drawer-content > div.js-boards-list-container > div.js-all-boards > div:nth-child(1) > p > span.sidebar-section-header-title"
+  },
+  "inputs" : {},
+  "title" : {
+    "Collapse_section_" :
+      "div > div.board-drawer-content > div.js-boards-list-container > div > div > p > span.js-collapse-section",
+    "Expand_section_" :
+      "div > div.board-drawer-content > div.js-boards-list-container > div > div > p > span.js-expand-section"
+  },
+  "placeholder" : {},
+  "substrings" : {}
+},
+"Recent_Boards_at_Boards_List" : {
+  "meta" : {
+    "basePath" : "#boards-drawer",
+    "flag" : "> div > div.board-drawer-content > div.js-boards-list-container > div.js-recent-boards > div > p > span.icon-sm.icon-clock"
+  },
+  "html" : {
+    "Recent_Boards" :
+      "> div > div.board-drawer-content.fancy-scrollbar > div.js-boards-list-container > div.js-recent-boards > div > p > span.sidebar-section-header-title"
+  },
+  "inputs" : {},
+  "title" : {},
+  "placeholder" : {},
+  "substrings" : {}
+},
+"Board_is_closed_message" : {
+  "meta" : {
+    "basePath" : "#content > div > div",
+    "flag" : "> p > a.js-reopen"
+  },
+  "html" : {
+    "Click_here_to_re_open_it_" :
+      "> p > a.js-reopen"
+  },
+  "inputs" : {},
+  "title" : {},
+  "placeholder" : {},
+  "substrings" : {
+    "is_closed_" : "> h1"
+  }
+},
+"Close_Board_window" : {
+  "meta" : {
+    "howToGet" : "Sidebar Menu, click 'Close board'.",
+    "basePath" : "body > div.pop-over",
+    "flag" : "> div.content.js-tab-parent > div > input.js-confirm.negate[value='Close']"
+  },
+  "html" : {
+    "Close_Board_question_mark" :
+      "> div.header > span",
+    "You_can_re_open_the_board_by_clicking_the___Boards___menu_from_the_header_" :
+      "> div.content.js-tab-parent > div > p"
+  },
+  "inputs" : {
+    "Close" :
+      "> div.content.js-tab-parent > div > input.js-confirm.negate"
+  },
+  "title" : {},
+  "placeholder" : {},
+  "substrings" : {}
+},
+"trelloGold" : {
+  "meta" : {
+    "howToGet" : "Will be visible only if person has Trello Gold.",
+    "basePath" : "body #header > div.header-user > a.header-btn.header-member.js-open-header-member-menu > span.member.has-crown",
+    "flag" : "> span.member-gold-badge"
+  },
+  "html" : {},
+  "inputs" : {},
+  "title" : {
+    "This_member_has_Trello_Gold_" : "> span.member-gold-badge"
+  },
+  "placeholder" : {},
+  "substrings" : {}
+},
+"pageHeader" : {
+  "meta" : {
+    "howToGet" : "Visible at any view.",
+    "basePath" : "body #header",
+    "flag" : "> div.header-user > a.header-btn.header-notifications.js-open-header-notifications-menu"
+  },
+  "html" : {
+    "Boards" :
+      "> div.header-boards-button > a > span.header-btn-text"
+  },
+  "inputs" : {},
+  "title" : {
+    "Search_for_boards__cards__members__and_organizations_" :
+      "> div > a.header-btn.open-search-btn.js-open-search-page",
+    "Add_a_new_board_or_organization_" :
+      "> div.header-user > a.header-btn.js-open-add-menu",
+    "You_are_seeing_an_early__experimental_version_of_Trello__We_would_love_your_feedback_" :
+      "> div.header-user > a.header-btn.header-btn-feedback.js-open-feedback",
+    "Get_access_to_your_profile__help__and_log_out_" :
+      "> div.header-user > a.header-btn.header-member.js-open-header-member-menu",
+    "Go_back_to_your_boards_page_" : "> a",
+    "View_list_of_boards" : "> div.header-boards-button > a"
+  },
+  "placeholder" : {},
+  "substrings" : {}
+},
+"renameBoardWindow" : {
+  "meta" : {
+    "howToGet" : "Click board name in the header.",
+    "basePath" : "body > div.pop-over ",
+    "flag" : "> div.content.js-tab-parent > div > form > input.primary.wide.js-rename-board[value='Rename']"
+  },
+  "html" : {
+    "Rename_Board" : "> div.header > span",
+    "Name" : "> div.content.js-tab-parent > div > form > label"
+  },
+  "inputs" : {
+    "Rename" : "> div.content.js-tab-parent > div > form > input.primary.wide.js-rename-board[value='Rename']"
+  },
+  "title" : {},
+  "placeholder" : {},
+  "substrings" : {}
+},
+"boardOrganizationWindow" : {
+  "meta" : {
+    "howToGet" : "Click current organization name in header.",
+    "basePath" : "body > div.pop-over",
+    "flag" : "> div.content.js-tab-parent > div > ul > li > a.js-view-org"
+  },
+  "html" : {
+   "Change_Organization_" :
+     "> div.content.js-tab-parent > div > ul > li > a.js-change-org",
+   "View_Organization_Page" :
+     "> div.content.js-tab-parent > div > ul > li > a.js-view-org"
+  },
+  "inputs" : {},
+  "title" : {},
+  "placeholder" : {},
+  "substrings" : {}
+},
+"changeOrganizationWindow" : {
+  "meta" : {
+    "howToGet" : "Click organization name in board's header, than 'Change Organization' link.",
+    "basePath" : "body > div.pop-over",
+    "flag" : "> div.content > div > form > select.js-org"
+  },
+  "html" : {
+    "Change_Organization" : "> div.header > span.header-title",
+    "Organization" : "> div.content > div > form > label"
+  },
+  "inputs" : {
+    "Change" : "> div.content > div > form > input.js-submit.wide.primary"
+  },
+  "title" : {},
+  "placeholder" : {},
+  "substrings" : {}
+},
+"pageNotFound" : {
+  "meta" : {
+    "howToGet" : "Add new symbols to trello's URL.",
+    "basePath" : "#content",
+    "flag" : "> div.big-message.quiet > h1"
+  },
+  "html" : {},
+  "inputs" : {},
+  "title" : {},
+  "placeholder" : {},
+  "substrings" : {
+    "Page_not_found_" :
+      "> div.big-message quiet > h1",
+    "This_page_may_be_private__If_someone_gave_you_this_link__" :
+      "> div.big-message quiet > p"
+  }
+},
+"connectionError" : {
+  "meta" : {
+    "howToGet" : "Open trello.com and turn off internet connection.",
+    "basePath" : "#notification",
+    "flag" : "#notification_connectionDead > a"
+  },
+  "html" : {
+    "Reload_page" :
+      "#notification_connectionDead > a"
+  },
+  "inputs" : {},
+  "title" : {},
+  "placeholder" : {},
+  "substrings" : {
+    "Could not connect to Trello." :
+      "#notification_connectionDead"
+  }
+},
+"addNewOrganizationOrBoardWindow" : {
+  "meta" : {
+    "howToGet" : "Click '+' in header at any page.",
+    "basePath" : "body > div.pop-over",
+    "flag" : "> div.content > div > ul > li > a.js-new-org"
+  },
+  "html" : {
+    "Add" :
+      "> div.header > span.header-title",
+    "A_board_is_a_collection_of_cards_ordered_in_a_list_of_lists__" :
+      "> div.content > div > ul > li > a.js-new-board > span",
+    "An_organization_is_a_group_of_boards_and_people__" :
+      "> div.content > div > ul > li > a.js-new-org > span"
+  },
+  "inputs" : {},
+  "title" : {},
+  "placeholder" : {},
+  "substrings" : {
+    "New_Organization_" :
+      "> div.content > div > ul > li > a.js-new-org",
+    "New_Board_" :
+      "> div.content > div > ul > li > a.js-new-board"
+  }
+},
+"Closed_boards_window" : {
+  "meta" : {
+    "howToGet" : "click 'Boards', Click 'See closed boards'.",
+    "basePath" : "body > div.window-overlay",
+    "flag" : "> div > div > div > div.window-sidebar > p.helper"
+  },
+  "html" : {
+    "Closed_Boards" :
+      "> div > div > div > div.window-header > h2.window-title",
+    "Re_open" :
+      "> div > div > div > div.window-main-col > div > ul > li > div > a",
+    "You_have_to_have_been_a_board_admin_to_re_open_a_closed_board_" :
+      "> div > div > div > div.window-sidebar > p.helper"
+  },
+  "inputs" : {},
+  "title" : {
+    "Close_this_dialog_window_" :
+      "> div > div > a.con-close.dialog-close-button.js-close-window"
+    },
+  "placeholder" : {},
+  "substrings" : {}
+}
+}
+

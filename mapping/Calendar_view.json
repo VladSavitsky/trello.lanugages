@@ -1,0 +1,121 @@
+{
+  "meta" : {
+    "basePath" : "",
+    "flag" : ""
+  },
+  "html" : {
+    "Add_a_card_" :
+      "div.calendar-content > div > div > div > div > div > a.open-card-composer.js-open-card-composer",
+    "Calendar" :
+      "#content .board-header .board-header-btns .calendar-btn > span.board-header-btn-text",
+    "Today" :
+      "div.calendar-header > div.calendar-header-toolbar > div.calendar-header-toolbar-today > a.button-link.today-button.js-today",
+    "Week" :
+      "div.calendar-header > div.calendar-header-toolbar > div.calendar-header-toolbar-type > a.button-link.js-week-view.week-button",
+    "Month" :
+      "div.calendar-header > div.calendar-header-toolbar > div.calendar-header-toolbar-type > a.button-link.js-month-view.month-button",
+    "Sun" :
+      "div.calendar-header > div.days-of-week > div:nth-child(1)",
+    "Mon" :
+      "div.calendar-header > div.days-of-week > div:nth-child(2)",
+    "Tue" :
+      " div.calendar-header > div.days-of-week > div:nth-child(3)",
+    "Wed" :
+      "div.calendar-header > div.days-of-week > div:nth-child(4)",
+    "Thu" :
+      "div.calendar-header > div.days-of-week > div:nth-child(5)",
+    "Fri" :
+      "div.calendar-header > div.days-of-week > div:nth-child(6)",
+    "Sat" :
+      "div.calendar-header > div.days-of-week > div:nth-child(7)",
+    "January" : [
+      "div.calendar-header > div.calendar-header-toolbar > h2.calendar-header-toolbar-title.js-calendar-header",
+      "div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-full-month-header"
+    ],
+    "February" : [
+      "div.calendar-header > div.calendar-header-toolbar > h2.calendar-header-toolbar-title.js-calendar-header",
+      "div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-full-month-header"
+    ],
+    "March" : [
+      "div.calendar-header > div.calendar-header-toolbar > h2.calendar-header-toolbar-title.js-calendar-header",
+      "div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-full-month-header"
+    ],
+    "April" : [
+      "div.calendar-header > div.calendar-header-toolbar > h2.calendar-header-toolbar-title.js-calendar-header",
+      "div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-full-month-header"
+    ],
+    "May" : [
+      "div.calendar-header > div.calendar-header-toolbar > h2.calendar-header-toolbar-title.js-calendar-header",
+      "div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-full-month-header"
+    ],
+    "June" : [
+      "div.calendar-header > div.calendar-header-toolbar > h2.calendar-header-toolbar-title.js-calendar-header",
+      "div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-full-month-header"
+    ],
+    "July" : [
+      "div.calendar-header > div.calendar-header-toolbar > h2.calendar-header-toolbar-title.js-calendar-header",
+      "div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-full-month-header"
+    ],
+    "August" : [
+      "div.calendar-header > div.calendar-header-toolbar > h2.calendar-header-toolbar-title.js-calendar-header",
+      "div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-full-month-header"
+    ],
+    "September" : [
+      "div.calendar-header > div.calendar-header-toolbar > h2.calendar-header-toolbar-title.js-calendar-header",
+      "div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-full-month-header"
+    ],
+    "October" : [
+      "div.calendar-header > div.calendar-header-toolbar > h2.calendar-header-toolbar-title.js-calendar-header",
+      "div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-full-month-header"
+    ],
+    "November" : [
+      "div.calendar-header > div.calendar-header-toolbar > h2.calendar-header-toolbar-title.js-calendar-header",
+      "div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-full-month-header"
+    ],
+    "December" : [
+      "div.calendar-header > div.calendar-header-toolbar > h2.calendar-header-toolbar-title.js-calendar-header",
+      "div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-full-month-header"
+    ]
+  },
+  "inputs" : {},
+  "title" : {},
+  "placeholder" : {},
+  "substrings" : {
+    "Jan" : [
+      "div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-month-header"
+    ],
+    "Feb" : [
+      "div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-month-header"
+    ],
+    "Mar" : [
+      "div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-month-header"
+    ],
+    "Apr" : [
+      "div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-month-header"
+    ],
+    "May" : [
+      "div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-month-header"
+    ],
+    "Jun" : [
+      "div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-month-header"
+    ],
+    "Jul" : [
+      "div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-month-header"
+    ],
+    "Aug" : [
+      "div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-month-header"
+    ],
+    "Sep" : [
+      "div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-month-header"
+    ],
+    "Oct" : [
+      "div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-month-header"
+    ],
+    "Nov" : [
+      "div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-month-header"
+    ],
+    "Dec" : [
+      "div.calendar-content > div > div > div > div > div > div.day-header.js-toggle-day > h3 > div.day-month-header"
+    ]
+  }
+}
