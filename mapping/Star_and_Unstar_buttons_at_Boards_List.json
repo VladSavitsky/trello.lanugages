@@ -1,0 +1,17 @@
+{
+  "meta" : {
+    "basePath" : "#boards-drawer",
+    "flag" :
+    "> div > div.board-drawer-content > div.js-boards-list-container > div > div > ul > li > a > span.details > span.icon-sm.icon-star.js-star-board"
+  },
+  "html" : {},
+  "inputs" : {},
+  "title" : {
+    "Click_to_star_this_board__It_will_show_up_at_top_of_your_boards_list_" :
+      "> div > div.board-drawer-content > div.js-boards-list-container > div > div > ul > li > a > span.details > span.icon-sm.icon-star.js-star-board",
+    "There_is_new_activity_on_this_board_" :
+      "> div > div.board-drawer-content > div.js-boards-list-container > div > div > ul > li > a > span.details > span.unread-indicator.js-unread.any"
+  },
+  "placeholder" : {},
+  "substrings" : {}
+}
