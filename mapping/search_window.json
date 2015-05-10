@@ -1,0 +1,50 @@
+{
+  "meta" : {
+    "context" : "search_window",
+    "howToGet" : "Open any board and start type in search box.",
+    "basePath" :
+      "body > div.pop-over.mod-search-over.is-shown",
+    "flag" :
+      "> div.pop-over-content.js-fill-pop-over-content.js-tab-parent > div > div.search-tips > p > a.js-show-search-tips"
+  },
+  "html" : {
+    "Did_you_mean_" :
+      "> div.pop-over-content.js-fill-pop-over-content > div > div.search-results-section.js-search-suggestions > div.search-results-section-header > h4",
+    "Boards" :
+      "> div.pop-over-content.js-fill-pop-over-content > div > div.js-search-results > div.search-results-section.js-board-results > div > h4",
+    "Cards" :
+      "> div.pop-over-content.js-fill-pop-over-content > div > div.js-search-results > div.search-results-section.js-card-results > div > h4",
+    "Organizations" :
+      "> div.pop-over-content.js-fill-pop-over-content > div > div.js-search-results > div.search-results-section.js-org-results > div > h4",
+    "Members" :
+      "> div.pop-over-content.js-fill-pop-over-content > div > div.js-search-results > div.search-results-section.js-member-results > div > h4",
+    "Back_to_Saved_Searches" :
+      "> div.pop-over-content.u-fancy-scrollbar.js-fill-pop-over-content.js-tab-parent > div > div.search-results-section-header-options > div > a.quiet.dark-hover.search-results-section-header-options-option.js-see-all-saved-searches",
+    "Save_this_Search" :
+      "> div.pop-over-content.u-fancy-scrollbar.js-fill-pop-over-content.js-tab-parent > div > div.search-results-section-header-options > div > a.quiet.dark-hover.search-results-section-header-options-option.js-save-this-search",
+    "No_results_" :
+      "> div.pop-over-content.js-fill-pop-over-content.js-tab-parent > div > p.search-warning.js-no-results",
+    "Searching_" :
+      "> div.pop-over-content.js-fill-pop-over-content.js-tab-parent > div > p.search-warning.js-searching",
+    "Upgrade to add new saved searches!" :
+      "> div.pop-over-content.js-fill-pop-over-content.js-tab-parent > div > div.search-results-section.js-save-this-search-menu > h2",
+    "Show_more_cards_" :
+      "> div.pop-over-content.js-fill-pop-over-content.js-tab-parent > div > div.js-search-results > div.search-results-section.js-card-results > a.js-show-more-cards",
+    "Learn_more_" :
+      "> div.pop-over-content.js-fill-pop-over-content.js-tab-parent > div > div.search-tips > p > a.js-show-search-tips",
+    "Saved_Searches" :
+      "> div.pop-over-content.js-fill-pop-over-content.js-tab-parent > div > div.search-results-section.js-saved-searches > div.search-results-section-header > h4",
+  },
+  "substrings" : {
+    "Refine_your_search_with_operators_like__member___label__is_archived__and_has_attachments_" :
+      "> div.pop-over-content.js-fill-pop-over-content.js-tab-parent > div > div.search-tips.js-no-input > p.search-tips-helper.js-search-tips-helper",
+    "You can add new saved searches with" :
+      "body > div.pop-over.mod-search-over.is-shown > div.pop-over-content.u-fancy-scrollbar.js-fill-pop-over-content.js-tab-parent > div > div.search-results-section.js-save-this-search-menu > p:nth-child(2)",
+    "or get saved searches for your entire organization with" :
+      "body > div.pop-over.mod-search-over.is-shown > div.pop-over-content.u-fancy-scrollbar.js-fill-pop-over-content.js-tab-parent > div > div.search-results-section.js-save-this-search-menu > p:nth-child(2)"
+  },
+  "title" : {
+    "Click_to_star_this_board__It_will_show_up_at_top_of_your_boards_list_" :
+      "> div.pop-over-content.js-fill-pop-over-content.js-tab-parent > div > div.js-search-results > div.search-results-section.js-board-results > ul > li.starred.selected > a > span.details > span.icon-sm.icon-star.js-star-board.icon-star-active"
+  }
+}

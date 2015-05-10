@@ -1,0 +1,13 @@
+{
+  "meta" : {
+    "context": "board",
+    "howtoget" : "Open any board.",
+    "basePath" : "",
+    "flag" :
+      "#board > div > a.open-card-composer"
+  },
+  "html" : {
+    "Add_a_card_" :
+      "#board > div > a.open-card-composer"
+  }
+}

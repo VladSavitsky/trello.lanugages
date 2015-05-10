@@ -1,4 +1,10 @@
 {
+  "View_all_your_cards_with_due_dates_in_a_calendar_view_" : {
+		"message": "Смотрите все ваши карточки с конечным сроком в календаре."
+	},
+  "Create_a_new_organization_" : {
+		"message": "Создать новую организацию…"
+	},
 	"New_Organization_": {
 		"message": "Новая организация..."
 	},
@@ -424,6 +430,9 @@
 	},
 	"Search_for_boards__cards__members__and_organizations_": {
 		"message": "Поиск досок, карточек, людей и организаций."
+	},
+	"Show_Menu": {
+		"message": "Показать Меню"
 	},
 	"Menu": {
 		"message": "Меню"

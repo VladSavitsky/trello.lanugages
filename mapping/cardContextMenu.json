@@ -1,0 +1,24 @@
+{
+  "meta" : {
+    "context" : "cardContextMenu",
+    "basePath" : "body > div.quick-card-editor",
+    "flag" : "> div > div.quick-card-editor-buttons.fade-in > a.quick-card-editor-buttons-item.js-archive > span.quick-card-editor-buttons-item-text"
+  },
+  "html" : {
+    "Edit_Labels" :
+      "> div > div.quick-card-editor-buttons > a.quick-card-editor-buttons-item.js-edit-labels > span.quick-card-editor-buttons-item-text",
+    "Change_Members" :
+      "> div > div.quick-card-editor-buttons > a.quick-card-editor-buttons-item.js-edit-members > span.quick-card-editor-buttons-item-text",
+    "Move" :
+      "> div > div.quick-card-editor-buttons > a.quick-card-editor-buttons-item.js-move-card > span.quick-card-editor-buttons-item-text",
+    "Copy" :
+      "> div > div.quick-card-editor-buttons > a.quick-card-editor-buttons-item.js-copy-card > span.quick-card-editor-buttons-item-text",
+    "Change_Due_Date" :
+      "> div > div.quick-card-editor-buttons > a.quick-card-editor-buttons-item.js-edit-due-date > span.quick-card-editor-buttons-item-text",
+    "Archive" :
+      "> div > div.quick-card-editor-buttons > a.quick-card-editor-buttons-item.js-archive > span.quick-card-editor-buttons-item-text"
+  },
+  "inputs" : {
+    "Save" : "> div > input.js-save-edits"
+  }
+}

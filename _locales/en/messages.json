@@ -1,11 +1,31 @@
 {
+  "Click_to_star_this_board__It_will_show_up_at_top_of_your_boards_list_" : {
+    "message" : "Click to star this board. It will show up at top of your boards list.",
+    "description" : "Search."
+  },
+  "You_can_add_new_saved_searches_with" : {
+    "message" : "You can add new saved searches with",
+    "description" : "Search."
+  },
+  "or_get_saved_searches_for_your_entire_organization_with" : {
+    "message" : "or get saved searches for your entire organization with",
+    "description" : "Search."
+  },
+  "Click_to_star_this_board__It_will_show_up_at_top_of_your_boards_list_" : {
+    "message" : "Click to star this board. It will show up at top of your boards list.",
+    "description" : "Search."
+  },
+  "View_all_your_cards_with_due_dates_in_a_calendar_view_" : {
+		"message" : "View all your cards with due dates in a calendar view.",
+		"description" : "Board Header."
+	},
 	"New_Organization_": {
-		"message": "New Organization…",
+		"message" : "New Organization…",
 		"description": "Add new Organization or Board window."
 	},
 	"New_Board_": {
-		"message": "New Board…",
-		"description": "Add new Organization or Board window."
+		"message" : "New Board…",
+		"description" : "Add new Organization or Board window."
 	},
 	"A_board_is_a_collection_of_cards_ordered_in_a_list_of_lists__": {
 		"message": "A board is a collection of cards ordered in a list of lists. Use it to manage a project, track a collection, or organize anything.",
@@ -110,6 +130,10 @@
 	"Create_an_Organization": {
 		"message": "Create an Organization",
 		"description": "Create an Organization window"
+	},
+  "Create_a_new_organization_" : {
+		"message": "Create a new organization…",
+		"description": "Home page"
 	},
 	"An_organizations_is_a_collection_of_members_and_boards_": {
 		"message": "An organizations is a collection of members and boards. They make sharing and working within a group even easier.",
@@ -379,6 +403,10 @@
 		"message": "Loading…",
 		"description": "Search popup window"
 	},
+	"Show_more_cards_": {
+		"message": "Show more cards…",
+		"description": "Search popup window"
+	},
 	"Show_more_boards_": {
 		"message": "Show more boards…",
 		"description": "Search popup window"
@@ -421,10 +449,6 @@
 	},
 	"Overview": {
 		"message": "Overview",
-		"description": "Main interface"
-	},
-	"Recent_Boards": {
-		"message": "Recent Boards",
 		"description": "Main interface"
 	},
 	"Always_keep_this_menu_open_": {
@@ -745,10 +769,6 @@
 	},
 	"This_card_is_past_due_": {
 		"message": "This card is past due.",
-		"description": "Edit card popup"
-	},
-	"You_are_subscribed_to_this_card_": {
-		"message": "You are subscribed to this card.",
 		"description": "Edit card popup"
 	},
 	"Edit_the_description_": {

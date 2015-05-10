@@ -1,0 +1,18 @@
+{
+  "meta" : {
+    "context" : "My_Boards_at_Boards_List",
+    "description" : "My Boards appears too late in sidebar so we need to have a separate trigger for this.",
+    "basePath" : "#boards-drawer",
+    "flag" : "> div > div.board-drawer-content > div.js-boards-list-container > div.js-all-boards > div > p > span.icon-sm.icon-board"
+  },
+  "html" : {
+    "My_Boards" :
+      "> div > div.board-drawer-content > div.js-boards-list-container > div.js-all-boards > div:nth-child(1) > p > span.sidebar-section-header-title"
+  },
+  "title" : {
+    "Collapse_section_" :
+      "div > div.board-drawer-content > div.js-boards-list-container > div > div > p > span.js-collapse-section",
+    "Expand_section_" :
+      "div > div.board-drawer-content > div.js-boards-list-container > div > div > p > span.js-expand-section"
+  }
+}

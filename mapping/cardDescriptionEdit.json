@@ -1,17 +1,18 @@
 {
   "meta" : {
+    "context" : "cardDescriptionEdit",
     "howToGet" : "Click any card at board. Click 'Edit description'.",
-    "basePath" : "body > div.window-overlay > div > div > div > div.window-main-col > div.card-detail-data > div.card-detail-item.card-detail-item-block > div.card-detail-edit.edit",
+    "basePath" :
+      "body > div.window-overlay > div > div > div > div.window-main-col.u-clearfix > div.card-detail-data.u-gutter.u-clearfix > div.card-detail-item.card-detail-item-block.u-clearfix.editable.editing > div.card-detail-edit.edit",
     "flag" :
-    "> a.js-format-help"
+      "> div > input.js-save-edit"
   },
   "html" : {
-    "Formatting_help" : "> a.js-format-help"
+    "Formatting_help" :
+      "> a.js-format-help"
   },
   "inputs" : {
-    "Save" : "> div > input.js-save-edit"
-  },
-  "title" : {},
-  "placeholder" : {},
-  "substrings" : {}
+    "Save" :
+      "> div > input"
+  }
 }

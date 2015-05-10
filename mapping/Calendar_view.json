@@ -1,5 +1,7 @@
 {
   "meta" : {
+    "context" : "Calendar_view",
+    "todo" : "Create flag",
     "basePath" : "",
     "flag" : ""
   },

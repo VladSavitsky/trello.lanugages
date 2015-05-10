@@ -1,0 +1,32 @@
+{
+  "meta" : {
+    "context" : "boards_list",
+    "basePath" : "#boards-drawer",
+    "flag" :
+      "> div > div.board-drawer-content > div.js-boards-list-container > a.js-open-closed-boards"
+  },
+  "html" : {
+    "Boards" :
+      "> div > div.boards-drawer-header > h3",
+    "Starred_Boards" :
+      "> div > div.board-drawer-content > div.js-boards-list-container > div.starred-sidebar-boards-list.js-starred-boards > div > p > span.sidebar-section-header-title",
+    "Create_new_board_" :
+      "> div > div.board-drawer-content > div.js-boards-list-container > a.js-add-board",
+    "Always_keep_this_menu_open_" :
+      "> div > div.board-drawer-content > div.js-boards-list-container > a.js-pin",
+    "Don_t_keep_this_menu_open_" :
+      "> div > div.board-drawer-content > div.js-boards-list-container > a.js-unpin",
+    "See_closed_boards_" :
+      "> div > div.board-drawer-content > div.js-boards-list-container > a.js-open-closed-boards"
+  },
+  "title" : {
+    "Collapse_section_" :
+      "> div > div.board-drawer-content > div.js-boards-list-container > div > div > p > span.js-collapse-section",
+    "Expand_section_" :
+      "> div > div.board-drawer-content > div.js-boards-list-container > div > div > p > span.js-expand-section"
+  },
+  "placeholder" : {
+    "Find_boards_by_name_" :
+      "> div > div.board-drawer-content > input.js-search-boards"
+  }
+}

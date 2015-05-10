@@ -1,0 +1,13 @@
+{
+  "meta" : {
+    "context" : "card_composer",
+    "howToGet" : "Open any board, create a list and add a card.",
+    "basePath" : "",
+    "flag" :
+      "body div.card-composer > div > input.js-add-card"
+  },
+  "inputs" : {
+    "Add" :
+      "body div.card-composer > div > input.js-add-card"
+  }
+}

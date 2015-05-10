@@ -1,0 +1,24 @@
+{
+  "meta" : {
+   "context" : "pageHeader",
+    "howToGet" : "Visible at any view.",
+    "basePath" : "body #header",
+    "flag" : "> div.header-user > a.header-btn.header-notifications.js-open-header-notifications-menu"
+  },
+  "html" : {
+    "Boards" :
+      "> div.header-boards-button > a > span.header-btn-text"
+  },
+  "title" : {
+    "Search_for_boards__cards__members__and_organizations_" :
+      "> div > a.header-btn.open-search-btn.js-open-search-page",
+    "Add_a_new_board_or_organization_" :
+      "> div.header-user > a.header-btn.js-open-add-menu",
+    "Get_access_to_your_profile__help__and_log_out_" :
+      "> div.header-user > a.header-btn.header-member.js-open-header-member-menu",
+    "Go_back_to_your_boards_page_" :
+      "> a",
+    "View_list_of_boards" :
+      "> div.header-boards-button > a"
+  }
+}

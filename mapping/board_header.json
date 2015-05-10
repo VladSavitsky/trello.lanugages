@@ -1,0 +1,44 @@
+{
+  "meta" : {
+    "context" : "board_header",
+    "howToGet" : "Open any board. Also visible at Calendar view.",
+    "basePath" :
+      "#content > div > div.board-header.js-board-header",
+    "flag" :
+      "> div.board-header-btns > a.board-header-btn.mod-show-menu.js-show-sidebar > span.board-header-btn-text"
+  },
+  "html" : {
+    "Subscribed" :
+      "> div.board-header-btns.mod-right > a.board-header-btn.sub-btn.js-board-header-subscribed > span.board-header-btn-text",
+    "Filtering_is_on_" :
+      "> div.board-header-btns > a.board-header-btn.board-header-btn-filter-indicator.js-filter-cards-indicator > span.board-header-btn-text",
+    "Calendar" :
+      "> div.board-header-btns > a.board-header-btn.calendar-btn.js-calendar > span.board-header-btn-text",
+    "Show_Menu" :
+      "> div.board-header-btns > a.board-header-btn.mod-show-menu.js-show-sidebar > span.board-header-btn-text"
+  },
+  "title" : {
+    "You_are_filtering_cards_on_this_board__Click_here_to_edit_filter_" :
+      "> div.board-header-btns > a.board-header-btn.board-header-btn-filter-indicator.js-filter-cards-indicator",
+    "You_are_subscribed_to_this_board__You_ll_get_notifications_about_changes_" :
+      "> div.board-header-btns > a.board-header-btn.sub-btn.js-board-header-subscribed",
+    "View_all_your_cards_with_due_dates_in_a_calendar_view_" :
+      "> div.board-header-btns.mod-right > a.board-header-btn.calendar-btn.js-calendar",
+    "Rename_the_board_" :
+      "> a.board-header-btn.board-header-btn-name.js-rename-board",
+    "Click_to_star_or_unstar_this_board__Starred_boards_show_up_at_the_top_of_your_boards_list_" :
+      "> div.board-header-btns > a.board-header-btn.js-star-board",
+
+
+    "This_board_is_private___Only_people_added_to_the_board_can_view_and_edit_it_" :
+      "#permission-level",
+    "This_board_is_public__It_s_visible_to_anyone_with_the_link_" :
+      "#permission-level"
+  },
+  "substrings" : {
+    "Public" :
+      "#permission-level > span.board-header-btn-text",
+    "Private" :
+      "#permission-level > span.board-header-btn-text"
+  }
+}

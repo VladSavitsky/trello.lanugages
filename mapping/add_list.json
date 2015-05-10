@@ -1,0 +1,21 @@
+{
+  "meta" : {
+    "context" : "add_list",
+    "howToGet" : "Open any board.",
+    "basePath" : "",
+    "flag" :
+      "#board > div.list.mod-add > form > input.list-name-input"
+  },
+  "html" : {
+    "Add_a_list_" :
+      "#board > div.list.mod-add.is-idle > form > span.placeholder.js-open-add-list"
+  },
+  "placeholder" : {
+    "Add_a_list_" :
+      "#board > div.list.mod-add > form > input.list-name-input"
+  },
+  "inputs" : {
+    "Save" :
+       "#board > div.list.mod-add > form > div > input.js-save-edit"
+    }
+}

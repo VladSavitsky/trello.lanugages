@@ -1,5 +1,6 @@
 {
   "meta" : {
+    "context" : "homePage",
     "howToGet" : "Open trello.com or click Trello logo in header.",
     "basePath" : "#content > div",
     "flag" : "> div > div > a.js-view-org-profile"
@@ -12,10 +13,8 @@
     "Overview" :
       "> div > div > a.js-view-org-profile",
     "Create_new_board_" :
-      "> div > ul > li > a.board-list-item--add-board.js-add-board"
-  },
-  "inputs" : {},
-  "title" : {},
-  "placeholder" : {},
-  "substrings" : {}
+      "> div > ul > li > a.board-list-item--add-board.js-add-board",
+    "Create_a_new_organization_" :
+      "> div.window-module > a.js-add-org-boards-page"
+  }
 }
