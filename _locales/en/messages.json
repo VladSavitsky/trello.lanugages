@@ -1,4 +1,8 @@
 {
+  "Add_Members_" : {
+    "message" : "Add Members…",
+    "description" : "Menu Sidebar"
+  },
   "Click_to_star_this_board__It_will_show_up_at_top_of_your_boards_list_" : {
     "message" : "Click to star this board. It will show up at top of your boards list.",
     "description" : "Search."
@@ -649,10 +653,6 @@
 	},
 	"Close_Board_": {
 		"message": "Close Board…",
-		"description": "Sidebar"
-	},
-	"Leave_Board_": {
-		"message": "Leave Board…",
 		"description": "Sidebar"
 	},
 	"List_Actions": {

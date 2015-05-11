@@ -1,4 +1,7 @@
 {
+  "Add_Members_" : {
+    "message" : "Добавить людей…"
+  },
   "View_all_your_cards_with_due_dates_in_a_calendar_view_" : {
 		"message": "Смотрите все ваши карточки с конечным сроком в календаре."
 	},

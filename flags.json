@@ -9,6 +9,15 @@
     "#boards-drawer > div > div.board-drawer-content > div.js-boards-list-container > a.js-open-closed-boards",
   "search_window" :
     "body > div.pop-over.mod-search-over.is-shown > div.pop-over-content.js-fill-pop-over-content.js-tab-parent > div > div.search-tips > p > a.js-show-search-tips",
+  "menu_sidebar" :
+    "#content > div > div.board-widgets > div > div > div.board-widgets-content-wrapper.js-board-menu-content-wrapper > div > div.board-widget.board-widget--nav > ul > li > a.js-close-board",
+  "calendar_view" :
+    "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-header > div.calendar-header-toolbar",
+  "calendar_add_card" :
+      "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-content > div > table > tbody > tr > td > div > div > a.calendar-card-composer.js-open-card-composer",
+
+
+
 
   "subscribeButtonAtCardEditWindow" :
     "body > div.window-overlay > div > div > div > div.window-sidebar > div.window-module.other-actions > div > div.js-subscribe-sidebar-button > a.js-subscribe",
@@ -24,14 +33,10 @@
     "body > div.window-overlay > div > div > div > div.window-main-col.window-main-col-full > a.show-more.js-more-actions",
   "activityMenuSidebar" :
     "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-activity > div.board-widget-content > div.board-actions-list.fancy-scrollbar > div > div:nth-child(10) > div.phenom-desc",
-  "Menu_sidebar" :
-    "#content > div > div.board-widgets > div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.js-close-board",
   "Notifications_window" :
     "body > div.popover-notifications > div.content > div > ul > li > a.js-change-email-frequency",
   "Create_new_board_window" :
     "body > div.pop-over div.content.js-tab-parent > div > form > input.js-submit[value='Create']",
-  "Calendar_view" :
-    "",
   "List_context_menu" :
     "body > div.pop-over > div.content.js-tab-parent > div > ul > li > a.js-close-list",
   "cardContextMenu" :

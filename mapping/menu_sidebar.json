@@ -1,0 +1,51 @@
+{
+  "meta" : {
+    "context" : "menu_sidebar",
+    "howToGet" : "Open Sidebar menu.",
+    "basePath" : "#content > div > div.board-widgets",
+    "flag" :
+      "> div > div > div.board-widgets-content-wrapper.js-board-menu-content-wrapper > div > div.board-widget.board-widget--nav > ul > li > a.js-close-board"
+  },
+  "html" : {
+    "Add_Members_" :
+      "> div > div > div.board-widgets-content-wrapper.js-board-menu-content-wrapper > div > div:nth-child(4) > div.board-widget-content > a.button-link.js-open-manage-board-members",
+    "Menu" :
+      ".board-widget--nav > h3",
+    "Members" :
+      "> div > div > div.board-widgets-content-wrapper.js-board-menu-content-wrapper > div > div:nth-child(4) > div.board-widget-title > h3",
+    "Labels" :
+      "> div > div > div.board-widgets-content-wrapper.js-board-menu-content-wrapper > div > div.board-widget.board-widget--nav > ul > li > a.js-open-labels",
+    "Power_Ups" :
+      "> div > div > div.board-widgets-content-wrapper.js-board-menu-content-wrapper > div > div.board-widget.board-widget--nav > ul > li > a.js-open-power-ups",
+    "Stickers" :
+      "> div > div > div.board-widgets-content-wrapper.js-board-menu-content-wrapper > div > div.board-widget.board-widget--nav > ul > li > a.js-open-stickers",
+    "Filter_Cards" :
+      "> div > div > div.board-widgets-content-wrapper.js-board-menu-content-wrapper > div > div.board-widget.board-widget--nav > ul > li > a.js-open-card-filter",
+    "Archived_Items" :
+      "> div > div > div.board-widgets-content-wrapper.js-board-menu-content-wrapper > div > div.board-widget.board-widget--nav > ul > li > a.js-open-archive",
+    "Change_Background_" :
+      "> div > div > div.board-widgets-content-wrapper.js-board-menu-content-wrapper > div > div.board-widget.board-widget--nav > ul > li > a.board-settings-background.js-change-background",
+    "Email_to_board_Settings_" :
+      "> div > div > div.board-widgets-content-wrapper.js-board-menu-content-wrapper > div > div.board-widget.board-widget--nav > ul > li > a.js-email",
+    "Copy_Board_" :
+      "> div > div > div.board-widgets-content-wrapper.js-board-menu-content-wrapper > div > div.board-widget.board-widget--nav > ul > li > a.js-copy-board",
+    "Share__Print__and_Export_" :
+      "> div > div > div.board-widgets-content-wrapper.js-board-menu-content-wrapper > div > div.board-widget.board-widget--nav > ul > li > a.js-share",
+    "Additional_Settings_" :
+      "> div > div > div.board-widgets-content-wrapper.js-board-menu-content-wrapper > div > div.board-widget.board-widget--nav > ul > li > a.js-open-settings",
+    "Close_Board_" :
+      "> div > div > div.board-widgets-content-wrapper.js-board-menu-content-wrapper > div > div.board-widget.board-widget--nav > ul > li > a.js-close-board",
+    "Activity" :
+      "> div > div > div.board-widgets-content-wrapper.js-board-menu-content-wrapper > div > div.board-widget.board-widget--activity > div.board-widget-title > h3"
+  },
+  "title" : {
+    "Close_the_board_sidebar_" :
+      "> div > a.js-hide-sidebar",
+    "Click_here_to_see_more_board_options_" :
+      "> div > div > div.board-widgets-content-wrapper.js-board-menu-content-wrapper > div > div.board-widget.board-widget--nav > h3"
+  },
+  "substrings" : {
+    "Subscribed" :
+      "> div > div > div.board-widgets-content-wrapper.js-board-menu-content-wrapper > div > div.board-widget.board-widget--nav > ul > li > a > span.js-subscribed-state"
+  }
+}

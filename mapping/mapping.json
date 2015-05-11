@@ -108,69 +108,6 @@
 
 
 
-
-
-
-"Menu_sidebar" : {
-  "meta" : {
-    "howToGet" : "Open Sidebar menu.",
-    "basePath" : "#content > div > div.board-widgets",
-    "flag" : "> div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.js-close-board"
-  },
-  "html" : {
-    "Menu" :
-      ".board-widget-nav > h3",
-    "Add_Members" :
-      ".board-widget-members .board-widget-content > a",
-    "Members" :
-      ".board-widget-members > div.board-widget-title > h3",
-    "Power_Ups" :
-      "> div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.js-open-power-ups",
-    "Stickers" :
-      "> div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.js-open-stickers",
-    "Filter_Cards" :
-      "> div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.js-open-card-filter",
-    "Archived_Items" :
-      "> div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.js-open-archive",
-    "Change_Background_" :
-      "> div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.board-settings-background.js-change-background",
-    "Email_to_board_Settings_" :
-      "> div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.js-email",
-    "Copy_Board_" :
-      "> div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.js-copy-board",
-    "Share__Print__and_Export_" :
-      "> div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.js-share",
-    "Additional_Settings_" :
-      "> div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.js-open-settings",
-    "Close_Board_" :
-      "> div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.js-close-board",
-    "Leave_Board_" :
-      "> div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > ul > li > a.js-leave-board",
-    "Activity" :
-      "> div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-activity > div.board-widget-title > h3"
-  },
-  "inputs" : {},
-  "title" : {
-    "Close_the_board_sidebar_" :
-      "> div > a.js-hide-sidebar",
-    "Click_here_to_see_more_board_options_" :
-      "> div > div.board-widgets-content-wrapper > div > div.board-widget.board-widget-nav > h3"
-  },
-  "placeholder" : {},
-  "substrings" : {}
-},
-
-
-
-
-
-
-
-
-
-
-
-
 "Notifications_window" : {
   "meta" : {
     "basePath" : "body > div.popover-notifications ",

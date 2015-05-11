@@ -1,0 +1,14 @@
+{
+  "meta" : {
+    "context" : "calendar_add_card",
+    "todo" : "",
+    "basePath" : "",
+    "flag" :
+      "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-content > div > table > tbody > tr > td > div > div > a.calendar-card-composer.js-open-card-composer"
+
+  },
+  "html" : {
+    "Add_a_card_" :
+      "#content > div > div.board-canvas > div.calendar-wrapper > div.calendar-content > div > table > tbody > tr > td > div > div > a.calendar-card-composer.js-open-card-composer"
+  }
+}

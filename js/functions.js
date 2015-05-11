@@ -43,14 +43,10 @@ function getMapping(context) {
   var filename = '/mapping/' + context + '.json';
   var mapping = getFile(chrome.extension.getURL(filename));
   if (jQuery.isEmptyObject(mapping)) {
-    if (debug) {
-      console.error(filename + ' is missing or broken.')
-    };
+    if (debug) console.error(filename + ' is missing or broken.');
     return false;
   }
-  if (debug) {
-    console.log(filename + ' was loaded.');
-  }
+  if (debug && 0) console.log(filename + ' was loaded.');
   return mapping;
 }
 
