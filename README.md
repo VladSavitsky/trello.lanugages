@@ -1,6 +1,8 @@
 trello.lanugages
 ================
 
+[![Join the chat at https://gitter.im/VladSavitsky/trello.lanugages](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/VladSavitsky/trello.lanugages?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Chrome browser extension which allow to translate trello.com site to any language.
 
 It's very simple and to keep it simple as possible it's almost have no interface for translation.
